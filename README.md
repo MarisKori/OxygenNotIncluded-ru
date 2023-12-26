@@ -20,3 +20,4 @@ https://oxygen-not-included.fandom.com/ru/wiki/Русификатор
 ```
 %ProgramFiles(x86)%\Steam\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\StreamingAssets\strings
 ```
+Скачайте этот файл из корневай папки проекта и замените соответствующий одноимённый файл в игре перед её запуском.
