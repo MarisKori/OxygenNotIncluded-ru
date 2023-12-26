@@ -1,0 +1,1473 @@
+STRINGS.BUILDING.STATUSITEMS.CHANGESTORAGETILETARGET.EMPTY
+"Пусто"
+
+STRINGS.BUILDING.STATUSITEMS.CHANGESTORAGETILETARGET.NAME
+"Тип ресурса: {TargetName}"
+
+STRINGS.BUILDING.STATUSITEMS.CHANGESTORAGETILETARGET.TOOLTIP
+"Ожидается дубликант, который переназначит эту плитку-склад на: {TargetName}"
+
+STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.NAME
+"Нет навыка: {Skills}"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.ANALYZING.NAME
+"Анализируется: {Item}"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.ANALYZING.TOOLTIP
+"В этой постройке ведётся анализ удивительного артефакта"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.CLUSTERTELESCOPEMETEOR.NAME
+"Изучение метеорита"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.CLUSTERTELESCOPEMETEOR.TOOLTIP
+"В этой постройке ведётся изучение метеорита"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.COOKING.NAME
+"Готовка: {Item}"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.COOKING.TOOLTIP
+"В этой постройке готовится блюдо — {Item}"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.PRODUCING.NAME
+"Производится: {Item}"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.PRODUCING.TOOLTIP
+"Эта постройка выполняет производственные заказы"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.RESEARCHING.TOOLTIP
+"В этой постройке ведётся важное исследование"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.TELESCOPE.NAME
+"Изучается космос"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.TELESCOPE.TOOLTIP
+"В этой постройке исследуются тайны космоса"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.UNTRAINING.NAME
+"Удаление навыков: {Duplicant}"
+
+STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.UNTRAINING.TOOLTIP
+"{Duplicant} возвращается в состояние блаженного неведения"
+
+STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.NEEDS_ARMING.NAME
+"Ожидает установки"
+
+STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.NEEDS_ARMING.TOOLTIP
+""
+"Требуется дубликант, который взведёт эту ловушку для использования\n"
+"\n"
+"Только дубликанты с навыком <link=\"RANCHING1\">Скотоводство I</link> могут устанавливать ловушки"
+
+STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.READY.NAME
+"Установлено"
+
+STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.READY.TOOLTIP
+"Ловушка готова: теперь в неё может попасться <style=\"KKeyword\">животное</style>"
+
+STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.SPRUNG.NAME
+"Сработала"
+
+STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.SPRUNG.TOOLTIP
+"{0} пойман в эту ловушку!"
+
+STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.EXCAVATING.NAME
+"Проводит раскопки"
+
+STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.EXCAVATING.TOOLTIP
+"Дубликант проводит раскопки"
+
+STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.PENDING_EXCAVATION.NAME
+"Ожидание раскопок"
+
+STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.PENDING_EXCAVATION.TOOLTIP
+"Ожидается дубликант для раскопок"
+
+STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.NAME
+"GEOTUNER_GEYSER_STATUS.NAME"
+
+STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.TOOLTIP
+"GEOTUNER_GEYSER_STATUS.TOOLTIP"
+
+STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.NAME
+"Требуется опустошить"
+
+STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.TOOLTIP
+"Нужно избавиться от <link=\"MILKFAT\">масла</link> в этой постройке, чтобы продолжить работу"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_NOSURFACESIGHT.NAME
+"Нет прямой видимости"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_NOSURFACESIGHT.TOOLTIP
+""
+"У этой постройки нет видимости космоса\n"
+"\n"
+"Для работы этой постройке требуется не закрытый обзор космоса"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_PARTIALLYBLOCKED.NAME
+"Ограниченная видимость"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_PARTIALLYBLOCKED.TOOLTIP
+""
+"У этой постройки частично закрыт вид на космос\n"
+"\n"
+"Для нормальной работы этой постройке требуется открытый обзор космоса"
+
+STRINGS.BUILDING.STATUSITEMS.MISSIONCONTROLASSISTINGROCKET.TOOLTIP
+"Если передача сигнала прошла успешно, <color=#C38802>центр управления полётами</color> ускоряет выбранную ракету"
+
+STRINGS.BUILDING.STATUSITEMS.MISSIONCONTROLBOOSTED.NAME
+"Ускорение от ЦУП: {0}"
+
+STRINGS.BUILDING.STATUSITEMS.MISSIONCONTROLBOOSTED.TOOLTIP
+""
+"<color=#C38802>Центр управления полётами</color> ускорил эту ракету на {0}.\n"
+"\n"
+"Осталось: {1}"
+
+STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.TOOLTIP
+""
+"Ваша сеть сканеров сканирует с эффективностью <b>{TotalQuality}</b>\n"
+"\n"
+"Приближающиеся объекты будут обнаружены от <b>{WorstTime}</b> до <b>{BestTime}</b> до прилёта.\n"
+"\n"
+"Добавьте больше <link=\"COMETDETECTOR\">космических сканеров</link>, чтобы увеличить площадь сканирования и улучшить качество сети.\n"
+"\n"
+"    • Площадь сканирования: <b>{Coverage}</b>"
+
+STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.TOOLTIP
+"Ракеты должны быть в полёте, не выбраны другим <color=#C38802>центром управления полётами</color> и не ускорены ранее"
+
+STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.NAME
+"Нет подходящих ракет в зоне досягаемости"
+
+STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.TOOLTIP
+"Ракеты должны быть в полёте, в радиусе {0} кл., не выбраны другим <color=#C38802>центром управления полётами</color> и не ускорены ранее"
+
+STRINGS.BUILDING.STATUSITEMS.NOTSUBMERGED.NAME
+"Пойстрока не погружена в жидкость"
+
+STRINGS.BUILDING.STATUSITEMS.NOTSUBMERGED.TOOLTIP
+"Пойстрока функционирует, только если погружена в жидкость"
+
+STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP
+"Не выбрано место назначения"
+
+STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP
+""
+"Есть препятствия на траектории запуска этого <link=\"RAILGUN\">межпланетного отпарвителя</link>\n"
+"\n"
+"Требуется расчистить путь для запуска посылок"
+
+STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP
+""
+"Эта постройка не находится в прямой видимости космоса\n"
+"\n"
+"Для работы этому строению требуется открытый обзор на космос.\n"
+"    • Видимость: <b>{VISIBILITY}</b>\n"
+
+STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP
+""
+"У этой постройки ограничен обзор на космос\n"
+"\n"
+"Для увеличения эффективности этой постройке требуется открытый обзор на космос.\n"
+"    • Видимость: <b>{VISIBILITY}</b>"
+
+STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.NAME
+"Содержит: {0}"
+
+STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.TOOLTIP
+"Здесь содержится животное"
+
+STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERACCEPTSMUTANTSEEDS.NAME
+"Мельница принимает семена-мутанты"
+
+STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERACCEPTSMUTANTSEEDS.TOOLTIP
+"Эта <color=#C38802>мельница для специй</color> может использовать <style=\"KKeyword\">семена-мутанты</style> в качестве ингредиентов для рецептов"
+
+STRINGS.BUILDING.STATUSITEMS.TRANSITTUBEENTRANCEWAXREADY.NAME
+"Смазка готова"
+
+STRINGS.BUILDING.STATUSITEMS.TRANSITTUBEENTRANCEWAXREADY.TOOLTIP
+""
+"Эта постройка укомплектована <link=\"MILKFAT\">маслом</link> для ускорения\n"
+"\n"
+"{0} за 1 применение (осталось: {1})"
+
+STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.NAME
+"<link=\"BED\">Койка</link>"
+
+STRINGS.BUILDINGS.PREFABS.BEEHIVE.DESC
+""
+"Средне-<link=\"RADIATION\">радиоактивное</link> гнездо, созданное <link=\"BEE\">ядерными пчёлами</link>.\n"
+"\n"
+"Преобразует <link=\"URANIUMORE\">урановую руду</link> в <link=\"ENRICHEDURANIUM\">обогащённый уран</link>, когда находится под присмотром ядерных пчёл.\n"
+"Не будет работать, если земля под ним уничтожена."
+
+STRINGS.BUILDINGS.PREFABS.CHLORINATOR.DESC
+"Хлорный камень можно использовать для гигиены и геонастройки."
+
+STRINGS.BUILDINGS.PREFABS.CHLORINATOR.EFFECT
+"Создаёт из <link=\"SALT\">соли</link> и <link=\"GOLD\">золота</link> <link=\"BLEACHSTONE\">хлорный камень</link>."
+
+STRINGS.BUILDINGS.PREFABS.CHLORINATOR.NAME
+"<link=\"CHLORINATOR\">Рассеиватель хлорного камня</link>"
+
+STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.DESC
+"Может эффективно передавать тепло даже без поступающей жидкости."
+
+STRINGS.BUILDINGS.PREFABS.COSMICRESEARCHCENTER.EFFECT
+""
+"Производит очки <link=\"RESEARCH\">космических исследований</link> для разблокирования новых технологий.\n"
+"\n"
+"Использует данные с <link=\"RESEARCHMODULE\">исследовательских модулей</link>.\n"
+"\n"
+"Назначенные дубликанты должны обладать навыком <link=\"ASTRONOMY\">Астрономия</link>."
+
+STRINGS.BUILDINGS.PREFABS.CREATUREAIRTRAP.DESC
+"Необходимо подготовить к использованию."
+
+STRINGS.BUILDINGS.PREFABS.CREATUREAIRTRAP.EFFECT
+""
+"Привлекает и ловит летающих <link=\"CREATURES\">животных</link>.\n"
+"\n"
+"Только дубликанты с навыком <link=\"RANCHING1\">Скотоводство</link> могут подготовить эту ловушку.\n"
+"Её можно будет использовать повторно!"
+
+STRINGS.BUILDINGS.PREFABS.CREATUREAIRTRAP.NAME
+"<link=\"FLYINGCREATUREBAIT\">Ловушка летающих животных</link>"
+
+STRINGS.BUILDINGS.PREFABS.CREATUREGROUNDTRAP.DESC
+"Эта ловушка создана для сухопутных животных, но иногда в ней может оказаться и выброшенная из воды рыба."
+
+STRINGS.BUILDINGS.PREFABS.CREATUREGROUNDTRAP.EFFECT
+""
+"Ловит <link=\"CREATURES\">животных</link> для транспортировки.\n"
+"\n"
+"Только дубликанты с навыком <link=\"RANCHING1\">Скотоводство I</link> могут установить эту ловушку.\n"
+"Её можно будет использовать повторно!"
+
+STRINGS.BUILDINGS.PREFABS.CREATUREGROUNDTRAP.NAME
+"<link=\"CREATURETRAP\">Ловушка</link>"
+
+STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.DESC
+"Красота приносит радость даже животным."
+
+STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.EFFECT
+"Место для комфортного отдыха <link=\"CREATURES\">животных</link>, которое делает их немного счастливее."
+
+STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.NAME
+"<link=\"CRITTERCONDO\">Домик для животных</link>"
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.DESC
+"<color=#C38802>ВЭЧ</color> необходимы, чтобы получать очки <color=#C38802>исследования материалов</color>."
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.EFFECT
+"Производит <color=#C38802>ВЭЧ</color>."
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT
+"Не излучать <color=#C38802>ВЭЧ</color>"
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_ACTIVE
+"<b><style=\"logic_on\">Активный сигнал</style></b>: излучать ВЭЧ"
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_INACTIVE
+"<b><style=\"logic_off\">Неактивный сигнал</style></b>: не излучать ВЭЧ"
+
+STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.DESC
+"Лужи на полу неизбежны."
+
+STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.EFFECT
+""
+"С помощью подогрева удаляет из <link=\"FOOD\">еды</link> влагу и предотвращает ее порчу.\n"
+"\n"
+"Перед употреблением высушенную еду необходимо обработать в <link=\"FOODREHYDRATOR\">восстановителе влаги</link>."
+
+STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.NAME
+"<link=\"FOODDEHYDRATOR\">Газовая сушилка</link>"
+
+STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.RECIPE_NAME
+"{0} (сух.)"
+
+STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.RESULT_DESCRIPTION
+"{0}: этот высушенный продукт необязательно хранить в холодильнике."
+
+STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.DESC
+"Восстановленная еда чуть менее вкусная, но такая же полезная."
+
+STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.EFFECT
+"Восстанавливает влагу в непортящейся <link=\"FOOD\">еде</link> и делает ее пригодной в пищу."
+
+STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.NAME
+"Восстановитель влаги"
+
+STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC
+"Это явно не отсюда."
+
+STRINGS.BUILDINGS.PREFABS.FOSSILDIG.EFFECT
+""
+"Содержит часть <link=\"FOSSIL\">ископаемого</link>, которая осталось от какого-то огромного существа.\n"
+"\n"
+"Изучив весь скелет, можно получить информацию, которая даст доступ к новому ценному ресурсу."
+
+STRINGS.BUILDINGS.PREFABS.FOSSILDIG.NAME
+"Древний экземпляр"
+
+STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.DESC
+"В этом месте целая куча старых костей."
+
+STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.EFFECT
+"Содержит запас <link=\"FOSSIL\">ископаемых</link>, которые можно добыть."
+
+STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME
+"Карьер с ископаемыми"
+
+STRINGS.BUILDINGS.PREFABS.GEOTUNER.DESC
+"Целевой гейзер во время извержения получает усиление, используя накопленные данные."
+
+STRINGS.BUILDINGS.PREFABS.GEOTUNER.EFFECT
+""
+"Повышает <link=\"HEAT\">температуру</link> и выработку проанализированного <link=\"GEYSERS\">гейзера</link>.\n"
+"\n"
+"На один <link=\"GEYSERS\">гейзер</link> можно направить несколько геонастройщиков в любом месте на астероиде."
+
+STRINGS.BUILDINGS.PREFABS.GEOTUNER.LOGIC_PORT
+"Монитор извержения гейзера"
+
+STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT_ACTIVE
+"Посылает <b><style=\"logic_on\">активный сигнал</style></b>, когда ракета оказывается в выбранных местах на звёздной карте"
+
+STRINGS.BUILDINGS.PREFABS.LOGICCLUSTERLOCATIONSENSOR.LOGIC_PORT_INACTIVE
+"В противном случае отправляет <b><style=\"logic_off\">неактивный сигнал</style></b>"
+
+STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.DESC
+"Датчики света могут, например, открывать и закрывать бункерную дверь над солнечными панелями, в зависимости от уровня солнечного света."
+
+STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.EFFECT
+"Отправляет <b><style=\"logic_on\">активный</style></b> или <b><style=\"logic_off\">неактивный</style></b> сигнал, когда <link=\"LIGHT\">яркость</link> среды достигает заданных значений."
+
+STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT
+"<link=\"LIGHT\">Яркость</link> среды"
+
+STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_ACTIVE
+"Отправляет <b><style=\"logic_on\">активный сигнал</style></b>, когда <link=\"LIGHT\">яркость</link> среды находится в пределах заданных значений."
+
+STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_INACTIVE
+"В противном случае отправляет <b><style=\"logic_off\">неактивный сигнал</style></b>"
+
+STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.NAME
+"<link=\"LOGICLIGHTSENSOR\">Датчик света</link>"
+
+STRINGS.BUILDINGS.PREFABS.LONELYMAILBOX.DESC
+"Нет ничего лучше, чем получить по почте подарок, сделанный руками в домашних условиях."
+
+STRINGS.BUILDINGS.PREFABS.LONELYMAILBOX.EFFECT
+"Место для размещения одного съедобного предмета."
+
+STRINGS.BUILDINGS.PREFABS.LUXURYBED.EFFECT
+""
+"Даёт дубликанту место для восстановления выносливости.\n"
+"\n"
+"Дубликанты будут автоматически спать на назначенных кроватях ночью."
+
+STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.DESC
+"Дубликанты могут обмазаться маслом, чтобы быстрее перемещаться по транзитным трубам."
+
+STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.EFFECT
+"Перерабатывает <link=\"MILK\">молокен</link> в <link=\"BRINE\">рассол</link> и <link=\"MILKFAT\">масло</link>, выделяя <link=\"CARBONDIOXIDE\">углекислый газ</link>."
+
+STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.NAME
+"<link=\"MILKFATSEPARATOR\">Экстрактор масла</link>"
+
+STRINGS.BUILDINGS.PREFABS.MILKFEEDER.DESC
+"Животным в тесноте находиться легче, если утолить жажду молокеном."
+
+STRINGS.BUILDINGS.PREFABS.MILKFEEDER.EFFECT
+""
+"Дает возможность самым разным <link=\"CREATURES\">животным</link> утолить жажду <link=\"MILK\">молокеном</link>.\n"
+"\n"
+"Если у <link=\"CREATURES\">животных</link> есть доступ к поилке, их счастье заметно улучшается."
+
+STRINGS.BUILDINGS.PREFABS.MILKFEEDER.NAME
+"<link=\"MILKFEEDER\">Поилка для животных</link>"
+
+STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.DESC
+"Можно сказать, что полученная жидкость — это что-то вроде лимонада для существ."
+
+STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.EFFECT
+""
+"Позволяет дубликантам с навыком <link=\"RANCHING2\">Скотоводство II</link> доить <link=\"MOO\">газовых муу</link> и получать <link=\"MILK\">молокен</link>.\n"
+"\n"
+"<link=\"MILK\">Молокеном</link> можно наполнять <link=\"MILKFEEDER\">поилку для животных</link>."
+
+STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.NAME
+"<link=\"MILKINGSTATION\">Станция доения</link>"
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.DESC
+"Для дубликантов, которые не готовы доить животных своими руками."
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.EFFECT
+""
+"Давит <link=\"COLDWHEAT\">морозную пшеницу</link> или <link=\"SPICENUT\">острый орех</link>, чтобы получить <link=\"MILK\">молокен</link>.\n"
+"\n"
+"<link=\"MILK\">Молокеном</link> можно наполнять <link=\"MILKFEEDER\">поилку для животных</link>."
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.NAME
+"<link=\"MILKPRESS\">Механическая ступка</link>"
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.NUT_MILK_RECIPE_DESCRIPTION
+"Перерабатывает: {0} в {1}"
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.WHEAT_MILK_RECIPE_DESCRIPTION
+"Перерабатывает: {0} в {1}"
+
+STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.DESC
+"Взрывные снаряды – эффективное средство защиты от метеоритных дождей."
+
+STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.EFFECT
+""
+"Производит <link=\"MISSILELAUNCHER\">взрывные снаряды</link> из <link=\"REFINEDMETAL\">очищенных металлов</link>, сочетая их с <link=\"PETROLEUM\">керосином</link>.\n"
+"\n"
+"Дубликанты не будут изготавливать предметы, если рецепты не добавлены в очередь."
+
+STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.NAME
+"<link=\"MISSILEFABRICATOR\">Фабрика снарядов</link>"
+
+STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.BODY.CONTAINER1
+""
+"Стреляет <link=\"MISSILELAUNCHER\">взрывным снарядом</link> во время метеоритных дождей, чтобы защитить колонию от урона.\n"
+"\n"
+"Дальность: 16 клеток по горизонтали, 32 клетки по вертикали.\n"
+"\n"
+"После того как метеориты разлетелись на куски, от них не остаётся ресурсов, которые можно собрать."
+
+STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.DESC
+"Некоторые метеориты при падении дают полезные ресурсы, если не сбиты снарядом."
+
+STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.EFFECT
+""
+"Стреляет <link=\"MISSILELAUNCHER\">взрывными снарядами</link> по метеоритным дождям, защищая колонию от ущерба, связанного с падением метеоритов.\n"
+"\n"
+"Дальность действия: 16 клеток по горизонтали, 32 клетки по вертикали."
+
+STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.NAME
+"<link=\"MISSILELAUNCHER\">Метеоритная пушка</link>"
+
+STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.DESC
+"Вроде пассажира на заднем сидении, который лучше водителя знает, как крутить руль."
+
+STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.EFFECT
+""
+"Дает руководящие указания пилотам и повышает скорость их ракет.\n"
+"\n"
+"Назначенный дубликант должен обладать навыком <link=\"ASTRONOMY\">Астрономия</link>.\n"
+"\n"
+"Для работы необходима чёткая линия обзора космоса."
+
+STRINGS.BUILDINGS.PREFABS.MISSIONCONTROL.NAME
+"<link=\"MISSIONCONTROL\">Центр управления полётами</link>"
+
+STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.DESC
+"Вроде пассажира на заднем сидении, который лучше водителя знает, как крутить руль."
+
+STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.EFFECT
+""
+"Дает руководящие указания пилотам и повышает скорость их ракет.\n"
+"\n"
+"Назначенный дубликант должен обладать навыком <link=\"ASTRONOMY\">Астрономия</link>.\n"
+"\n"
+"Для работы необходима чёткая линия обзора космоса."
+
+STRINGS.BUILDINGS.PREFABS.MISSIONCONTROLCLUSTER.NAME
+"<link=\"MISSIONCONTROLCLUSTER\">Центр управления полётами</link>"
+
+STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.DESC
+"Позволяет строить платформы для ракет на большем расстоянии друг от друга."
+
+STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.EFFECT
+"Автоматически подключается, если построить вплотную к <link=\"LAUNCHPAD\">ракетной платформе</link> или к любому <link=\"MODULARLAUNCHPADPORTSOLID\">ракетному порту</link>."
+
+STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTBRIDGE.NAME
+"<link=\"MODULARLAUNCHPADPORTBRIDGE\">Удлинитель ракетной платформы</link>"
+
+STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.DESC
+"Позволяет умелому дубликанту стабильно производить жутких, но эффективных биоботов."
+
+STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.EFFECT
+""
+"Использует <link=\"ZOMBIESPORES\">зомби-споры</link> и <link=\"STEEL\">сталь</link> для создания механизмов на биологическом топливе. Этих биоботов можно отправлять во враждебную среду.\n"
+"\n"
+"Со сломанных биоботов можно собрать <link=\"STEEL\">сталь</link>."
+
+STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.NAME
+"Сборщик биоботов"
+
+STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT
+"Порт установки ловушки"
+
+STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT_ACTIVE
+"<b><style=\"logic_on\">Активный сигнал</style></b>: установить ловушку"
+
+STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT_INACTIVE
+"<b><style=\"logic_off\">Неактивный сигнал</style></b>: разрядить и опустошить ловушку"
+
+STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT
+"Ловушка заполнена"
+
+STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT_ACTIVE
+"Отправляет <b><style=\"logic_on\">активный сигнал</style></b>, когда животное находится в ловушке"
+
+STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT_INACTIVE
+"В противном случае отправляет <b><style=\"logic_off\">неактивный сигнал</style></b>"
+
+STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC
+"Эти животные сами себя не подстригут."
+
+STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.DESC
+"Животным не нужна еда во время путешествия."
+
+STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.EFFECT
+""
+"Позволяет дубликантам перевозить <link=\"CREATURES\">животных</link> в космосе.\n"
+"\n"
+"Животных можно выпустить в колонию по возвращении ракеты.\n"
+"\n"
+"Строится с помощью <link=\"LAUNCHPAD\">ракетной платформы</link>."
+
+STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.NAME
+"<link=\"SPECIALCARGOBAY\">Модуль перевозки животных</link>"
+
+STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.RELEASE_BTN
+"Выпустить животное"
+
+STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.RELEASE_BTN_TOOLTIP
+"Выпустить животное, находящееся внутри"
+
+STRINGS.BUILDINGS.PREFABS.STORAGETILE.DESC
+"Плитки-склады используются для того, чтобы держать в себе выбранные несъедобные твёрдые вещества, чтобы они никому не мешали."
+
+STRINGS.BUILDINGS.PREFABS.STORAGETILE.EFFECT
+""
+"Используются для строительства стен и полов комнат.\n"
+"\n"
+"Предоставляют возможность встроенного хранения одного ресурса."
+
+STRINGS.BUILDINGS.PREFABS.STORAGETILE.NAME
+"<link=\"STORAGETILE\">Плитка-склад</link>"
+
+STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.HARDPLASTIC_RECIPE_DESCRIPTION
+"Пластий — это очень теплостойкий твердый материал, похожий на <link=\"ELEMENTSSOLID\">пластик</link>. Его можно использовать для космических построек."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERCRITTERCONDO.DESC
+"Даже дикие существа чувствуют себя счастливее после недолгого расслабления."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERCRITTERCONDO.EFFECT
+"Это изысканная зона отдыха для взрослых <link="CRABSPECIES">крабов-щипачей</link> и <link="PACUSPECIES">паку</link>."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERCRITTERCONDO.NAME
+"<link=\"UNDERWATERCRITTERCONDO\">Подводный домик</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.DEFAULT_WATERCOOLER.DESC
+"Здесь дубликанты утоляют жажду общения."
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.DEFAULT_WATERCOOLER.NAME
+"<link=\"WATERCOOLER\">Кулер</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.ROUND_BODY.DESC
+"Придает шика комнате отдыха."
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.ROUND_BODY.NAME
+"<link=\"WATERCOOLER\">Элегантный кулер</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.OPTION_TOOLTIPS.MILK
+""
+"<link=\"MILK\">Молокен</link>\n"
+"Солоноватый зелёный напиток"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.OPTION_TOOLTIPS.WATER
+""
+"<link=\"WATER\">Вода</link>\n"
+"Обычная питьевая вода"
+
+STRINGS.BUILDINGS.PREFABS.WATERTRAP.DESC
+"Пойманная рыба будет автоматически упакована для транспортировки."
+
+STRINGS.BUILDINGS.PREFABS.WATERTRAP.EFFECT
+""
+"Приманивает и ловит плавающего <link=\"PACU\">паку</link>.\n"
+"\n"
+"Только дубликанты с навыком <link=\"RANCHING1\">Скотоводство</link> могут поставить эту ловушку.\n"
+"Ее можно будет использовать повторно!"
+
+STRINGS.BUILDINGS.PREFABS.WATERTRAP.NAME
+"<link=\"WATERTRAP\">Ловушка для рыб</link>"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.BODY.CONTAINER1
+""
+"Животные подвержены перепадам настроения. Хоть они и не могут рассказать о своих чувствах, эмоции животных заметно влияют на их способность производить ресурсы и размножаться.\n"
+"\n"
+"Факторы, влияющие на настроение животных, включают в себя уход, дикость/прирученность, среду обитания, тесное сосуществование с другими и потребление молокена. Кроме того, чтобы животное было счастливым, оно не должно чувствовать себя ограждённым."
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.CONTAINER1
+""
+"Счастливые прирученные животные производят больше полезных ресурсов и откладывают яйца чаще, чем хмурые или дикие. Одомашненные животные обладают меньшей выносливостью, чем дикие: чтобы оставаться счастливыми, им нужно больше заботы от дубликантов.\n"
+"\n"
+"Базовый уровень счастья детёнышей выше, чем у взрослых особей, но детёныши не производят ни ресурсов, ни яиц.\n"
+"\n"
+"Дубликанты с навыком скотоводства умеют приручать животных и заботиться о них. Они могут поднять настроение животного, пообщавшись с ним на станции ухода.\n"
+"\n"
+"Если животное попьёт из поилки, его настроение также улучшится, хотя в молокене из поилки не так много полезных веществ.\n"
+"\n"
+"Если животному тесно или оно чувствует себя ограждённым, его уровень счастья падает."
+
+STRINGS.CODEX.FORMAT_STRINGS.BUILDING_SIZE
+"Размер: {0} x {1}"
+
+STRINGS.CODEX.FORMAT_STRINGS.CONSTRUCTION_TIME
+"Время строительства: {0} сек."
+
+STRINGS.CODEX.FORMAT_STRINGS.MATERIAL_MASS
+"{0} {1}"
+
+STRINGS.CODEX.FORMAT_STRINGS.TEMPERATURE_OVER
+"Температура выше {0}"
+
+STRINGS.CODEX.FORMAT_STRINGS.TEMPERATURE_UNDER
+"Температура ниже {0}"
+
+STRINGS.CODEX.FORMAT_STRINGS.TRANSITION_LABEL_TO_ONE_ELEMENT
+"{0} -----> {1}"
+
+STRINGS.CODEX.FORMAT_STRINGS.TRANSITION_LABEL_TO_TWO_ELEMENTS
+"{0} -----> {1} + {2}"
+
+STRINGS.CODEX.HEADERS.BUILDINGCONSTRUCTIONMATERIALS
+"Материалы: "
+
+STRINGS.CODEX.HEADERS.BUILDINGCONSTRUCTIONPROPS
+"Свойства конструкции"
+
+STRINGS.CODEX.HEADERS.CRITTERMAXAGE
+"Продолжительность жизни"
+
+STRINGS.CODEX.HEADERS.CRITTEROVERCROWDING
+"Необходимое пространство"
+
+STRINGS.CODEX.HEADERS.ELEMENTTRANSITIONSFROM
+"Получается из:"
+
+STRINGS.CODEX.HEADERS.ELEMENTTRANSITIONSTO
+"Переходит в:"
+
+STRINGS.CODEX.HEADERS.MATERIALUSEDTOCONSTRUCT
+"Применение в строительстве"
+
+STRINGS.CODEX.HEXALENT.SUBTITLE
+"Съедобное растение"
+
+STRINGS.CODEX.QUESTS.CRITERIA.LOSTROCKFOSSIL.TOOLTIP
+"Извлеките фрагмент замерзшего существа, которое сохранилось в <style=\"KKeyword\">камне</style> "
+
+STRINGS.CODEX.QUESTS.CRITERIA.LOSTSPECIMEN.NAME
+"<link=\"MOVECAMERATOFOSSILDIG\">Древний экземпляр</link>"
+
+STRINGS.CODEX.QUESTS.FOSSILHUNTQUEST.COMPLETE
+""
+"Все места раскопок на астероиде изучены, и их содержимое извлечено.\n"
+"\n"
+"Теперь можно добывать более глубокие залежи ископаемых."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.DESCRIPTION
+"Техологичные постройки, для очищения дубликантов от <link=\"DISEASE\">болезнетворных</link> микробов. Зачастую таким постройкам необходим водопровод."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.ROOMSREQUIRING
+"    • <link=\"PLUMBEDBATHROOM\">Санузел</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.TITLE
+"Технологичные средства гигиены"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.CONFLICTINGROOMS
+""
+"    • <link=\"BEDROOM\">Спальня</link> (нет <link=\"BED\">коек</link>)\n"
+"    • <link=\"PRIVATE BEDROOM\">Личная спальня</link> (нет <link=\"BED\">коек</link>)"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.DESCRIPTION
+"Эти постройки позволяют дубликантам отдохнуть, когда это необходимо. Если дубликанту не назначено место для отдыха, ему придётся спать на полу."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.ROOMSREQUIRING
+""
+"    • <link=\"BARRACKS\">Казарма</link>\n"
+"    • <link=\"BEDROOM\">Спальня</link> (одна или несколько <link=\"LUXURYBED\">удобных кроватей</link>)\n"
+"    • <link=\"PRIVATE BEDROOM\">Личная спальня</link> (одна <link=\"LUXURYBED\">удобная кровать</link>)"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.TITLE
+"Кровати"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.DESCRIPTION
+"Постройки для лечения больных дубликантов и ограничения распространения <link=\"DISEASE\">заболеваний</link>."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.ROOMSREQUIRING
+"    • <link=\"HOSPITAL\">Больница</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.TITLE
+"Медицинское оборудование"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.DESCRIPTION
+"Постройки, в которых из ингредиентов можно приготовить вкуснейшие блюда."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.ROOMSREQUIRING
+"    • <link=\"KITCHEN\">Кухня</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.TITLE
+"Кухонное оборудование"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.DESCRIPTION
+"Постройки, которые помогают <link=\"CREATURES\">животным</link> перемещаться из одного места в другое при помощи дубликантов."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.TITLE
+"Пункты доставки"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.DESCRIPTION
+"Постройки, где дубликанты могут гигиенично сделать все важные «дела»... и смыть улики."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.ROOMSREQUIRING
+"    • <link=\"PLUMBEDBATHROOM\">Санузел</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.TITLE
+"Унитазы со смывом"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.CONFLICTINGROOMS
+""
+"    • <link=\"LATRINE\">Уборная</link>, <link=\"PLUMBEDBATHROOM\">Санузел</link>\n"
+"    • <link=\"BARRACKS\">Казарма</link>, <link=\"BEDROOM\">Спальня</link>, <link=\"PRIVATE BEDROOM\">Личная спальня</link>\n"
+"    • <link=\"MESSHALL\">Столовая</link>, <link=\"GREATHALL\">Большой зал</link>\n"
+"    • <link=\"MASSAGECLINIC\">Массажный кабинет</link>\n"
+"    • <link=\"HOSPITAL\">Больница</link>\n"
+"    • <link=\"LABORATORY\">Лаборатория</link>\n"
+"    • <link=\"RECROOM\">Комната отдыха</link>"
+"    • <link=\"PARK\">Парк </link>, <link=\"NATURERESERVE\">Заповедник</link>\n"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.DESCRIPTION
+"Постройки, предназначенные для производства энергии, предметов, обработки ресурсов и других базовых потребностей колонии."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.TITLE
+"Промышленные постройки"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.ROOMSREQUIRING
+"    • <link=\"LABORATORY\">Лаборатория</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.DESCRIPTION
+"Постройки для заботы о разных животных."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.ROOMSREQUIRING
+"    • <link=\"CREATUREPEN\">Загон</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.TITLE
+"Скотоводческие станции"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.DESCRIPTION
+"Постройки для повышения <link=\"MORALE\">морального духа</link> дубликантов."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.ROOMSREQUIRING
+""
+"    • <link=\"GREATHALL\">Большой зал</link> \n"
+"    • <link=\"RECROOM\">Комната отдыха</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.TITLE
+"Постройки для отдыха"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.CONFLICTINGROOMS
+"    • Любая комната, которая находится снаружи ракеты."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.DESCRIPTION
+"Постройки, которые могут находиться только внутри ракеты."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.TITLE
+"Оборудование ракеты"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.DESCRIPTION
+"Постройки, которые позволяют дубликантам познавать мир, делать новые открытия, и не только это."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.DESCRIPTION
+"Постройки, где дубликанты могут гигиенично сделать все важные «дела»."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.ROOMSREQUIRING
+""
+"    • <link=\"LATRINE\">Уборная</link>\n"
+"    • <link=\"HOSPITAL\">Больница</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.TITLE
+"Унитазы"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.DESCRIPTION
+"Пойстройки для очищения дубликантов от <link=\"DISEASE\">болезнетворных</link> микробов. Не всем средствам гигиены требуется водопровод."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.ROOMSREQUIRING
+"    • <link=\"LATRINE\">Уборная</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.TITLE
+"Средства гигиены"
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.DESCRIPTION
+""
+"Мне попалось на глаза окаменелое существо, или его часть. Это не похоже ни на один из видов животных, которые нам встретились на этом астероиде.\n"
+"\n"
+"Откуда оно? Как оно здесь оказалось? Может, эти кости ответят и на другие вопросы?\n"
+"\n"
+"Есть только один способ это узнать..."
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.NAME
+"Сюжетная черта: Древний экземпляр"
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION
+""
+"В геологическом шкафу этого астероида немало скелетов.\n"
+"\n"
+"Обнаружьте окаменевшие фрагменты древнего существа, чтобы узнать важные моменты истории Gravitas и разблокировать новый ресурс."
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_BUILDINGMENU_COVERED
+"Чтобы открыть полный доступ к запасу ископаемых под древним существом, необходимо раскопать все залежи."
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_REVEALED
+"Чтобы открыть полный доступ к запасу ископаемых под древним существом, необходимо раскопать все залежи."
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_SHORT
+"Обнаружьте окаменевшие фрагменты древнего существа."
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_BITS.NAME
+"Фрагменты ископаемых"
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.ENTITIES.FOSSIL_DIG_SITE.NAME
+"Древний экземпляр"
+
+STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.NAME
+"Древний экземпляр"
+
+STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.NAME
+"Сборщик биоботов"
+
+STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.NAME
+"Сюжетная черта: Сборщик биоботов"
+
+STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.DESCRIPTION
+""
+"Эврика! Усилия моих дубликантов по запуску сборщика биоботов наконец увенчались успехом!\n"
+"\n"
+"Наш первый полностью собранный биобот П.Е.Г.Г.И. готов выполнять задачи в опасных условиях, что означает меньшее воздействие опасности на дубликантов. Кажется, что нет предела количеству биоботов, которые мы могли бы произвести."
+""
+"Маленький игрушечный бот был найден выброшенным за резервуаром. Он изредка воспроизводит поврежденную дорожку смеха."
+
+STRINGS.CREATURES.ATTRIBUTES.BECKONINGDELTA.NAME
+"Акку-муу-ляция"
+
+STRINGS.CREATURES.ATTRIBUTES.MILKPRODUCTIONDELTA.NAME
+"Уровень молокена"
+
+STRINGS.CREATURES.ATTRIBUTES.MILKPRODUCTIONDELTA.TOOLTIP
+"Определяет, сколько времени требуется этому <style=\"KKeyword\">животному</style> для восполнения его естественного запаса <style=\"KKeyword\">молокена</style>."
+
+STRINGS.CREATURES.MODIFIERS.GLUM.TOOLTIP
+""
+"Это животное испытывает упадок сил из-за того, что не все его потребности удовлетворены\n"
+"\n"
+"Оно будет производить меньше ресурсов"
+
+STRINGS.CREATURES.MODIFIERS.GOTMILK.NAME
+"Жажда утолена"
+
+STRINGS.CREATURES.MODIFIERS.GOTMILK.TOOLTIP
+""
+"Это существо недавно выпило <style=\"KKeyword\">молокен</style>\n"
+"\n"
+"Сейчас ему проще находиться в тесном пространстве"
+
+STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP
+""
+"Скотовод только что спел для этого яйца\n"
+"\n"
+"Увеличена <color=#C38802>скорость инкубации</color>\n"
+"\n"
+"Дубликанты должны обладать навыком <color=#C38802>Скотоводство</color>, чтобы петь для яиц"
+
+STRINGS.CREATURES.MODIFIERS.MISERABLE.TOOLTIP
+""
+"Это животное впало в отчаяние, потому что его нужды не были удовлетворены\n"
+"\n"
+"В результате оно будет производить меньше материалов и перестанет откладывать яйца"
+
+STRINGS.CREATURES.MODIFIERS.MOOWELLFED.NAME
+"Радушное настроение"
+
+STRINGS.CREATURES.MODIFIERS.MOOWELLFED.TOOLTIP
+""
+"Это существо недавно поело, тем самым восстановив свои запасы <style=\"KKeyword\">молокена</style>. Теперь это жизнерадостное создание хочет собрать здесь всех своих друзей\n"
+"\n"
+"Оно подумывает пригласить на этот астероид еще одну <color=#C38802>газовую муу</color>"
+
+STRINGS.CREATURES.MODIFIERS.NEUTRAL.TOOLTIP
+""
+"Нужды этого животного вполне удовлетворены\n"
+"\n"
+"Оно будет производить обычное количество материалов"
+
+STRINGS.CREATURES.MODIFIERS.RANCHED.TOOLTIP
+""
+"За этим животным недавно ухаживал дубликант\n"
+"\n"
+"Дубликанты должны обладать навыком <color=#C38802>Скотоводство</color> для ухода за животными"
+
+STRINGS.CREATURES.MODIFIERS.UNDERWATERCRITTERCONDOINTERACTEFFECT.NAME
+"Уют"
+
+STRINGS.CREATURES.MODIFIERS.UNDERWATERCRITTERCONDOINTERACTEFFECT.TOOLTIP
+"Это животное совсем недавно посещало <color=#C38802>подводный домик</color>"
+
+STRINGS.CREATURES.SPECIES.BEE.DESC
+""
+"Ядерные пчёлы — агрессивные животные, процветающие в <link=\"RADIATION\">радиоактивной</link> среде.\n"
+"\n"
+"Обычно они собирают <link=\"URANIUMORE\">урановую руду</link> для своих <link=\"BEEHIVE\">ядерных ульев</link>, чтобы производить <link=\"ENRICHEDURANIUM\">обогащённый уран</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.GASGRASS.DESC
+"Это <link=\"PLANTS\">семечко</link> <link=\"GASGRASS\">газовой травки</link>."
+
+STRINGS.CREATURES.STATS.MILKPRODUCTION.NAME
+"Запасы молокена"
+
+STRINGS.CREATURES.STATS.MILKPRODUCTION.TOOLTIP
+"Время, за которое это животное восстановит свои естественные запасы <style=\"KKeyword\">молокена</style>"
+
+STRINGS.CREATURES.STATUSITEMS.LOOKINGFORMILK.NAME
+"Ищет молокен"
+
+STRINGS.CREATURES.STATUSITEMS.LOOKINGFORMILK.TOOLTIP
+"Это животное хочет выпить немного <style=\"KKeyword\">молокена</style>"
+
+STRINGS.CREATURES.STATUSITEMS.MILKFULL.NAME
+"Готовность к дойке"
+
+STRINGS.CREATURES.STATUSITEMS.MILKFULL.TOOLTIP
+"Это животное готово к доению: у него накопилось много <style=\"KKeyword\">молокена</style>"
+
+STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.NAME
+"Накопление молокена: {amount}"
+
+STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.TOOLTIP
+"Вымя этого животного восполняет само себя"
+
+STRINGS.CREATURES.STATUSITEMS.UNDERWATERCRITTERCONDO.INTERACTING.NAME
+"Обживается"
+
+STRINGS.CREATURES.STATUSITEMS.UNDERWATERCRITTERCONDO.INTERACTING.TOOLTIP
+""
+"Это животное отдыхает в подводном домике\n"
+"\n"
+"Будто небольшой отпуск!"
+
+STRINGS.CREATURES.STATUSITEMS.UNDERWATERCRITTERCONDO.MOVINGTO.NAME
+"Занимает подводный домик"
+
+STRINGS.CREATURES.STATUSITEMS.UNDERWATERCRITTERCONDO.MOVINGTO.TOOLTIP
+"Это существо направляется в незанятый <color=#C38802>подводный домик</color>"
+
+STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME
+"    • Орошение (запас)"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.GEOTUNER_SPEED_MODIFIER
+"Скорость работы с геотюнером: {0}"
+
+STRINGS.DUPLICANTS.CHORES.ARMTRAP.NAME
+"Установка ловушки"
+
+STRINGS.DUPLICANTS.CHORES.ARMTRAP.STATUS
+"Устанавливает ловушку"
+
+STRINGS.DUPLICANTS.CHORES.ARMTRAP.TOOLTIP
+"Этот дубликант хочет взвести ловушку"
+
+STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTGOTMILK.NAME
+"Напился"
+
+STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTGOTMILK.TOOLTIP
+"Дубликант недавно выпил <style=\"KKeyword\">молокен</style>, который помогает расслабиться."
+
+STRINGS.DUPLICANTS.ROLES.PYROTECHNIC.DESCRIPTION
+"Позволяет дубликанту создавать <style=\"KKeyword\">взрывные снаряды</style> для <style=\"KKeyword\">метеоритной пушки</style>"
+
+STRINGS.DUPLICANTS.ROLES.PYROTECHNIC.NAME
+"<link=\"PYROTECHNICS\">Пиротехника</link>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.ARMINGTRAP.NAME
+"Устанавливает ловушку"
+
+STRINGS.DUPLICANTS.STATUSITEMS.ARMINGTRAP.TOOLTIP
+"Этот дубликант устанавливает ловушку"
+
+STRINGS.DUPLICANTS.STATUSITEMS.MISSIONCONTROLLING.NAME
+"Управление ракетой"
+
+STRINGS.DUPLICANTS.STATUSITEMS.MISSIONCONTROLLING.TOOLTIP
+"Этот дубликант управляет <style=\"KKeyword\">ракетой</style>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.NAME
+"Скользкий гонщик"
+
+STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.TOOLTIP
+""
+"Перед путешествием этот дубликант намазался <link=\"MILKFAT\">маслом</link>\n"
+"\n"
+"Его скорость в <link=\"TRAVELTUBE\">транзитной трубе</link> увеличится на {0}"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_PYROTECHNICS.DESC
+"Позволяет дубликанту создавать <style=\"KKeyword\">взрывные снаряды</style> для <style=\"KKeyword\">метеоритной пушки</style>"
+
+STRINGS.ELEMENTS.ALGAE.DESC
+""
+"Водоросли — кластер неподвижных одноклеточных форм жизней.\n"
+"\n"
+"Используются для производства <link=\"OXYGEN\">кислорода</link>, когда используются в <link=\"MINERALDEOXIDIZER\">диффузоре кислорода</link>"
+
+STRINGS.ELEMENTS.CREATURE.DESC
+""
+"(DuPe) Биоматерия — это суспензия воды, углерода, а также десятков и десятков микроэлементов.\n"
+"\n"
+"Дубликанты печатаются из чистой биоматерии."
+
+STRINGS.ELEMENTS.HARDPOLYPROPYLENE.DESC
+""
+"<link=\"HARDPOLYPROPYLENE\">Пластий</link> — это улучшенный термостойкий полимер, созданный из <link=\"TEMPCONDUCTORSOLID\">термия</link>, <link=\"POLYPROPYLENE\">пластика</link> и <link=\"MILKFAT\">масла</link>.\n"
+"\n"
+"Из-за его устойчивости к высоким температурам, пластий подходит для космических построек."
+
+STRINGS.ELEMENTS.HARDPOLYPROPYLENE.NAME
+"<link=\"HARDPOLYPROPYLENE\">Пластий</link>"
+
+STRINGS.ELEMENTS.MILK.DESC
+""
+"Молокен — это богатая натрием <link=\"ELEMENTSLIQUID\">жидкость</link>.\n"
+"\n"
+"Его можно использовать в <link=\"RANCHING\">скотоводстве</link>."
+
+STRINGS.ELEMENTS.MILK.NAME
+"<link=\"MILK\">Молокен</link>"
+
+STRINGS.ELEMENTS.MILKFAT.DESC
+"Масло — это <link=\"ELEMENTSSOLID\">твёрдый</link> побочный продукт разложения <link=\"MILK\">молокена</link> на составляющие."
+
+STRINGS.ELEMENTS.MILKFAT.NAME
+"<link=\"MILKFAT\">Масло</link>"
+
+STRINGS.ELEMENTS.MILKICE.DESC
+"Твёрдый молокен — это <link=\"MILK\">молокен</link>, замороженный до <link=\"ELEMENTSSOLID\">твёрдого</link> состояния."
+
+STRINGS.ELEMENTS.MILKICE.NAME
+"<link=\"MILKICE\">Твёрдый молокен</link>"
+
+STRINGS.ELEMENTS.MOLTENALUMINUM.NAME
+"<link=\"MOLTENALUMINUM\">Жидкий алюминий</link>"
+
+STRINGS.ELEMENTS.MOLTENCOBALT.NAME
+"<link=\"MOLTENCOBALT\">Жидкий кобальт</link>"
+
+STRINGS.ELEMENTS.MOLTENCOPPER.NAME
+"<link=\"MOLTENCOPPER\">Жидкая медь</link>"
+
+STRINGS.ELEMENTS.MOLTENGLASS.NAME
+"<link=\"MOLTENGLASS\">Жидкое стекло</link>"
+
+STRINGS.ELEMENTS.MOLTENGOLD.NAME
+"<link=\"MOLTENGOLD\">Жидкое золото</link>"
+
+STRINGS.ELEMENTS.MOLTENIRON.NAME
+"<link=\"MOLTENIRON\">Жидкое железо</link>"
+
+STRINGS.ELEMENTS.MOLTENLEAD.NAME
+"<link=\"MOLTENLEAD\">Жидкий свинец</link>"
+
+STRINGS.ELEMENTS.MOLTENNIOBIUM.NAME
+"<link=\"MOLTENNIOBIUM\">Жидкий ниобий</link>"
+
+STRINGS.ELEMENTS.MOLTENSALT.NAME
+"<link=\"MOLTENSALT\">Жидкая соль</link>"
+
+STRINGS.ELEMENTS.MOLTENSTEEL.NAME
+"<link=\"MOLTENSTEEL\">Жидкая сталь</link>"
+
+STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME
+"<link=\"MOLTENTUNGSTEN\">Жидкий вольфрам</link>"
+
+STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.FACADES.GAUDYSWEATER
+"<link=\"CUSTOMCLOTHING\">Свитер с помпонами</link>"
+
+STRINGS.ITEMS.MISSILE_BASIC.DESC
+""
+"Взрывающийся снаряд, разработанный для защиты от метеоритных дождей.\n"
+"\n"
+"Запускается из <link=\"MISSILELAUNCHER\">взрывателя метеоритов</link>."
+
+STRINGS.ITEMS.MISSILE_BASIC.NAME
+"<link=\"MISSILELAUNCHER\">Взрывной снаряд</link>"
+
+STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
+""
+"• Я могу использовать {Hotkey/PanLeft} и {Hotkey/PanRight} для перемещения обзора влево и вправо, а также {Hotkey/PanUp} и {Hotkey/PanDown} для перемещения вверх и вниз.\n"
+"\n"
+"• С помощью {Hotkey/ZoomIn} можно увеличить масштаб, а {Hotkey/ZoomOut} - уменьшить.\n"
+"\n"
+"• {Hotkey/CameraHome} возвращает обзор к биопринтеру.\n"
+"\n"
+"• Я могу ускорять или замедлять восприятие времени с помощью кнопок в верхнем левом углу или нажимая {Hotkey/SpeedUp} или {Hotkey/SlowDown}. Нажатие на {Hotkey/TogglePause} полностью остановит течение времени.\n"
+"\n"
+"• Я буду записывать все, что открою, в моей персональной БАЗЕ ДАННЫХ {Hotkey/ManageDatabase}, чтобы обратиться к этому, если забуду что-то важное."
+
+STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
+""
+"Мои дубликанты не могут найти место для сна\n"
+"\n"
+"<link=\"BED\">Койки</link> могут быть найдены на строительной вкладке <b>Мебель</b> {Hotkey/Plan9}"
+
+STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY
+""
+"При подключении труб, полезно использовать оверлей сантехники {Hotkey/Overlay6}. Каждая постройка, требующая ввода жидкости по трубе, должна быть подключена трубой к источнику жидкости, например, жидкостному насосу. Жидкостные насосы должны быть погружены в жидкость и подключены к энергии.\n"
+"\n"
+"Постройки часто выделяют загрязнённую воду, которая выходит через трубу. Её можно вылить с помощью слива или очистить для повторного использования с помощью очистителя воды.\n"
+"\n"
+"Вентиляция работает по тем же принципам, но с газами. Выберите оверлей вентиляции {Hotkey/Overlay7}, чтобы увидеть, как газы перемещаются по колонии."
+
+STRINGS.RESEARCH.TECHS.ANIMALCOMFORT.DESC
+"Стратегии максимизации качества жизни животных."
+
+STRINGS.RESEARCH.TECHS.ANIMALCOMFORT.NAME
+"<link=\"ANIMALCOMFORT\">Комфорт животных</link>"
+
+STRINGS.RESEARCH.TECHS.DAIRYOPERATION.NAME
+"<link=\"DAIRYOPERATION\">Поток молокена</link>"
+
+STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.DESCRIPTION
+"Требуется минимум одна <color=#C38802>раковина</color>, <color=#C38802>душ</color> или <color=#C38802>дезинфектор рук</color>"
+
+STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.NAME
+"Технологичное средство гигиены"
+
+STRINGS.ROOMS.CRITERIA.BEDTYPE.DESCRIPTION
+"Требуется минимум две <color=#C38802>койки</color> или <color=#C38802>уютные кровати</color>"
+
+STRINGS.ROOMS.CRITERIA.BEDTYPE.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSBEDTYPE\">Кровати</link>"
+
+STRINGS.ROOMS.CRITERIA.BED_SINGLE.DESCRIPTION
+"Требуется хотя бы одна койка или удобная кровать"
+
+STRINGS.ROOMS.CRITERIA.BED_SINGLE.NAME
+"Одна кровать"
+
+STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.NAME
+"Положительный <color=#C38802>декор</color>"
+
+STRINGS.ROOMS.CRITERIA.CLINIC.NAME
+"Медицинское оборудование"
+
+STRINGS.ROOMS.CRITERIA.COOKTOP.DESCRIPTION
+"Требуется <color=#C38802>электрогриль</color> или <color=#C38802>газовая плита</color>"
+
+STRINGS.ROOMS.CRITERIA.COOKTOP.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSCOOKTOP\">Кухонное оборудование</link>"
+
+STRINGS.ROOMS.CRITERIA.CREATURERELOCATOR.DESCRIPTION
+"Требуется один <color=#C38802>пункт доставки животных</color> или <color=#C38802>пункт доставки рыб</color>"
+
+STRINGS.ROOMS.CRITERIA.CREATURERELOCATOR.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSCREATURERELOCATOR\">Пункт доставки</link>"
+
+STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.NAME
+"<link=\"CREATUREFEEDER\">Кормушка</link>"
+
+STRINGS.ROOMS.CRITERIA.DECOR20.DESCRIPTION
+"Требуется украшение с <color=#C38802>декором</color> не менее {0}"
+
+STRINGS.ROOMS.CRITERIA.DECOR20.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\">Украшение</link>: +{0} декора"
+
+STRINGS.ROOMS.CRITERIA.DECORATION.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\">Украшение</link>"
+
+STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\">Украшение</link> ({0} шт.)"
+
+STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.DESCRIPTION
+"Требуется минимум одна постройка для снятия стресса"
+
+STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.NAME
+"<link=\"MASSAGETABLE\">Массажный стол</link>"
+
+STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.DESCRIPTION
+"Требуется одна <color=#C38802>фермерская станция</color>"
+
+STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.NAME
+"<link=\"FARMSTATION\">Фермерская станция</link>"
+
+STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.DESCRIPTION
+"Требуется минимум один подключаемый туалет"
+
+STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.NAME
+"Унитаз со смывом"
+
+STRINGS.ROOMS.CRITERIA.HAS_BED.DESCRIPTION
+"Требуется хотя бы одна койка или удобная кровать"
+
+STRINGS.ROOMS.CRITERIA.HAS_BED.NAME
+"Одна или несколько <link=\"BUILDINGCATEGORYREQUIREMENTCLASSBEDTYPE\">кроватей</link>"
+
+STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.DESCRIPTION
+"Требуется хотя бы одна <color=#C38802>удобная кровать</color>"
+
+STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.NAME
+"Одна или несколько <link=\"LUXURYBED\">удобных кроватей</link>"
+
+STRINGS.ROOMS.CRITERIA.INDUSTRIALMACHINERY.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSINDUSTRIALMACHINERY\">Промышленная постройка</link>"
+
+STRINGS.ROOMS.CRITERIA.IN_CODE_ERROR
+"Ключ строки локализации не найден: {0}"
+
+STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.DESCRIPTION
+"Должно быть закрыто задними стенами"
+
+STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.NAME
+"Есть изолированные стены сзади"
+
+STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.DESCRIPTION
+"Требуется минимум один источник света."
+
+STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSLIGHTSOURCE\">Источник света</link>"
+
+STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.DESCRIPTION
+"Должно быть не больше одной <color=#C38802>удобной кровати</color>"
+
+STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.NAME
+"Ровно одна <link=\"LUXURYBED\">удобная кровать</link>"
+
+STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.DESCRIPTION
+"Требуется хотя бы одна механическая станция"
+
+STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.NAME
+"Механическая станция"
+
+STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.NAME
+"<link=\"MASSAGETABLE\">Массажный стол</link>"
+
+STRINGS.ROOMS.CRITERIA.MESSTABLE.DESCRIPTION
+"Требуется один <color=#C38802>обеденный стол</color>"
+
+STRINGS.ROOMS.CRITERIA.MESSTABLE.NAME
+"<link=\"DININGTABLE\">Обеденный стол</link>"
+
+STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.NAME
+"<link=\"DININGTABLE\">Обеденные столы</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_COTS.NAME
+"Нет <link=\"BED\">коек</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.NAME
+"Нет <link=\"BUILDCATEGORYREQUIREMENTCLASSINDUSTRIALMACHINERY\">промышленных построек</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.DESCRIPTION
+"В комнате не может находиться <color=#C38802>удобная кровать</color>"
+
+STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.NAME
+"Нет <link=\"LUXURYBED\">удобных кроватей</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.NAME
+"Нет <link=\"DININGTABLE\">обеденных столов</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.NAME
+"Нет <link=\"OUTHOUSE\">сортиров</link>"
+
+STRINGS.ROOMS.CRITERIA.PARK.DESCRIPTION
+"Требуется хотя бы одна <color=#C38802>парковая табличка</color>"
+
+STRINGS.ROOMS.CRITERIA.PARK.NAME
+"<link=\"PARKSIGN\">Парковая табличка</link>"
+
+STRINGS.ROOMS.CRITERIA.POWERSTATION.DESCRIPTION
+"Требуется одна <color=#C38802>станция энергоконтроля</color>"
+
+STRINGS.ROOMS.CRITERIA.POWERSTATION.NAME
+"<link=\"POWERCONTROLSTATION\">Станция энергоконтроля</link>"
+
+STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.DESCRIPTION
+"Требуется одна <color=#C38802>станция ухода</color>, <color=#C38802>домик для животных</color>, <color=#C38802>поилка</color> или <color=#C38802>станция доения</color>"
+
+STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSRANCHSTATIONTYPE\">Скотоводческая станция</link>"
+
+STRINGS.ROOMS.CRITERIA.RECBUILDING.DESCRIPTION
+"Требуется хотя бы одна <color=#C38802>постройка для отдыха</color>"
+
+STRINGS.ROOMS.CRITERIA.RECBUILDING.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSRECBUILDING\">Постройка для отдыха</link>"
+
+STRINGS.ROOMS.CRITERIA.REFRIGERATOR.NAME
+"<link=\"REFRIGERATOR\">Холодильник</link>"
+
+STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.DESCRIPTION
+"Необходимо разместить внутри ракеты"
+
+STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSROCKETINTERIOR\">Оборудование ракеты</link>"
+
+STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.DESCRIPTION
+"Требуется как минимум одна <color=#C38802>научная станция</color>"
+
+STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.NAME
+"Научная станция"
+
+STRINGS.ROOMS.CRITERIA.SPICESTATION.NAME
+"<link=\"SPICEGRINDER\">Мельница для специй</link>"
+
+STRINGS.ROOMS.CRITERIA.TOILETTYPE.DESCRIPTION
+"Требуется минимум один <color=#C38802>сортир</color> или <color=#C38802>туалет</color>"
+
+STRINGS.ROOMS.CRITERIA.TOILETTYPE.NAME
+"Унитаз"
+
+STRINGS.ROOMS.CRITERIA.WASHSTATION.DESCRIPTION
+"Требуется минимум один <color=#C38802>умывальник</color>, <color=#C38802>раковина</color>, <color=#C38802>душ</color> или <color=#C38802>дезинфектор рук</color>"
+
+STRINGS.ROOMS.CRITERIA.WASHSTATION.NAME
+"Средство гигиены"
+
+STRINGS.ROOMS.TYPES.BEDROOM.DESCRIPTION
+""
+"Комната, полная уютных вещей, значительно улучшает качество сна её владельца.\n"
+"\n"
+"Сон в спальне улучшает <color=#C38802>моральный дух</color> дубликантов."
+
+STRINGS.ROOMS.TYPES.BEDROOM.NAME
+"Спальня"
+
+STRINGS.ROOMS.TYPES.BEDROOM.TOOLTIP
+"Сон в личной спальне повысит <color=#C38802>моральный дух</color> дубликантов."
+
+STRINGS.ROOMS.TYPES.CREATUREPEN.DESCRIPTION
+""
+"Животным здесь комфортно, пока в комнате достаточно места.\n"
+"\n"
+"Здесь можно заботиться о животных, чтобы приручить их и увеличить производство продукции.\n"
+"\n"
+"Позволяет использовать <color=#C38802>станцию ухода</color>, <color=#C38802>станцию стрижки</color>, <color=#C38802>домик для животных</color>, <color=#C38802>поилку</color> и <color=#C38802>станцию доения</color>."
+
+STRINGS.ROOMS.TYPES.CREATUREPEN.EFFECT
+"- Приручение животных и улучшение их счастья"
+
+STRINGS.ROOMS.TYPES.CREATUREPEN.TOOLTIP
+"Позволяет использовать <color=#C38802>станцию ухода</color>, <color=#C38802>станцию стрижки</color>, <color=#C38802>домик для животных</color>, <color=#C38802>поилку</color> и <color=#C38802>станцию доения</color>"
+
+STRINGS.ROOMS.TYPES.GREATHALL.DESCRIPTION
+""
+"Великолепное место для еды, с отличным декором и отличной компанией.\n"
+"\n"
+"Приём пищи в большом зале значительно увеличивает <color=#C38802>моральный дух</color> дубликантов."
+
+STRINGS.ROOMS.TYPES.KITCHEN.DESCRIPTION
+""
+"Помещение для готовки еды переводит этот процесс на новый уровень.\n"
+"\n"
+"Даёт различные положительные бонусы, если с помощью <color=#C38802>мельницы для специй</color> добавить их к еде, приготовленной на <color=#C38802>электрогриле</color> или <color=#C38802>газовой плите</color>."
+
+STRINGS.ROOMS.TYPES.LABORATORY.DESCRIPTION
+""
+"Место, где встречаются безумные гипотезы и научные эксперименты.\n"
+"\n"
+"Научные станции, построенные в лаборатории, эффективнее на 10%.\n"
+"\n"
+"Лаборатория позволяет использовать <color=#C38802>геотюнер</color> и <color=#C38802>центр управления полётами</color>.\n"
+"Гейзеры могут быть, где угодно на планетоиде, но <color=#C38802>геотюнеру</color> обязательно требуется лаборатория для работы."
+
+STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.DESCRIPTION
+""
+"Комфортабельная, закрытая от посторонних глаз, спальня позволяет дубликанту расслабиться и не быть прерванным.\n"
+"\n"
+"В личной спальне дубликанты повышают ещё больше <color=#C38802>морального духа</color>, чем в <color=#C38802>спальне</color>."
+
+STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.EFFECT
+"- Бонус к моральному духу"
+
+STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.TOOLTIP
+"Дубликанты во время сна в личной спальне поднимают <color=#C38802>моральный дух</color> ещё больше, чем в <color=#C38802>казармах</color> или <color=#C38802>спальне</color>."
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE
+""
+"Это животное может быть поймано\n"
+"\n"
+"Отметьте животных для ловли <b>инструментом отлова</b> {Hotkey/Capture}\n"
+"\n"
+"Дубликанты должны обладать навыком <color=#C38802>Скотоводство</color>, чтобы ловить животных"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION_GEOTUNED_COUNT
+"<b>{0}</b> из <b>{1}</b> геотюнеров, направленных на этот гейзер, усиливают его"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.CAN_MAKE_MISSILES.DESCRIPTION
+"Использование <link=\"MISSILEFABRICATOR\">фабрики снарядов</link>"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.CAN_MISSION_CONTROL.DESCRIPTION
+"Использование <link=\"MISSIONCONTROL\">центра управления полётами</link>"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_MILKING_STATION.DESCRIPTION
+"Использование <link=\"MILKINGSTATION\">станции доения</link>"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
+"Использование <link=\"RANCHSTATION\">станции ухода</link>"
+
+STRINGS.UI.UISIDESCREENS.GEOTUNERSIDESCREEN.GEOTUNER_LIMIT_TOOLTIP
+"Этот гейзер форсирован предельным количеством <style=\"KKeyword\">геотюнеров</style>"
+
+STRINGS.UI.UISIDESCREENS.GEOTUNERSIDESCREEN.STUDIED_TOOLTIP_BASE_TEMP
+"Базовая {BASE}"
+
+STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.NO_SELECTED_ANALYSIS_TARGET
+""
+"Анализ не сфокусирован\n"
+"Откройте <b>звёздную карту</b> {Hotkey/ManageStarmap} для определения фокуса"
+
+STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_DISEASE
+"Кол-во микробов"
+
+STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SEARCH_PLACEHOLDER
+"Поиск"
+
+STRINGS.UI.UNITSUFFIXES.TILES
+"Клетки"
+
+STRINGS.UI.USERMENUACTIONS.CANCELTRANSITTUBEWAX.TOOLTIP
+"Отменяет бонус ускорения и возвращает <link=\"MILKFAT\">масло</link> из хранилища"
+
+STRINGS.UI.USERMENUACTIONS.CLOSESTORAGE.NAME
+"Закрыть склад"
+
+STRINGS.UI.USERMENUACTIONS.CLOSESTORAGE.NAME_OFF
+"Отменить закрытие"
+
+STRINGS.UI.USERMENUACTIONS.CLOSESTORAGE.TOOLTIP
+"Запретите хранение ресурсов в этом складе"
+
+STRINGS.UI.USERMENUACTIONS.CLOSESTORAGE.TOOLTIP_OFF
+"Отменить поручение о закрытии"
+
+STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME
+"Переместить к"
+
+STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME_OFF
+"Отменить перемещение"
+
+STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP
+"Переместить этот объект в указанное место"
+
+STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP_OFF
+"Отменить перемещение этого объекта"
+
+STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.NAME
+"Включить ускорение"
+
+STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.TOOLTIP
+"Позволяет использовать <link=\"MILKFAT\">масло</link> для ускорения путешествий"
