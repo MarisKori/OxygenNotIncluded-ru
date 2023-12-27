@@ -1017,8 +1017,41 @@ STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.TOOLTIP
 "\n"
 "Его скорость в <link=\"TRAVELTUBE\">транзитной трубе</link> увеличится на {0}"
 
+STRINGS.DUPLICANTS.TRAITS.CHATTY.DESC
+"Этот дубликант настолько обаятельный, что иногда обычный разговор с ним способен вызвать <style="KKeyword">сверхрадостную</style> реакцию."
+
+STRINGS.DUPLICANTS.TRAITS.CHATTY.NAME
+"Обаятельный"
+
 STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_PYROTECHNICS.DESC
 "Позволяет дубликанту создавать <style=\"KKeyword\">взрывные снаряды</style> для <style=\"KKeyword\">метеоритной пушки</style>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_PYROTECHNICS.NAME
+"Навык: <link=\"PYROTECHNICS\">Пиротехника</link>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_PYROTECHNICS.SHORT_DESC
+"Начинает игру с <b>навыком</b> третьего уровня"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_PYROTECHNICS.SHORT_DESC_TOOLTIP
+"Этот дубликант получит <color=#C38802>навык</color> бесплатно, без траты очков навыков и повышения <color=#C38802>морального ожидания</color>"
+
+STRINGS.DUPLICANTS.TRAITS.METEORPHILE.DESC
+"Метеоритные дожди повышают энтузиазм этого дубликанта"
+
+STRINGS.DUPLICANTS.TRAITS.METEORPHILE.EXTENDED_DESC
+"• Во время метеоритных дождей даётся бонус: <b>{0}</b> ко всем <style=\"KKeyword\">атрибутам</style>"
+
+STRINGS.DUPLICANTS.TRAITS.METEORPHILE.NAME
+"Звёздный металлист"
+
+STRINGS.DUPLICANTS.TRAITS.METEORPHILE.SHORT_DESC
+"Получает бонусы к <color=#C38802>атрибутам</color> во время метеоритных дождей."
+
+STRINGS.DUPLICANTS.TRAITS.METEORPHILE.SHORT_DESC_TOOLTIP
+"Во время метеоритного дождя даётся бонус: <b>+3</b> ко всем <style=\"KKeyword\">атрибутам</style>"
+
+STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
+"Недоступный тип поручений: <b>{0}</b>"
 
 STRINGS.ELEMENTS.ALGAE.DESC
 ""
