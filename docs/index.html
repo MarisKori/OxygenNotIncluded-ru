@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <script src="preview.js"></script>
 <title>ONI UI for translaters</title>
 <style>
@@ -191,7 +192,7 @@
 	<div class="header">
 		<button id="btnSettings">Настройки</button>
 		<button id="btnImport">Импорт</button>
-		<button id="btnExport">Сохр./Экспорт</button><br><span class="version">v0.04</span>
+		<button id="btnExport">Сохр./Экспорт</button><br><span class="version">v0.05</span>
 		<!--button>About</button>
 		<button>Contact</button-->
   <!-- Settings content -->
@@ -277,8 +278,9 @@ btn.onclick = function() {
 		+'</ul><h4>Цвета</h4><ul style="text-align:left;">'
 		+'<li><font class="klei-text">Лениво-оранжевый текст</font> - машинный перевод от Klei.</li>'
 		+'<li><font class="mem-text">Ностальгически-синий текст</font> - старая память от предыдущих вики-переводов, в обратном хронологическом порядке.</li>'
-		+'<li><font color=#f00>Красный ключ</font> - несовпадение ссылок. Если он мигает, то не совпадает их количество, что делает блок перевода полностью нерабочим.</li>'
+		+'<li><font color=#f00>Красный ключ</font> - несовпадение ссылок. Если он мигает, то не совпадает их количество, что делает блок перевода полностью нерабочим в игре.</li>'
 		+'<li><font color=#ff0>Жёлтый перевод</font> - импортированный перевод с выключенной опцией "считать своим". Такой перевод не будет сохранён или экспортирован. При следующем обновлении страницы он исчезнет.</li>'
+		+'<li><font color='+MAY_COLORS[0]+'>Добавленный</font>, <font color='+MAY_COLORS[1]+'>удалённый</font> и <font color='+MAY_COLORS[3]+'>пере</font><font color='+MAY_COLORS[2]+'>мещённый</font> тексты - результат работы алгоритма Майерса.</li>'
 		+'</ul><h4>Поиск</h4>'
 		+'В поиске по ключам можно добавить параметры, зарпещающие вхождения некоторых фраз. Это делается по аналогии с поиском в гугле: через пробел ставится знак "-", сразу после которого запрещённая подстрока.<br>Например: <code style="background-color:black">BUILDINGS.PREFABS -.FACADES.</code>'
 		+'</div>'
@@ -554,14 +556,15 @@ function LittleButtonSet(key, mem_num) {
 }
 
 
-const MAY_COLORS = ['#0c0', '#c00', '#999']; // added, removed, normal
+//                  added  removed inserted moved   normal
+var MAY_COLORS = ['#0c0', '#c00', '#bf0', '#c50', '#999']; // added, removed, normal
 function replaceStarColor(text) {
 	return text.replace(/_STAR_COLOR_(\d+)/g, (match, number) => {
 		const index = parseInt(number); // Переводим номер в индекс массива (начиная с 0)
 		//console.log('INDEX: ',index)
 		if (MAY_COLORS[index]) {
-			if (index < 2) return '<span style="color:#000;background-color:' + MAY_COLORS[index] + '"><b>';
-			else return '<span style="color:' + MAY_COLORS[2] + '">';
+			if (index < 4) return '<span style="color:#000;background-color:' + MAY_COLORS[index] + '"><b>';
+			else return '<span style="color:' + MAY_COLORS[4] + '">';
 		}
 		return match; // Возвращаем цвет, если он существует, иначе возвращаем исходный текст
 	}).replace(/_B_END_COLOR_STAR_/g, '</b></span>').replace(/_END_COLOR_STAR_/g, '</span>');
@@ -583,6 +586,7 @@ function Show() { //console.log("Show()")
 		
 		const diffResult = Diff.diffWordsWithSpace(text1, text2);
 
+		//Преобразуем результат - убираем ненужные цвета, перекрашиваем пробелы в нужные (если надо)
 		function processArray(array, prop_to_remove, prop_to_act) {
 			//Сначала создаём новый массив для прохода по нему
 			let arr=[];
@@ -598,23 +602,53 @@ function Show() { //console.log("Show()")
 					arr[i][prop_to_act] = true;
 				}
 			}
-			return arr;
+			
+			//Склеиваем однотипные элементы
+			const result = arr.reduce((acc, item) => {
+				if (item[prop_to_act]) {
+					if (acc.length && acc[acc.length - 1][prop_to_act]) {
+						acc[acc.length - 1].value += item.value;
+					} else {
+						acc.push({ ...item });
+					}
+				} else {
+					acc.push({ ...item });
+				}
+				return acc;
+			}, []);
+
+			return result;
 		}
 		
 		//console.log(diffResult)
 		//console.log(processArray(diffResult,'removed','added'))
 		
+		//Помечаем перемещённые области
+		let arr2 = processArray(diffResult,'removed','added');
+		let arr1 = processArray(diffResult,'added','removed');
+		//Помечаем жёлтым повторяющиеся
+		for(let i=0;i<arr1.length;i++) {
+			if (!arr1[i].removed) continue;
+			for(let j=0;j<arr2.length;j++) {
+				if (!arr2[j].added) continue;
+				if (arr2[j].value === arr1[i].value && !arr2[j].moved && !arr1[i].moved) {
+					arr2[j].moved = true;
+					arr1[i].moved = true;
+				}
+			}
+		}
+		
 
-		let htmlResult2 = processArray(diffResult,'removed','added').map(part => {
-			const color_num = part.added ? 0 : part.removed ? 1 : 2;
-			if (color_num === 1) return '';
-			const byte_part = '_STAR_COLOR_' + color_num + part.value + (color_num < 2 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
+		let htmlResult2 = arr2.map(part => {
+			const color_num = part.moved ? 2 : part.added ? 0 : part.removed ? 1 : 4;
+			//if (color_num === 1) return '';
+			const byte_part = '_STAR_COLOR_' + color_num + part.value + (color_num < 4 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
 			return byte_part;
 		}).join('');
-		let htmlResult1 = processArray(diffResult,'added','removed').map(part => {
-			const color_num = part.added ? 0 : part.removed ? 1 : 2;
-			if (color_num === 0) return '';
-			const byte_part = '_STAR_COLOR_' + color_num + part.value + (color_num < 2 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
+		let htmlResult1 = arr1.map(part => {
+			const color_num = part.moved ? 3 : part.added ? 0 : part.removed ? 1 : 4;
+			//if (color_num === 0) return '';
+			const byte_part = '_STAR_COLOR_' + color_num + part.value + (color_num < 4 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
 			return byte_part;
 		}).join('');		
 
