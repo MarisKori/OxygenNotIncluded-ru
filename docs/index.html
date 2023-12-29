@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="preview.js"></script>
-<title>Fixed Header and Footer</title>
+<title>ONI UI for translaters</title>
 <style>
 	body {
 		margin: 0;
@@ -279,7 +279,9 @@ btn.onclick = function() {
 		+'<li><font class="mem-text">Ностальгически-синий текст</font> - старая память от предыдущих вики-переводов, в обратном хронологическом порядке.</li>'
 		+'<li><font color=#f00>Красный ключ</font> - несовпадение ссылок. Если он мигает, то не совпадает их количество, что делает блок перевода полностью нерабочим.</li>'
 		+'<li><font color=#ff0>Жёлтый перевод</font> - импортированный перевод с выключенной опцией "считать своим". Такой перевод не будет сохранён или экспортирован. При следующем обновлении страницы он исчезнет.</li>'
-		+'</ul></div>'
+		+'</ul><h4>Поиск</h4>'
+		+'В поиске по ключам можно добавить параметры, зарпещающие вхождения некоторых фраз. Это делается по аналогии с поиском в гугле: через пробел ставится знак "-", сразу после которого запрещённая подстрока.<br>Например: <code style="background-color:black">BUILDINGS.PREFABS -.FACADES.</code>'
+		+'</div>'
 	)
 }
 function SettingsApply() {
