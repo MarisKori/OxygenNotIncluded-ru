@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="preview.js"></script>
+<title>Fixed Header and Footer</title>
+<style>
+	body {
+		margin: 0;
+		padding: 0;
+		font-family: Arial, sans-serif;
+		background-color: #000;
+		color: #999;
+		display: flex;
+		flex-direction: column;
+		height: 100vh;
+	}
+	.header, .footer {
+		background-color: #151515;
+		color: #333;
+		text-align: center;
+		padding: 10px 0;
+		position: fixed;
+		left: 0;
+		right: 0;
+		height: 50px;
+	}
+	.header {
+		top: 0;
+	}
+	.footer {
+		bottom: 0;
+	}
+	.content {
+		flex-grow: 1;
+		padding-top: 60px; /* Height of header */
+		padding-bottom: 60px; /* Height of footer */
+		overflow: auto;
+		display: flex;
+		flex-direction: column;
+		flex-grow: 1;
+	}
+	
+		.textarea-section {
+			flex: 1;  /* Takes 1/3 of the available space */
+			padding: 20px;
+			padding-bottom: 0;
+			min-height: calc(33.33%);
+		}
+		.other-section {
+			flex: 2; /* Takes 2/3 of the available space */
+			padding: 20px;
+			padding-top: 0;
+			/* background-color: #000;  Just for visibility */
+		}
+		textarea {
+			width: 100%;
+			height: 100%;
+			box-sizing: border-box;
+			background-color: #111;
+			color: #0f0;
+		}
+
+	
+	
+	button {
+	margin: 5px;
+	padding: 10px 15px;
+	border: none;
+	background-color: #4CAF50;
+	color: white;
+	cursor: pointer;
+	}
+	button.disabled {
+	background-color: #666;
+	color: #999;
+	}
+	button.disabled:hover {
+	background-color: #555;
+	color: #888;
+	}
+	button:hover {
+		background-color: #45a049;
+	}
+	
+/* Modal styles */
+.modal {
+	display: none; 
+	position: fixed; 
+	z-index: 1; 
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgba(0,0,0,0.4); 
+	padding-top: 60px;
+}
+
+.modal-content {
+	background-color: #222;
+	color:#fff;
+	margin: 5% auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 80%;
+}
+
+.close {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+}
+.version {
+	padding:0;
+	margin:0;
+	font-size:10px;
+	position: relative;
+	top: -6px; /* Смещение на 5 пикселей вверх */
+}
+
+.noImageButton {
+	/* border: none; /* Убирает стандартные границы кнопки */
+	height: 20px; /* Высота кнопки */
+	width: 45px; /* Ширина кнопки */
+	line-height: 9px; /* Вертикальное центрирование текста */
+	font-size: 12px; /* Размер шрифта */
+	padding: 0
+}
+
+.imageButton {
+	background-image: url('data:image/jpeg;base64,ВАША_СТРОКА_BASE64_ЗДЕСЬ');
+	background-size: cover; /* Подгоняет размер изображения под размер кнопки */
+	border: none; /* Убирает стандартные границы кнопки */
+	height: 20px; /* Высота кнопки */
+	width: 45px; /* Ширина кнопки */
+}
+
+.klei-img {
+	width: 13px;
+	height: 20px;
+	display: inline-block;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAUCAIAAADZUCB4AAAB/UlEQVQoz42ST0hUURSHv3vfOG+yZh5T0DBpCRlRCYVUq/64KISE/ghZ0CIEs0Uy0MJq0SI3LYYogpCMNhm1kfa1CgoikDLalC0EpWR0bJxsnMn33r3vtpixmaygb3fP/bg/7jlH6N5WfbjP7Tgtc9nI9ZPBzmNL3f2UUSry4Ib88BSQAEIA4keJ+oTX2cMy9rORsrTsASAKC37nxcCJl491Y6+t50O/bkOAQQAmFlfbd5Wr1pfJukdXqKGcC6AbNlUeXizYQ5f4nXKuqBaUigynKc3+1atizUyLqTf8Qc0/PBfQjU1u3yCRdf/0rIlxa3oK0E3NbuoO9YmVnjABYKKOfbdf5uYAnWxcSt2uVSWA8oHAWUtp1n6YFsUCECQaalUJUCoAJhrDiojPo/bIPZRaoVrXdidlPmtNTobevRKFHH5RZD9ZmZzMz8uZaREY4yTlxKgEvDNXWVr0jnd7py6Xbr0E8F29pUVv3ibnMkFzSyXX1K/2ui6gdejti0qzDxwNPxkkFDJrYtbHsWUv6hgnbj++iQkwBggSG/wjZ429ytgRf197ZQ9QvigVRW7KOOvlQh4QxUL4fgrQbeeC5MbqfOVcxj2fBtAq2HrIxOJ+14BqT+G51b7I79/CwwOEw3rHXpnNqLYT1vh7tWe/f7BDKE/OfwWE7m3lP/gJRtrMBiWZ2QwAAAAASUVORK5CYII=);
+}
+
+.old-mem-img {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAAAAACo4kLRAAABoUlEQVQY0wXBS08TURgG4PebczrTqSPThtIOFS9RQ6FBJBiticbEhSEYFiauDQlbN/4QdvwCoyv3JnIxriTGKBet9RJEaJHWdjB0Wpm2Z845Pg8ta/QhlWIG0cnKB2c+zUArEiR2yqlrURB1uS2P12fOc0DrnWdszB88FyMFTb3DPIeh+5uzk0mA0ObvS6k7Gux+2F7+/LC6umEOqe679YlKmMgaae9s03n13BZP68z5UTh1dd8Cb9vi4vRSMTNifcsxFRnCdr/zoOs7MTXEWUIpuvUi+l10qhxh3XW9cuHf1gLhSqZSyJZa7G4tGI4Plqt7t6cpOmkFNTFg0svtRvyGjnxtHtWrXpyIx07zmGMfvOHYCxrMYOMITdXy2ayE57aOgxqE97MtXIRGmk1uJYPtzJM5K/+4tBg++OidSXH+trn5yL759ej6p+LrXGo4OUJaGn5nbiCBoAGYMwAqkeyT0clOHXQADexOaSAARR1+6UKfNIgBTcmBnuSKjHzuL/KH9+ZrUqyJSFj7f3qMFiZ+ZS5vfGH10JLu7uio1pb4D5adumixIH++AAAAAElFTkSuQmCC);
+}
+
+.klei-img, .old-mem-img, input {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.klei-text {
+	color:#f94;
+}
+.mem-text {
+	color:#66f;
+}
+
+.help {
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Медиа-запрос для мобильных устройств */
+@media (max-width: 600px) {
+  .help {
+    width: 100%;
+  }
+}
+	
+</style>
+<script src="diff.min.js"></script>
+</head>
+<body>
+	<div class="header">
+		<button id="btnSettings">Настройки</button>
+		<button id="btnImport">Импорт</button>
+		<button id="btnExport">Сохр./Экспорт</button><br><span class="version">v0.04</span>
+		<!--button>About</button>
+		<button>Contact</button-->
+  <!-- Settings content -->
+<!-- The Modal -->
+<div id="modalSettings" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>asdSome settings can be changed here.</p>
+  </div>
+
+</div>
+<script>
+var modal = document.getElementById('modalSettings');
+var span = document.getElementsByClassName('close')[0];
+var modalContent = document.querySelector('.modal-content')
+
+let IS_MODAL = false;
+let RESULT_MODEL = false;
+let _modal_uid_str = '';
+let _modal_uid_save_process = false;
+function DoModal(html, _uid) {
+	if (IS_MODAL) return;
+	
+	//Попытка просто восстановить кешированное окно
+	if (html === true) {
+		if (_modal_uid_str === _uid) { // Совпало! Просто восстанавливаем старое окно
+			modal.style.display = 'block';
+			footer.style.display = 'none';
+			IS_MODAL = true;
+			return;
+		}
+		// иначе запоминаем uid, т.к. следующий вызов будет настоящий
+		_modal_uid_save_process = true;
+		_modal_uid_str = _uid;
+		return;
+	}
+	
+	if (_modal_uid_save_process !== true) _modal_uid_str = '';
+	_modal_uid_save_process = false;
+	
+	IS_MODAL = true;
+	modalContent.innerHTML = '<span class="close">&times;</span>' + html;
+	var spanClose = document.getElementsByClassName('close')[0];
+	// When the user clicks on <span> (x), close the modal
+	spanClose.onclick = function() {
+		CloseModal()
+	}	
+	//RESULT_MODEL = true;
+	modal.style.display = 'block';
+	footer.style.display = 'none';
+  /* return new Promise(resolve => {
+    let clock = setInterval(() => {
+			if (!IS_MODAL) {
+				resolve(RESULT_MODEL);
+			}
+    }, 100);
+  }); */
+}
+function CloseModal(result) { console.log("CloseModal()")
+	if (!IS_MODAL) return console.log('err: закрытие модального окна, когда оно не открыто');
+	RESULT_MODEL = result;
+	IS_MODAL = false;
+	modal.style.display = 'none';
+	footer.style.display = 'block';
+}
+
+let SETTINGS = {}
+var btn = document.getElementById('btnSettings');
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+	DoModal('<p>'
+		+'<input type=checkbox id="settings_show_block_num"'+(SETTINGS.show_block_num?' checked':'')+'> Показывать номер блока в загловке<br>'
+		+'<input type=checkbox id="settings_is_short_h3"'+(SETTINGS.is_short_h3?' checked':'')+'> Укороченный заголовк (без STRINGS)<br>'
+		+'<button onclick="SettingsApply()">Принять</button>'
+		+'</p>'
+		+'<div class="help"><h4>Небольшая справка по клавишам</h4><ul style="text-align:left;">\n'
+		+'<li>Ctrl+S - сохранить/экспорт.</li>'
+		+'<li>Esc - закрытие диалога.</li>'
+		+'<li>Alt+X - обрамить выделенный текст тегом <font color=#C38802>тёмно-золотистого</font> цвета.</li>'
+		+'<li>Ctrl+стрелки - обрамить следующим/предыдущим тегом из списка в оригинале на английском.</li>'
+		+'</ul><h4>Цвета</h4><ul style="text-align:left;">'
+		+'<li><font class="klei-text">Лениво-оранжевый текст</font> - машинный перевод от Klei.</li>'
+		+'<li><font class="mem-text">Ностальгически-синий текст</font> - старая память от предыдущих вики-переводов, в обратном хронологическом порядке.</li>'
+		+'<li><font color=#f00>Красный ключ</font> - несовпадение ссылок. Если он мигает, то не совпадает их количество, что делает блок перевода полностью нерабочим.</li>'
+		+'<li><font color=#ff0>Жёлтый перевод</font> - импортированный перевод с выключенной опцией "считать своим". Такой перевод не будет сохранён или экспортирован. При следующем обновлении страницы он исчезнет.</li>'
+		+'</ul></div>'
+	)
+}
+function SettingsApply() {
+	SETTINGS.show_block_num = document.querySelector('#settings_show_block_num').checked
+	SETTINGS.is_short_h3 = document.querySelector('#settings_is_short_h3').checked
+	localStorage.settings = JSON.stringify(SETTINGS);
+	CloseModal()
+	Show()
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+	if (event.target == modal) {
+		CloseModal()
+	}
+}
+
+
+function CheckShortKeyID(key) {
+	if (!SETTINGS.is_short_h3) return key;
+	if (key.match('^STRINGS\.')) return key.substr(8);
+	return key;
+}
+
+
+
+//Добавляем кавычки, как они должны быть в переводе
+function AddQuotes(str) {
+	let t = str.split('\n')
+	for(let i=0;i<t.length;i++) {
+		//t[i] = t[i].replace(/\\`/g, "`");
+		t[i] = '"' + t[i] + '"';
+	}
+	return t.join('\n');
+}
+// Удаляем кавычки
+function RemoveQuotes(str) {
+	let t = Array.isArray(str) ? str : str.trim().split('\n')
+	for(let i=0;i<t.length;i++) {
+		//t[i] = t[i].replace(/\\`/g, "`");
+		let s = t[i].trim().replace(/^"|"$/g, '');
+		t[i] = s;
+	}
+	return t.join('\n');
+}
+
+let exportData = 'asdasd';
+//Формируем строку для сохранения в localStorage
+function SaveData() {
+	let save = []; // объект для сохранения
+	let arr = []; // формирование строки для экспорта
+	for(let i=0;i<db.length;i++) {
+		let row = db[i];
+		if (row.msgstr === '') continue;
+		if (row.msgstr === row.imported) continue;
+		save.push({k:row.msgctxt, r:row.msgstr});
+		arr.push(row.msgctxt, AddQuotes(row.msgstr), ''); //пустая строка - для пропуска строки
+	}
+	exportData = arr.join('\n');
+	localStorage.data = JSON.stringify(save); //console.log(save)
+	localStorage.total = db.length;
+}
+function LoadData() {
+	if (localStorage.data === undefined) return console.log('err: Cant LOAD, no data');
+	if (localStorage.total === undefined || localStorage.total != db.length)
+		return console.log('err: Cant LOAD, wrong total numer of strings'); // Запретить загружать при несовпадении базы данных
+	let save = JSON.parse(localStorage.data);
+	let j=0;
+	for (let i=0; i<save.length; i++) {
+		let trans = save[i]
+		let key = trans.k
+		while (j<db.length && db[j].msgctxt !== key) j++;
+		if (j == db.length) break;
+		db[j].msgstr = trans.r;
+	}
+	if (localStorage.settings !== undefined) {
+		SETTINGS = JSON.parse(localStorage.settings);
+	}
+}
+LoadData();
+
+
+
+var btnImport = document.getElementById('btnImport');
+// When the user clicks the button, open the modal 
+btnImport.onclick = function() {
+	//exportData = '';
+	SaveData();
+	DoModal('<p>Введите данные для объединения с текущим переводом:<br><textarea class="import" id="import_data" style="height:120px"></textarea><br>'
+		+'<input type=checkbox id="is_import_overwrite"> Перезаписать текущй перевод (иначе игнорировать)<br>'
+		+'<input type=checkbox id="is_import_mine"> Считать импортируемые строки своими (будут включены в экспорт)<br>'
+		+'<button onclick="ImportData()">Применить</button></p>'
+	);
+}
+
+function ImportData() {
+	let import_data = document.querySelector('#import_data').value;
+	let is_import_overwrite = document.querySelector('#is_import_overwrite').checked;
+	let is_import_mine = document.querySelector('#is_import_overwrite').checked;
+	
+	//Формируем индекс ключей (ассоциативный массив)
+	let key_idx = {};
+	for (let i=0;i<db.length;i++) key_idx[db[i].msgctxt] = i;
+	
+	//Для начала разделить данные на блоки
+	let blocks = import_data.replace(/\r/g,'').split('\n\n');
+	let err_cnt = 0;
+	let ignore_cnt = 0;
+	let done_cnt = 0;
+	//Далее необходимо по ключу выбрать только перевод
+	for(let i=0;i<blocks.length;i++) {
+		let lines = blocks[i].trim().split('\n');
+		while (lines.legnth > 0 && lines[0][0] == '#') lines.shift();
+		let key = '';
+		while (lines.length > 0) {
+			let s = lines[0]
+			lines.shift();
+			if (s.indexOf('msgctxt ') === 0) {
+				let m = s.match('"(.*)"')
+				if (m) key = m[1];
+				break;
+			}
+			if (s.indexOf('STRINGS.') === 0) {
+				key = s.trim()
+				break;
+			}
+		}
+		if (!key || lines.length==0) {console.log('err: no key!', lines); err_cnt++; continue; }
+		if (lines[0].indexOf('msgid ')===0) {
+			while (lines.length>0 && lines[0].indexOf('msgstr ')!==0) lines.shift();
+			if (lines.length>0) lines[0] = lines[0].substr(7);
+		}
+		let result = RemoveQuotes(lines)
+		let idx = key_idx[key];
+		if (idx===undefined) {console.log('err: no index for: ',key); err_cnt++; continue; }
+		let row = db[idx];
+		
+		if (row.msgstr === result) {ignore_cnt++; continue} // совпадение
+		if (!is_import_overwrite && row.msgstr !== '') {ignore_cnt++; continue} // нельзя перезаписывать
+		if (is_import_mine) {
+			row.msgstr = result;
+			row.imported = '';
+			done_cnt++; //console.log(row);
+		} else {
+			if (row.imported === result) {ignore_cnt++; continue} // совпадение с уже импортированным
+			row.msgstr = result;
+			row.imported = result
+			done_cnt++;
+		}
+	}
+	// Перезаписываем окно
+	IS_MODAL = false;
+	Show();
+	DoModal('Записано: ' + done_cnt + '<br>\n'
+		+'Проигнорировано: ' + ignore_cnt + '<br>\n'
+		+'Ошибок: ' + err_cnt + '<br>\n'
+	);
+}
+
+
+
+
+
+function ExportData() {
+	let txt = document.querySelector('textarea.export')
+	if (!txt) return;
+	txt.select();
+	document.execCommand('copy');
+}
+
+var btnExport = document.getElementById('btnExport');
+// When the user clicks the button, open the modal 
+function SaveOrExport() {
+	//exportData = '';
+	if (IS_MODAL) return;
+	SaveData();
+	DoModal('<p><textarea class="export" style="height:250px">'+exportData+'</textarea><br><button onclick="ExportData()">Копировать</button></p>')
+}
+btnExport.onclick = SaveOrExport;
+
+
+
+</script>
+	</div>
+	<div class="content">
+				<div
+        <div class="textarea-section">
+            <textarea class=main>Нужно включить JavaScript, чтобы функции UI заработали.</textarea>
+        </div>
+        <div class="other-section">
+            <!-- Add content here -->
+								<h3><span id="msgxtxt">Welcome to Our Page</span></h3>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here.</p>
+		<p>This is the content area. You can add more content here0.</p>
+		<p>This is the content area. You can add more content here1.</p>
+		<p>This is the content area. You can add more content here2.</p>
+		<p>This is the content area. You can add more content here3.</p>
+        </div>
+
+	</div>
+	<div class="footer">
+		<button>Privacy</button>
+		<button>Terms</button>
+		<button>Help</button>
+	</div>
+<script>
+var textarea = document.querySelector('textarea.main');
+var content = document.querySelector('.other-section');
+var footer = document.querySelector('.footer');
+
+
+let NUM_NOW = 0;
+if (localStorage.num !== undefined) {
+	let num = localStorage.num - 0;
+	if (!isNaN(num) && num >=0 && num < db.length) {
+		NUM_NOW = num;
+	}
+}
+
+
+function UpdateButtons() {
+	let html = '';
+	
+	if (NUM_NOW > 0) html += '<button onclick="Prev()">Пред.</button>\n';
+	else html += '<button class="disabled">Пред.</button>\n';
+	
+	html += '<button onclick="SetNumber()">Номер</button>\n';
+	
+	html += '<button onclick="SearchBlock()">Поиск</button>\n';
+	
+	if (NUM_NOW < db.length-1) html += '<button onclick="Next()">След.</button>\n';
+	else html += '<button class="disabled">След.</button>\n';
+	
+	footer.innerHTML = html;
+}
+
+function MaskTags(str) {
+	let s = str.replace(/</g, "&lt;")
+	return s.replace(/>/g, "&gt;")
+}
+
+function LittleButtonSet(key, mem_num) {
+	return '<input type=button class="noImageButton" value="set" onclick="SetMem('+NUM_NOW+',\''+key+'\''+(mem_num!==undefined?','+mem_num:'')+')">'
+		+' <input type=button class="noImageButton" value="no tags" onclick="SetMem('+NUM_NOW+',\''+key+'\','+mem_num+',-1)">'
+		//+'<br>';
+}
+
+
+const MAY_COLORS = ['#0c0', '#c00', '#999']; // added, removed, normal
+function replaceStarColor(text) {
+	return text.replace(/_STAR_COLOR_(\d+)/g, (match, number) => {
+		const index = parseInt(number); // Переводим номер в индекс массива (начиная с 0)
+		//console.log('INDEX: ',index)
+		if (MAY_COLORS[index]) {
+			if (index < 2) return '<span style="color:#000;background-color:' + MAY_COLORS[index] + '"><b>';
+			else return '<span style="color:' + MAY_COLORS[2] + '">';
+		}
+		return match; // Возвращаем цвет, если он существует, иначе возвращаем исходный текст
+	}).replace(/_B_END_COLOR_STAR_/g, '</b></span>').replace(/_END_COLOR_STAR_/g, '</span>');
+}
+
+function Show() { //console.log("Show()")
+	let num = NUM_NOW;
+	let row = db[num];
+	textarea.value = row.msgstr;
+	let s = '';
+	//Формируем id и текущий английский
+	s += '<h3 id="msgctxt">'
+		+ (SETTINGS.show_block_num ? '['+(NUM_NOW+1)+'] ':'')
+		+ CheckShortKeyID(row.msgctxt)
+		+ '</h3>\n';
+	if (row.mem) { // Нужно применить алгоритм Майерса
+		let text2 = row.msgid; // new english
+		let text1 = row.mem[row.mem.length-1].msgid; // old english
+		
+		const diffResult = Diff.diffWordsWithSpace(text1, text2);
+
+		function processArray(array, prop_to_remove, prop_to_act) {
+			//Сначала создаём новый массив для прохода по нему
+			let arr=[];
+			for (let i=0;i<array.length; i++) {
+				let v = array[i]
+				if (array[i][prop_to_remove]) continue;
+				arr.push({value:v.value, removed:v.removed, added:v.added});
+			}
+			// Проходим по массиву и помечаем пробелы, которые находятся между удалёнными фрагментами
+			for (let i = 1; i < arr.length - 2; i++) {
+				// Проверяем, является ли текущий элемент пробелом
+				if (arr[i].value.match(/^[ <>.,;:=\\"']*$/) && arr[i-1][prop_to_act] && arr[i+1][prop_to_act]) {
+					arr[i][prop_to_act] = true;
+				}
+			}
+			return arr;
+		}
+		
+		//console.log(diffResult)
+		//console.log(processArray(diffResult,'removed','added'))
+		
+
+		let htmlResult2 = processArray(diffResult,'removed','added').map(part => {
+			const color_num = part.added ? 0 : part.removed ? 1 : 2;
+			if (color_num === 1) return '';
+			const byte_part = '_STAR_COLOR_' + color_num + part.value + (color_num < 2 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
+			return byte_part;
+		}).join('');
+		let htmlResult1 = processArray(diffResult,'added','removed').map(part => {
+			const color_num = part.added ? 0 : part.removed ? 1 : 2;
+			if (color_num === 0) return '';
+			const byte_part = '_STAR_COLOR_' + color_num + part.value + (color_num < 2 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
+			return byte_part;
+		}).join('');		
+
+		htmlResult2 = replaceStarColor(MaskTags(htmlResult2));
+		htmlResult1 = replaceStarColor(MaskTags(htmlResult1));
+		
+		s += '<p>' + LittleButtonSet('msgid') + '<br>' + htmlResult2 + '</p>\n';
+		
+		row.mem[row.mem.length-1].msgid_may = htmlResult1
+		
+	} else s += '<p>' + LittleButtonSet('msgid') + '<br>' + MaskTags(row.msgid) + '</p>\n';
+	//Добавляем перевод Klei
+	if (row.klei) {
+		s += '<p>' + LittleButtonSet('klei')
+			+ ' <span class="klei-img"></span>'
+			+ '<br><font class="klei-text">' + MaskTags(row.klei) + '</font></p>\n';
+	}
+	//Формируем память, если есть
+	if (row.mem) {
+		for(let i=row.mem.length-1; i>=0; i--) {
+			let m = row.mem[i];
+			s += '<h3><font color=#55f>MEM'+(row.mem.length==1?'':' '+row.mem.length-i)
+				+(row.mem.length > 1 && i === row.mem.length-1 ? ' (более новый)' : '')
+				+(row.mem.length > 1 && i === 0 ? ' (самый древний)' : '')
+				+':</font></h3>\n';
+			s += '<p>' + LittleButtonSet('msgid',i) + '<br>' + (m.msgid_may || MaskTags(m.msgid)) + '</p>\n';
+			s += '<p>' + LittleButtonSet('msgstr',i)
+				+ ' <span class="old-mem-img"></span>'
+				+ '<br><font class="mem-text">' + MaskTags(m.msgstr) + '</font></p>\n';
+		}
+	}
+	
+	content.innerHTML = s;
+	
+	UpdateButtons();
+	OnTextareaUpdate(true)
+}
+
+
+
+
+
+
+
+function areArrayValsEqual(arr1, arr2) {
+	return arr1.every(item => arr2.includes(item)) && arr2.every(item => arr1.includes(item));
+}
+
+
+function extractLinks(text) {
+	const regex = /<link=(.*?)>/g;
+	let matches;
+	const links = [];
+
+	while ((matches = regex.exec(text)) !== null) {
+		let m = matches[1].trim().match(/^\\"(.*)\\"$/)
+		if (m) links.push(m[1]);
+		else return false; // error!
+	}
+
+	return links;
+}
+
+function ChangeKeyIDCol(col) {
+	let h3 = document.querySelector('#msgctxt')
+	if (h3) h3.style = 'color:'+col;
+}
+
+let _col_id_now = -1;
+let _COLS_ID = ['#f00', '#c00', '#900', '#c00'];
+function OnTextareaUpdate(is_forced) { // is_forced - значит, что игнорируем кэш
+	let str = textarea.value;
+	let data = db[NUM_NOW]
+	if (str === data.msgstr && !is_forced) {
+		if (_col_id_now < 0) return;
+		_col_id_now = Math.floor((Date.now() / 305) % 4);
+		return ChangeKeyIDCol(_COLS_ID[_col_id_now]);
+	}
+	data.msgstr = str;
+	
+	let text_color = '#0f0';
+	if (data.imported !== undefined && data.msgstr === data.imported) {
+		text_color = '#ff0';
+	}
+	textarea.style = 'color:'+text_color;
+	
+	_col_id_now = -1;
+	if (str === '') return ChangeKeyIDCol('#777');
+
+	//проверка совпадения количества линков и самих ссылок
+	let eng = data.msgid;
+	
+	let eng_arr = extractLinks(eng)
+	if (eng_arr === false) { return ChangeKeyIDCol('#ff0');}
+	let str_arr = extractLinks(str)
+	if (str_arr === false) { return ChangeKeyIDCol('#f00');}
+	
+	if (eng_arr.length !== str_arr.length) {
+		_col_id_now = Math.floor((Date.now() / 305) % 4);
+		return ChangeKeyIDCol(_COLS_ID[_col_id_now]);
+	} else _col_id_now = -1;
+	
+	if (!areArrayValsEqual(eng_arr, str_arr)) return ChangeKeyIDCol('#f00');
+	return ChangeKeyIDCol('#aaa');
+	
+	
+}
+
+Show()
+
+let CURRENT_ENG_TAGS = undefined;
+let CURRENT_ENG_TAGS_now = undefined;
+function ReSaveTextarea() {
+	OnTextareaUpdate()
+	CURRENT_ENG_TAGS = undefined;
+	CURRENT_ENG_TAGS_now = undefined
+}
+
+textarea.addEventListener('input', OnTextareaUpdate);
+textarea.addEventListener('change', OnTextareaUpdate);
+let textarea_timer = setInterval(OnTextareaUpdate,300);
+
+// Добавляем обработчик события keydown к элементу textarea
+textarea.addEventListener('keydown', function(event) {
+	// event.key содержит название нажатой клавиши
+	//console.log('Нажата клавиша: ' + event.key);
+	if (event.altKey) {
+		let key = event.key
+		
+		// Для сочетаний клавиш вы можете использовать event.altKey, event.ctrlKey, и event.shiftKey
+		if (key === 'x' || key === 'X' || key === 'ч' || key === 'Ч') {
+			//console.log('Нажата комбинация Alt + X');
+			// Здесь можно добавить ваш код, который будет выполняться при нажатии Alt + C
+			let text = textarea.value;
+
+			// Получаем позиции начала и конца выделения
+			let startPos = textarea.selectionStart;
+			let endPos = textarea.selectionEnd;
+
+			// Разбиваем текст на три части
+			let before = text.substring(0, startPos);
+			let selected = text.substring(startPos, endPos);
+			let after = text.substring(endPos);
+
+			//console.log('До: ' + before);
+			//console.log('Выделенный: ' + selected);
+			//console.log('После: ' + after);
+			if (after.match('^</color>')) return;
+			if (before.match('<color=#C38802>$')) return;
+			if (selected.match('</color>$')) return;
+			if (selected.match('^<color=#C38802>')) return;
+			
+			textarea.value = before + '<color=#C38802>' + selected + '</color>' + after;
+			textarea.selectionStart = startPos + 15;
+			textarea.selectionEnd = endPos + 15;
+		}
+	}
+	if (event.ctrlKey) {
+		let move = (event.key === 'ArrowLeft' ? -1 : (event.key === 'ArrowRight' ? 1 : 0));
+		if (move !== 0) {
+			if (!CURRENT_ENG_TAGS) { // анализируем английский вариант и создаём теги
+				const regex = /<(\w+)([^>]*)>/g;
+				const tags = [];
+				let match;
+
+				let str = db[NUM_NOW].msgid
+
+				while ((match = regex.exec(str)) !== null) {
+					let already_added = false;
+					let new_tag = match[1];
+					let new_attr = match[2].trim()
+					for(let i=0;i<tags.length;i++) if (tags[i].tag === new_tag && tags[i].attributes === new_attr) { already_added = true; break }
+					if (already_added) continue;
+					tags.push({
+						tag: new_tag,
+						attributes: new_attr
+					});
+				}				
+
+				CURRENT_ENG_TAGS = tags;
+			}
+			if (CURRENT_ENG_TAGS.length > 0) {
+				//двигаем позицию
+				if (CURRENT_ENG_TAGS_now == undefined) {
+					if (move > 0) CURRENT_ENG_TAGS_now = 0;
+					else CURRENT_ENG_TAGS_now = CURRENT_ENG_TAGS.length - 1;
+				} else {
+					CURRENT_ENG_TAGS_now += move;
+					if (CURRENT_ENG_TAGS_now < 0) CURRENT_ENG_TAGS_now = CURRENT_ENG_TAGS.length - 1;
+					else if (CURRENT_ENG_TAGS_now >= CURRENT_ENG_TAGS.length) CURRENT_ENG_TAGS_now = 0;
+				}
+				
+				// Вокруг выделенной области убираем старый тег, если есть
+				
+				let text = textarea.value;
+				// Получаем позиции начала и конца выделения
+				let startPos = textarea.selectionStart;
+				let endPos = textarea.selectionEnd;
+				// Разбиваем текст на три части
+				let before = text.substring(0, startPos);
+				let selected = text.substring(startPos, endPos);
+				let after = text.substring(endPos);
+				
+				//Удаляем теги непосредственно до и после выделения
+				let m1 = before.match(/<[^>]+>$/)
+				let m2 = after.match(/^<\/[^>]+>/)
+				if (m1 && m2) {
+					before = before.substring(0, before.length - m1[0].length)
+					after = after.substring(m2[0].length);
+				}
+				
+				//Вставляем новый тег
+				let data = CURRENT_ENG_TAGS[CURRENT_ENG_TAGS_now];
+				let space = (data.attributes[0] === '=' || data.attributes === '' ? '' : ' ')
+				before += '<' + data.tag + space + data.attributes + '>';
+				after = '</' + data.tag + '>' + after;
+				textarea.value = before + selected + after;
+				textarea.selectionStart = before.length;
+				textarea.selectionEnd = before.length + selected.length;
+				event.preventDefault();
+			}
+		}
+	}
+});
+//.ROOMS.CRITERIA.
+
+document.addEventListener('keydown', function(event) {
+	//console.log(event.key)
+	if (event.key === 'Escape' && IS_MODAL) {
+		CloseModal()
+	}
+	if (event.ctrlKey) {
+		if (event.key === 's' || event.key === 'S' || event.key === 'ы' || event.key === 'Ы' ) { // Ctrl+S
+			// Save/export
+			SaveOrExport();
+			event.preventDefault();
+		}
+	}
+}); //querySelector('body').
+
+
+function Prev() {
+	if (IS_MODAL) return;
+	if (NUM_NOW==0) return;
+	ReSaveTextarea()
+	NUM_NOW--;
+	localStorage.num = NUM_NOW;
+	Show()
+}
+function Next() {
+	if (IS_MODAL) return;
+	if(NUM_NOW>=db.length-1) return;
+	ReSaveTextarea()
+	NUM_NOW++;
+	localStorage.num = NUM_NOW;
+	Show()
+}
+function SetNumber() {
+	if (IS_MODAL) return;
+	DoModal('<p>Введите номер блока (от 1 до '+(db.length)+'):<br>'
+		+'<input type=text size=10 id="block_num" value="'+(NUM_NOW+1)+'"><br>'
+		+'<button onclick="SetNumberOK()">Принять</button></p>'
+	)
+}
+function SetNumberOK(num) { //console.log("SetNumberOK()")
+	if (!IS_MODAL) return console.log('err: not is modal');
+	let block_num = document.querySelector('#block_num')
+	let val = block_num && parseInt(block_num.value)
+	if (num !== undefined) val = num;
+	if (isNaN(val)) return console.log('err: is nan');
+	if (val<1||val>db.length) return console.log('err: out of range');
+	CloseModal()
+	ReSaveTextarea()
+	NUM_NOW = val-1;
+	localStorage.num = NUM_NOW;
+	Show();
+}
+function SetMem(num, key, mem_num, no_tags) {
+	if (IS_MODAL) return;
+	let text_to_insert;
+	if (mem_num!==undefined) text_to_insert = db[num].mem[mem_num][key];
+	else text_to_insert = db[num][key];
+	if (no_tags === -1) {
+		//text_to_insert = text_to_insert.replace('&lt;','<').replace('&gt;','>')
+		text_to_insert = removeHtmlTags(text_to_insert)
+		textarea.value += '\n' + text_to_insert
+	} else textarea.value = text_to_insert;
+	OnTextareaUpdate();
+}
+let _cache_search_str = '';
+let _is_search_case, _is_search_keys_only, _is_search_text_only, _is_search_no_mem, _is_keep_tags, _is_no_trans, _is_search_current;
+function SearchBlock() {
+	if (IS_MODAL) return;
+	if (DoModal(true, 'uid_search_block')) {
+		document.getElementById('search_str').focus();
+		return; // Попытка вернуть старое модальное окно, которое просто скрыто.
+	}
+	DoModal('<p style="text-align:left;width:100%"><input style="width:100%" type="text" id="search_str" value="'+_cache_search_str+'"><br>'
+		+'<input type=checkbox id="is_search_case"'+(_is_search_case?' checked':'')+'> Учитывать регистр<br>'
+		+'<input type=checkbox id="is_search_current"'+(_is_search_current?' checked':'')+'> Учитывать текущий перевод<br>'
+		//+'<input type=checkbox id="is_keep_tags"'+(_is_keep_tags?' checked':'')+'> Без вырезания тегов<br>'
+		+'<input type=checkbox id="is_search_keys_only"'+(_is_search_keys_only?' checked':'')+'> Только ключи<br>'
+		+'<input type=checkbox id="is_search_text_only"'+(_is_search_text_only?' checked':'')+'> Только текст<br>'
+		+'<input type=checkbox id="is_search_no_mem"'+(_is_search_no_mem?' checked':'')+'> Только без старой памяти<br>'
+		+'<input type=checkbox id="is_no_trans"'+(_is_no_trans?' checked':'')+'> Только без текущего перевода<br>'
+		+'<button onclick="ButtonStartSearch()">Искать</button></p>'
+		+'<p id="search_results" style="text-align:left;width:100%"></p>'
+	);
+	document.getElementById('search_str').addEventListener('keypress', function (e) {
+    if (e.key === 'Enter') {
+      // Действия, которые нужно выполнить при нажатии Enter
+			console.log('enter');
+      ButtonStartSearch();
+    }
+	});
+	document.getElementById('search_str').focus();
+}
+function removeHtmlTags(inputString) {
+	//if (_is_keep_tags) return inputString;
+  return inputString.replace(/<[^>]*>/g, "");
+}
+function ButtonStartSearch() {
+	if (!IS_MODAL) return console.log('err: not is modal');
+	let search_str = document.querySelector('#search_str').value;
+	_cache_search_str = search_str
+	let search_str_upper = search_str.toUpperCase();
+	if (search_str.length < 3) return console.log('err: search string is too short, need 3 characters');
+	let is_search_case = document.querySelector('#is_search_case').checked;
+	_is_search_case = is_search_case;
+	let is_search_current = document.querySelector('#is_search_current').checked;
+	_is_search_current = is_search_current;
+	//let is_keep_tags = document.querySelector('#is_keep_tags').checked;
+	//_is_keep_tags = is_keep_tags; console.log('_is_keep_tags',_is_keep_tags)
+	let is_search_keys_only = document.querySelector('#is_search_keys_only').checked;
+	_is_search_keys_only = is_search_keys_only;
+	let is_search_text_only = document.querySelector('#is_search_text_only').checked;
+	_is_search_text_only = is_search_text_only
+	let is_search_no_mem = document.querySelector('#is_search_no_mem').checked;
+	_is_search_no_mem = is_search_no_mem;
+	let is_no_trans = document.querySelector('#is_no_trans').checked;
+	_is_no_trans = is_no_trans;
+	let results = [];
+	let KEY_EXCLUDE;
+	//Обработка минуса (исключения)
+	if (is_search_keys_only) {
+		let arr = search_str_upper.trim().split(' -')
+		if (arr.length > 1) {
+			search_str = arr.shift().trim()
+			search_str_upper = search_str.toUpperCase();
+			for(let i=0; i < arr.length; i++) arr[i] = arr[i].trim();
+			KEY_EXCLUDE = arr;
+		}
+	}
+	//console.log('Search str: ',search_str);
+	//if (KEY_EXCLUDE) console.log('KEY_EXCLUDE: ',KEY_EXCLUDE);
+	for(let i=0;i<db.length;i++) {
+		let row = db[i];
+		if (is_search_no_mem && row.mem) continue;
+		if (is_no_trans && row.msgstr !== '') continue;
+		if (!row.notags_str) { // формируем общую строку для поиска по ней
+			let arr = [removeHtmlTags(row.msgid)];
+			if (row.klei) arr.push(removeHtmlTags(row.klei));
+			if (row.mem) row.mem.forEach(e => arr.push(removeHtmlTags(e.msgid), removeHtmlTags(e.msgstr)) );
+			row.notags_str = arr.join('\n');
+			row.notags_str_upper = row.notags_str.toUpperCase()
+		}
+		//Ищем в ключах
+		if (!is_search_text_only) {
+			if (row.msgctxt.indexOf(search_str_upper) !== -1) {
+				let is_excluded = false;
+				if (KEY_EXCLUDE) {
+					for (let j=0; j<KEY_EXCLUDE.length; j++) {
+						if (row.msgctxt.indexOf(KEY_EXCLUDE[j]) !== -1) {
+							//console.log(row.msgctxt  + ' contains ' + KEY_EXCLUDE[j])
+							is_excluded = true;
+							break;
+						}
+					}
+				}
+				if (!is_excluded) {
+					results.push(i);
+					continue
+				}
+			}
+		}
+		if (is_search_keys_only) continue;
+		if (is_search_case) {
+			if (row.notags_str.indexOf(search_str) !== -1) { results.push(i); continue }
+		} else { // !is_search_case - без учета регистра
+			//console.log(search_str_upper);
+			//console.log(row.notags_str_upper);
+			//console.log(row.notags_str_upper.indexOf(search_str_upper));
+			if (row.notags_str_upper.indexOf(search_str_upper) !== -1) { results.push(i); continue }
+			
+		}
+		if (is_search_current && row.msgstr !== '') {
+			let current_notags_str = removeHtmlTags(row.msgstr)
+			if (is_search_case) {
+				if (current_notags_str.indexOf(search_str) !== -1) { results.push(i); continue }
+			} else {
+				let current_notags_str_upper = current_notags_str.toUpperCase()
+				if (current_notags_str_upper.indexOf(search_str_upper) !== -1) { results.push(i); continue }
+			}
+		}
+		//if (i>5) break;
+	}
+	let result_strs = [];
+	for(let i=0;i<results.length;i++) {
+		let num=results[i]+1; // номер для отображения
+		let row = db[num-1];
+		let col = '';
+		if (row.mem) {
+			if (row.klei) col = (row.msgstr !== '') ? '#ed94cd' : '#a14e85';
+			else col = (row.msgstr !== '') ? '#9e94ff' : '#66f';
+		} else if (row.klei) col = (row.msgstr !== '') ? '#ffcb74' : '#ff9944';
+		result_strs.push('<button onclick="SetNumberOK('+num+')"'+(col!=''?' style="background-color:'+col+'"':'')+'>Go</button> ['+num+'] ' + CheckShortKeyID(row.msgctxt))
+	}
+	document.querySelector('#search_results').innerHTML = ''
+		+ '<font size=-1><font color=#666>Найдено:</font> <font color=#999>' + result_strs.length + '</font></font><br>\n'
+		+ result_strs.join('<br>\n');
+}
+
+
+
+</script>
+</body>
+</html>
