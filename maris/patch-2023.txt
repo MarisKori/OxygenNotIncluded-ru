@@ -92,7 +92,7 @@ STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.NAME
 "Требуется опустошить"
 
 STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.TOOLTIP
-"Нужно избавиться от <link=\"MILKFAT\">масла</link> в этой постройке, чтобы продолжить работу"
+"Нужно избавиться от <link=\"MILKFAT\">скользеина</link> в этой постройке, чтобы продолжить работу"
 
 STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_NOSURFACESIGHT.NAME
 "Нет прямой видимости"
@@ -189,7 +189,7 @@ STRINGS.BUILDING.STATUSITEMS.TRANSITTUBEENTRANCEWAXREADY.NAME
 
 STRINGS.BUILDING.STATUSITEMS.TRANSITTUBEENTRANCEWAXREADY.TOOLTIP
 ""
-"Эта постройка укомплектована <link=\"MILKFAT\">маслом</link> для ускорения\n"
+"Эта постройка укомплектована <link=\"MILKFAT\">скользеином</link> для ускорения\n"
 "\n"
 "{0} за 1 применение (осталось: {1})"
 
@@ -370,13 +370,13 @@ STRINGS.BUILDINGS.PREFABS.LUXURYBED.EFFECT
 "Дубликанты будут автоматически спать на назначенных кроватях ночью."
 
 STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.DESC
-"Дубликанты могут обмазаться маслом, чтобы быстрее перемещаться по транзитным трубам."
+"Дубликанты могут обмазаться скользеином, чтобы быстрее перемещаться по транзитным трубам."
 
 STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.EFFECT
-"Перерабатывает <link=\"MILK\">молокен</link> в <link=\"BRINE\">рассол</link> и <link=\"MILKFAT\">масло</link>, выделяя <link=\"CARBONDIOXIDE\">углекислый газ</link>."
+"Перерабатывает <link=\"MILK\">молокен</link> в <link=\"BRINE\">рассол</link> и <link=\"MILKFAT\">скользеино</link>, выделяя <link=\"CARBONDIOXIDE\">углекислый газ</link>."
 
 STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.NAME
-"<link=\"MILKFATSEPARATOR\">Экстрактор масла</link>"
+"<link=\"MILKFATSEPARATOR\">Экстрактор скользеина</link>"
 
 STRINGS.BUILDINGS.PREFABS.MILKFEEDER.DESC
 "Животным в тесноте находиться легче, если утолить жажду молокеном."
@@ -600,6 +600,9 @@ STRINGS.BUILDINGS.PREFABS.WATERTRAP.EFFECT
 
 STRINGS.BUILDINGS.PREFABS.WATERTRAP.NAME
 "<link=\"WATERTRAP\">Ловушка для рыб</link>"
+
+STRINGS.CODEX.CREATURE_DESCRIPTORS.MAXAGE
+"Средняя <link=\"CREATURES::GUIDE::FERTILITY\">продолжительность жизни</link> существа в циклах: <b>{0}</b>."
 
 STRINGS.CODEX.CRITTERSTATUS.MOOD.BODY.CONTAINER1
 ""
@@ -1013,7 +1016,7 @@ STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.NAME
 
 STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.TOOLTIP
 ""
-"Перед путешествием этот дубликант намазался <link=\"MILKFAT\">маслом</link>\n"
+"Перед путешествием этот дубликант намазался <link=\"MILKFAT\">скользеином</link>\n"
 "\n"
 "Его скорость в <link=\"TRAVELTUBE\">транзитной трубе</link> увеличится на {0}"
 
@@ -1059,20 +1062,69 @@ STRINGS.ELEMENTS.ALGAE.DESC
 "\n"
 "Используются для производства <link=\"OXYGEN\">кислорода</link>, когда используются в <link=\"MINERALDEOXIDIZER\">диффузоре кислорода</link>"
 
+STRINGS.ELEMENTS.ALUMINUMGAS.DESC
+"(Al) Пары алюминия — это алюминий, <link=\"REFINEDMETAL\">металл</link> с низкой плотностью, нагретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+
+STRINGS.ELEMENTS.COPPERGAS.DESC
+"(Cu) Пары меди — это медь, нагретая до <link=\"ELEMENTSGAS\">газообразного</link> состояния, которая в твёрдом виде является хорошим <link=\"METAL\">металлическим</link> проводником."
+
 STRINGS.ELEMENTS.CREATURE.DESC
 ""
 "(DuPe) Биоматерия — это суспензия воды, углерода, а также десятков и десятков микроэлементов.\n"
 "\n"
 "Дубликанты печатаются из чистой биоматерии."
 
+STRINGS.ELEMENTS.CRUSHEDICE.DESC
+"(H<sub>2</sub>O) Перемолотый, полутвёрдый лёд."
+
+STRINGS.ELEMENTS.DEPLETEDURANIUM.DESC
+""
+"(U) Обеднённый уран – это вещество с низким содержанием <link=\"URANIUMORE\">урана-235</link> (U-235).\n"
+"\n"
+"Оно является побочным продуктом при производстве <link=\"ENRICHEDURANIUM\">обогащённого урана</link>, и не подходит в качестве топлива."
+
+STRINGS.ELEMENTS.ETHANOLGAS.DESC
+"(C<sub>2</sub>H<sub>5</sub>OH) Пары этанола — этанол в <link=\"ELEMENTSGAS\">газообразном</link> состоянии, который сам по себе является относительно простым органическим соединением, состоящим из углерода, водорода и кислорода."
+
+STRINGS.ELEMENTS.GOLDGAS.DESC
+"(Au) Пары золота — драгоценный <link=\"RAWMETAL\">металл</link> и хороший проводник, нагретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+"(Au) Пары золота — это <link=\"RAWMETAL\">газообразное</link> состояние золота, достигаемое при его нагревании до высоких температур. Золото известно как драгоценный металл и хороший проводник.<link=\"RAWMETAL\"></link>"
+
 STRINGS.ELEMENTS.HARDPOLYPROPYLENE.DESC
 ""
-"<link=\"HARDPOLYPROPYLENE\">Пластий</link> — это улучшенный термостойкий полимер, созданный из <link=\"TEMPCONDUCTORSOLID\">термия</link>, <link=\"POLYPROPYLENE\">пластика</link> и <link=\"MILKFAT\">масла</link>.\n"
+"<link=\"HARDPOLYPROPYLENE\">Пластий</link> — это улучшенный термостойкий полимер, созданный из <link=\"TEMPCONDUCTORSOLID\">термия</link>, <link=\"POLYPROPYLENE\">пластика</link> и <link=\"MILKFAT\">скользеина</link>.\n"
 "\n"
 "Из-за его устойчивости к высоким температурам, пластий подходит для космических построек."
 
 STRINGS.ELEMENTS.HARDPOLYPROPYLENE.NAME
 "<link=\"HARDPOLYPROPYLENE\">Пластий</link>"
+
+STRINGS.ELEMENTS.HYDROGEN.DESC
+"(H) Водород — самый распространённый и атомарно легкий элемент во вселенной в <link=\"ELEMENTSGAS\">газообразном</link> состоянии."
+
+STRINGS.ELEMENTS.IRONGAS.DESC
+"(Fe) Пары железа — <link=\"ELEMENTSGAS\">газообразное</link> состояние железа, нагретого до высоких температур, хотя в обычном состоянии это простой промышленный <link=\"RAWMETAL\">металл</link>."
+
+STRINGS.ELEMENTS.LEADGAS.DESC
+"(Pb) Пары свинца — <link=\"ELEMENTSGAS\">газообразное</link> состояние свинца, которое достигается при его нагревании до высоких температур. В твёрдом состоянии свинец является мягким, но плотным <link=\"REFINEDMETAL\">металлом</link>."
+
+STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC
+""
+"(H) Жидкий водород — химический элемент в <link=\"ELEMENTSLIQUID\">жидком</link> состоянии.\n"
+"\n"
+"Он замораживает большинство веществ, которые вступают в контакт с ним."
+
+STRINGS.ELEMENTS.LIQUIDPROPANE.DESC
+""
+"(C<sub>3</sub>H<sub>8</sub>) Жидкий пропан — природный алкан в <link=\"ELEMENTSLIQUID\">жидком</link> состоянии.\n"
+"\n"
+"Полезен для выработки <link=\"POWER\">энергии</link>."
+
+STRINGS.ELEMENTS.MAFICROCK.DESC
+""
+"Базитовая порода — <link=\"IRON\">железосодержащая</link> разновидность <link=\"IGNEOUSROCK\">магматического камня</link>.\n"
+"\n"
+"Полезна в качестве <b>строительного материала</b>."
 
 STRINGS.ELEMENTS.MILK.DESC
 ""
@@ -1084,52 +1136,334 @@ STRINGS.ELEMENTS.MILK.NAME
 "<link=\"MILK\">Молокен</link>"
 
 STRINGS.ELEMENTS.MILKFAT.DESC
-"Масло — это <link=\"ELEMENTSSOLID\">твёрдый</link> побочный продукт разложения <link=\"MILK\">молокена</link> на составляющие."
+"Скользеин — это <link=\"ELEMENTSSOLID\">твёрдый</link> побочный продукт разложения <link=\"MILK\">молокена</link> на составляющие."
 
 STRINGS.ELEMENTS.MILKFAT.NAME
-"<link=\"MILKFAT\">Масло</link>"
+"<link=\"MILKFAT\">Скользеин</link>"
 
 STRINGS.ELEMENTS.MILKICE.DESC
-"Твёрдый молокен — это <link=\"MILK\">молокен</link>, замороженный до <link=\"ELEMENTSSOLID\">твёрдого</link> состояния."
+"Замороженный молокен — это <link=\"MILK\">молокен</link>, замороженный до <link=\"ELEMENTSSOLID\">твёрдого</link> состояния."
 
 STRINGS.ELEMENTS.MILKICE.NAME
-"<link=\"MILKICE\">Твёрдый молокен</link>"
+"<link=\"MILKICE\">Замёрзший молокен</link>"
+
+STRINGS.ELEMENTS.MOLTENALUMINUM.DESC
+"(Al) Расплав алюминия – это <link=\"REFINEDMETAL\">металл</link> с низкой плотностью, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
 
 STRINGS.ELEMENTS.MOLTENALUMINUM.NAME
-"<link=\"MOLTENALUMINUM\">Жидкий алюминий</link>"
+"<link=\"MOLTENALUMINUM\">Расплав алюминия</link>"
+
+STRINGS.ELEMENTS.MOLTENCOBALT.DESC
+"(Co) Расплав кобальта – это <link=\"REFINEDMETAL\">очищенный металл</link>, нагретый до<link=\"ELEMENTSLIQUID\">жидкого</link>  состояния."
 
 STRINGS.ELEMENTS.MOLTENCOBALT.NAME
-"<link=\"MOLTENCOBALT\">Жидкий кобальт</link>"
+"<link=\"MOLTENCOBALT\">Расплав кобальта</link>"
+
+STRINGS.ELEMENTS.MOLTENCOPPER.DESC
+"(Cu) Расплав меди — хороший <link=\"RAWMETAL\">металлический</link> проводник, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
 
 STRINGS.ELEMENTS.MOLTENCOPPER.NAME
-"<link=\"MOLTENCOPPER\">Жидкая медь</link>"
+"<link=\"MOLTENCOPPER\">Расплав меди</link>"
 
 STRINGS.ELEMENTS.MOLTENGLASS.NAME
 "<link=\"MOLTENGLASS\">Жидкое стекло</link>"
 
+STRINGS.ELEMENTS.MOLTENGOLD.DESC
+"(Au) Расплав золота — драгоценный <link=\"RAWMETAL\">металл</link> и хороший проводник, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
 STRINGS.ELEMENTS.MOLTENGOLD.NAME
-"<link=\"MOLTENGOLD\">Жидкое золото</link>"
+"<link=\"MOLTENGOLD\">Расплав золота</link>"
+
+STRINGS.ELEMENTS.MOLTENIRON.DESC
+"(Fe) Расплав железа — промышленный <link=\"RAWMETAL\">металл</link>, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
 
 STRINGS.ELEMENTS.MOLTENIRON.NAME
-"<link=\"MOLTENIRON\">Жидкое железо</link>"
+"<link=\"MOLTENIRON\">Расплав железа</link>"
 
 STRINGS.ELEMENTS.MOLTENLEAD.NAME
-"<link=\"MOLTENLEAD\">Жидкий свинец</link>"
+"<link=\"MOLTENLEAD\">Расплав свинца</link>"
+
+STRINGS.ELEMENTS.MOLTENNIOBIUM.DESC
+"(Nb) Расплав ниобия — <link=\"RAREMATERIALS\">редкий металл</link>, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
 
 STRINGS.ELEMENTS.MOLTENNIOBIUM.NAME
-"<link=\"MOLTENNIOBIUM\">Жидкий ниобий</link>"
+"<link=\"MOLTENNIOBIUM\">Расплав ниобия</link>"
+
+STRINGS.ELEMENTS.MOLTENSALT.DESC
+"(NaCl) Расплав соли – это <link=\"ELEMENTSLIQUID\">жидкое</link> состояние съедобного химического соединения, нагретое до высокой температуры."
 
 STRINGS.ELEMENTS.MOLTENSALT.NAME
-"<link=\"MOLTENSALT\">Жидкая соль</link>"
+"<link=\"MOLTENSALT\">Расплав соли</link>"
+
+STRINGS.ELEMENTS.MOLTENSTEEL.DESC
+"Расплав стали — опасно горячий <link=\"ELEMENTSLIQUID\">жидкий</link> сплав <link=\"IRON\">железа</link> и углерода."
 
 STRINGS.ELEMENTS.MOLTENSTEEL.NAME
-"<link=\"MOLTENSTEEL\">Жидкая сталь</link>"
+"<link=\"MOLTENSTEEL\">Расплав стали</link>"
+
+STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC
+"(W) Вольфрам — кристаллический <link=\"RAWMETAL\">металл</link>, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+"(W) Расплав вольфрама — это уникальное вещество, представляющее собой вольфрам в его <link=\"ELEMENTSLIQUID\">жидком</link> состоянии, достигаемом только при сверхвысоких температурах."
 
 STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME
-"<link=\"MOLTENTUNGSTEN\">Жидкий вольфрам</link>"
+"<link=\"MOLTENTUNGSTEN\">Расплав вольфрама</link>"
+
+STRINGS.ELEMENTS.MOLTENURANIUM.DESC
+""
+"(U) Расплав урана – это высоко-<link=\"RADIATION\">радиоактивное</link> вещество, нагретое до опасного <link=\"ELEMENTSLIQUID\">жидкого</link> состояния.\n"
+"\n"
+"Является побочным продуктом при производстве <link=\"ENRICHEDURANIUM\">обогащённого урана</link>."
+
+STRINGS.ELEMENTS.NIOBIUMGAS.DESC
+""
+"(Nb) Пары ниобия — <link=\"ELEMENTSGAS\">газообразное</link> состояние <link=\"RAREMATERIALS\">редкого металла</link>."
+
+STRINGS.ELEMENTS.PHOSPHORUS.DESC
+"(P) Фосфор — химический элемент в <link=\"ELEMENTSSOLID\">твёрдом</link> состоянии."
+
+STRINGS.ELEMENTS.PHOSPHORUS.NAME
+"<link=\"PHOSPHORUS\">Фосфор</link>"
+
+STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
+"(P) Пары фосфора — <link=\"ELEMENTSGAS\">газообразное</link> состояние нагретого <link=\"PHOSPHORUS\">фосфора</link>.\n"
+"\n"
+"Встречается в джунглях ближе к ядру, где фосфор может случайно контактировать с магмой."
 
 STRINGS.EQUIPMENT.PREFABS.CUSTOMCLOTHING.FACADES.GAUDYSWEATER
 "<link=\"CUSTOMCLOTHING\">Свитер с помпонами</link>"
+
+STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.EFFECT
+""
+"Обеспечивает дубликантов <style=\"oxygen\">кислородом</style> в токсичных и непригодных для дыхания атмосферах.\n"
+"\n"
+"Перед использованием должен быть заправлен в <link=\"OXYGENMASKLOCKER\">док-станции кислородных масок</link>."
+
+STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDIGGING1.DESCRIPTION
+""
+"Некоторые интересные данные показали, что {dupe} имеет заметный рост физических способностей, который не может быть полностью отнесён к обычным улучшениям, которые происходят после регулярных физических нагрузок.\n"
+"\n"
+"Основываясь на предыдущих наблюдениях, эти положительные ассоциации дубликанта с копанием, по-видимому, объясняют этот дополнительный физический прирост.\n"
+"\n"
+"Это означает, что личные предпочтения моих дубликантов напрямую связаны с тем, как усердно они работают.  Как интересно..."
+
+STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSLITWORKSPACE.DESCRIPTION
+""
+"{dupe} недавно работал в хорошо освещённой области, и это значительно улучшило как качество работы дубликанта, так и производительность работы в целом.\n"
+"\n"
+"Это подтверждает преобладающую теорию о том, что хорошо освещённое рабочее место имеет много преимуществ, помимо простого улучшения способности видеть моего дубликанта."
+
+STRINGS.INPUT_BINDINGS.ROOT.DISCONNECT
+"Отсоединить"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY1
+"Оверлей кислорода"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY10
+"Фермерский оверлей"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY11
+"Оверлей комнат"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY12
+"Оверлей атмокостюмов"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY13
+"Оверлей автоматизации"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY14
+"Оверлей конвейеров"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY15
+"Оверлей радиации"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY2
+"Оверлей энергии"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY3
+"Оверлей температуры"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY4
+"Оверлей материалов"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY5
+"Оверлей света"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6
+"Оверлей водоровода"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7
+"Оверлей вентиляции"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY8
+"Оверлей декора"
+
+STRINGS.INPUT_BINDINGS.ROOT.OVERLAY9
+"Оверлей микробов"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN1
+"Базовые постройки"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN10
+"Станции (постройки)"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN11
+"Утилиты (постройки)"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN12
+"Стройка логических элементов"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN13
+"Стройка конвейеров"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN14
+"Стройка ракеты"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN15
+"Радиоактивные постройки"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN2
+"Постройки производства кислорода"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN3
+"Постройки для энергии"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN4
+"Постройки для еды"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN5
+"Стройка сантехники"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN6
+"Стройка вентиляции"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN7
+"Постройки для переработки"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN8
+"Медицинские постройки"
+
+STRINGS.INPUT_BINDINGS.ROOT.PLAN9
+"Строительство мебели"
+
+STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTORYTRAITTOOL
+"Инструмент \"Сюжетная черта\" (песочница)"
+
+STRINGS.ITEMS.DEHYDRATEDFOODPACKAGE.CONSUMED
+"Съёл восстановленную еду"
+
+STRINGS.ITEMS.DEHYDRATEDFOODPACKAGE.CONTENTS
+"{0} (суш.)"
+
+STRINGS.ITEMS.DEHYDRATEDFOODPACKAGE.DESC
+""
+"Непортящихся сухой паёк в пакетике.\n"
+"\n"
+"Он не требуют охлаждения, но перед употреблением нужно восстановить влагу."
+
+STRINGS.ITEMS.DEHYDRATEDFOODPACKAGE.NAME
+"Сухой паёк"
+
+STRINGS.ITEMS.FOOD.BERRYPIE.DEHYDRATED.DESC
+""
+"Высушенный <link=\"BERRYPIE\">ягодный пирог</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.BERRYPIE.DEHYDRATED.NAME
+"Сушёный ягодный пирог"
+
+STRINGS.ITEMS.FOOD.BURGER.DEHYDRATED.DESC
+""
+"Высушенный <link=\"BURGER\">морозный бургер</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.BURGER.DEHYDRATED.NAME
+"Сушёный морозный бургер"
+
+STRINGS.ITEMS.FOOD.CURRY.DEHYDRATED.DESC
+""
+"Высушенное <link=\"CURRY\">бобовое карри</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.CURRY.DEHYDRATED.NAME
+"Сушёное бобовое карри"
+
+STRINGS.ITEMS.FOOD.MUSHROOMWRAP.DEHYDRATED.DESC
+""
+"Высушенный <link=\"MUSHROOMWRAP\">грибной рулет</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.MUSHROOMWRAP.DEHYDRATED.NAME
+"Сушёный грибной рулет"
+
+STRINGS.ITEMS.FOOD.PANCAKES.DESC
+""
+"Сладкие лепёшки из <link=\"RAWEGG\">сырых яиц</link> и <link=\"COLDWHEATSEED\">зёрен пшеницы</link>.\n"
+"\n"
+"Только посмотрите, какие они воздушные!"
+
+STRINGS.ITEMS.FOOD.PANCAKES.NAME
+"<link=\"PANCAKES\">Пышные оладьи</link>"
+
+STRINGS.ITEMS.FOOD.QUICHE.DEHYDRATED.DESC
+""
+"Высушенный <link=\"QUICHE\">грибной пирог</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.QUICHE.DEHYDRATED.NAME
+"Сушёный грибной пирог"
+
+STRINGS.ITEMS.FOOD.QUICHE.DESC
+""
+"Запечённые <link=\"COOKEDEGG\">Омлет</link>, <link=\"LETTUCE\">лист элодеи</link> и <link=\"FRIEDMUSHROOM\">жареный гриб</link> в аппетитном тесте.\n"
+"\n"
+"Хрустящий снаружи <i>и</i> сочный внутри."
+
+STRINGS.ITEMS.FOOD.QUICHE.NAME
+"<link=\"QUICHE\">Грибной пирог</link>"
+
+STRINGS.ITEMS.FOOD.QUICHE.RECIPEDESC
+"Запечённые <link=\"COOKEDEGG\">Омлет</link>, <link=\"LETTUCE\">лист элодеи</link> и <link=\"FRIEDMUSHROOM\">жареный гриб</link> в аппетитном тесте."
+
+STRINGS.ITEMS.FOOD.SALSA.DEHYDRATED.DESC
+""
+"Высушенная <link=\"SALSA\">фаршированная ягода</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.SALSA.DEHYDRATED.NAME
+"Сушёная фаршированная ягода"
+
+STRINGS.ITEMS.FOOD.SPICEBREAD.DEHYDRATED.DESC
+""
+"Высушенный <link=\"SPICEBREAD\">пряный хлеб</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.SPICEBREAD.DEHYDRATED.NAME
+"Сушёный пряный хлеб"
+
+STRINGS.ITEMS.FOOD.SPICYTOFU.DEHYDRATED.DESC
+""
+"Высушенный <link=\"SPICYTOFU\">острый тофу</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.SPICYTOFU.DEHYDRATED.NAME
+"Сушёный острый тофу"
+
+STRINGS.ITEMS.FOOD.SURFANDTURF.DEHYDRATED.DESC
+""
+"Высушенный <link=\"SURFANDTURF\">сёрф-энд-тёрф</link>. Для употребления в качестве <link=\"FOOD\">еды</link>, нужно восстановить влагу.\n"
+"\n"
+"Сушёные продукты не портятся."
+
+STRINGS.ITEMS.FOOD.SURFANDTURF.DEHYDRATED.NAME
+"Сушёный сёрф-энд-тёрф"
 
 STRINGS.ITEMS.MISSILE_BASIC.DESC
 ""
@@ -1166,6 +1500,46 @@ STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY
 "\n"
 "Вентиляция работает по тем же принципам, но с газами. Выберите оверлей вентиляции {Hotkey/Overlay7}, чтобы увидеть, как газы перемещаются по колонии."
 
+STRINGS.MISC.TAGS.ADVANCEDDOCTORSTATIONMEDICALSUPPLIES
+"Пузырёк с лекарством"
+
+STRINGS.MISC.TAGS.BUILDABLEANY
+"Универсальный строительный"
+
+STRINGS.MISC.TAGS.DEHYDRATED
+"Высушено"
+
+STRINGS.MISC.TAGS.DOCTORSTATIONMEDICALSUPPLIES
+"Аптечка"
+
+STRINGS.MISC.TAGS.GLASS
+"Стекло"
+
+STRINGS.MISC.TAGS.PLASTIC
+"Пластик"
+
+STRINGS.MISC.TAGS.STORYTRAITRESOURCE
+"Сюжетная черта"
+
+STRINGS.NAMEGEN.COLONY.NOUN.COMET
+"Метеорит"
+
+STRINGS.NAMEGEN.GEYSER_IDS.IDs
+""
+"\n"
+"ВЖУХ\n"
+"БЕБЕ\n"
+"ХРЮ\n"
+"МУР\n"
+"ПРЫГ\n"
+"ЧИРИК\n"
+"ИГОГО\n"
+"МУУ\n"
+"КВА\n"
+"КРЯ\n"
+"ГАВ\n"
+"МЯУ"
+
 STRINGS.RESEARCH.TECHS.ANIMALCOMFORT.DESC
 "Стратегии максимизации качества жизни животных."
 
@@ -1174,6 +1548,36 @@ STRINGS.RESEARCH.TECHS.ANIMALCOMFORT.NAME
 
 STRINGS.RESEARCH.TECHS.DAIRYOPERATION.NAME
 "<link=\"DAIRYOPERATION\">Поток молокена</link>"
+
+STRINGS.ROOMS.CATEGORY.AGRICULTURAL.NAME
+"Разведение"
+
+STRINGS.ROOMS.CATEGORY.BATHROOM.NAME
+"Гигиена"
+
+STRINGS.ROOMS.CATEGORY.FOOD.NAME
+"Питание"
+
+STRINGS.ROOMS.CATEGORY.HOSPITAL.NAME
+"Медицина"
+
+STRINGS.ROOMS.CATEGORY.INDUSTRIAL.NAME
+"Промышленность"
+
+STRINGS.ROOMS.CATEGORY.NONE.NAME
+"Без категории"
+
+STRINGS.ROOMS.CATEGORY.PARK.NAME
+"Парки"
+
+STRINGS.ROOMS.CATEGORY.RECREATION.NAME
+"Отдых"
+
+STRINGS.ROOMS.CATEGORY.SCIENCE.NAME
+"Наука"
+
+STRINGS.ROOMS.CATEGORY.SLEEP.NAME
+"Сон"
 
 STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.DESCRIPTION
 "Требуется минимум одна <color=#C38802>раковина</color>, <color=#C38802>душ</color> или <color=#C38802>дезинфектор рук</color>"
@@ -1429,6 +1833,9 @@ STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.EFFECT
 STRINGS.ROOMS.TYPES.PRIVATE_BEDROOM.TOOLTIP
 "Дубликанты во время сна в личной спальне поднимают <color=#C38802>моральный дух</color> ещё больше, чем в <color=#C38802>казармах</color> или <color=#C38802>спальне</color>."
 
+STRINGS.UI.BUILDINGEFFECTS.FOOD_DEHYDRATOR_WATER_OUTPUT
+"Мокрый пол"
+
 STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE
 ""
 "Это животное может быть поймано\n"
@@ -1437,8 +1844,14 @@ STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE
 "\n"
 "Дубликанты должны обладать навыком <color=#C38802>Скотоводство</color>, чтобы ловить животных"
 
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FOOD_DEHYDRATOR_WATER_OUTPUT
+"Во время работы эта постройка разбрызгивает <link=\"WATER\">воду</link> прямо на пол"
+
 STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION_GEOTUNED_COUNT
 "<b>{0}</b> из <b>{1}</b> геотюнеров, направленных на этот гейзер, усиливают его"
+
+STRINGS.UI.CODEX.CATEGORYNAMES.BUILDINGMATERIALCLASSES
+"<link=\"BUILDINGMATERIALCLASSES\">Стройматериалы</link>"
 
 STRINGS.UI.ROLES_SCREEN.PERKS.CAN_MAKE_MISSILES.DESCRIPTION
 "Использование <link=\"MISSILEFABRICATOR\">фабрики снарядов</link>"
@@ -1472,8 +1885,11 @@ STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SEARCH_PLACEHOLDER
 STRINGS.UI.UNITSUFFIXES.TILES
 "Клетки"
 
+STRINGS.UI.USERMENUACTIONS.CANCELTRANSITTUBEWAX.NAME
+"Выключить ускорение"
+
 STRINGS.UI.USERMENUACTIONS.CANCELTRANSITTUBEWAX.TOOLTIP
-"Отменяет бонус ускорения и возвращает <link=\"MILKFAT\">масло</link> из хранилища"
+"Отменяет бонус ускорения и возвращает <link=\"MILKFAT\">скользеин</link> из хранилища"
 
 STRINGS.UI.USERMENUACTIONS.CLOSESTORAGE.NAME
 "Закрыть склад"
@@ -1503,4 +1919,4 @@ STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.NAME
 "Включить ускорение"
 
 STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.TOOLTIP
-"Позволяет использовать <link=\"MILKFAT\">масло</link> для ускорения путешествий"
+"Позволяет использовать <link=\"MILKFAT\">скользеин</link> для ускорения путешествий"
