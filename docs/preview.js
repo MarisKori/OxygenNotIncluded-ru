@@ -1,5 +1,432 @@
 db = [
 {
+	msgctxt: "STRINGS.BLUEPRINTS.BEACHCHAIR_DECK.DESC",
+	msgid: `Deck not included.`,
+	msgstr: ``,
+	klei: `Пляж не прилагается.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.BEACHCHAIR_DECK.NAME",
+	msgid: `<link=\\"BEACHCHAIR\\">Deck Chair</link>`,
+	msgstr: ``,
+	klei: `<link=\\"BEACHCHAIR\\">Пляжный лежак</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.CEILINGLIGHT_CHANDELIER.DESC",
+	msgid: `Designers are not liable for injuries obtained by swinging from this fixture.`,
+	msgstr: ``,
+	klei: `Дизайнеры не несут ответственности за травмы, полученные при раскачивании на этом предмете декора.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.CEILINGLIGHT_CHANDELIER.NAME",
+	msgid: `<link=\\"CEILINGLIGHT\\">Schmancy Chandelier</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CEILINGLIGHT\\">Роскошная люстра</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.DININGTABLE_LOG.DESC",
+	msgid: `The unfinished tabletop is a valuable source of splinters- uh, <i>toothpicks!</i>`,
+	msgstr: ``,
+	klei: `Столешница без покрытия — занозы... эм-м, то есть <i>зубочистки</i> всегда под рукой!`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.DININGTABLE_LOG.NAME",
+	msgid: `<link=\\"DININGTABLE\\">Rustic Mess Table</link>`,
+	msgstr: ``,
+	klei: `<link=\\"DININGTABLE\\">Сельский столик для еды</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.MANUALGENERATOR_ELLIPTICAL.DESC",
+	msgid: `A low-impact aerobic workout for fitness-fueled colonies!`,
+	msgstr: ``,
+	klei: `Несложный аэробный тренажер для энергичных колоний!`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.MANUALGENERATOR_ELLIPTICAL.NAME",
+	msgid: `<link=\\"MANUALGENERATOR\\">Elliptical Generator</link>`,
+	msgstr: ``,
+	klei: `<link=\\"MANUALGENERATOR\\">Эллиптический генератор</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_BLACK.NAME",
+	msgid: `Monochrome Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_BLUE_MIDDLE.NAME",
+	msgid: `Scrub Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_GREEN.NAME",
+	msgid: `Swampy Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_ORANGE.NAME",
+	msgid: `Cadmium Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_PINK_ORCHID.NAME",
+	msgid: `Flare Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_PURPLE.NAME",
+	msgid: `Fusion Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_RED.NAME",
+	msgid: `Classic Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_WHITE.NAME",
+	msgid: `White Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_YELLOW.NAME",
+	msgid: `Flax Flannel Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_BED_COTTAGE.DESC",
+	msgid: `Little scraps of textile waste make a cozy bedcover, when they're stapled together by hand.`,
+	msgstr: ``,
+	klei: `Уютная кровать с лоскутным одеялом ручной работы: кусочки ткани скреплены степлером.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_BED_COTTAGE.NAME",
+	msgid: `<link=\\"BED\\">Quilt Cot</link>`,
+	msgstr: ``,
+	klei: `<link=\\"BED\\">Лоскутная койка</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.DESC",
+	msgid: `The smoky flavor is intentional.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.NAME",
+	msgid: `<link=\\"COOKINGSTATION\\">Backcountry Grill</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.DESC",
+	msgid: `It makes quality meal recipes feel more...approachable.`,
+	msgstr: ``,
+	klei: `Чтобы к сложным рецептам было проще... подступиться.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.NAME",
+	msgid: `<link=\\"GOURMETCOOKINGSTATION\\">Rustic Oven</link>`,
+	msgstr: ``,
+	klei: `<link=\\"GOURMETCOOKINGSTATION\\">Сельская печь</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.DESC",
+	msgid: `It makes Duplicants feel like they're about to be read a bedtime story.`,
+	msgstr: ``,
+	klei: `Увидев эту лампу, дубликанты начинают мечтать о сказке на ночь.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.NAME",
+	msgid: `<link=\\"FLOORLAMP\\">Quaint Lamp</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLOORLAMP\\">Винтажная лампа</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.DESC",
+	msgid: `A basic model designed with portability and sub-zero temperatures in mind.`,
+	msgstr: ``,
+	klei: `Базовая переносная модель, созданная для работы при низких температурах.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.NAME",
+	msgid: `Frosty Printing Pod`,
+	msgstr: ``,
+	klei: `Льдистый печатный станок`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.DESC",
+	msgid: `It's not a real party until someone tries to feed the sculpture a Frost Bun.`,
+	msgstr: ``,
+	klei: `Если на вашей вечеринке никто не пытается угостить статую ледяной булкой, то никакая это не вечеринка.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME",
+	msgid: `What A Hoot`,
+	msgstr: ``,
+	klei: `Безудержное веселье`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC",
+	msgid: `Some things really <i>are</i> universal truths.`,
+	msgstr: ``,
+	klei: `Некоторые вещи <i>никогда</i> не меняются.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.NAME",
+	msgid: `Sibling Dynamics`,
+	msgstr: ``,
+	klei: `Братская любовь`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.DESC",
+	msgid: `Often showcased in pairs, with one on each side of the doorway.`,
+	msgstr: ``,
+	klei: `Часто выставляются парами, по обе стороны двери.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.NAME",
+	msgid: `Glam Guardian`,
+	msgstr: ``,
+	klei: `Изящный страж`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_RANCHSTATION_COTTAGE.DESC",
+	msgid: `Some Ranchers believe that a woodsy aesthetic puts critters at ease.`,
+	msgstr: ``,
+	klei: `Некоторые животноводы считают, что дерево и сельская эстетика успокаивают существ.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_RANCHSTATION_COTTAGE.NAME",
+	msgid: `<link=\\"RANCHSTATION\\">Rustic Grooming Station</link>`,
+	msgstr: ``,
+	klei: `<link=\\"RANCHSTATION\\">Сельская станция существ</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_GULP.DESC",
+	msgid: `The mighty Pacu refuses to explain its philosophy. It simply embodies it.`,
+	msgstr: ``,
+	klei: `Могучий паку не желает объяснять свою философию, а просто ею живет.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_GULP.NAME",
+	msgid: `Stoic Trophy`,
+	msgstr: ``,
+	klei: `Стоический трофей`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PACU.DESC",
+	msgid: `Duplicants like to prank their friends by sticking their hands inside and pretending the sculpture has come to life.`,
+	msgstr: ``,
+	klei: `Дубликанты любят подшучивать над друзьями. Они засовывают руки в скульптуру и притворяются, будто она ожила.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PACU.NAME",
+	msgid: `Chompionship Trophy`,
+	msgstr: ``,
+	klei: `Ом-ном-номский трофей`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PUFT.DESC",
+	msgid: `The face of truly blissful ignorance.`,
+	msgstr: ``,
+	klei: `Воистину блаженное неведение.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PUFT.NAME",
+	msgid: `Blank Slate`,
+	msgstr: ``,
+	klei: `Чистый лист`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_WOOD_DEER.DESC",
+	msgid: `The sculptor used a tiny fleck of glass to mimic the mischievous glint of a Flox's eye.`,
+	msgstr: ``,
+	klei: `С помощью небольшого фрагмента стекла скульптор сумел воссоздать игривый блеск в глазах лисеня.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_WOOD_DEER.NAME",
+	msgid: `Sly Stare`,
+	msgstr: ``,
+	klei: `Хитрый взгляд`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_CUDDLEPIP.DESC",
+	msgid: `Hindsight may be 20/20, but hind art is priceless.`,
+	msgstr: ``,
+	klei: `Можно жить, не оглядываясь назад, но сложно не оглянуться на такой зад.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_CUDDLEPIP.NAME",
+	msgid: `Pip Rump`,
+	msgstr: ``,
+	klei: `Цвирк со спины`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_DRECKO.DESC",
+	msgid: `The post-shearing version was considered too risque.`,
+	msgstr: ``,
+	klei: `Вид после стрижки сочли слишком откровенным.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_DRECKO.NAME",
+	msgid: `Drecko Rump`,
+	msgstr: ``,
+	klei: `Дреккон со спины`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_PUFT.DESC",
+	msgid: `Occasionally emits a barely audible toot.`,
+	msgstr: ``,
+	klei: `Иногда испускает едва различимый звук.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_PUFT.NAME",
+	msgid: `Puft Rump`,
+	msgstr: ``,
+	klei: `Пуфф со спины`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_SHOVEVOLE.DESC",
+	msgid: `Behind every great critter, is that critter's great behind.`,
+	msgstr: ``,
+	klei: `За каждым великим существом скрывается его великий зад.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_SHOVEVOLE.NAME",
+	msgid: `Vole Rump`,
+	msgstr: ``,
+	klei: `Полевка со спины`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.DESC",
+	msgid: `Was this piece carved by an artist, or gnawed on by a critter? No one knows.`,
+	msgstr: ``,
+	klei: `Этот шедевр вырезал художник или выгрызло какое-то существо? Никто не знает.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.NAME",
+	msgid: `Chipped Trunk`,
+	msgstr: ``,
+	klei: `Неровный ствол`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.DESC",
+	msgid: `A realistic rendition of Sleet Wheat, also known as \\"a mouth full of splinters just waiting to happen.\\"`,
+	msgstr: ``,
+	klei: `Реалистичное изображение морозной пшеницы, также известное как \\"Прогноз: полный рот заноз\\".`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.NAME",
+	msgid: `Wood Grain`,
+	msgstr: ``,
+	klei: `Деревянный злак`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.DESC",
+	msgid: `It's always hard to tell whether the buttons are lined up properly.`,
+	msgstr: ``,
+	klei: `Сложно не запутаться с пуговицами.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.NAME",
+	msgid: `Monochrome Flannel Shirt`,
+	msgstr: ``,
+	klei: `Черно-серая фланелевая рубашка`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.DESC",
+	msgid: `Durable but soft, for workers who need a little extra TLC.`,
+	msgstr: ``,
+	klei: `Прочная и мягкая. Для трудяг, которым нужно немного больше любви и заботы.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.NAME",
+	msgid: `Scrub Flannel Shirt`,
+	msgstr: ``,
+	klei: `Черно-голубая фланелевая рубашка`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_GREEN.DESC",
+	msgid: `Stays warm and soft, even when damp.`,
+	msgstr: ``,
+	klei: `Остается теплой и мягкой, даже когда намокает.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_GREEN.NAME",
+	msgid: `Swampy Flannel Shirt`,
+	msgstr: ``,
+	klei: `Болотная фланелевая рубашка`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_ORANGE.DESC",
+	msgid: `It's giving outdoorsy Rover vibes.`,
+	msgstr: ``,
+	klei: `Подходит для приключений на далеких неизведанных планетах.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_ORANGE.NAME",
+	msgid: `Cadmium Flannel Shirt`,
+	msgstr: ``,
+	klei: `Кадмиевая фланелевая рубашка`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.DESC",
+	msgid: `Neither of these chest pockets are functional.`,
+	msgstr: ``,
+	klei: `Все эти нагрудные карманы просто для вида.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.NAME",
+	msgid: `Flare Flannel Shirt`,
+	msgstr: ``,
+	klei: `Черно-розовая фланелевая рубашка`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.DESC",
+	msgid: `A series of perfectly aligned alternating squares implies a certain work ethic.`,
+	msgstr: ``,
+	klei: `Соблюдающий такую точность при подборе идеального соответствия квадратов наверняка идеально соответствует правилам рабочей этики.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.NAME",
+	msgid: `Fusion Flannel Shirt`,
+	msgstr: ``,
+	klei: `Фланелевая рубашка \\"Фьюжн\\"`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_RED.DESC",
+	msgid: `Pretty iconic colors, eh?`,
+	msgstr: ``,
+	klei: `Легендарные цвета, правда?`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_RED.NAME",
+	msgid: `Classic Flannel Shirt`,
+	msgstr: ``,
+	klei: `Классическая фланелевая рубашка`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_WHITE.DESC",
+	msgid: `For Duplicants at the forefront of flannel formalwear.`,
+	msgstr: ``,
+	klei: `Для дубликантов в авангарде строгих фланелевых нарядов.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_WHITE.NAME",
+	msgid: `White Flannel Shirt`,
+	msgstr: ``,
+	klei: `Белая фланелевая рубашка`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_YELLOW.DESC",
+	msgid: `Bright minds gravitate toward bright colors.`,
+	msgstr: ``,
+	klei: `Пылкие умы тяготеют к пылким цветам.`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_YELLOW.NAME",
+	msgid: `Flax Flannel Shirt`,
+	msgstr: ``,
+	klei: `Фланелевая рубашка \\"Желтый лен\\"`,
+},
+{
 	msgctxt: "STRINGS.BUILDING.STATUSITEMS.CHANGESTORAGETILETARGET.EMPTY",
 	msgid: `Empty`,
 	msgstr: ``,
@@ -150,6 +577,30 @@ Only Duplicants with the <link=\\"RANCHING1\\">Critter Ranching I</link> skill c
 	klei: `{0} находится в вашей ловушке!`,
 },
 {
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.CRITTERCAPACITY.NAME",
+	msgid: `Storing: {Stored} / {Capacity} Critters`,
+	msgstr: ``,
+	klei: `Внутри: {Stored}/{Capacity} существ`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.CRITTERCAPACITY.TOOLTIP",
+	msgid: `This container is storing <b>{Stored} {StoredUnits}</b> of a maximum <b>{Capacity} {CapacityUnits}</b>`,
+	msgstr: ``,
+	klei: `Этот контейнер содержит в себе <b>{Stored}х{StoredUnits}</b>. Макс. объем: <b>{Capacity}х{CapacityUnits}</b>`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.CRITTERCAPACITY.UNIT",
+	msgid: `Critter`,
+	msgstr: ``,
+	klei: `Существо`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.CRITTERCAPACITY.UNITS",
+	msgid: `Critters`,
+	msgstr: ``,
+	klei: `Существа`,
+},
+{
 	msgctxt: "STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.EXCAVATING.NAME",
 	msgid: `Excavation In Progress`,
 	msgstr: ``,
@@ -184,6 +635,68 @@ Only Duplicants with the <link=\\"RANCHING1\\">Critter Ranching I</link> skill c
 	msgid: ``,
 	msgstr: ``,
 	klei: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTFUEL.NAME",
+	msgid: `Insufficient <link=\\"WOODLOG\\">Wood</link>`,
+	msgstr: ``,
+	klei: `Не хватает <link=\\"WOODLOG\\">древесины</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTFUEL.TOOLTIP",
+	msgid: `Colder <link=\\"ICE\\">Ice</link> increases the amount of <link=\\"WOODLOG\\">Wood</link> required for melting\\n\\nCurrent requirement: minimum {0} <link=\\"WOODLOG\\">Wood</link>`,
+	msgstr: ``,
+	klei: `
+Чем холоднее <link=\\"ICE\\">лед</link>, тем больше <link=\\"WOODLOG\\">древесины</link> нужно, чтобы его растопить\\n
+\\n
+Необходимый минимум <link=\\"WOODLOG\\">древесины</link> на данный момент: {0}`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTLIQUIDSPACE.NAME",
+	msgid: `Requires Emptying`,
+	msgstr: ``,
+	klei: `Требуется опустошить`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTLIQUIDSPACE.TOOLTIP",
+	msgid: `This <link=\\"ICEKETTLE\\">Ice Liquefier</link> needs to be emptied of <link=\\"WATER\\">Water</link> in order to resume function\\n\\nIt requires at least {2} of storage space in order to function properly\\n\\nCurrently storing {0} of a maximum {1} <link=\\"WATER\\">Water</link>`,
+	msgstr: ``,
+	klei: `
+Чтобы <link=\\"ICEKETTLE\\">ликвификатор льда</link> снова заработал, из него нужно слить <link=\\"WATER\\">воду</link>\\n
+\\n
+Для корректной работы необходимо место в емкости: как минимум {2}\\n
+\\n
+Сейчас <link=\\"WATER\\">водой</link> заполнено: {0} из {1}`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTSOLIDS.NAME",
+	msgid: `Insufficient <link=\\"ICE\\">Ice</link>`,
+	msgstr: ``,
+	klei: `Не хватает <link=\\"ICE\\">льда</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTSOLIDS.TOOLTIP",
+	msgid: `This building requires a minimum of {0} <link=\\"ICE\\">Ice</link> in order to function\\n\\nDeliver more <link=\\"ICE\\">Ice</link> to operate this building`,
+	msgstr: ``,
+	klei: `
+Для работы этому строению требуется <link=\\"ICE\\">лед</link>: как минимум {0}\\n
+\\n
+Доставьте больше <link=\\"ICE\\">льда</link>, чтобы пользоваться этим строением`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.KETTLEMELTING.NAME",
+	msgid: `Melting Ice`,
+	msgstr: ``,
+	klei: `Топит лед`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.KETTLEMELTING.TOOLTIP",
+	msgid: `This building is currently melting stored <link=\\"ICE\\">Ice</link> to produce <link=\\"WATER\\">Water</link>\\n\\n<link=\\"WATER\\">Water</link> output temperature: {0}`,
+	msgstr: ``,
+	klei: `
+Сейчас это строение растапливает накопленный <link=\\"ICE\\">лед</link> и производит <link=\\"WATER\\">воду</link>\\n
+\\n
+Температура производимой <link=\\"WATER\\">воды</link>: {0}`,
 },
 {
 	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.NAME",
@@ -470,6 +983,36 @@ This building is stocked with speed-boosting <link=\\"MILKFAT\\">Brackwax</link>
 {0} за 1 применение (осталось: {1})`,
 },
 {
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.WAITINGTOLAND.NAME",
+	msgid: `Waiting to land on {Destination}`,
+	msgstr: ``,
+	klei: `Ожидает посадки: {Destination}`,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.WAITINGTOLAND.TOOLTIP",
+	msgid: `This rocket is waiting for an available Rcoket Platform on {Destination}`,
+	msgstr: ``,
+	klei: `Эта ракета ждет, пока освободится ракетная платформа ({Destination})`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.AIRBORNECRITTERCONDO.DESC",
+	msgid: `Triggers natural nesting instincts and improves critters' moods.`,
+	msgstr: ``,
+	klei: `Провоцирует естественный инстинкт гнездования и улучшает настроение существ.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.AIRBORNECRITTERCONDO.EFFECT",
+	msgid: `A hanging respite area for adult <link=\\"PUFT\\">Pufts</link>, <link=\\"MOOSPECIES\\">Gassy Moos</link> and <link=\\"LIGHTBUG\\">Shine Bugs</link>.`,
+	msgstr: ``,
+	klei: `Парящая зона отдыха для взрослых <link=\\"PUFT\\">пуффов</link>, <link=\\"MOOSPECIES\\">газовых му-му</link> и <link=\\"LIGHTBUG\\">блестячков</link>.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.AIRBORNECRITTERCONDO.NAME",
+	msgid: `<link=\\"AIRBORNECRITTERCONDO\\">Airborne Critter Condo</link>`,
+	msgstr: ``,
+	klei: `<link=\\"AIRBORNECRITTERCONDO\\">Летающее общежитие для существ</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.DESC",
 	msgid: `It's sturdier than it looks.`,
 	msgstr: ``,
@@ -530,6 +1073,18 @@ This building is stocked with speed-boosting <link=\\"MILKFAT\\">Brackwax</link>
 	klei: `<link=\\"BED\\">Койка домоседа</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.BED.FACADES.STRINGLIGHTS.DESC",
+	msgid: `Wrapped in shiny gold stars, to help sleepy Duplicants feel accomplished.`,
+	msgstr: ``,
+	klei: `Сияющие золотом звезды помогают дубликантам почувствовать, что день прошел не зря.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.BED.FACADES.STRINGLIGHTS.NAME",
+	msgid: `Good Job Cot`,
+	msgstr: ``,
+	klei: `Койка \\"Заслуженный отдых\\"`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.BEEHIVE.DESC",
 	msgid: `
 A moderately <link=\\"RADIATION\\">Radioactive</link> nest made by <link=\\"BEE\\">Beetas</link>.\\n
@@ -556,6 +1111,24 @@ Will not function if ground below has been destroyed.`,
 Не будет работать, если земля под ним уничтожена.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CAMPFIRE.DESC",
+	msgid: `Wood heaters dry out soggy feet and help Duplicants forget how cold they are.`,
+	msgstr: ``,
+	klei: `Древесные обогреватели позволяют высушить мокрые носочки и помогают дубликантам забыть о холоде.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CAMPFIRE.EFFECT",
+	msgid: `Consumes <link=\\"WOOD\\">Wood</link> in order to <link=\\"HEAT\\">Heat</link> chilly surroundings.`,
+	msgstr: ``,
+	klei: `Расходует <link=\\"WOOD\\">древесину</link> и <link=\\"HEAT\\">нагревает</link> холодную среду вокруг.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CAMPFIRE.NAME",
+	msgid: `<link=\\"CAMPFIRE\\">Wood Heater</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CAMPFIRE\\">Древесный обогреватель</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_A.DESC",
@@ -750,6 +1323,30 @@ Will not function if ground below has been destroyed.`,
 	klei: `<link=\\"ARTP\\">Бедолага</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_Q.DESC",
+	msgid: `The only kind of gift that poorly behaved Duplicants can expect to receive.`,
+	msgstr: ``,
+	klei: `Такой подарок получат дубликанты, которые плохо себя вели.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_Q.NAME",
+	msgid: `<link=\\"ARTQ\\">Ore Else</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ARTQ\\">Дурная порода</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_R.DESC",
+	msgid: `It combines two things that everyone loves: pips and lasers.`,
+	msgstr: ``,
+	klei: `Сочетает в себе две вещи, которые все обожают: цвирков и лазеры.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_R.NAME",
+	msgid: `<link=\\"ARTR\\">Lazer Pipz</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ARTR\\">Лазерные цвирки</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_A.DESC",
 	msgid: `Even amateur art is essential to life.`,
 	msgstr: ``,
@@ -906,6 +1503,18 @@ Will not function if ground below has been destroyed.`,
 	klei: `<link=\\"ARTTALLM\\">Не отвлекать</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_P.DESC",
+	msgid: `There were greasy fingerprints on the canvas even before the paint had dried.`,
+	msgstr: ``,
+	klei: `Краска еще не высохла, а на холсте уже появились жирные отпечатки пальцев.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_P.NAME",
+	msgid: `The Feast`,
+	msgstr: ``,
+	klei: `Пир`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_A.DESC",
 	msgid: `The effort is admirable, though the execution is not.`,
 	msgstr: ``,
@@ -1060,6 +1669,18 @@ Will not function if ground below has been destroyed.`,
 	msgid: `<link=\\"ARTWIDEM\\">Hot Afternoon</link>`,
 	msgstr: ``,
 	klei: `<link=\\"ARTWIDEM\\">Жаркий полдень</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_O.DESC",
+	msgid: `Even just exhaling nearby could damage this historical work.`,
+	msgstr: ``,
+	klei: `Рядом с этим старинным шедевром даже дышать нельзя.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_O.NAME",
+	msgid: `<link=\\"ARTWIDEO\\">Super Old Mural</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ARTWIDEO\\">Очень древний рисунок</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.BLOSSOM.DESC",
@@ -1222,6 +1843,30 @@ Building must be exposed to space to function.`,
 	msgid: `It can transfer heat effectively even if no liquid is passing through.`,
 	msgstr: ``,
 	klei: `Может эффективно передавать тепло даже без поступающей жидкости.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.FACADES.DEFAULT_CORNERMOULDING.DESC",
+	msgid: `It really dresses up a ceiling corner.`,
+	msgstr: ``,
+	klei: `Так углы потолка выглядят гораздо наряднее.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.FACADES.DEFAULT_CORNERMOULDING.NAME",
+	msgid: `<link=\\"CORNERMOULDING\\">Corner Trim</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CORNERMOULDING\\">Уголок плинтуса</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.FACADES.SHINEORNAMENTS.DESC",
+	msgid: `Why deck the halls, when you could <i>festoon</i> them?`,
+	msgstr: ``,
+	klei: `Лучший способ украсить дом — завесить его <i>гирляндами</i>!`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.FACADES.SHINEORNAMENTS.NAME",
+	msgid: `<link=\\"CORNERMOULDING\\">Fancy Bug Corner Garland</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CORNERMOULDING\\">Угловая гирлянда \\"Блестячок\\"</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.COSMICRESEARCHCENTER.EFFECT",
@@ -1396,6 +2041,159 @@ Single use.`,
 	klei: `<link=\\"CRITTERCONDO\\">Общежитие для существ</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERDROPOFF.DESC",
+	msgid: `Duplicants automatically bring captured critters to these relocation points for release.`,
+	msgstr: ``,
+	klei: `Дубликанты по умолчанию будут приносить захваченных существ к переместителям, чтобы отпустить.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERDROPOFF.EFFECT",
+	msgid: `Releases trapped <link=\\"CREATURES\\">Critters</link> back into the world.\\n\\nMonitoring and drop-off are limited to the specified species.`,
+	msgstr: ``,
+	klei: `
+Позволяет вернуть пойманное <link=\\"CREATURES\\">существо</link> в дикую природу.\\n
+\\n
+Наблюдение и перемещение доступны только для определенных видов.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERDROPOFF.LOGIC_INPUT.DESC",
+	msgid: `Enable/Disable`,
+	msgstr: ``,
+	klei: `Вкл./Выкл.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERDROPOFF.LOGIC_INPUT.LOGIC_PORT_ACTIVE",
+	msgid: `<b><style=\\"logic_on\\">Green Signal</style></b>: Enable critter drop-off`,
+	msgstr: ``,
+	klei: `<b><style=\\"logic_on\\">Зеленый сигнал</style></b>: включить переместитель существ`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERDROPOFF.LOGIC_INPUT.LOGIC_PORT_INACTIVE",
+	msgid: `<b><style=\\"logic_off\\">Red Signal</style></b>: Disable critter drop-off`,
+	msgstr: ``,
+	klei: `<b><style=\\"logic_off\\">Красный сигнал</style></b>: отключить переместитель существ`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERDROPOFF.NAME",
+	msgid: `<link=\\"CRITTERDROPOFF\\">Critter Drop-Off</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CRITTERDROPOFF\\">Переместитель существ</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.DESC",
+	msgid: `Duplicants will automatically wrangle excess critters.`,
+	msgstr: ``,
+	klei: `Дубликанты будут автоматически отлавливать существ в случае превышения численности их популяции.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.EFFECT",
+	msgid: `Ensures the prompt relocation of <link=\\"CREATURES\\">Critters</link> that exceed the maximum amount set.\\n\\nMonitoring and pick-up are limited to the specified species.`,
+	msgstr: ``,
+	klei: `
+Помогает быстро перемещать <link=\\"CREATURES\\">существ</link>, чья популяция превышает лимит.\\n
+\\n
+Наблюдение и перемещение доступны только для определенных видов.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.LOGIC_INPUT.DESC",
+	msgid: `Enable/Disable`,
+	msgstr: ``,
+	klei: `Вкл./Выкл.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.LOGIC_INPUT.LOGIC_PORT_ACTIVE",
+	msgid: `<b><style=\\"logic_on\\">Green Signal</style></b>: Wrangle excess critters`,
+	msgstr: ``,
+	klei: `<b><style=\\"logic_on\\">Зеленый сигнал</style></b>: отлавливать существ при избытке популяции`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.LOGIC_INPUT.LOGIC_PORT_INACTIVE",
+	msgid: `<b><style=\\"logic_off\\">Red Signal</style></b>: Ignore excess critters`,
+	msgstr: ``,
+	klei: `<b><style=\\"logic_off\\">Красный сигнал</style></b>: игнорировать избыток популяции существ`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.NAME",
+	msgid: `<link=\\"CRITTERPICKUP\\">Critter Pick-Up</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CRITTERPICKUP\\">Подъемник существ</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.FACADES.DEFAULT_CROWNMOULDING.DESC",
+	msgid: `Ceiling trim is a purely decorative addition to one's overhead area.`,
+	msgstr: ``,
+	klei: `Потолочный уголок — прекрасный декор на случай, если захочется закатить глаза.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.FACADES.DEFAULT_CROWNMOULDING.NAME",
+	msgid: `<link=\\"CROWNMOULDING\\">Ceiling Trim</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CROWNMOULDING\\">Потолочный уголок</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.FACADES.SHINEORNAMENTS.DESC",
+	msgid: `Someone spent their entire weekend gluing ribbons to paper Shine Bug cut-outs, and it shows.`,
+	msgstr: ``,
+	klei: `Кто-то все выходные вырезал из бумаги блестячков и клеил на них ленточки, это сразу видно.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.FACADES.SHINEORNAMENTS.NAME",
+	msgid: `<link=\\"CROWNMOULDING\\">Fancy Bug Ceiling Garland</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CROWNMOULDING\\">Потолочная гирлянда \\"Блестячок\\"</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEEPFRYER.DESC",
+	msgid: `Everything tastes better when it's deep-fried.`,
+	msgstr: ``,
+	klei: `Любая еда вкуснее, если ее хорошенько обжарить.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEEPFRYER.EFFECT",
+	msgid: `Uses <link=\\"TALLOW\\">Tallow</link> to cook a wide variety of improved <link=\\"FOOD\\">Foods</link>.\\n\\nDuplicants will not fabricate items unless recipes are queued.`,
+	msgstr: ``,
+	klei: `
+Позволяет готовить много разной <link=\\"FOOD\\">еды</link> по более сложным рецептам.\\n
+\\n
+Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEEPFRYER.NAME",
+	msgid: `<link=\\"DEEPFRYER\\">Deep Fryer</link>`,
+	msgstr: ``,
+	klei: `<link=\\"DEEPFRYER\\">Жаровня</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEEPFRYER.STATUSITEMS.OUTSIDE_KITCHEN.NAME",
+	msgid: `Outside of Kitchen`,
+	msgstr: ``,
+	klei: `За пределами кухни`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEEPFRYER.STATUSITEMS.OUTSIDE_KITCHEN.TOOLTIP",
+	msgid: `This building must be in a Kitchen before it can be used`,
+	msgstr: ``,
+	klei: `Чтобы использовать, нужно разместить в кухне`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEVHEATER.DESC",
+	msgid: `Did someone touch the thermostat?`,
+	msgstr: ``,
+	klei: `Кто-то подкрутил термостат?`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEVHEATER.EFFECT",
+	msgid: `Generates on-demand heat for testing toastiness.`,
+	msgstr: ``,
+	klei: `По запросу генерирует тепло для тестирования высокой температуры.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEVHEATER.NAME",
+	msgid: `Dev Heater`,
+	msgstr: ``,
+	klei: `Обогреватель разработчиков`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.DESC",
 	msgid: `Radbolts are necessary for producing Materials Science research.`,
 	msgstr: ``,
@@ -1483,7 +2281,22 @@ Single use.`,
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.DEVPUMPSOLID.NAME",
 	msgid: `<link=\\"DEVPUMPSOLID\\">Dev Pump Solid</link>`,
 	msgstr: ``,
-	klei: `<link=\\"DEVPUMPSOLID\\">Насос разработчиков для твердых веществ</link>`,
+	klei: `Насос разработчиков для твердых веществ`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DLC2POITECHUNLOCKS.DESC",
+	msgid: `A functional research decrypter with one transmission remaining.\\n\\nIt was designed to support colony survival.`,
+	msgstr: ``,
+	klei: `
+Функциональное декодирующее устройство для расшифровки исследований. Осталась одна передача.\\n
+\\n
+Призвано обеспечить выживание колонии.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.DLC2POITECHUNLOCKS.NAME",
+	msgid: `Research Portal`,
+	msgstr: ``,
+	klei: `Исследовательский портал`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT",
@@ -1966,6 +2779,138 @@ Assigned Duplicants must possess the <link=\\"RANCHER\\">Critter Wrangling</link
 	klei: `<link=\\"EXTERIORWALL\\">Урановая диагональ</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_1.DESC",
+	msgid: `Inspired by classic dice.`,
+	msgstr: ``,
+	klei: `Вдохновлено классическими кубиками.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_1.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Roll One</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Натуральная единица</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_2.DESC",
+	msgid: `Inspired by classic dice.`,
+	msgstr: ``,
+	klei: `Вдохновлено классическими кубиками.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_2.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Roll Two</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Двойка</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_3.DESC",
+	msgid: `Inspired by classic dice.`,
+	msgstr: ``,
+	klei: `Вдохновлено классическими кубиками.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_3.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Roll Three</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Тройка</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_4.DESC",
+	msgid: `Inspired by classic dice.`,
+	msgstr: ``,
+	klei: `Вдохновлено классическими кубиками.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_4.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Roll Four</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Четверка</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_5.DESC",
+	msgid: `Inspired by classic dice.`,
+	msgstr: ``,
+	klei: `Вдохновлено классическими кубиками.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_5.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Roll Five</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Пятерка</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_6.DESC",
+	msgid: `Inspired by classic dice.`,
+	msgstr: ``,
+	klei: `Вдохновлено классическими кубиками.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_6.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">High Roller</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Критический успех</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_AZULENE_VITRO.DESC",
+	msgid: `A fun blue print in honor of information storage.`,
+	msgstr: ``,
+	klei: `Веселый голубой принт, восхваляющий хранение информации.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_AZULENE_VITRO.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Waterlogged Databank</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Водный банк данных</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_BLACK_WHITE.DESC",
+	msgid: `A chic black-and-white print in honor of information storage.`,
+	msgstr: ``,
+	klei: `Стильный черно-белый принт, восхваляющий хранение информации.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_BLACK_WHITE.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Monochrome Databank</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Монохромный банк данных</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_MAGMA_AMINO.DESC",
+	msgid: `A fun red print in honor of information storage.`,
+	msgstr: ``,
+	klei: `Веселый красный принт, восхваляющий хранение информации.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_MAGMA_AMINO.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Flashy Databank</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Броский банк данных</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_PEAGREEN_BALMY.DESC",
+	msgid: `A fun green print in honor of information storage.`,
+	msgstr: ``,
+	klei: `Веселый зеленый принт, восхваляющий хранение информации.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_PEAGREEN_BALMY.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Lush Databank</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Свежий банк данных</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_SATSUMA_YELLOWCAKE.DESC",
+	msgid: `A fun orange print in honor of information storage.`,
+	msgstr: ``,
+	klei: `Веселый оранжевый принт, восхваляющий хранение информации.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_SATSUMA_YELLOWCAKE.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Hi-Vis Databank</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Светоотражающий банк данных</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.GRAPES.DESC",
 	msgid: `It's seedless, if that matters.`,
 	msgstr: ``,
@@ -2024,6 +2969,30 @@ Assigned Duplicants must possess the <link=\\"RANCHER\\">Critter Wrangling</link
 	msgid: `<link=\\"EXTERIORWALL\\">Mush Bar Print</link>`,
 	msgstr: ``,
 	klei: `<link=\\"EXTERIORWALL\\">Грязевые батончики</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.ORANGE_JUICE.DESC",
+	msgid: `If the liquids never hit the floor, is it really a spill?`,
+	msgstr: ``,
+	klei: `Если жидкость не коснулась пола, можно ли считать ее пролитой?`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.ORANGE_JUICE.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Infinite Spill</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Бесконечное разлитие</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PAINT_BLOTS.DESC",
+	msgid: `There are no mistakes, only cheerful little splotches.`,
+	msgstr: ``,
+	klei: `Веселые кляксы — не ошибка, а счастливая случайность.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PAINT_BLOTS.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Happy Accidents</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Счастливые случайности</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC",
@@ -2374,6 +3343,54 @@ Assigned Duplicants must possess the <link=\\"RANCHER\\">Critter Wrangling</link
 	klei: `<link=\\"EXTERIORWALL\\">Синяя закругленная полоса</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_MUSH.DESC",
+	msgid: `This wallpaper, like this colony's journey, is full of twists and turns.`,
+	msgstr: ``,
+	klei: `Эти обои, как и приключения космической колонии, полны неожиданных поворотов.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_MUSH.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Mush Curves</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Землистые извилины</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_PURPLE_BRAINFAT.DESC",
+	msgid: `This wallpaper, like this colony's journey, is full of twists and turns.`,
+	msgstr: ``,
+	klei: `Эти обои, как и приключения космической колонии, полны неожиданных поворотов.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Fainting Curves</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Томные извилины</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_ROSE.DESC",
+	msgid: `It's pronounced \\"peeyoo-ss,\\" a sound that Duplicants just can't seem to reproduce.`,
+	msgstr: ``,
+	klei: `Некоторым дубликантам сложно выговорить это название из-за обилия звука \\"Р\\".`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_ROSE.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Puce Curves</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Грязно-розовые извилины</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_YELLOW_TARTAR.DESC",
+	msgid: `This wallpaper, like this colony's journey, is full of twists and turns.`,
+	msgstr: ``,
+	klei: `Эти обои, как и приключения космической колонии, полны неожиданных поворотов.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Ick Curves</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Мерзковатые извилины</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_BLUE.DESC",
 	msgid: `Inspired by the ties worn during intraoffice sports.`,
 	msgstr: ``,
@@ -2386,6 +3403,102 @@ Assigned Duplicants must possess the <link=\\"RANCHER\\">Critter Wrangling</link
 	klei: `<link=\\"EXTERIORWALL\\">Строгая синяя полоса</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_MUSH.DESC",
+	msgid: `Diagonal stripes in alternating shades of mush bar.`,
+	msgstr: ``,
+	klei: `Диагональные полосы двух оттенков грязевого батончика.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_MUSH.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Mush Diagonal</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Землистая диагональ</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_PURPLE_BRAINFAT.DESC",
+	msgid: `Diagonal stripes in alternating shades of purple.`,
+	msgstr: ``,
+	klei: `Диагональные полосы двух оттенков фиолетового.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Fainting Diagonal</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Томная диагональ</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_ROSE.DESC",
+	msgid: `Some describe this color as \\"squashed bug.\\"`,
+	msgstr: ``,
+	klei: `Эксперты называют этот оттенок \\"цвет раздавленной букашки\\".`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_ROSE.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Puce Diagonal</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Грязно-розовая диагональ</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_YELLOW_TARTAR.DESC",
+	msgid: `Diagonal stripes in alternating shades of yellow.`,
+	msgstr: ``,
+	klei: `Диагональные полосы двух оттенков желтого.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Ick Diagonal</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Мерзковатая диагональ</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_MUSH.DESC",
+	msgid: `The kind of green that makes one feel slightly nauseated.`,
+	msgstr: ``,
+	klei: `От этого оттенка зеленого может слегка подташнивать.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_MUSH.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Mush Stripe</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Землистые полосы</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_PURPLE_BRAINFAT.DESC",
+	msgid: `Vertical stripes make it quite obvious when nearby objects are askew.`,
+	msgstr: ``,
+	klei: `Из-за вертикальных полос сразу заметно, если в комнате что-то стоит неровно.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Fainting Stripe</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Томные полосы</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_ROSE.DESC",
+	msgid: `Vertical stripes make it quite obvious when nearby objects are askew.`,
+	msgstr: ``,
+	klei: `Из-за вертикальных полос сразу заметно, если в комнате что-то стоит неровно.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_ROSE.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Puce Stripe</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Грязно-розовые полосы</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_YELLOW_TARTAR.DESC",
+	msgid: `Vertical stripes make it quite obvious when nearby objects are askew.`,
+	msgstr: ``,
+	klei: `Из-за вертикальных полос сразу заметно, если в комнате что-то стоит неровно.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Ick Stripe</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Мерзковатые полосы</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SUN.DESC",
 	msgid: `A UV-free wallpaper.`,
 	msgstr: ``,
@@ -2396,6 +3509,42 @@ Assigned Duplicants must possess the <link=\\"RANCHER\\">Critter Wrangling</link
 	msgid: `<link=\\"EXTERIORWALL\\">Sunshine Print</link>`,
 	msgstr: ``,
 	klei: `<link=\\"EXTERIORWALL\\">Солнечный свет</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TELESCOPE.DESC",
+	msgid: `The perfect wallpaper for skygazers.`,
+	msgstr: ``,
+	klei: `Идеальные обои для тех, кто любит смотреть на небо.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TELESCOPE.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Telescope Print</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Принт-телескоп</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_O.DESC",
+	msgid: `A crisp black 'O' on a clean white background. Ideal for monochromatic games rooms.`,
+	msgstr: ``,
+	klei: `Черный ноль на идеально белом фоне. Прекрасно подходит для монохромной игровой комнаты.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_O.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">TicTacToe O</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Крестики-нолики: нолик</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_X.DESC",
+	msgid: `A crisp black 'X' on a clean white background. Ideal for monochromatic games rooms.`,
+	msgstr: ``,
+	klei: `Черный крест на идеально белом фоне. Прекрасно подходит для монохромной игровой комнаты.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_X.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">TicTacToe X</link>`,
+	msgstr: ``,
+	klei: `<link=\\"EXTERIORWALL\\">Крестики-нолики: крестик</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.DESC",
@@ -2456,6 +3605,42 @@ Dispenses once per day.`,
 Подкормка раз в день.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.FACADES.BRISTLEBLOSSOM.DESC",
+	msgid: `It's a bit prickly, but it casts a festive glow.`,
+	msgstr: ``,
+	klei: `Немного режет глаз, зато создает праздничную атмосферу.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.FACADES.BRISTLEBLOSSOM.NAME",
+	msgid: `<link=\\"FLOORLAMP\\">Holiday Lamp</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLOORLAMP\\">Праздничная лампа</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.FACADES.DEFAULT_FLOORLAMP.DESC",
+	msgid: `Any building's light emitting radius can be viewed in the light overlay.`,
+	msgstr: ``,
+	klei: `Радиус света, исходящего от строения, можно посмотреть, открыв световую схему.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.FACADES.DEFAULT_FLOORLAMP.NAME",
+	msgid: `<link=\\"FLOORLAMP\\">Lamp</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLOORLAMP\\">Лампа</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.FACADES.LEG.DESC",
+	msgid: `This lamp blazes forth in unparalleled glory.`,
+	msgstr: ``,
+	klei: `Несравненное сияние этой лампы чем-то напоминает свет маяка.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.FACADES.LEG.NAME",
+	msgid: `<link=\\"FLOORLAMP\\">Fragile Leg Lamp</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLOORLAMP\\">Лампа на тонкой ножке</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.DESC",
@@ -2686,6 +3871,102 @@ Dispenses once per day.`,
 	klei: `<link=\\"FLOWERVASEWALL\\">Солнечный настенный ретро-горшок</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.BLUE_BABYTEARS.DESC",
+	msgid: `A private place to feel big feelings.`,
+	msgstr: ``,
+	klei: `Уединенное место для серьезных переживаний.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.BLUE_BABYTEARS.NAME",
+	msgid: `<link=\\"FLUSHTOILET\\">Weepy Lavatory</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLUSHTOILET\\">Слезно-голубая уборная</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.DEFAULT_FLUSHTOILET.DESC",
+	msgid: `Lavatories transmit fewer germs to Duplicants' skin and require no emptying.`,
+	msgstr: ``,
+	klei: `Уборные оставляют на коже дубликантов меньше микробов, и их не надо опустошать вручную.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.DEFAULT_FLUSHTOILET.NAME",
+	msgid: `<link=\\"FLUSHTOILET\\">Lavatory</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLUSHTOILET\\">Уборная</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.GREEN_MUSH.DESC",
+	msgid: `Mush in, mush out.`,
+	msgstr: ``,
+	klei: `Одна нога здесь, другая там.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.GREEN_MUSH.NAME",
+	msgid: `<link=\\"FLUSHTOILET\\">Mush Green Lavatory</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLUSHTOILET\\">Землисто-зеленая уборная</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKNAVYNOOKGREEN.DESC",
+	msgid: `Smooth moves happen here.`,
+	msgstr: ``,
+	klei: `Чтобы все шло плавно и гладко.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKNAVYNOOKGREEN.NAME",
+	msgid: `<link=\\"FLUSHTOILET\\">Party Dot Lavatory</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLUSHTOILET\\">Уборная в крапинку</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKPURPLERESIN.DESC",
+	msgid: `For those who've really got to a-go-go.`,
+	msgstr: ``,
+	klei: `Для тех, кому совсем невтерпеж.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.POLKA_DARKPURPLERESIN.NAME",
+	msgid: `<link=\\"FLUSHTOILET\\">Mod Dot Lavatory</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLUSHTOILET\\">Уборная в горох</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.DESC",
+	msgid: `It's like pooping inside Hexalent fruit!`,
+	msgstr: ``,
+	klei: `Будто какаешь внутри гексалента!`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"FLUSHTOILET\\">Faint Purple Lavatory</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLUSHTOILET\\">Томно-лиловая уборная</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.RED_ROSE.DESC",
+	msgid: `The scented pink toilet paper smells like a rosebush in a sewage plant.`,
+	msgstr: ``,
+	klei: `Ароматная розовая туалетная бумага пахнет, точно розовый куст на очистительной станции.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.RED_ROSE.NAME",
+	msgid: `<link=\\"FLUSHTOILET\\">Puce Pink Lavatory</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLUSHTOILET\\">Грязно-розовая уборная</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.DESC",
+	msgid: `Someone thought it'd be a good idea to have the outside match the inside.`,
+	msgstr: ``,
+	klei: `Кто-то решил, что цвет внутри должен соответствовать тому, что снаружи.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"FLUSHTOILET\\">Ick Yellow Lavatory</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FLUSHTOILET\\">Мерзковато-желтая уборная</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.FOODDEHYDRATOR.DESC",
 	msgid: `Some of the eliminated liquid inevitably ends up on the floor.`,
 	msgstr: ``,
@@ -2737,7 +4018,7 @@ Dehydrated meals must be processed at the <link=\\"FOODREHYDRATOR\\">Rehydrator<
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.FOODREHYDRATOR.NAME",
 	msgid: `Rehydrator`,
 	msgstr: ``,
-	klei: `Восстановитель влаги`,
+	klei: `<link=\\"FOODREHYDRATOR\\">Восстановитель влаги</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC",
@@ -2753,8 +4034,6 @@ Contains a partial <link=\\"FOSSIL\\">Fossil</link> left behind by a giant critt
 Studying the full skeleton could yield the information required to access a valuable new resource.`,
 	msgstr: ``,
 	klei: `
-Изучив весь скелет, можно получить информацию, которая даст доступ к новому ценному ресурсу.\\n
-#-#-#-#-#  strings_preinstalled_ru_klei.po  #-#-#-#-#\\n
 Содержит часть <link=\\"FOSSIL\\">ископаемого</link>, которая осталось от какого-то огромного существа.\\n
 \\n
 Изучив весь скелет, можно получить информацию, которая даст доступ к новому ценному ресурсу.`,
@@ -2782,6 +4061,27 @@ Studying the full skeleton could yield the information required to access a valu
 	msgid: `Fossil Quarry`,
 	msgstr: ``,
 	klei: `Карьер с ископаемыми`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.DESCRIPTION",
+	msgid: `Cuts through red tape better than a sword ever could.`,
+	msgstr: ``,
+	klei: `Помогает бороться против бюрократии лучше, чем самый острый меч.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.LORE_DLC2",
+	msgid: `The handcrafted gold nib features a triangular logo with the letters V and I inside.\\n\\nIts owner was too proud to report it stolen, and would be shocked to learn of its whereabouts.`,
+	msgstr: ``,
+	klei: `
+Золотое перо ручной работы, на котором можно рассмотреть треугольный логотип с буквами V и I.\\n
+\\n
+Предыдущий владелец был слишком горд и не стал сообщать о краже, когда перо пропало. Он бы удивился, узнав, где оно оказалось.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.FOUNTAINPEN.NAME",
+	msgid: `Fountain Pen`,
+	msgstr: ``,
+	klei: `Перьевая ручка`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.DESC",
@@ -2928,6 +4228,51 @@ Studying the full skeleton could yield the information required to access a valu
 	klei: `<link=\\"GASRESERVOIR\\">Безумно-желтый резервуар для газа</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.DESC",
+	msgid: ``,
+	msgstr: ``,
+	klei: `Результат варьируется в зависимости от заливаемой жидкости и ее температуры.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.EFFECT",
+	msgid: `This building is currently under construction.\\n\\nIt will become available when <b>The Frosty Planet Pack</b> DLC is released.`,
+	msgstr: ``,
+	klei: `
+Использует нестерпимый <link=\\"HEAT\\">жар</link> планетарного ядра для резкого повышения <link=\\"TEMPERATURE\\">температуры</link> вливаемой <link=\\"ELEMENTSLIQUID\\">жидкости</link>.\\n
+\\n
+Собрать полученные вещества можно из любого колодезного клапана.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.NAME",
+	msgid: `<link=\\"GEOTHERMALCONTROLLER\\">Geothermal Heat Pump</link>`,
+	msgstr: ``,
+	klei: `<link=\\"GEOTHERMALCONTROLLER\\">Геотермальный тепловой насос</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.DESC",
+	msgid: ``,
+	msgstr: ``,
+	klei: `Геотермальные клапаны должны завершить вывод одного вещества, прежде чем приступить к другому.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.EFFECT",
+	msgid: `This building is currently under construction.\\n\\nIt will become available when <b>The Frosty Planet Pack</b> DLC is released.`,
+	msgstr: ``,
+	klei: `Дает материалы высокой <link=\\"TEMPERATURE\\">температуры</link>, нагретые <link=\\"GEOTHERMALCONTROLLER\\">геотермальным тепловым насосом</link>.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.NAME",
+	msgid: `<link=\\"GEOTHERMALVENT\\">Geo Vent</link>`,
+	msgstr: ``,
+	klei: `<link=\\"GEOTHERMALVENT\\">Геоклапан</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.NAME_FMT",
+	msgid: `<link=\\"GEOTHERMALVENT\\">Geo Vent C-{ID}</link>`,
+	msgstr: ``,
+	klei: `<link=\\"GEOTHERMALVENT\\">Геоклапан C-{ID}</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTUNER.DESC",
 	msgid: `The targeted geyser receives stored amplification data when it is erupting.`,
 	msgstr: ``,
@@ -2986,6 +4331,24 @@ Multiple Geotuners can be directed at a single <link=\\"GEYSERS\\">Geyser</link>
 			msgstr: `<link=\\"HYDROGENENGINE\\">Водородный двигатель</link>`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ICEKETTLE.DESC",
+	msgid: `The water never gets hot enough to burn the tongue.`,
+	msgstr: ``,
+	klei: `Вода никогда не оказывается слишком горячей и не обжигает язык.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ICEKETTLE.EFFECT",
+	msgid: `Consumes <link=\\"WOOD\\">Wood</link> to melt <link=\\"ICE\\">Ice</link> into <link=\\"WATER\\">Water</link>, which can be bottled for transport.`,
+	msgstr: ``,
+	klei: `Расходует <link=\\"WOOD\\">древесину</link> и топит <link=\\"ICE\\">лед</link>, превращая его в <link=\\"WATER\\">воду</link>, которую можно разлить по бутылкам для перевозки.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ICEKETTLE.NAME",
+	msgid: `<link=\\"ICEKETTLE\\">Ice Liquefier</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ICEKETTLE\\">Ликвификатор льда</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_1.DESC",
@@ -3254,6 +4617,18 @@ Duplicants will automatically sleep in their assigned beds at night.`,
 	klei: `<link=\\"LUXURYBED\\">Кровать \\"Гран-при\\"</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GREEN_MUSH.DESC",
+	msgid: `The mattress is so soft, it's almost impossible to climb out of.`,
+	msgstr: ``,
+	klei: `Такой мягкий матрас, что из кровати почти невозможно выбраться.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.GREEN_MUSH.NAME",
+	msgid: `<link=\\"LUXURYBED\\">Comfy Mush Bed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"LUXURYBED\\">Удобная землисто-зеленая кровать</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.DESC",
 	msgid: `It's so nice to be held.`,
 	msgstr: ``,
@@ -3278,6 +4653,30 @@ Duplicants will automatically sleep in their assigned beds at night.`,
 	klei: `<link=\\"LUXURYBED\\">Кровать-пуфф</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PURPLE_BRAINFAT.DESC",
+	msgid: `A soft landing spot for swooners.`,
+	msgstr: ``,
+	klei: `Мягкое приземление для нежных особ.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"LUXURYBED\\">Comfy Fainting Bed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"LUXURYBED\\">Томная удобная кровать</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RED_ROSE.DESC",
+	msgid: `A pink-hued bed for rosy dreams.`,
+	msgstr: ``,
+	klei: `Розовая кровать для розовых снов.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RED_ROSE.NAME",
+	msgid: `<link=\\"LUXURYBED\\">Comfy Puce Bed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"LUXURYBED\\">Удобная грязно-розовая кровать</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.ROCKET_BED.DESC",
 	msgid: `Launches sleepy Duplicants into a deep-space slumber.`,
 	msgstr: ``,
@@ -3300,6 +4699,18 @@ Duplicants will automatically sleep in their assigned beds at night.`,
 	msgid: `<link=\\"LUXURYBED\\">Puzzle Cube Bed</link>`,
 	msgstr: ``,
 	klei: `<link=\\"LUXURYBED\\">Кровать-головоломка</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.YELLOW_TARTAR.DESC",
+	msgid: `When life is icky, bed rest is the only answer.`,
+	msgstr: ``,
+	klei: `Если от жизни хочется сказать \\"Фу!\\", значит, пора поспать.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"LUXURYBED\\">Comfy Ick Bed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"LUXURYBED\\">Удобная мерзковатая кровать</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.EFFECT",
@@ -3528,6 +4939,78 @@ Wild <link=\\"CRITTERS\\">Critters</link> cannot pass through doors.`,
 	msgid: `<link=\\"SCULPTUREMETALGOOD1\\">Beautiful Biohazard</link>`,
 	msgstr: ``,
 	klei: `<link=\\"SCULPTUREMETALGOOD1\\">Прекрасная биоугроза</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.BLUE_BABYTEARS.DESC",
+	msgid: `Prioritizes nutritional value over flavor.`,
+	msgstr: ``,
+	klei: `Невкусно, но питательно.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.BLUE_BABYTEARS.NAME",
+	msgid: `<link=\\"MICROBEMUSHER\\">Weepy Blue Microbe Musher</link>`,
+	msgstr: ``,
+	klei: `<link=\\"MICROBEMUSHER\\">Слезно-голубой микробный преобразователь</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.DEFAULT_MICROBEMUSHER.DESC",
+	msgid: `Musher recipes will keep Duplicants fed, but may impact health and morale over time.`,
+	msgstr: ``,
+	klei: `Еда, приготовленная в преобразователях, не даст дубликантам проголодаться, но со временем скажется на их здоровье и уровне морального духа.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.DEFAULT_MICROBEMUSHER.NAME",
+	msgid: `<link=\\"MICROBEMUSHER\\">Microbe Musher</link>`,
+	msgstr: ``,
+	klei: `<link=\\"MICROBEMUSHER\\">Микробный преобразователь</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.GREEN_MUSH.DESC",
+	msgid: `Edible colloids for dinner <i>again</i>?`,
+	msgstr: ``,
+	klei: `Съедобные коллоиды на ужин? <i>Опять</i>?`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.GREEN_MUSH.NAME",
+	msgid: `<link=\\"MICROBEMUSHER\\">Mush Green Microbe Musher</link>`,
+	msgstr: ``,
+	klei: `<link=\\"MICROBEMUSHER\\">Землисто-зеленый микробный преобразователь</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.PURPLE_BRAINFAT.DESC",
+	msgid: `A colorful distraction from the actual quality of the food.`,
+	msgstr: ``,
+	klei: `Яркий цвет поможет не обращать внимания на качество самой еды.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"MICROBEMUSHER\\">Faint Purple Microbe Musher</link>`,
+	msgstr: ``,
+	klei: `<link=\\"MICROBEMUSHER\\">Томно-лиловый микробный преобразователь</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.RED_ROSE.DESC",
+	msgid: `Hunger strikes are not an option, but color-coordination is.`,
+	msgstr: ``,
+	klei: `Объявить голодовку не получится, но подобрать цвета в тон — это вариант.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.RED_ROSE.NAME",
+	msgid: `<link=\\"MICROBEMUSHER\\">Puce Pink Microbe Musher</link>`,
+	msgstr: ``,
+	klei: `<link=\\"MICROBEMUSHER\\">Грязно-розовый микробный преобразователь</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.DESC",
+	msgid: `Makes meals that are memorable for all the wrong reasons.`,
+	msgstr: ``,
+	klei: `Готовит незабываемые блюда, которые хочется забыть.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"MICROBEMUSHER\\">Ick Yellow Microbe Musher</link>`,
+	msgstr: ``,
+	klei: `<link=\\"MICROBEMUSHER\\">Мерзковато-желтый микробный преобразователь</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.DESC",
@@ -3797,13 +5280,13 @@ Defunct Biobots drop harvestable <link=\\"STEEL\\">Steel</link>.`,
 	klei: `
 Использует <link=\\"ZOMBIESPORES\\">зомби-споры</link> и <link=\\"STEEL\\">сталь</link> для создания механизмов на биологическом топливе. Этих ботов можно отправлять во враждебную среду.\\n
 \\n
-С неработающих биоботов можно собрать <link=\\"STEEL\\">сталь</link>.`,
+С неработающих <link=\\"STORYTRAITMORBROVER\\">биоботов</link> можно собрать <link=\\"STEEL\\">сталь</link>.`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.NAME",
 	msgid: `Biobot Builder`,
 	msgstr: ``,
-	klei: `Цех биоботов`,
+	klei: `<link=\\"STORYTRAITMORBROVER\\">Цех биоботов</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.DESC",
@@ -3918,6 +5401,45 @@ Defunct Biobots drop harvestable <link=\\"STEEL\\">Steel</link>.`,
 	klei: `<link=\\"PLANTERBOX\\">Прохладный ящик для растений</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.DESCRIPTION",
+	msgid: `Maintenance-free blooms that will outlive us all.`,
+	msgstr: ``,
+	klei: `За этими бутонами не нужен уход, но они переживут любого из нас.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.LORE_DLC2",
+	msgid: `Manufactured by Home Staging Heroes Ltd. as commissioned by the Gravitas Facility, to <i>\\"Make Space Feel More Like Home.\\"</i>\\n\\nThis bouquet is designed to smell like freshly baked cookies.`,
+	msgstr: ``,
+	klei: `
+Этот букет создан компанией Home Staging Heroes Ltd. по заказу Gravitas и призван <i>\\"сделать космос уютнее\\".</i>\\n
+\\n
+С ароматом печенья, только что вынутого из духовки.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.NAME",
+	msgid: `Plastic Flowers`,
+	msgstr: ``,
+	klei: `Пластиковые цветы`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.DESC",
+	msgid: ``,
+	msgstr: ``,
+	klei: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.EFFECT",
+	msgid: `Large double doors identical to those you might find at the main entrance to a large facility.`,
+	msgstr: ``,
+	klei: `Большие двойные двери. Такие можно увидеть на главном входе крупного предприятия.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.NAME",
+	msgid: `Showroom Doors`,
+	msgstr: ``,
+	klei: `Выставочные двери`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.DESC",
 	msgid: `It's a power transformer, but larger.`,
 	msgstr: ``,
@@ -3962,6 +5484,138 @@ Wild <link=\\"CRITTERS\\">Critters</link> cannot pass through doors.`,
 	],
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERA.DESC",
+	msgid: `A poster promoting a local tourist attraction.\\n\\nActual scenery may vary.`,
+	msgstr: ``,
+	klei: `
+Плакат, рекламирующий популярное направление для местного туризма.\\n
+\\n
+Реальный вид может отличаться.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERA.NAME",
+	msgid: `Travel Poster`,
+	msgstr: ``,
+	klei: `Туристический постер`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERB.DESC",
+	msgid: `A poster promoting local wildlife.\\n\\nThe first in an unfinished series.`,
+	msgstr: ``,
+	klei: `
+Плакат о живой природе здешних мест.\\n
+\\n
+Первая работа в незаконченной серии.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERB.NAME",
+	msgid: `Travel Poster`,
+	msgstr: ``,
+	klei: `Туристический постер`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERLARGE.DESC",
+	msgid: `A sound-absorbing panel that makes subterranean living more bearable.\\n\\nThe artwork features a power source.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERLARGE.NAME",
+	msgid: `Acoustic Art Panel`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPCLOTHESHANGER.DESC",
+	msgid: `Holds one <link=\\"WARMVEST\\">Warm Coat</link>.\\n\\nIt'd be silly not to use it.`,
+	msgstr: ``,
+	klei: `
+На ней висит один <link=\\"WARMVEST\\">теплый свитер</link>.\\n
+\\n
+Было бы глупо не воспользоваться.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPCLOTHESHANGER.NAME",
+	msgid: `Coat Rack`,
+	msgstr: ``,
+	klei: `Вешалка для пальто`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPDLC2DISPLAY1.DESC",
+	msgid: `An electronic display projecting the blueprint of an engineering project.\\n\\nIt looks like a pump of some kind.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPDLC2DISPLAY1.NAME",
+	msgid: `Electronic Display`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPDLC2GEOTHERMALCART.DESC",
+	msgid: `Maintenance equipment that once flushed debris out of complex mechanisms.\\n\\nOne of the wheels is squeaky.`,
+	msgstr: ``,
+	klei: `Эта тележка помогает избавляться от мусора в механизмах.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPDLC2GEOTHERMALCART.NAME",
+	msgid: `Service Cart`,
+	msgstr: ``,
+	klei: `Тележка техобслуживания`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPEXOSETLOCKER.DESC",
+	msgid: `A locker made with ultra-lightweight textiles.\\n\\nIt contains an assortment of personal effects.`,
+	msgstr: ``,
+	klei: `
+Шкафчик из ультралегких материалов.\\n
+\\n
+Содержит личные вещи.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPEXOSETLOCKER.NAME",
+	msgid: `Off-site Locker`,
+	msgstr: ``,
+	klei: `Внешний шкафчик`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPEXOSHELFLONG.DESC",
+	msgid: `A shelf made out of flat-packed pieces that can be assembled in various ways.\\n\\nThis is the long way.`,
+	msgstr: ``,
+	klei: `
+Полка из плоских деталей, которые можно собрать разными способами.\\n
+\\n
+Длинная модификация.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPEXOSHELFLONG.NAME",
+	msgid: `Long Prefab Shelf`,
+	msgstr: ``,
+	klei: `Длинная сборная полка`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPEXOSHELSHORT.DESC",
+	msgid: `A shelf made out of flat-packed pieces that can be assembled in various ways.\\n\\nIt looks nice, actually.`,
+	msgstr: ``,
+	klei: `
+Полка из плоских деталей, которые можно собрать разными способами.\\n
+\\n
+Выглядит симпатично.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPEXOSHELSHORT.NAME",
+	msgid: `Prefab Shelf`,
+	msgstr: ``,
+	klei: `Сборная полка`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIREEXTINGUISHER.DESC",
+	msgid: `Essential lab equipment.\\n\\nThe inspection tag indicates it has long expired.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIREEXTINGUISHER.NAME",
+	msgid: `Broken Fire Extinguisher`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSMALLSEEDLOCKER.DESC",
 	msgid: `
 A small glass cabinet.\\n
@@ -3978,6 +5632,95 @@ There's a biohazard symbol on it.`,
 	msgid: `Wall Cabinet`,
 	msgstr: ``,
 	klei: `Настенный шкафчик`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.DESC",
+	msgid: `A tool for toting tools around.\\n\\nIt's a little rusty.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.NAME",
+	msgid: `Tool Tote`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.DESC",
+	msgid: `A wall-mounted rack for storing and displaying useful tools just out of reach.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.NAME",
+	msgid: `Tool Rack`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.DESC",
+	msgid: ``,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.EFFECT",
+	msgid: `The wall of an ambitious research and development department.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.NAME",
+	msgid: `Wall`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.DESC",
+	msgid: ``,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.EFFECT",
+	msgid: `The wall of an ambitious research and development department.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.NAME",
+	msgid: `Wall`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDCHAIR.DESC",
+	msgid: `A luxurious chair where future generations can comfortably sit and dream of home.`,
+	msgstr: ``,
+	klei: `Роскошное кресло. Будущие поколения смогут удобно в нем развалиться и мечтать о доме.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDCHAIR.NAME",
+	msgid: `Showroom Chair`,
+	msgstr: ``,
+	klei: `Выставочное кресло`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDSOFA.DESC",
+	msgid: `A luxurious couch where potential residents can comfortably nap and dream of home.`,
+	msgstr: ``,
+	klei: `Шикарный диван, на котором можно вздремнуть и увидеть сны о доме.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDSOFA.NAME",
+	msgid: `Showroom Couch`,
+	msgstr: ``,
+	klei: `Выставочный диван`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPHUMANMURPHYBED.DESC",
+	msgid: `A bed that folds into the wall, for small live/work spaces.\\n\\nThis is the display model.`,
+	msgstr: ``,
+	klei: `
+Откидная кровать. В сложенном виде встает к стене и экономит место.\\n
+\\n
+На ней еще никто не спал.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPHUMANMURPHYBED.NAME",
+	msgid: `Murphy Bed`,
+	msgstr: ``,
+	klei: `Подъемная кровать`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT",
@@ -4020,6 +5763,90 @@ This building is a necessary component of the Stable room.`,
 Эта постройка является необходимым компонентом загона.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.BLUE_BABYTEARS.DESC",
+	msgid: `For food so cold, it brings a tear to the eye.`,
+	msgstr: ``,
+	klei: `От такой холодной еды плакать хочется.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.BLUE_BABYTEARS.NAME",
+	msgid: `<link=\\"REFRIGERATOR\\">Weepy Blue Refrigerator</link>`,
+	msgstr: ``,
+	klei: `<link=\\"REFRIGERATOR\\">Слезно-голубой холодильник</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.DESC",
+	msgid: `Food spoilage can be slowed by ambient conditions as well as by refrigerators.`,
+	msgstr: ``,
+	klei: `Срок годности еды можно продлить, поместив ее в нужную атмосферу, либо спрятав в холодильник.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.NAME",
+	msgid: `<link=\\"REFRIGERATOR\\">Refrigerator</link>`,
+	msgstr: ``,
+	klei: `<link=\\"REFRIGERATOR\\">Холодильник</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.DESC",
+	msgid: `Honestly, this hue is particularly chilling.`,
+	msgstr: ``,
+	klei: `От этого цвета даже мурашки по коже бегут.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.NAME",
+	msgid: `<link=\\"REFRIGERATOR\\">Mush Green Refrigerator</link>`,
+	msgstr: ``,
+	klei: `<link=\\"REFRIGERATOR\\">Землисто-зеленый холодильник</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.PURPLE_BRAINFAT.DESC",
+	msgid: `This fridge makes color-coordination a (cold) snap.`,
+	msgstr: ``,
+	klei: `Сразу видно, что цвет подбирался с холодным умом.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"REFRIGERATOR\\">Faint Purple Refrigerator</link>`,
+	msgstr: ``,
+	klei: `<link=\\"REFRIGERATOR\\">Томно-лиловый холодильник</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.RED_ROSE.DESC",
+	msgid: `Inspired by the Duplicant poem, \\"Pretty in Puce.\\"`,
+	msgstr: ``,
+	klei: `Вдохновлен поэмой одного дубликанта \\"Милашка в грязно-розовом\\".`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.RED_ROSE.NAME",
+	msgid: `<link=\\"REFRIGERATOR\\">Puce Pink Refrigerator</link>`,
+	msgstr: ``,
+	klei: `<link=\\"REFRIGERATOR\\">Грязно-розовый холодильник</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.DESC",
+	msgid: `Bold on the outside, cold on the inside!`,
+	msgstr: ``,
+	klei: `Против голода смело борется холодом!`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.NAME",
+	msgid: `<link=\\"REFRIGERATOR\\">Bold Stripe Refrigerator</link>`,
+	msgstr: ``,
+	klei: `<link=\\"REFRIGERATOR\\">Холодильник в броскую полоску</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.YELLOW_TARTAR.DESC",
+	msgid: `Some Duplicants call it \\"sunny\\" yellow, but only because they've never seen the sun.`,
+	msgstr: ``,
+	klei: `Некоторые дубликанты называют этот цвет \\"солнечным\\". Дело в том, что солнца они никогда не видели.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"REFRIGERATOR\\">Ick Yellow Refrigerator</link>`,
+	msgstr: ``,
+	klei: `<link=\\"REFRIGERATOR\\">Мерзковато-желтый холодильник</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT",
@@ -4154,6 +5981,12 @@ This building is a necessary component of the Stable room.`,
 	klei: `<link=\\"ROCKCRUSHER\\">Зубастый камнедробитель</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.RECIPE_DESCRIPTION_TWO_OUTPUT",
+	msgid: `Crushes {0} into {1} and {2}`,
+	msgstr: ``,
+	klei: `{0} перемалывается, в результате чего получаются {1} и {2}.`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.ROCKETWALLTILE.NAME",
 	msgid: `<link=\\"ROCKETENVELOPETILE\\">Rocket Wall</link>`,
 	msgstr: ``,
@@ -4281,7 +6114,10 @@ This building is a necessary component of the Stable room.`,
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.EFFECT",
 	msgid: `Shearing stations allow <link=\\"DRECKO\\">Dreckos</link> and <link=\\"MOLEDELICACY\\">Delecta Voles</link> to be safely sheared for useful raw materials.`,
 	msgstr: ``,
-	klei: `На станциях для стрижки можно безопасно постричь <link=\\"DRECKO\\">дрекконов</link> и <link=\\"MOLEDELICACY\\">полевок-неженок</link>, чтобы получить полезные сырьевые материалы.`,
+	klei: `
+На станциях для стрижки можно безопасно постричь <link=\\"CREATURES\\">существ</link>, которым это нужно, и получить полезные сырьевые материалы.\\n
+\\n
+После посещения этого строения физическое и эмоциональное состояние <link=\\"CREATURES\\">существ</link> улучшается.`,
 	mem: [
 		{
 			msgid: `Allows the assigned Rancher to shear Dreckos and Delecta Voles.`,
@@ -4388,6 +6224,27 @@ This building is a necessary component of the Stable room.`,
 	msgid: `<link=\\"SCULPTURE1X2GOOD\\">Lunar Slice</link>`,
 	msgstr: ``,
 	klei: `<link=\\"SCULPTURE1X2GOOD\\">Кусочек Луны</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.SNOWTILE.DESC",
+	msgid: `Snow tiles have low thermal conductivity, but will melt if temperatures get too high.`,
+	msgstr: ``,
+	klei: `Снежные клетки обладают низкой теплопроводностью, но тают при высоких температурах.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.SNOWTILE.EFFECT",
+	msgid: `Used to build the walls and floors of rooms.\\n\\nInsulates rooms to reduce <link=\\"HEAT\\">Heat</link> loss in cold climates.`,
+	msgstr: ``,
+	klei: `
+Используется для постройки пола и стен в комнатах.\\n
+\\n
+Обеспечивает теплоизоляцию в комнате и не дает терять <link=\\"HEAT\\">тепло</link> в холодном климате.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.SNOWTILE.NAME",
+	msgid: `Snow Tile`,
+	msgstr: ``,
+	klei: `Снежная клетка`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.EFFECT",
@@ -4558,6 +6415,18 @@ Must be built via <link=\\"LAUNCHPAD\\">Rocket Platform</link>.`,
 	klei: `<link=\\"STORAGELOCKER\\">Багрово-розовый складской отсек</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.STRIPES_RED_WHITE.DESC",
+	msgid: `It's the merriest storage bin of all.`,
+	msgstr: ``,
+	klei: `И вот он весь нарядненький на праздник к нам пришел...`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.STRIPES_RED_WHITE.NAME",
+	msgid: `Bold Stripe Storage Bin`,
+	msgstr: ``,
+	klei: `Складской отсек в броскую полоску`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.YELLOW_TARTAR.DESC",
 	msgid: `Color-coded storage makes things easier to find.`,
 	msgstr: ``,
@@ -4654,6 +6523,78 @@ Provides built-in storage for small spaces.`,
 	],
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.BLUE_BABYTEARS.DESC",
+	msgid: `A calm, colorful sink for heavy-hearted Duplicants.`,
+	msgstr: ``,
+	klei: `Яркая успокаивающая раковина для дубликантов с разбитым сердцем.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.BLUE_BABYTEARS.NAME",
+	msgid: `<link=\\"WASHSINK\\">Weepy Blue Sink</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WASHSINK\\">Слезно-голубая раковина</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.DEFAULT_WASHSINK.DESC",
+	msgid: `Sinks are plumbed and do not need to be manually emptied or refilled.`,
+	msgstr: ``,
+	klei: `Раковины подключены к системе труб, их не нужно вручную опустошать и наполнять.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.DEFAULT_WASHSINK.NAME",
+	msgid: `<link=\\"WASHSINK\\">Sink</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WASHSINK\\">Раковина</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.GREEN_MUSH.DESC",
+	msgid: `Even the soap is mush-colored.`,
+	msgstr: ``,
+	klei: `Даже мыло в нужной гамме.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.GREEN_MUSH.NAME",
+	msgid: `<link=\\"WASHSINK\\">Mush Green Sink</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WASHSINK\\">Землисто-зеленая раковина</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.PURPLE_BRAINFAT.DESC",
+	msgid: `A refreshing splash of color for the light-headed.`,
+	msgstr: ``,
+	klei: `Освежающий всплеск цвета для моментов слабости.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"WASHSINK\\">Faint Purple Sink</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WASHSINK\\">Томно-лиловая раковина</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.RED_ROSE.DESC",
+	msgid: `Some Duplicants say it looks like a germ-devouring mouth.`,
+	msgstr: ``,
+	klei: `Некоторые дубликанты говорят, что эта раковина похожа на пасть, пожирающую микробов.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.RED_ROSE.NAME",
+	msgid: `<link=\\"WASHSINK\\">Puce Pink Sink</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WASHSINK\\">Грязно-розовая раковина</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.YELLOW_TARTAR.DESC",
+	msgid: `The juxtaposition of 'ick' and 'clean' can be very satisfying.`,
+	msgstr: ``,
+	klei: `Есть что-то приятное в сочетании мерзкого с чистым.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"WASHSINK\\">Ick Yellow Sink</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WASHSINK\\">Мерзковато-желтая раковина</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.BALLOON.DESC",
 	msgid: `There's a funny aftertaste.`,
 	msgstr: ``,
@@ -4664,6 +6605,18 @@ Provides built-in storage for small spaces.`,
 	msgid: `<link=\\"WATERCOOLER\\">Inflatable Water Cooler</link>`,
 	msgstr: ``,
 	klei: `<link=\\"WATERCOOLER\\">Надувной кулер для воды</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.BLUE_BABYTEARS.DESC",
+	msgid: `Lightly salted with Duplicants' tears.`,
+	msgstr: ``,
+	klei: `Вода немного соленая: это слезы дубликантов.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.BLUE_BABYTEARS.NAME",
+	msgid: `<link=\\"WATERCOOLER\\">Weepy Blue Water Cooler</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WATERCOOLER\\">Слезно-голубой кулер для воды</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.DEFAULT_WATERCOOLER.DESC",
@@ -4678,6 +6631,42 @@ Provides built-in storage for small spaces.`,
 	klei: `<link=\\"WATERCOOLER\\">Кулер для воды</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.GREEN_MUSH.DESC",
+	msgid: `Ideal for post-Mush Bar palate cleansing.`,
+	msgstr: ``,
+	klei: `Идеально очищает вкусовые сосочки после грязевого батончика.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.GREEN_MUSH.NAME",
+	msgid: `<link=\\"WATERCOOLER\\">Mush Green Water Cooler</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WATERCOOLER\\">Землисто-зеленый кулер для воды</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.PURPLE_BRAINFAT.DESC",
+	msgid: `Most Duplicants agree that it really should dispense juice.`,
+	msgstr: ``,
+	klei: `Большинство дубликантов считают, что этот кулер должен наливать сок.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.PURPLE_BRAINFAT.NAME",
+	msgid: `<link=\\"WATERCOOLER\\">Faint Purple Water Cooler</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WATERCOOLER\\">Томно-лиловый кулер для воды</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.RED_ROSE.DESC",
+	msgid: `Rose-colored paper cups: the shatter-proof alternative to rose-colored glasses.`,
+	msgstr: ``,
+	klei: `Розовые стаканчики — это лучше, чем розовые очки.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.RED_ROSE.NAME",
+	msgid: `<link=\\"WATERCOOLER\\">Puce Pink Water Cooler</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WATERCOOLER\\">Грязно-розовый кулер для воды</link>`,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.ROUND_BODY.DESC",
 	msgid: `It really classes up a breakroom.`,
 	msgstr: ``,
@@ -4688,6 +6677,18 @@ Provides built-in storage for small spaces.`,
 	msgid: `<link=\\"WATERCOOLER\\">Elegant Water Cooler</link>`,
 	msgstr: ``,
 	klei: `<link=\\"WATERCOOLER\\">Элегантный кулер для воды</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.YELLOW_TARTAR.DESC",
+	msgid: `Did someone boil eggs in this water?`,
+	msgstr: ``,
+	klei: `Кто-то в этой воде яйца варил?`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.YELLOW_TARTAR.NAME",
+	msgid: `<link=\\"WATERCOOLER\\">Ick Yellow Water Cooler</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WATERCOOLER\\">Мерзковато-желтый кулер для воды</link>`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.OPTION_TOOLTIPS.MILK",
@@ -4732,6 +6733,118 @@ Only Duplicants with the <link=\\"RANCHING1\\">Critter Ranching I</link> skill c
 	msgid: `<link=\\"WATERTRAP\\">Fish Trap</link>`,
 	msgstr: ``,
 	klei: `<link=\\"WATERTRAP\\">Ловушка для рыбы</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.AVERAGEQUALITYNAME",
+	msgid: `Mediocre Wood Sculpture`,
+	msgstr: ``,
+	klei: `Посредственная деревянная скульптура`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.DESC",
+	msgid: `A great fit for smaller spaces.`,
+	msgstr: ``,
+	klei: `Отлично подходит для небольших помещений.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.EFFECT",
+	msgid: `Moderately increases <link=\\"DECOR\\">Decor</link>, contributing to <link=\\"MORALE\\">Morale</link>.\\n\\nMust be sculpted by a Duplicant.`,
+	msgstr: ``,
+	klei: `
+Умеренно увеличивает значение <link=\\"DECOR\\">декора</link>, повышая уровень <link=\\"MORALE\\">морального духа</link>.\\n
+\\n
+Должна быть высечена дубликантом.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.EXCELLENTQUALITYNAME",
+	msgid: `Genius Wood Sculpture`,
+	msgstr: ``,
+	klei: `Гениальная деревянная скульптура`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.NAME",
+	msgid: `<link=\\"WOODSCULPTURE\\">Wood Block</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WOODSCULPTURE\\">Деревянный блок</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.POORQUALITYNAME",
+	msgid: `\\"Abstract\\" Wood Sculpture`,
+	msgstr: ``,
+	klei: `\\"Абстрактная\\" деревянная скульптура`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSTORAGE.DESC",
+	msgid: `Once it's empty, there's no use pining for more.`,
+	msgstr: ``,
+	klei: `Запас не бесконечен, но не стоит себя за это корить.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSTORAGE.EFFECT",
+	msgid: `Stores a finite supply of <link=\\"WOOD\\">Wood</link>, which can be used for construction or to produce <link=\\"HEAT\\">Heat</link>.`,
+	msgstr: ``,
+	klei: `Вмещает ограниченные запасы <link=\\"WOOD\\">древесины</link>, которую можно использовать для строительства или выработки <link=\\"HEAT\\">тепла</link>.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODSTORAGE.NAME",
+	msgid: `Wood Pile`,
+	msgstr: ``,
+	klei: `Куча дерева`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODTILE.DESC",
+	msgid: `Rooms built with wood tile are cozy and pleasant.`,
+	msgstr: ``,
+	klei: `Комнаты, построенные с использованием деревянных клеток, отличаются уютом. В них приятно находиться.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODTILE.EFFECT",
+	msgid: `Used to build the walls and floors of rooms.\\n\\nProvides good insulation and boosts <link=\\"DECOR\\">Decor</link>, contributing to  <link=\\"MORALE\\">Morale</link>.`,
+	msgstr: ``,
+	klei: `
+Используется для постройки пола и стен в комнатах.\\n
+\\n
+Обеспечивает хорошую теплоизоляцию и увеличивает значение <link=\\"DECOR\\">декора</link>, повышая уровень <link=\\"MORALE\\">морального духа</link>.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.WOODTILE.NAME",
+	msgid: `Wood Tile`,
+	msgstr: ``,
+	klei: `Деревянная клетка`,
+},
+{
+	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_BASE_CLUSTER.DESCRIPTION",
+	msgid: `A cluster of visitable planetoids with an Ice Cave starting world.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_BASE_CLUSTER.NAME",
+	msgid: `Ceres Cluster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_CLASSIC_CLUSTER.DESCRIPTION",
+	msgid: `A cluster of visitable planetoids with an Ice Cave starting world.`,
+	msgstr: ``,
+	klei: `Скопление пригодных для посещения планетоидов, где можно начать с ледяного пещерного мира.`,
+},
+{
+	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_CLASSIC_CLUSTER.NAME",
+	msgid: `Ceres Cluster`,
+	msgstr: ``,
+	klei: `Скопление Цереры`,
+},
+{
+	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.DESCRIPTION",
+	msgid: `A cluster of visitable planetoids with an Ice Cave starting world.`,
+	msgstr: ``,
+	klei: `Скопление пригодных для посещения планетоидов, где можно начать с ледяного пещерного мира.`,
+},
+{
+	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.NAME",
+	msgid: `Ceres Cluster`,
+	msgstr: ``,
+	klei: `Скопление Цереры`,
 },
 {
 	msgctxt: "STRINGS.CODEX.A1A_B111.BODY.CONTAINER1",
@@ -5009,6 +7122,29 @@ When first observing the Beeta's enrichment process, many scientists note with s
 Впервые увидев этот процесс обогащения урана, многие учёные с удивлением писали, насколько более эффективно использовать комбинацию насекомых и их ульев в сравнении с самыми продвинутыми техногенными процессами.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.CODEX.BLUE_GRASS.BODY.CONTAINER1",
+	msgid: `The Alveo Vera's fleshy stems are dotted with small apertures featuring bidirectional valves through which <link=\\"CARBONDIOXIDE\\">Carbon Dioxide</link> is absorbed and sticky oxygenated waste is secreted.\\n\\nThis buildup resulting from this respiration cycle crystallizes into <link=\\"OXYROCK\\">Oxylite</link> ore.\\n\\nHorticulturists have long been curious about the protective epithelium that prevents the <link=\\"OXYROCK\\">Oxylite</link> ore from sublimating while on the plant. Unfortunately, it is too fragile to survive handling, and has thus far proven impossible to study.`,
+	msgstr: ``,
+	klei: `
+Толстые стебли алвео веры усыпаны крошечными отверстиями, которые работают в двух направлениях. Именно через них растение потребляет <link=\\"CARBONDIOXIDE\\">углекислый газ</link> и выпускает липкие окисленные отходы.\\n
+\\n
+Со временем эти следы жизнедеятельности алвео веры кристаллизируются в <link=\\"OXYROCK\\">кислолитовую</link> руду.\\n
+\\n
+Ботаников давно интересует защитный эпителий растения, не позволяющий <link=\\"OXYROCK\\">кислолитовой</link> руде сформироваться на нем. Увы, алвео вера — хрупкое растение, а потому изучить этот вопрос подробнее пока не представлялось возможным.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.BLUE_GRASS.SUBTITLE",
+	msgid: `Plant`,
+	msgstr: ``,
+	klei: `Растение`,
+},
+{
+	msgctxt: "STRINGS.CODEX.BLUE_GRASS.TITLE",
+	msgid: `Alveo Vera`,
+	msgstr: ``,
+	klei: `Алвео вера`,
 },
 {
 	msgctxt: "STRINGS.CODEX.C01_EVIL.BODY.CONTAINER1",
@@ -5466,6 +7602,8 @@ Most species live for 75 to 100 cycles on average. The shortest-lived critter is
 	klei: `
 За исключением ульев бет и сглазиков, которые могут бесконечно существовать в дикой природе, у всех существ есть фиксированная продолжительность жизни. Максимальный возраст отражает максимальное количество циклов, которое может прожить существо, если ему не помешает голод или другие неестественные причины смерти.\\n
 \\n
+Если существа травмированы или нездоровы, животновод может помочь им на станции существ.\\n
+\\n
 Детство существа длится до тех пор, пока оно не станет способно к размножению. Для этого периода развития существа характерен медленный метаболизм и хорошее настроение.\\n
 \\n
 Большинство видов в среднем живут от 75 до 100 циклов. Самой короткой продолжительностью жизни обладают беты, которые живут только пять циклов.`,
@@ -5650,7 +7788,7 @@ Being confined or feeling crowded undermines a critter's happiness.`,
 \\n
 Базовый уровень счастья детенышей выше, чем у взрослых особей, но детеныши не производят ни ресурсов, ни яиц.\\n
 \\n
-Дубликанты с навыком животноводства умеют приручать существ и заботиться о них. Они также могут поднять настроение существа, пообщавшись с ним на станции существ.\\n
+Дубликанты с навыком животноводства умеют приручать существ и ухаживать за ними. Они также могут поднять настроение и улучшить здоровье существа, позаботившись о нем на станции существ.\\n
 \\n
 Если существо попьет из фонтанчика, его настроение также улучшится, хотя в бракене из фонтанчика и не так много полезных веществ.\\n
 \\n
@@ -5711,6 +7849,41 @@ This emotional state intensifies in response to the number of excess critters: a
 	msgid: `Crowded`,
 	msgstr: ``,
 	klei: `Стесненность`,
+},
+{
+	msgctxt: "STRINGS.CODEX.DEERSPECIES.BODY.CONTAINER1",
+	msgid: `Evenly distributed throughout the Flox's dense overcoat are countless vibrissae-like hairs that transmit detailed sensory information about its environment, allowing it to detect changes as subtle as the shift in another creature's mood.\\n\\nFloxes avoid overstimulation by whipping their tails to release the pent-up energy. Because these tactile hairs are so sensitive, they cannot be safely shorn.\\n\\nFlox antlers, however, are nerveless and cumbersome. Handlers who unburden them of this cranial load are often rewarded with the critter's long, slow blinks of contentment.`,
+	msgstr: ``,
+	klei: `
+Лисени обладают густой шерстью, в которой спрятано бессчетное количество чувствительных усиков-вибрисс. Этот орган воспринимает огромное количество сенсорной информации об окружающей среде, позволяя лисеню распознавать малейшие изменения, например настроение других существ.\\n
+\\n
+Чтобы избежать сенсорной перегрузки, лисени бьют хвостом, тем самым выпуская накопленную энергию. Из-за чувствительных вибрисс, лисеня нельзя постричь.\\n
+\\n
+Зато тяжелые рога лисеней не обладают нервными окончаниями. Избавив лисеня от этого бремени, животноводы часто замечают, как существо довольно прикрывает глаза.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.DEERSPECIES.SPECIES_SUBTITLE",
+	msgid: `Critter Species`,
+	msgstr: ``,
+	klei: `Вид существа`,
+},
+{
+	msgctxt: "STRINGS.CODEX.DEERSPECIES.SPECIES_TITLE",
+	msgid: `Floxes`,
+	msgstr: ``,
+	klei: `Лисени`,
+},
+{
+	msgctxt: "STRINGS.CODEX.DEERSPECIES.SUBTITLE",
+	msgid: `Domesticable Critter`,
+	msgstr: ``,
+	klei: `Одомашненное существо`,
+},
+{
+	msgctxt: "STRINGS.CODEX.DEERSPECIES.TITLE",
+	msgid: `Flox`,
+	msgstr: ``,
+	klei: `Лисень`,
 },
 {
 	msgctxt: "STRINGS.CODEX.EXOBASES.PARAGRAPH_2",
@@ -5804,6 +7977,29 @@ Always check engine fuel to determine if your rocket can reach its destination, 
 	klei: `Источник: {0}. Промежуточный результат: {1}. Результат: {2}.`,
 },
 {
+	msgctxt: "STRINGS.CODEX.HARDSKINBERRYPLANT.BODY.CONTAINER1",
+	msgid: `The Pikeapple Bush produces a nutritious fruit distantly related to those in the Durio genus.\\n\\nThose who find the Pikeapple pulp's fragrance overwhelming should consume their portion whilst standing near the plant itself; the shrubbery's gentle swaying produces a wafting effect that promotes air circulation.\\n\\nClosed-toe footwear is recommended, as barefoot contact with the plant's sharp seeds inevitably leads to infection.`,
+	msgstr: ``,
+	klei: `
+Шиплоневый куст производит питательные фрукты. Это растение состоит в дальнем родстве с родом Durio.\\n
+\\n
+Кому-то запах шиплока может показаться слишком резким — в этом случае рекомендуется употреблять мякоть шиплока рядом с самим растением: медленное покачивание куста способствует циркуляции воздуха.\\n
+\\n
+Рекомендуется собирать шиплоки в закрытой обуви: контакт с острыми шипами этого растения приводит к инфекции.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.HARDSKINBERRYPLANT.SUBTITLE",
+	msgid: `Edible Plant`,
+	msgstr: ``,
+	klei: `Съедобное растение`,
+},
+{
+	msgctxt: "STRINGS.CODEX.HARDSKINBERRYPLANT.TITLE",
+	msgid: `Pikeapple Bush`,
+	msgstr: ``,
+	klei: `Шиплоневый куст`,
+},
+{
 	msgctxt: "STRINGS.CODEX.HEADERS.BUILDINGCONSTRUCTIONMATERIALS",
 	msgid: `Materials: `,
 	msgstr: ``,
@@ -5868,6 +8064,580 @@ Always check engine fuel to determine if your rocket can reach its destination, 
 			msgstr: `Съедобное растение`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.CODEX.ICEBELLY.BODY.CONTAINER1",
+	msgid: `The Bammoth is one of the oldest species on record, with ancient skeletal remains dating back approximately 10,000 years.\\n\\nThis placid herbivore is known for its unique body language: an angry young Bammoth expresses displeasure by flopping down dramatically in front of its opponent, while older creatures with limited mobility will sit facing away from the source of their annoyance.\\n\\nLicking the ground in front of a caregiver can be a sign of either deep affection or mineral deficiency.`,
+	msgstr: ``,
+	klei: `
+Крольмонт — один из древнейших известных видов. Были найдены окаменелые останки крольмонтов, которым более 10 000 лет.\\n
+\\n
+Это миролюбивое травоядное славится своим уникальным языком тела: разгневанные детеныши крольмонтов проявляют недовольство, драматично падая перед противником. Взрослым и менее подвижным особям приходится сидеть, отвернувшись от источника раздражения.\\n
+\\n
+Если крольмонт лижет землю на глазах у животновода, это может быть знаком глубокой привязанности или недостатка витаминов.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.ICEBELLY.SPECIES_SUBTITLE",
+	msgid: `Critter Species`,
+	msgstr: ``,
+	klei: `Вид существа`,
+},
+{
+	msgctxt: "STRINGS.CODEX.ICEBELLY.SPECIES_TITLE",
+	msgid: `Bammoths`,
+	msgstr: ``,
+	klei: `Крольмонты`,
+},
+{
+	msgctxt: "STRINGS.CODEX.ICEBELLY.SUBTITLE",
+	msgid: `Domesticable Critter`,
+	msgstr: ``,
+	klei: `Одомашненное существо`,
+},
+{
+	msgctxt: "STRINGS.CODEX.ICEBELLY.TITLE",
+	msgid: `Bammoth`,
+	msgstr: ``,
+	klei: `Крольмонт`,
+},
+{
+	msgctxt: "STRINGS.CODEX.ICEFLOWER.BODY.CONTAINER1",
+	msgid: `Idylla Flowers are a rare species of everblooms that thrive with very little care, making them a perennial favorite among newbie gardeners.\\n\\nTheir springy blossoms can be 'bopped' gently for sensory entertainment, but hands should be washed immediately as the petal residue can permanently stain most textiles.`,
+	msgstr: ``,
+	klei: `
+Цветы идиллы — это редкий вечноцветущий вид, не требующий особого ухода. Начинающие садоводы обожают это растение и готовы любоваться им круглый год.\\n
+\\n
+Весенние бутоны можно легонько \\"бупнуть\\" — будет забавно, однако после такого развлечения важно незамедлительно помыть руки: красящие лепестки растения оставляют следы практически на любой ткани.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.ICEFLOWER.SUBTITLE",
+	msgid: `Decorative Plant`,
+	msgstr: ``,
+	klei: `Декоративное растение`,
+},
+{
+	msgctxt: "STRINGS.CODEX.ICEFLOWER.TITLE",
+	msgid: `Idylla Flower`,
+	msgstr: ``,
+	klei: `Цветок идиллы`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_CLEANUP.BODY.CONTAINER1",
+	msgid: `Submitted by: B. Boson\\nEmployee ID: X002\\nDepartment: Gravitas Intellectual Property Management\\n\\nJob Details:\\n\\nRequire one (1) Robotics Engineer to travel solo to [REDACTED]. Engineer will print, program and maintain a P.E.G.G.Y. crew of eight (8) units.\\n\\nEngineer will catalog all Project [REDACTED] debris.\\n\\nAll proprietary equipment to be returned to Facility grounds for investigation. Organic and biohazardous debris may be disposed of onsite at Engineer's discretion.\\n\\nCandidate: Dr. E. Gossmann\\n\\nScope of cleanup area: [REDACTED] sq mi.\\n*This is an estimate only.\\n\\nTimeline: 54 Ceres days (equival. 6 days at origin).\\n\\nOther comments:\\n1. Liability waiver, power of attorney and NDA attached.\\n2. Allow up to 0.5 hours for signal transmission from [REDACTED], depending on orbital positioning.\\n3. All relevant correspondence to be sent directly to bboson@gipm.nova.\\n\\nSignature: [REDACTED]\\n\\n`,
+	msgstr: ``,
+	klei: `
+Опубликовано: Б. Бозон\\n
+ID сотрудника: X002\\n
+Отделение: Управление интеллектуальной собственностью Gravitas\\n
+\\n
+Описание вакансии:\\n
+\\n
+Требуется один (1) роботоинженер для одиночного путешествия. Пункт назначения: [СКРЫТО]. Инженер должен создать, запрограммировать и обеспечить поддержку для восьми (8) биоботов П.Э.Г.Г.И.\\n
+\\n
+Инженер должен вести учет всех отходов проекта [СКРЫТО].\\n
+\\n
+Все оборудование предприятия должно быть возвращено на его территорию для дальнейшего исследования. От органических отходов инженер может избавляться по своему усмотрению.\\n
+\\n
+Кандидат: Проф. Э. Госсмэнн\\n
+\\n
+Территория для очищения: [СКРЫТО] кв. км.\\n
+*Это только примерные значения.\\n
+\\n
+Время: 54 церерных дня (соотв. 6 дней на планете происхождения).\\n
+\\n
+Дополнительные комментарии:\\n
+1. Документ об отказе от ответственности, письменная доверенность и соглашение о неразглашении информации во вложении.\\n
+2. Передача сигнала с [СКРЫТО] может занять до 0,5 часа в зависимости от орбитального положения.\\n
+3. Вся соответствующая информация должна направляться непосредственно по адресу bboson@gipm.nova.\\n
+\\n
+Подпись: [СКРЫТО]\\n
+\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_CLEANUP.BODY.CONTAINER2",
+	msgid: `<smallcaps><i>Authorized by Director J. Stern\\n\\n-----------\\n`,
+	msgstr: ``,
+	klei: `
+<smallcaps><i>Авторизовано: Директор Дж. Стерн\\n
+\\n
+-----------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_CLEANUP.SUBTITLE",
+	msgid: `Status: URGENT`,
+	msgstr: ``,
+	klei: `Статус: СРОЧНО`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_CLEANUP.TITLE",
+	msgid: `Sanitation Order`,
+	msgstr: ``,
+	klei: `Санитарный приказ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.CONTAINER1",
+	msgid: `<indent=5%>Fascinating. I had not expected him to score quite so highly, but he <i>is</i> uncommonly charismatic.\\n\\nIf I can secure a replacement, perhaps he can be of service to Dr. Techna.\\n\\nIn the meantime, proceed as planned...with appropriate caution.</indent>`,
+	msgstr: ``,
+	klei: `
+<indent=5%>Удивительно. Его результаты значительно превосходят мои ожидания, но он <i>действительно</i> обладает выдающейся харизмой.\\n
+\\n
+Если мне удастся найти замену, возможно, доктор Техно сможет воспользоваться его услугами.\\n
+\\n
+В данный момент продолжаем действовать по плану... с подобающей осторожностью.</indent>`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.CONTAINER2",
+	msgid: `<indent=5%>Director,\\n\\nUnderstood. No further assessments will be conducted.\\n\\nOne of the residents has already met with Dr. Olowe. I have attached his results below. They're incompatible with our goals, and honestly kind of frightening.\\n\\nShould I exclude him from the training?</indent>`,
+	msgstr: ``,
+	klei: `
+<indent=5%>Директор,\\n
+\\n
+Так точно. Прекращаем всяческое тестирование.\\n
+\\n
+Один из резидентов уже встретился с доктором Олоуэ. Результаты приложены ниже. Они несовместимы с нашими целями, и, откровенно говоря, они меня пугают.\\n
+\\n
+Исключить его из тренировочной группы?</indent>`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.CONTAINER3",
+	msgid: `<indent=5%>These individuals were recruited by me personally, for reasons far above your pay grade. As such, consider them pre-vetted.\\n\\nFailure to meet this project's timelines could mean failure in every timeline. Am I making myself clear?</indent>`,
+	msgstr: ``,
+	klei: `
+<indent=5%>Эти кандидаты отобраны мной лично. Знать критерии в ваши обязанности не входит. Считайте эту группу заведомо одобренной.\\n
+\\n
+Нарушение сроков этого проекта может привести к критическим временным последствиям. Вам все ясно?</indent>`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.CONTAINER4",
+	msgid: `<indent=5%>Director,\\n\\nI've processed the first round of prospective sojourners.\\n\\nGiven that the applicants have no formal training in space travel, I've asked Dr. Olowe to conduct a thorough assessment of their psychological and emotional fitness.\\n\\nOnce his tests are complete, the prospective residents will be sent down to the biodome to begin their training.</indent></color>`,
+	msgstr: ``,
+	klei: `
+<indent=5%>Директор,\\n
+\\n
+Заявки потенциальных поселенцев обработаны на первичном этапе.\\n
+\\n
+Поскольку кандидаты не проходили формальной подготовки к космическим путешествиям, доктор Олоуэ проведет оценку их психологического и эмоционального состояния.\\n
+\\n
+Когда тестирование закончится, потенциальные поселенцы будут отправлены в биокупол для начала тренировки.</indent></color>`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.EMAILHEADER1",
+	msgid: `<smallcaps>To: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color>\\nFrom: <b>[REDACTED]</b></smallcaps>\\n------------------\\n`,
+	msgstr: ``,
+	klei: `
+<smallcaps>Кому: <b>Директору Стерн</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color>\\n
+От: <b>[СКРЫТО]</b></smallcaps>\\n
+------------------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.EMAILHEADER2",
+	msgid: `<smallcaps>To: <b>[REDACTED]</b>\\nFrom: <b>Director Stern</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\\n------------------\\n`,
+	msgstr: ``,
+	klei: `
+<smallcaps>Кому: <b>[СКРЫТО]</b>\\n
+От: <b>Директора Стерн</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\\n
+------------------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.SIGNATURE1",
+	msgid: `\\n[REDACTED]\\n<size=11>Ceres Project Coordinator\\nThe Gravitas Facility</size>\\n------------------\\n`,
+	msgstr: ``,
+	klei: `
+\\n
+[СКРЫТО]\\n
+<size=11>Координатор проекта \\"Церера\\"\\n
+Предприятие Gravitas</size>\\n
+------------------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.SIGNATURE2",
+	msgid: `\\n-Director Stern\\n<size=11>The Gravitas Facility</size>\\n------------------\\n`,
+	msgstr: ``,
+	klei: `
+\\n
+-Директор Стерн\\n
+<size=11>Предприятие Gravitas</size>\\n
+------------------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.SUBTITLE",
+	msgid: `ENCRYPTION LEVEL: TWO`,
+	msgstr: ``,
+	klei: `УРОВЕНЬ ШИФРОВАНИЯ: ВТОРОЙ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.TITLE",
+	msgid: `Re: Re: Ecotourism`,
+	msgstr: ``,
+	klei: `Re: Re: Экотуризм`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.TITLE2",
+	msgid: `Re: Ecotourism`,
+	msgstr: ``,
+	klei: `Re: Экотуризм`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.TITLE3",
+	msgid: `Ecotourism`,
+	msgstr: ``,
+	klei: `Экотуризм`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.BODY.CONTAINER1",
+	msgid: `Dear Dr. Moreson,\\n\\nI regret to inform you that your son, Calvin, is to be expelled from Brighthall Science Academy effective immediately.\\n\\nDuring his brief tenure here, Calvin has proven himself a gifted young man, capable of excelling in all subjects.\\n\\nUnfortunately, Calvin chooses to apply his intellect to activities of an inflammatory nature.\\n\\nHis latest breach of conduct involved instigating a vitriolic verbal assault against an esteemed guest speaker from Global Energy Inc. during this morning's Sponsor Celebration assembly. Following this, he orchestrated a school-wide walkout.\\n\\nWhile we sympathize with the personal challenges that Calvin may face as a refugee scholar from a GEI-occupied nation, the Academy can no longer tolerate these disruptions to our educational environment.\\n\\nYours,`,
+	msgstr: ``,
+	klei: `
+Уважаемый доктор Морсон,\\n
+\\n
+С сожалением сообщаю, что с этого момента ваш сын Кельвин исключен из научной академии Брайтхол.\\n
+\\n
+Во время своего непродолжительного обучения Кельвин показал себя талантливым юношей с незаурядными способностями по всем предметам.\\n
+\\n
+Однако он предпочитает использовать свой интеллект в бунтарских и подстрекательских целях.\\n
+\\n
+Его последнее нарушение — публичное оскорбление приглашенного лектора из компании Global Energy Inc. во время ярмарки спонсоров сегодня утром, вследствие которого все студенты без разрешения покинули лекцию.\\n
+\\n
+Мы сочувствуем сложной ситуации Кельвина и понимаем, что, как ученый-беженец из захваченной GEI территории, он сталкивается со множеством испытаний, но академия больше не может мириться с подобными нарушениями образовательного процесса.\\n
+\\n
+С уважением,`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.BODY.LETTERHEADER1",
+	msgid: `<smallcaps>To: <b>Harold P. Moreson, PhD</b><alpha=#AA><size=12> <hmoreson@gravitas.nova></size></color>\\nFrom: <b>Dylan Timbre, PhD</b><alpha=#AA><size=12> <principal@brighthall.edu></smallcaps>\\n------------------\\n`,
+	msgstr: ``,
+	klei: `
+<smallcaps>Кому: <b>Доктору Гарольду П. Морсону</b><alpha=#AA><size=12> <hmoreson@gravitas.nova></size></color>\\n
+От: <b>Доктора Дилана Тимбра</b><alpha=#AA><size=12> <principal@brighthall.edu></smallcaps>\\n
+------------------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.BODY.SIGNATURE",
+	msgid: `Dylan Timbre\\n<size=11>Principal\\n\\nBrighthall Science Academy\\n<i>Virtutem Doctrina Parat</i></size>\\n------------------\\n`,
+	msgstr: ``,
+	klei: `
+Дилан Тимбр\\n
+<size=11>Директор\\n
+\\n
+Научная академия Брайтхол\\n
+<i>Virtutem Doctrina Parat</i></size>\\n
+------------------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.SUBTITLE",
+	msgid: `ENCRYPTION LEVEL: NONE`,
+	msgstr: ``,
+	klei: `УРОВЕНЬ ШИФРОВАНИЯ: НЕТ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.TITLE",
+	msgid: `Letter From The Principal`,
+	msgstr: ``,
+	klei: `Письмо от директора`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.BODY.CONTAINER1",
+	msgid: `Director, this was sent to the general inbox.\\n\\n-----------------------------------------------------------------------------------------------------\\n<indent=35%>~ * ~</indent>\\n\\n<indent=12%>Col. Josephine Carnot & Dr. Alan Stern</indent>\\n<indent=35%>and</indent>\\n<indent=12%>Dr. Kyung Min Wen & Dr. Soobin Chen</indent>\\n\\n<indent=20%><i>are overjoyed to announce\\n<indent=15%>the arrival of their first grandchild</i></indent>\\n\\n<smallcaps><indent=20%><b><size=17>Giselle Jackie-Lin Stern</size></b></indent></smallcaps>\\n\\n<indent=15%><i>and congratulate the happy parents</i></indent>\\n\\n<indent=20%>Jonathan Stern & Wenlin Chen</indent>\\n\\n<indent=18%><i>on a safe and healthy incubation.</i></indent>\\n\\n<indent=35%>~ * ~</indent>\\n\\n</indent><indent=18%><i>Baby shower invitation to follow.</i></indent>\\n-----------------------------------------------------------------------------------------------------\\n\\nWould you like me to file it with the others?`,
+	msgstr: ``,
+	klei: `
+Директор, это письмо пришло в общий почтовый ящик.\\n
+\\n
+-----------------------------------------------------------------------------------------------------\\n
+<indent=35%>~ * ~</indent>\\n
+\\n
+<indent=12%>П-к. Джозефина Карно и доктор Алан Стерн</indent>\\n
+<indent=35%>, а также</indent>\\n
+<indent=12%>проф. Кюнг Мин Вен и проф. Субин Чен</indent>\\n
+\\n
+<indent=20%><i>с радостью сообщают о\\n
+<indent=15%>появлении на свет своей первой внучки,</i></indent>\\n
+\\n
+<smallcaps><indent=20%><b><size=17>Жизель Джеки-Лин Стерн,</size></b></indent></smallcaps>\\n
+\\n
+<indent=15%><i>и поздравляют счастливых родителей</i></indent>\\n
+\\n
+<indent=20%>Джонатана Стерна и Венлин Чен</indent>\\n
+\\n
+<indent=18%><i>с успешным и здоровым вынашиванием.</i></indent>\\n
+\\n
+<indent=35%>~ * ~</indent>\\n
+\\n
+</indent><indent=18%><i>Позже пришлем приглашения на празднование.</i></indent>\\n
+-----------------------------------------------------------------------------------------------------\\n
+\\n
+Отправить к остальным?`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.BODY.LETTERHEADER1",
+	msgid: `<smallcaps>To: <b>Director Stern</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\\nFrom: <b>[REDACTED]</b></smallcaps>\\n\\n-----------\\n`,
+	msgstr: ``,
+	klei: `
+<smallcaps>Кому: <b>Директору Стерн</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\\n
+От: <b>[СКРЫТО]</b></smallcaps>\\n
+\\n
+-----------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.BODY.SIGNATURE",
+	msgid: `-Admin<size=11>\\nThe Gravitas Facility</size>\\n------------------\\n`,
+	msgstr: ``,
+	klei: `
+Администратор<size=11>\\n
+Предприятие Gravitas</size>\\n
+------------------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.SUBTITLE",
+	msgid: `ENCRYPTION LEVEL: NONE`,
+	msgstr: ``,
+	klei: `УРОВЕНЬ ШИФРОВАНИЯ: НЕТ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.TITLE",
+	msgid: `FWD: Big Announcement`,
+	msgstr: ``,
+	klei: `FWD: Радостное событие`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.BODY.CONTAINER1",
+	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a tragic accident...flagship solar cell project...\\n\\n     ...training exercise...     ...two highly decorated pilots...countless ground crew...\\n\\n...Vertex Institute director expresses sorrow...  ...vows to carry on...not be in vain...\\n\\n       ...the research community is in mourning...\\n\\n...Gravitas Facility releases [unintelligible] statement...\\n...deploring unsafe work conditions...    ...invites applications...all disciplines...\\n\\n             ...stay tuned for...`,
+	msgstr: ``,
+	klei: `
+<smallcaps><b>[ФАЙЛ ПОВРЕЖДЕН]</b></smallcaps>\\n
+\\n
+...\\n
+\\n
+[Помехи.]\\n
+\\n
+...трагедия...ведущий проект по изучению солнечных клеток...\\n
+\\n
+     ...во время тренировочных...     ...два первоклассных пилота...многочисленная команда центра управления...\\n
+\\n
+...директор института Vertex выражает соболезнования...  ...обещает продолжить...не напрасно...\\n
+\\n
+       ...исследовательское сообщество скорбит...\\n
+\\n
+...предприятие Gravitas выпустило [неразборчиво] заявление...\\n
+...осудив небезопасные условия труда...    ...приглашает профессионалов...всем дисциплинам...\\n
+\\n
+             ...следите за...`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.BODY.CONTAINER2",
+	msgid: `...\\n\\n[Radio static.]\\n\\n<smallcaps><b>[RECORDING ENDS]</b></smallcaps>\\n\\n-----------\\n`,
+	msgstr: ``,
+	klei: `
+...\\n
+\\n
+[Помехи.]\\n
+\\n
+<smallcaps><b>[ЗАПИСЬ ОБРЫВАЕТСЯ]</b></smallcaps>\\n
+\\n
+-----------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.SUBTITLE",
+	msgid: `ENCRYPTION LEVEL: None`,
+	msgstr: ``,
+	klei: `УРОВЕНЬ ШИФРОВАНИЯ: НЕТ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.TITLE",
+	msgid: `Tragic News`,
+	msgstr: ``,
+	klei: `Новости о трагедии`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.BODY.CONTAINER1",
+	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a tragic accident...  ...flagship smog dispersal system...\\n\\n    ...training exercise...\\n\\n...clear-air turbulence...    ...pilot in intensive care...\\n\\n...impossible to predict long-term impact...\\n\\n         ...public health order...\\n\\n  ...Vertex Institute projects suspended until investigations complete...\\n\\n...the research community is in shock...\\n\\n      ...Gravitas Facility releases [unintelligible] statement...\\n\\n...invites applications from affected workers...all disciplines...\\n\\n           ...stay tuned for...`,
+	msgstr: ``,
+	klei: `
+<smallcaps><b>[ФАЙЛ ПОВРЕЖДЕН]</b></smallcaps>\\n
+\\n
+...\\n
+\\n
+[Помехи.]\\n
+\\n
+...трагедия...  ...ведущая система борьбы со смогом...\\n
+\\n
+    ...тренировочный...\\n
+\\n
+...турбулентность ясного неба...    ...пилот в реанимации...\\n
+\\n
+...невозможно предсказать долгосрочные последствия...\\n
+\\n
+         ...меры общественного здравоохранения...\\n
+\\n
+  ...проекты института Vertex приостановлены до завершения расследования...\\n
+\\n
+...исследовательское сообщество шокировано...\\n
+\\n
+      ...предприятие Gravitas выступило с [неразборчиво] заявлением...\\n
+\\n
+...приглашает всех пострадавших сотрудников...все дисциплины...\\n
+\\n
+           ...следите за дальн...`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.BODY.CONTAINER2",
+	msgid: `...\\n\\n[Radio static.]\\n\\n<smallcaps><b>[RECORDING ENDS]</b></smallcaps>\\n\\n-----------\\n`,
+	msgstr: ``,
+	klei: `
+...\\n
+\\n
+[Помехи.]\\n
+\\n
+<smallcaps><b>[ЗАПИСЬ ОБРЫВАЕТСЯ]</b></smallcaps>\\n
+\\n
+-----------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.SUBTITLE",
+	msgid: `ENCRYPTION LEVEL: None`,
+	msgstr: ``,
+	klei: `УРОВЕНЬ ШИФРОВАНИЯ: НЕТ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.TITLE",
+	msgid: `Tragic News`,
+	msgstr: ``,
+	klei: `Новости о трагедии`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.BODY.CONTAINER1",
+	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a near-tragic accident turned into a historic victory...      \\n\\n...flagship artificial intelligence project...\\n\\n     ...clear-air turbulence...     ...record-breaking storm...\\n\\n...pilot lost consciousness...    ...automated system override...\\n\\n     ...safe and sound...      ...Vertex Institute director... expresses gratitude to...Colonel [unintelligible] on behalf of...\\n\\n      ...funding renewed at unspecified amount...\\n\\n...the research community is jubilant...     Gravitas Facility releases a statement...demanding response...claims of corporate espionage...\\n\\n      ...refuses to comment... \\n\\n...stay tuned for...\\n\\n`,
+	msgstr: ``,
+	klei: `
+<smallcaps><b>[ФАЙЛ ПОВРЕЖДЕН]</b></smallcaps>\\n
+\\n
+...\\n
+\\n
+[Помехи.]\\n
+\\n
+...чуть не обернулся трагедией, но повлек за собой исторический успех...      \\n
+\\n
+...ведущий проект по разработке искусственного интеллекта...\\n
+\\n
+     ...турбулентность ясного неба...     ...мощный ураган...\\n
+\\n
+...пилот потерял сознание...    ...автоматическая система взяла контроль над управлением...\\n
+\\n
+     ...в безопасности...      ...директор института Vertex... выражает благодарность...полковнику [неразборчиво] от лица...\\n
+\\n
+      ...возобновить финансирование, лимиты не оговариваются...\\n
+\\n
+...исследовательское сообщество торжествует...     предприятие Gravitas выступило с заявлением ...требует ответа... обвинения в промышленном шпионаже...\\n
+\\n
+      ...отказался комментировать... \\n
+\\n
+...оставайтесь с...\\n
+\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.BODY.CONTAINER2",
+	msgid: `...\\n\\n[Radio static.]\\n\\n<smallcaps><b>[RECORDING ENDS]</b></smallcaps>\\n\\n-----------\\n`,
+	msgstr: ``,
+	klei: `
+...\\n
+\\n
+[Помехи.]\\n
+\\n
+<smallcaps><b>[ЗАПИСЬ ОБРЫВАЕТСЯ]</b></smallcaps>\\n
+\\n
+-----------\\n`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.SUBTITLE",
+	msgid: `ENCRYPTION LEVEL: None`,
+	msgstr: ``,
+	klei: `УРОВЕНЬ ШИФРОВАНИЯ: НЕТ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.TITLE",
+	msgid: `Tragedy Averted`,
+	msgstr: ``,
+	klei: `Предотвращенная трагедия`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_THEARCHIVE.BODY.CONTAINER1",
+	msgid: `Welcome! Welcome! Welcome!\\nEverything is under control!\\n\\n<b>Your VIP package includes:</b><indent=5%>\\n\\n- An exclusive set of bespoke survival-supporting technology!\\n- A comprehensive Tenants' Handbook with everything you need to maintain homeostasis in your new Home! <alpha=#AA>[MISSING ATTACHMENT]</color></indent>\\n\\nWhen life gets you down, popular wisdom says to look up! That is incorrect! Please direct your attention downward!\\n\\nThis will ensure a pleasant stretch for tense cervical muscles. It will also help you locate the color-coded lines painted on the ground, directing you to the sustainably heated Comfort Quarters down below.\\n\\nAnd remember: Survival is Success!\\n\\n<smallcaps><size=11><i>Gravitas accepts no liability for death, disability, personal injury, or emotional and psychological damage that may occur during residency. Please consult your booking agent for details.</i></size></smallcaps>`,
+	msgstr: ``,
+	klei: `
+Добро пожаловать!\\n
+Все под контролем!\\n
+\\n
+<b>Ваш VIP-набор включает в себя:</b><indent=5%>\\n
+\\n
+- Эксклюзивный набор уникальных технологий для выживания!\\n
+- Полное руководство поселенца, в котором есть все для поддержания гомеостаза в вашем новом доме! <alpha=#AA>[ВЛОЖЕНИЕ ОТСУТСТВУЕТ]</color></indent>\\n
+\\n
+Народная мудрость предлагает смотреть на небо, оказавшись на дне! Это неверно! Смотрите под ноги!\\n
+\\n
+Это прекрасный способ приятно потянуть напряженные мышцы шеи. Также это позволит вам заметить разноцветные линии на полу, которые указывают путь к отапливаемым комфортным жилым помещениям снизу.\\n
+\\n
+Помните: выживание — это успех!\\n
+\\n
+<smallcaps><size=11><i>Gravitas не несет ответственности за смерть, последствия для здоровья, травмы, а также психологический и эмоциональный урон, который могут понести поселенцы. Свяжитесь с агентом бронирования, чтобы узнать подробности.</i></size></smallcaps>`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_THEARCHIVE.SUBTITLE",
+	msgid: `ENCRYPTION LEVEL: NONE`,
+	msgstr: ``,
+	klei: `УРОВЕНЬ ШИФРОВАНИЯ: НЕТ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_THEARCHIVE.TITLE",
+	msgid: `Welcome to Ceres!`,
+	msgstr: ``,
+	klei: `Добро пожаловать на Цереру!`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_VOICEMAIL.BODY.CONTAINER1",
+	msgid: `<smallcaps>[File fragmentation detected]\\n[Voice Recognition unavailable]</smallcaps>\\n\\n[LOG BEGINS]\\n\\n...Grandfather? ...one of your cardigan-wearing interns just dropped off a letter saying you've gone to SPACE??\\n\\nHave you gone mad?\\n\\nIt's dated a week from now... the young fellow went completely red when he realized his mistake.\\n\\nI tried Miranda, and she says she hasn't heard from you since the Sustainable Futures summit.\\n\\nShe said something about some sort of training session. Only no one at the office knows what she's on about.\\n\\nHow am I meant to explain your absence tomorrow? GEI's going to be absolutely livid. If they back out of this deal, it won't be just the underlings who get laid off.\\n\\n...What exactly do you think you'll achieve, trapped in space with four strangers for the rest of your miserable existence?\\n\\nYou're a business man, not a bloody astronaut!\\n\\nNot to mention there's a <i>war</i> on! Who's to say your ground control team won't be dead within the year?\\n\\n[Sound of a baby crying.]\\n\\n<i>Andrew, this is not a daycare!</i>\\n\\nI've got to go. Call me back or I'm going straight to the Board.\\n\\n[FILE ENDS]`,
+	msgstr: ``,
+	klei: `
+<smallcaps>[Файл поврежден]\\n
+[Определение голоса невозможно]</smallcaps>\\n
+\\n
+[НАЧАЛО ЗАПИСИ]\\n
+\\n
+...Дедуль? ...один из твоих интернов в кардигане оставил письмо, в котором сказано, что ты полетел В КОСМОС??\\n
+\\n
+Ты с ума сошел?\\n
+\\n
+Дата на конверте наступит только через неделю... парнишка весь покраснел, когда заметил свою ошибку.\\n
+\\n
+Миранда говорит, что не общалась с тобой с саммита об устойчивом будущем.\\n
+\\n
+Она упомянула какую-то тренировку. Но никто в офисе не понимает, о чем она.\\n
+\\n
+Как я завтра буду объяснять твое отсутствие? GEI будет рвать и метать. Если они откажутся от сделки, работу потеряют не только мелкие сотрудники.\\n
+\\n
+...Чего ты надеялся добиться, оказавшись запертым в космосе с четырьмя незнакомцами до конца своей жалкой жизни?\\n
+\\n
+Ты бизнесмен, а не космонавт!\\n
+\\n
+И я еще молчу о том, что идет <i>война</i>! Откуда тебе знать, что центр управления все еще будет существовать через год?\\n
+\\n
+[Детский плач.]\\n
+\\n
+<i>Эндрю, это тебе не детский сад!</i>\\n
+\\n
+Мне пора. Перезвони, иначе я отправлюсь напрямую к совету директоров.\\n
+\\n
+[КОНЕЦ ЗАПИСИ]`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_VOICEMAIL.SUBTITLE",
+	msgid: `ENCRYPTION LEVEL: NONE`,
+	msgstr: ``,
+	klei: `УРОВЕНЬ ШИФРОВАНИЯ: НЕТ`,
+},
+{
+	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_VOICEMAIL.TITLE",
+	msgid: `Voicemail`,
+	msgstr: ``,
+	klei: `Голосовое сообщение`,
 },
 {
 	msgctxt: "STRINGS.CODEX.JOURNALISTREQUEST.BODY.CONTAINER2",
@@ -6319,6 +9089,7 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.FLAVOUR",
 	msgid: ``,
 	msgstr: ``,
+	klei: ``,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.ROOMSREQUIRING",
@@ -6372,6 +9143,7 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.FLAVOUR",
 	msgid: ``,
 	msgstr: ``,
+	klei: ``,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.ROOMSREQUIRING",
@@ -6395,18 +9167,22 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.FLAVOUR",
 	msgid: ``,
 	msgstr: ``,
+	klei: ``,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.TITLE",
 	msgid: `Critter Relocator`,
 	msgstr: ``,
-	klei: `Переместитель существ`,
+	klei: `Переместители существ`,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.DESCRIPTION",
 	msgid: `Buildings that give the colony a valuable aesthetic boost, and allow Duplicants to express themselves creatively.`,
 	msgstr: ``,
-	klei: `Строения, которые придают колонии красоты и дают дубликантам возможность творческого самовыражения.`,
+	klei: `
+Строения, которые придают колонии красоты и дают дубликантам возможность творческого самовыражения.\\n
+\\n
+В некоторых комнатах необходимо разместить изящный декор, чтобы повысить уровень эстетического наслаждения дубликантов.`,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.FLAVOUR",
@@ -6458,7 +9234,7 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.TITLE",
 	msgid: `Flush Toilets`,
 	msgstr: ``,
-	klei: `Туалеты со смывом`,
+	klei: `<link=\\"FLUSHTOILETTYPE\\">Туалеты со смывом</link>`,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.CONFLICTINGROOMS",
@@ -6476,8 +9252,17 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
     • <link=\\"RECROOM\\">Recreation Room</link>`,
 	msgstr: ``,
 	klei: `
-    •  Отдельная спальня\\n
-    •  Роскошная казарма`,
+    • <link=\\"LATRINE\\">Общая уборная</link>\\n
+    • <link=\\"PLUMBEDBATHROOM\\">Ванная комната</link>\\n
+    • <link=\\"BARRACKS\\">Казармы</link>\\n
+    • <link=\\"BEDROOM\\">Роскошная казарма</link>\\n
+    • <link=\\"PRIVATE BEDROOM\\">Отдельная спальня</link>\\n
+    • <link=\\"MESSHALL\\">Столовая</link>\\n
+    • <link=\\"GREATHALL\\">Большой зал</link>\\n
+    • <link=\\"MASSAGECLINIC\\">Массажная клиника</link>\\n
+    • <link=\\"HOSPITAL\\">Больница</link>\\n
+    • <link=\\"LABORATORY\\">Лаборатория</link>\\n
+    • <link=\\"RECROOM\\">Комната для развлечений</link>`,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.DESCRIPTION",
@@ -6507,6 +9292,7 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.FLAVOUR",
 	msgid: ``,
 	msgstr: ``,
+	klei: ``,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.ROOMSREQUIRING",
@@ -6576,7 +9362,6 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.CONFLICTINGROOMS",
 	msgid: `    •  Any room that is not inside a rocket.`,
 	msgstr: ``,
-	klei: `    • Любая комната, которая не находится внутри ракеты.`,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.DESCRIPTION",
@@ -6588,6 +9373,7 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.FLAVOUR",
 	msgid: ``,
 	msgstr: ``,
+	klei: ``,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.TITLE",
@@ -6636,6 +9422,24 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	klei: `Туалеты`,
 },
 {
+	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.DESCRIPTION",
+	msgid: `Buildings designed to help Duplicants counter the effects of cold environments and soggy feet.`,
+	msgstr: ``,
+	klei: `Строения, созданные, чтобы помочь дубликантам справляться с воздействием холодной среды и сушить промокшие ноги.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.FLAVOUR",
+	msgid: ``,
+	msgstr: ``,
+	klei: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.TITLE",
+	msgid: `Warming Stations`,
+	msgstr: ``,
+	klei: `Согревательные станции`,
+},
+{
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.DESCRIPTION",
 	msgid: `Buildings that remove <link=\\"DISEASE\\">disease</link>-spreading germs from Duplicant bodies. Not all wash stations require plumbing.`,
 	msgstr: ``,
@@ -6658,6 +9462,123 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 	msgid: `Wash Stations`,
 	msgstr: ``,
 	klei: `Станции для мытья`,
+},
+{
+	msgctxt: "STRINGS.CODEX.SEAL.BODY.CONTAINER1",
+	msgid: `Spigot Seals are named for the hollow, cone-shaped glabellar protrusion that allows them to siphon nourishment directly from plants into the digestive sac located at the cone's base.\\n\\nIn order to draw nutritious fluids through this \\"straw,\\" the Spigot Seal compresses its nasal cavity and pumps its tongue up into its soft palate repeatedly, creating a vacuum.\\n\\nMealtimes are concluded by lapping at the air to reopen the airways and prevent accidental asphyxiation.\\n\\nMany handlers enjoy teaching this critter to clap its flippers, only to discover that there is no reliable method of limiting how often or how loudly the behavior is repeated.`,
+	msgstr: ``,
+	klei: `
+Рогатые тюлени получили свое название благодаря полому коническому межбровному отростку, который позволяет им втягивать полезные вещества из растений прямо в пищеварительную полость, расположенную у основания конуса.\\n
+\\n
+Чтобы втянуть питательную жидкость через эту \\"соломинку\\", рогатые тюлени блокируют свою назальную полость и многократно поднимают язык к мягкому небу, тем самым создавая вакуум.\\n
+\\n
+Завершив прием пищи, рогатый тюлень жадно глотает воздух, чтобы не задохнуться.\\n
+\\n
+Многие животноводы учат этих существ хлопать ластами, но вскоре обнаруживают, что не имеют контроля над тем, насколько часто и громко рогатый тюлень будет повторять этот трюк.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.SEAL.SPECIES_SUBTITLE",
+	msgid: `Domesticable Species`,
+	msgstr: ``,
+	klei: `Вид можно приручить`,
+},
+{
+	msgctxt: "STRINGS.CODEX.SEAL.SPECIES_TITLE",
+	msgid: `Spigot Seals`,
+	msgstr: ``,
+	klei: `Рогатые тюлени`,
+},
+{
+	msgctxt: "STRINGS.CODEX.SEAL.SUBTITLE",
+	msgid: `Domesticable Critter`,
+	msgstr: ``,
+	klei: `Одомашненное существо`,
+},
+{
+	msgctxt: "STRINGS.CODEX.SEAL.TITLE",
+	msgid: `Spigot Seal`,
+	msgstr: ``,
+	klei: `Рогатый тюлень`,
+},
+{
+	msgctxt: "STRINGS.CODEX.SHERBERRY.BODY.CONTAINER1",
+	msgid: `The semi-parasitic Sherberry plant leeches moisture and trace minerals from the primordial ice formations in which it grows.\\n\\nThe fruit of this varietal contains low levels of stomach-upsetting phoratoxins which, while not fatal, do serve as strong motivation for foragers to seek out additional sources of nutrition.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.SHERBERRY.SUBTITLE",
+	msgid: `Edible Plant`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.SHERBERRY.TITLE",
+	msgid: `Sherberry Plant`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.SPACETREE.BODY.CONTAINER1",
+	msgid: `The Bonbon Gourd is a towering plant developed to thrive in below-freezing temperatures. It features multiple independently functioning stems that synthesize bright light to funnel nutrients into a hollow central core.\\n\\nOnce the plant is fully grown, the core secretes digestive enzymes that break down surplus nutrients and store them as thick, sweet fluid. This can be refined for the production of higher-tier foods, or used to sustain Spigot Seal ranches.\\n\\nBonbon Gourds are generally considered an eyesore, and would likely be eradicated if not for their delicious output.`,
+	msgstr: ``,
+	klei: `
+Конфетная тыква — это крупное растение, выведенное специально для выращивания при очень низких температурах. У него несколько независящих друг от друга стеблей, которые синтезируют яркий свет и передают питательные вещества в полое ядро по центру.\\n
+\\n
+Когда растение полностью созрело, ядро вырабатывает пищеварительные энзимы, которые расщепляют оставшиеся нутриенты и превращают их в густой сладкий сок. Этот сок можно обработать и использовать для приготовления сложных блюд или же отправить на корм рогатым тюленям.\\n
+\\n
+Конфетная тыква считается весьма уродливым растением. Вероятно, его давно перестали бы культивировать, если бы не его невероятный вкус.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.SPACETREE.SUBTITLE",
+	msgid: `Edible Plant`,
+	msgstr: ``,
+	klei: `Съедобное растение`,
+},
+{
+	msgctxt: "STRINGS.CODEX.SPACETREE.TITLE",
+	msgid: `Bonbon Gourd`,
+	msgstr: ``,
+	klei: `Конфетная тыква`,
+},
+{
+	msgctxt: "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.ICEBELLY",
+	msgid: `Whoops! This scanner wasn't designed for critters of these proportions. Fortunately, this critter's thick coat protected the machinery from damage.`,
+	msgstr: ``,
+	klei: `Упс! Сканер оказался неподходящим для существ таких размеров. К счастью, густой мех этого существа защитил устройство от повреждений.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.SEAL",
+	msgid: `Specimen scanned. Review data for more information.`,
+	msgstr: ``,
+	klei: `Сканирование выполнено. Подробности в сводке данных.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.WOODDEER",
+	msgid: `This critter seemed amused by the scanning process. Review data for more information.`,
+	msgstr: ``,
+	klei: `Похоже, сканирование позабавило это существо. Подробности в сводке данных.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.ICEBELLY",
+	msgid: `Whoops! This scanner wasn't designed for critters of these proportions. Fortunately, this critter's thick coat protected the machinery from damage.`,
+	msgstr: ``,
+	klei: `Упс! Сканер оказался неподходящим для существ таких размеров. К счастью, густой мех этого существа защитил устройство от повреждений.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.SEAL",
+	msgid: `This critter's pupils appear to be permanently constricted, possibly as a result of long-term exposure to excess illumination.\\n\\nIts sense of smell is extremely well-developed, however: it immediately identified areas touched by previous species, and marked each one with a small puddle of liquid ethanol.`,
+	msgstr: ``,
+	klei: `
+Зрачки этого существа постоянно сужены. Возможно, это результат длительного нахождения при излишне ярком освещении.\\n
+\\n
+В то же время оно обладает невероятно чутким обонянием и может мгновенно распознать области, тронутые предыдущим видом, которые затем метит небольшим количеством этанола.`,
+},
+{
+	msgctxt: "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.WOODDEER",
+	msgid: `This critter's perpetual grin grew as it observed each step of the process extremely closely.\\n\\nBehavioral analysis indicates a tendency toward mischief. Close supervision - and minimal access to advanced machinery - is recommended.`,
+	msgstr: ``,
+	klei: `
+Это существо внимательно наблюдало за процессом, расплываясь в улыбке.\\n
+\\n
+В ходе бихевиористского анализа была выявлена склонность существа к шалостям. Рекомендуется постоянный присмотр, а также ограничение доступа к сложной технике.`,
 },
 {
 	msgctxt: "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.BUTTON",
@@ -8385,6 +11306,21 @@ This building requires additional {0} in order to function\\n
 	klei: `Отменить восстановление строения`,
 },
 {
+	msgctxt: "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.DROP_INVENTORY",
+	msgid: `Empty Building`,
+	msgstr: ``,
+	klei: `Пустое строение`,
+},
+{
+	msgctxt: "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.DROP_INVENTORY_TOOLTIP",
+	msgid: `Empties stored <link=\\"STEEL\\">Steel</link>\\n\\nDisabling the building will also prevent <link=\\"STEEL\\">Steel</link> from being delivered`,
+	msgstr: ``,
+	klei: `
+Избавляется от запасов <link=\\"STEEL\\">стали</link>\\n
+\\n
+Если строение отключено, <link=\\"STEEL\\">сталь</link> не доставляется`,
+},
+{
 	msgctxt: "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.REVEAL_BTN",
 	msgid: `Restore Building`,
 	msgstr: ``,
@@ -8505,6 +11441,65 @@ PS: Пришлось попросить Стива меня впустить, ч
 	klei: `Тайный поклонник`,
 },
 {
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.COMING_SOON_CONTROLLER_DESC",
+	msgid: `This building is part of a geothermal power plant that has malfunctioned before, with devastating results. It is currently too unstable to approach safely.\\n\\nMy Duplicants will be able to begin working on it once <b>The Frosty Planet Pack</b> DLC is released.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.COMING_SOON_CONTROLLER_TITLE",
+	msgid: `Notice: Under Construction`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.COMING_SOON_VENT_DESC",
+	msgid: `This building is part of a geothermal power plant that has malfunctioned before, with devastating results. It is currently too unstable to approach safely.\\n\\nMy colony will be able to begin working on it once <b>The Frosty Planet Pack</b> DLC is released.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.COMING_SOON_VENT_TITLE",
+	msgid: `Notice: Under Construction`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.DESCRIPTION",
+	msgid: ``,
+	msgstr: ``,
+	klei: ``,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.MESSAGE_BODY",
+	msgid: `Though the journey has been long and marked by challenges that often seemed insurmountable, we have prevailed in harnessing geothermal technology. We now stand proudly at the precipice of infinite heat and power... I am humbled at the thought, yet hopeful that our experiences here have made us wise enough to wield this power more carefully than those who came before us.`,
+	msgstr: ``,
+	klei: `Хоть в ходе этого долгого путешествия мы и столкнулись с, казалось бы, непреодолимыми испытаниями, нам удалось освоить геотермальные технологии. Мы можем гордиться собой, ведь мы в шаге от бесконечного источника тепла и энергии... Сложно даже представить, что нам это удалось, и все же я надеюсь, что нам хватит опыта использовать эту силу с большей мудростью, чем наши предшественники.`,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.MESSAGE_TITLE",
+	msgid: `WARM REGARDS`,
+	msgstr: ``,
+	klei: `С ТЕПЛЫМИ ПОЖЕЛАНИЯМИ`,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.NAME",
+	msgid: `Full Steam Ahead`,
+	msgstr: ``,
+	klei: `На всех парах`,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENT_DESCRIPTION",
+	msgid: `This achievement will be available upon release of <b>The Frosty Planet Pack</b> DLC`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENT_TITLE",
+	msgid: ``,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.DLC_ACHIEVEMENT",
+	msgid: `<i>{0}</i> DLC Achievement`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION",
 	msgid: `Distribute 1000 kg of Oxygen using gas vents.`,
 	msgstr: ``,
@@ -8520,13 +11515,25 @@ PS: Пришлось попросить Стива меня впустить, ч
 	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_CYCLES",
 	msgid: `All Dupes completed an Exosuit errand for cycles: {0} / {1}`,
 	msgstr: ``,
-	klei: `Циклов, когда все дубли завершили по поручению в экзокостюмах: {0}/{1}`,
+	klei: `Циклов, когда все дубликанты завершили по поручению в экзокостюмах: {0}/{1}`,
 	mem: [
 		{
 			msgid: `All Dupes completed a Exosuit errand for cycles: {0} / {1}`,
 			msgstr: `Все дубликанты выполнили поручения в экзокостюмах: {0} / {1} циклов`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_GEOTHERMAL",
+	msgid: `Full Steam Ahead`,
+	msgstr: ``,
+	klei: `На всех парах`,
+},
+{
+	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_GEOTHERMAL_DESCRIPTION",
+	msgid: `Secure your colony's industrial future by fulfilling the Power Imperative.`,
+	msgstr: ``,
+	klei: `Обеспечить промышленное будущее колонии, выполнив первостепенную энергетическую задачу.`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.ATTRIBUTES.BECKONINGDELTA.DESC",
@@ -8551,6 +11558,48 @@ PS: Пришлось попросить Стива меня впустить, ч
 	msgid: `Determines how long this <style=\\"KKeyword\\">Critter</style> takes to replenish its natural supply of <style=\\"KKeyword\\">Brackene</style>.`,
 	msgstr: ``,
 	klei: `Определяет время, в течение которого у <style=\\"KKeyword\\">существа</style> восстанавливается естественный уровень <style=\\"KKeyword\\">бракена</style>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.FAMILY.ICEBELLY",
+	msgid: `<link=\\"BELLYSPECIES\\">Bammoth</link>`,
+	msgstr: ``,
+	klei: `<link=\\"BELLYSPECIES\\">Крольмонт</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.FAMILY.SEAL",
+	msgid: `<link=\\"SEALSPECIES\\">Spigot Seal</link>`,
+	msgstr: ``,
+	klei: `<link=\\"SEALSPECIES\\">Рогатый тюлень</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.FAMILY.WOODDEER",
+	msgid: `<link=\\"DEERSPECIES\\">Flox</link>`,
+	msgstr: ``,
+	klei: `<link=\\"DEERSPECIES\\">Лисень</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.FAMILY_PLURAL.BELLYSPECIES",
+	msgid: `<link=\\"BELLYSPECIES\\">Bammoths</link>`,
+	msgstr: ``,
+	klei: `<link=\\"BELLYSPECIES\\">Крольмонты</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.FAMILY_PLURAL.DEERSPECIES",
+	msgid: `<link=\\"DEERSPECIES\\">Floxes</link>`,
+	msgstr: ``,
+	klei: `<link=\\"DEERSPECIES\\">Лисени</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.FAMILY_PLURAL.SEALSPECIES",
+	msgid: `<link=\\"SEALSPECIES\\">Spigot Seals</link>`,
+	msgstr: ``,
+	klei: `<link=\\"SEALSPECIES\\">Рогатые тюлени</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.MODIFIERS.AIRBORNECRITTERCONDOINTERACTEFFECT.TOOLTIP",
+	msgid: `This critter recently nested in an airborne critter condo`,
+	msgstr: ``,
+	klei: `Это существо недавно обустроилость в летающем общежитии для существ`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.MODIFIERS.ATE_FROM_FEEDER.TOOLTIP",
@@ -8659,6 +11708,18 @@ It will lay more eggs as a result`,
 	msgid: `This critter's in high spirits because its needs are being exceeded`,
 	msgstr: ``,
 	klei: `Это существо в приподнятом настроении, поскольку его нужды более чем удовлетворены`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.MODIFIERS.ICEBELLYWELLFED.NAME",
+	msgid: `Just Ate`,
+	msgstr: ``,
+	klei: `Только что поело`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.MODIFIERS.ICEBELLYWELLFED.TOOLTIP",
+	msgid: `This critter's recent meal is boosting their fur growth`,
+	msgstr: ``,
+	klei: `Существо недавно поело, и это заставляет его мех расти лучше`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP",
@@ -8776,13 +11837,24 @@ Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill
 	msgctxt: "STRINGS.CREATURES.MODIFIERS.UNDERWATERCRITTERCONDOINTERACTEFFECT.NAME",
 	msgid: `Cozy`,
 	msgstr: ``,
-	klei: `Уют`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.MODIFIERS.UNDERWATERCRITTERCONDOINTERACTEFFECT.TOOLTIP",
 	msgid: `This critter recently enjoyed a visit to a water fort`,
 	msgstr: ``,
 	klei: `Это существо совсем недавно посещало водяную крепость`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.MODIFIERS.WOODDEERWELLFED.NAME",
+	msgid: `Just Ate`,
+	msgstr: ``,
+	klei: `Только что поело`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.MODIFIERS.WOODDEERWELLFED.TOOLTIP",
+	msgid: `This critter's recent meal is boosting their antler growth`,
+	msgstr: ``,
+	klei: `Существо недавно поело, и это заставляет его рога расти лучше`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.BEE.DESC",
@@ -8817,6 +11889,42 @@ They commonly gather <link=\\"URANIUM\\">Uranium</link> for their <link=\\"BEEHI
 Обычно они собирают <link=\\"URANIUM\\">уран</link> для своих <link=\\"BEEHIVE\\">ядерных ульев</link>, чтобы производить <link=\\"ENRICHEDURANIUM\\">обогащённый уран</link>.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.BLUE_GRASS.DESC",
+	msgid: `Alveo Veras consume <link=\\"CARBONDIOXIDE\\">Carbon Dioxide</link> and <link=\\"ICE\\">Ice</link>, and form harvestable <link=\\"OXYROCK\\">Oxylite</link> deposits.`,
+	msgstr: ``,
+	klei: `Алвео вера поглощает <link=\\"CARBONDIOXIDE\\">углекислый газ</link> и <link=\\"ICE\\">лед</link>, формируя залежи <link=\\"OXYROCK\\">кислолита</link>, которые можно собрать.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.BLUE_GRASS.DOMESTICATEDDESC",
+	msgid: `This plant produces <link=\\"OXYROCK\\">Oxylite</link>.`,
+	msgstr: ``,
+	klei: `Это растение производит <link=\\"OXYROCK\\">кислолит</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.BLUE_GRASS.NAME",
+	msgid: `<link=\\"BLUEGRASS\\">Alveo Vera</link>`,
+	msgstr: ``,
+	klei: `<link=\\"BLUEGRASS\\">Алвео вера</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.CARROTPLANT.DESC",
+	msgid: `Plume Squashes are sweet, nutrient-rich tubers that can be harvested for <link=\\"FOOD\\">Food</link>.`,
+	msgstr: ``,
+	klei: `Перьевые тыквы — это сладкие питательные клубни, которые можно употреблять в <link=\\"FOOD\\">пищу</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.CARROTPLANT.DOMESTICATEDDESC",
+	msgid: `This plant produces edible <link=\\"CARROT\\">Plume Squash</link>.`,
+	msgstr: ``,
+	klei: `На этом растении может созреть съедобная <link=\\"CARROT\\">перьевая тыква</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.CARROTPLANT.NAME",
+	msgid: `<link=\\"CARROTPLANT\\">Plume Squash Plant</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CARROTPLANT\\">Закопанная перьевая тыква</link>`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.CRAB.DESC",
@@ -9053,6 +12161,105 @@ They are closely related to the <link=\\"DIVERGENTWORM\\">Grubgrub</link> and ex
 	],
 },
 {
+	msgctxt: "STRINGS.CREATURES.SPECIES.HARDSKINBERRYPLANT.DESC",
+	msgid: `Pikeapple bushes produce <link=\\"HARDSKINBERRY\\">Pikeapple</link>, a useful yet almost unbearably fragrant <link=\\"FOOD\\">Food</link>.`,
+	msgstr: ``,
+	klei: `На шиплоневых кустах растут <link=\\"HARDSKINBERRY\\">шиплоки</link> — полезные, но невероятно сильно пахнущие плоды, которые можно употреблять в <link=\\"FOOD\\">пищу</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.HARDSKINBERRYPLANT.DOMESTICATEDDESC",
+	msgid: `This plant produces edible <link=\\"HARDSKINBERRY\\">Pikeapple</link>.`,
+	msgstr: ``,
+	klei: `На этом растении может созреть съедобное <link=\\"HARDSKINBERRY\\">шиплоко</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.HARDSKINBERRYPLANT.NAME",
+	msgid: `<link=\\"HARDSKINBERRYPLANT\\">Pikeapple Bush</link>`,
+	msgstr: ``,
+	klei: `<link=\\"HARDSKINBERRYPLANT\\">Шиплоневый куст</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEBELLY.BABY.DESC",
+	msgid: `A floofy little Bammini.\\n\\nIn time it will mature into a fully grown <link=\\"ICEBELLY\\">Bammoth</link>.`,
+	msgstr: ``,
+	klei: `
+Маленький пушистый крольмонтенок.\\n
+\\n
+Со временем вырастет во взрослого <link=\\"ICEBELLY\\">крольмонта</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEBELLY.BABY.NAME",
+	msgid: `<link=\\"ICEBELLY\\">Bammini</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ICEBELLY\\">Крольмонтенок</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEBELLY.DESC",
+	msgid: `Bammoths are lumbering, nonhostile creatures that subsist on <link=\\"CARROT\\">Plume Squash</link>.\\n\\nTheir thick overcoats can be shorn for <link=\\"BASICFABRIC\\">Reed Fiber</link>.`,
+	msgstr: ``,
+	klei: `
+Крольмонты — это неловкие миролюбивые создания, которые питаются <link=\\"CARROT\\">перьевыми тыквами</link>.\\n
+\\n
+Их толстую шкуру можно состричь и получить <link=\\"BASICFABRIC\\">тростневиковое волокно</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEBELLY.EGG_NAME",
+	msgid: `<link=\\"ICEBELLY\\">Bammini Egg</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ICEBELLY\\">Яйцо крольмонта</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEBELLY.NAME",
+	msgid: `<link=\\"ICEBELLY\\">Bammoth</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ICEBELLY\\">Крольмонт</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICECAVESFORAGEPLANTPLANTED.DESC",
+	msgid: `Sherberries are incapable of propagating, but can be harvested for a single <link=\\"FOOD\\">Food</link> serving.`,
+	msgstr: ``,
+	klei: `Льдягоды не способны давать несколько всходов. Они растут в древних сосульках, и их можно собрать, чтобы получить одну порцию <link=\\"FOOD\\">еды</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICECAVESFORAGEPLANTPLANTED.NAME",
+	msgid: `<link=\\"ICECAVESFORAGEPLANTPLANTED\\">Sherberry Plant</link>`,
+	msgstr: ``,
+	klei: `Льдягодное растение`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEFLOWER.DESC",
+	msgid: `Idyllas are <link=\\"DECOR\\">Decorative</link> <link=\\"PLANTS\\">Plants</link> with soft, pompom-shaped blossoms.\\n\\nGazing dreamily at them has a positive effect on <link=\\"MORALE\\">Morale</link>.`,
+	msgstr: ``,
+	klei: `
+Идиллы — это <link=\\"DECOR\\">декоративные</link> <link=\\"PLANTS\\">растения</link> с мягкими бутонами, похожими на помпоны.\\n
+\\n
+Если долго и мечтательно на них смотреть, можно заметить, как повышается <link=\\"MORALE\\">моральный дух</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEFLOWER.DOMESTICATEDDESC",
+	msgid: `This plant improves ambient <link=\\"DECOR\\">Decor</link>.`,
+	msgstr: ``,
+	klei: `Это растение повышает уровень <link=\\"DECOR\\">декора</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEFLOWER.GROWTH_BONUS",
+	msgid: `Growth Bonus`,
+	msgstr: ``,
+	klei: `Бонус к росту`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEFLOWER.NAME",
+	msgid: `<link=\\"ICEFLOWER\\">Idylla Flower</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ICEFLOWER\\">Цветок идиллы</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.ICEFLOWER.WILT_PENALTY",
+	msgid: `Wilt Penalty`,
+	msgstr: ``,
+	klei: `Дополнительное увядание`,
+},
+{
 	msgctxt: "STRINGS.CREATURES.SPECIES.OXYFERN.DOMESTICATEDDESC",
 	msgid: `This plant converts <link=\\"CARBONDIOXIDE\\">Carbon Dioxide</link> into <link=\\"OXYGEN\\">Oxygen</link>.`,
 	msgstr: ``,
@@ -9063,6 +12270,36 @@ They are closely related to the <link=\\"DIVERGENTWORM\\">Grubgrub</link> and ex
 			msgstr: `Растение преобразует <link=\\"CARBONDIOXIDE\\">CO<sub>2</sub></link> в <link=\\"OXYGEN\\">кислород</link>.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCK.DESC",
+	msgid: `It's even brighter and more beautiful once it's been carved and displayed.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCK.EFFECT",
+	msgid: `Lumen quartz emits a soft glowing <link=\\"LIGHT\\">Light</link> that makes everything look a little rosier.\\n\\nIt naturally boosts <link=\\"DECOR\\">Decor</link>.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCK.NAME",
+	msgid: `<link=\\"PINKROCK\\">Lumen Quartz</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCKCARVED.DESC",
+	msgid: `It's a very pretty rock.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCKCARVED.EFFECT",
+	msgid: `A Duplicant has carved this <link=\\"PINKROCK\\">Lumen Quartz</link> in a way that really maximizes its <link=\\"DECOR\\">Decor</link> value and <link=\\"LIGHT\\">Light</link> production.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCKCARVED.NAME",
+	msgid: `<link=\\"PINKROCK\\">Carved Quartz</link>`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.SAPTREE.DESC",
@@ -9099,6 +12336,72 @@ It is rooted firmly in place, and appears to have been here for some time.`,
 	],
 },
 {
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEAL.BABY.DESC",
+	msgid: `A wobbly little Spigot Pup.\\n\\nIn time, it will mature into an adult <link=\\"SEAL\\">Spigot Seal</link>.`,
+	msgstr: ``,
+	klei: `
+Маленький неуверенный детеныш рогатого тюленя.\\n
+\\n
+Со временем вырастет во взрослого <link=\\"SEAL\\">рогатого тюленя</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEAL.BABY.NAME",
+	msgid: `<link=\\"SEAL\\">Spigot Pup</link>`,
+	msgstr: ``,
+	klei: `<link=\\"SEAL\\">Рогатый тюлененок</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEAL.DESC",
+	msgid: `Spigot Seals are charismatic creatures who produce <link=\\"ETHANOL\\">Ethanol</link>.\\n\\nThey enjoy sipping <link=\\"SUGARWATER\\">Nectar</link> straight from the <link=\\"SPACETREE\\">Bonbon Gourd</link>.`,
+	msgstr: ``,
+	klei: `
+Рогатые тюлени — очаровательные создания, производящие <link=\\"ETHANOL\\">этанол</link>.\\n
+\\n
+Они любят потягивать <link=\\"SUGARWATER\\">нектар</link> прямо из <link=\\"SPACETREE\\">конфетной тыквы</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEAL.EGG_NAME",
+	msgid: `<link=\\"SEAL\\">Spigot Pup Egg</link>`,
+	msgstr: ``,
+	klei: `<link=\\"SEAL\\">Яйцо рогатого тюленя</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEAL.NAME",
+	msgid: `<link=\\"SEAL\\">Spigot Seal</link>`,
+	msgstr: ``,
+	klei: `<link=\\"SEAL\\">Рогатый тюлень</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.BLUE_GRASS.DESC",
+	msgid: `The <link=\\"PLANTS\\">Seed</link> of a <link=\\"BLUEGRASS\\">Alveo Vera</link>.\\n\\nDigging up Buried Objects may uncover an Alveo Vera Seed.`,
+	msgstr: ``,
+	klei: `
+<link=\\"PLANTS\\">Семя</link> <link=\\"BLUEGRASS\\">алвео веры</link>.\\n
+\\n
+Найти семя алвео веры можно, выкапывая предметы из земли.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.BLUE_GRASS.NAME",
+	msgid: `<link=\\"BLUEGRASS\\">Alveo Vera Seed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"BLUEGRASS\\">Семя алвео веры</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.CARROTPLANT.DESC",
+	msgid: `The <link=\\"PLANTS\\">Seed</link> of a <link=\\"CARROTPLANT\\">Plume Squash Plant</link>.\\n\\nDigging up Buried Objects may uncover a Plume Squash Seed.`,
+	msgstr: ``,
+	klei: `
+<link=\\"PLANTS\\">Семя</link> <link=\\"CARROTPLANT\\">закопанной перьевой тыквы</link>.\\n
+\\n
+Найти семя перьевой тыквы можно, выкапывая предметы из земли.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.CARROTPLANT.NAME",
+	msgid: `<link=\\"CARROTPLANT\\">Plume Squash Seed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CARROTPLANT\\">Семя перьевой тыквы</link>`,
+},
+{
 	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.GASGRASS.DESC",
 	msgid: `The <link=\\"PLANTS\\">Seed</link> of a <link=\\"GASGRASS\\">Gas Grass</link> plant.`,
 	msgstr: ``,
@@ -9117,6 +12420,108 @@ Used as feed for <link=\\"MOO\\">Gassy Moos</link>.`,
 	],
 },
 {
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.HARDSKINBERRYPLANT.DESC",
+	msgid: `The <link=\\"PLANTS\\">Seed</link> of a <link=\\"HARDSKINBERRYPLANT\\">Pikeapple Bush</link>.\\n\\nDigging up Buried Objects may uncover a Pikeapple Bush Seed.`,
+	msgstr: ``,
+	klei: `
+<link=\\"PLANTS\\">Семя</link> <link=\\"HARDSKINBERRYPLANT\\">шиплоневого куста</link>.\\n
+\\n
+Найти семя шиплоневого куста можно, выкапывая предметы из земли.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.HARDSKINBERRYPLANT.NAME",
+	msgid: `<link=\\"HARDSKINBERRYPLANT\\">Pikeapple Bush Seed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"HARDSKINBERRYPLANT\\">Семя шиплоневого куста</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.ICEFLOWER.DESC",
+	msgid: `The <link=\\"PLANTS\\">Seed</link> of an <link=\\"ICEFLOWER\\">Idylla Flower</link>.\\n\\nDigging up Buried Objects may uncover an Idylla Seed.`,
+	msgstr: ``,
+	klei: `
+<link=\\"PLANTS\\">Семя</link> <link=\\"ICEFLOWER\\">цветка идиллы</link>.\\n
+\\n
+Найти семя цветка идиллы можно, выкапывая предметы из земли.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.ICEFLOWER.NAME",
+	msgid: `<link=\\"ICEFLOWER\\">Idylla Seed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ICEFLOWER\\">Семя идиллы</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.SPACETREE.DESC",
+	msgid: `The <link=\\"PLANTS\\">Seed</link> of a <link=\\"SPACETREE\\">Bonbon Gourd</link>.\\n\\nDigging up Buried Objects may uncover a Bonbon Gourd Seed.`,
+	msgstr: ``,
+	klei: `
+<link=\\"PLANTS\\">Семя</link> <link=\\"SPACETREE\\">конфетной тыквы</link>.\\n
+\\n
+Найти семя конфетной тыквы можно, выкапывая предметы из земли.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.SPACETREE.NAME",
+	msgid: `<link=\\"SPACETREE\\">Bonbon Gourd Seed</link>`,
+	msgstr: ``,
+	klei: `<link=\\"SPACETREE\\">Семя конфетной тыквы</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SPACETREE.DESC",
+	msgid: `Bonbon Gourd branches synthesize <link=\\"LIGHT\\">Light</link> to produce <link=\\"SUGARWATER\\">Nectar</link>.\\n\\nBranches can be harvested for <link=\\"WOOD\\">Wood</link>.\\n\\nBonbon Gourds can shed most environmental debris, and rarely become entombed.`,
+	msgstr: ``,
+	klei: `
+Конфетные тыквы адаптировались к самым разным условиям, включая <link=\\"VACUUM\\">вакуум</link>.\\n
+\\n
+Они синтезируют <link=\\"LIGHT\\">свет</link> и производят <link=\\"SUGARWATER\\">нектар</link>, а из их стеблей можно получить <link=\\"WOOD\\">древесину</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SPACETREE.DOMESTICATEDDESC",
+	msgid: `This plant produces <link=\\"SUGARWATER\\">Nectar</link> and <link=\\"WOOD\\">Wood</link>.`,
+	msgstr: ``,
+	klei: `Это растение производит <link=\\"SUGARWATER\\">нектар</link> и <link=\\"WOOD\\">древесину</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.SPACETREE.NAME",
+	msgid: `<link=\\"SPACETREE\\">Bonbon Gourd</link>`,
+	msgstr: ``,
+	klei: `<link=\\"SPACETREE\\">Конфетная тыква</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.WOODDEER.BABY.DESC",
+	msgid: `A little yipping Flox Fawn.\\n\\nIn time it will mature into a fully grown <link=\\"WOODDEER\\">Flox</link>.`,
+	msgstr: ``,
+	klei: `
+Маленький тявкающий детеныш лисеня.\\n
+\\n
+Со временем вырастет во взрослого <link=\\"WOODDEER\\">лисеня</link>.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.WOODDEER.BABY.NAME",
+	msgid: `<link=\\"WOODDEER\\">Flox Fawn</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WOODDEER\\">Детеныш лисеня</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.WOODDEER.DESC",
+	msgid: `Floxes are nonhostile critters that graze on live and fallen <link=\\"HARDSKINBERRY\\">Pikeapples</link>.\\n\\nWhen Flox antlers are fully grown, they harden into shearable <link=\\"WOOD\\">Wood</link>.`,
+	msgstr: ``,
+	klei: `
+Лисени — миролюбивые существа, которые питаются <link=\\"HARDSKINBERRY\\">шиплоками</link>, как опавшими, так и с куста.\\n
+\\n
+Когда рога лисеня полностью вырастают, они превращаются в <link=\\"WOOD\\">древесину</link>, и их можно срезать.`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.WOODDEER.EGG_NAME",
+	msgid: `<link=\\"WOODDEER\\">Flox Fawn Egg</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WOODDEER\\">Яйцо лисеня</link>`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.SPECIES.WOODDEER.NAME",
+	msgid: `<link=\\"WOODDEER\\">Flox</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WOODDEER\\">Лисень</link>`,
+},
+{
 	msgctxt: "STRINGS.CREATURES.STATS.BECKONING.NAME",
 	msgid: `Accu-moo-lation`,
 	msgstr: ``,
@@ -9133,6 +12538,18 @@ After the new Gassy Moo has landed, <style=\\"KKeyword\\">Accu-moo-lation</style
 Когда <style=\\"KKeyword\\">аккуму-му-ляция</style> достигает 100%, газовая му-му призывает на этот астероид подругу\\n
 \\n
 Когда новая газовая му-му приземлится, показатель <style=\\"KKeyword\\">аккуму-му-ляции</style> сбросится до 0%`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATS.CRITTERTEMPERATURE.NAME",
+	msgid: `Body Temperature`,
+	msgstr: ``,
+	klei: `Температура тела`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATS.CRITTERTEMPERATURE.TOOLTIP",
+	msgid: `This critter's comfortable <style=\\"KKeyword\\">Body Temperature</style> range is between <b>{0}</b> and <b>{1}</b>`,
+	msgstr: ``,
+	klei: `Комфортная <style=\\"KKeyword\\">температура тела</style> для этого существа: <b>{0}</b>–<b>{1}</b>`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.STATS.MILKPRODUCTION.NAME",
@@ -9169,6 +12586,33 @@ Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill
 Дубликанты должны владеть навыком <color=#C38802>Скотоводство</color> для ухода за животными`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.AIRBORNECRITTERCONDO.INTERACTING.NAME",
+	msgid: `Getting Cozy`,
+	msgstr: ``,
+	klei: `Расслабление`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.AIRBORNECRITTERCONDO.INTERACTING.TOOLTIP",
+	msgid: `This critter is nesting in an airborne critter condo\\n\\nIt's like a mini vacation!`,
+	msgstr: ``,
+	klei: `
+Это существо обустроилось в летающем общежитии для существ\\n
+\\n
+Будто небольшой отпуск!`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.AIRBORNECRITTERCONDO.MOVINGTO.NAME",
+	msgid: `Heading for Airborne Critter Condo`,
+	msgstr: ``,
+	klei: `В пути в летающее общежитие для существ`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.AIRBORNECRITTERCONDO.MOVINGTO.TOOLTIP",
+	msgid: `This critter is making its way to an unoccupied airborne critter condo`,
+	msgstr: ``,
+	klei: `Это существо направляется в незанятое летающее общежитие для существ`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.STATUSITEMS.BECKONING.NAME",
@@ -9387,6 +12831,198 @@ Preferred food temperature range: {templo}-{temphi}`,
 	klei: `Организм этого существа восполняет запасы`,
 },
 {
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE",
+	msgid: `{0} Branch productivity: {1}`,
+	msgstr: ``,
+	klei: `{0} Производительность стебля: {1}`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE_GROWING",
+	msgid: `{0} Branch growth : {1}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE_MISSING",
+	msgid: `{0} Branch not found`,
+	msgstr: ``,
+	klei: `{0} Стебель не найден`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.NAME",
+	msgid: `Producing Nectar ({0})`,
+	msgstr: ``,
+	klei: `Производит нектар ({0})`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.TOOLTIP",
+	msgid: `Current <style=\\"KKeyword\\">Nectar</style> production rate: {0}\\n\\n<style=\\"KKeyword\\">Nectar</style> production rate depends on total branch productivity\\n\\nBranches must be fully grown and exposed to <style=\\"KKeyword\\">Light</style> in order to be productive\\n\\n{BRANCH_0}\\n{BRANCH_1}\\n{BRANCH_2}\\n{BRANCH_3}\\n{BRANCH_4}\\n\\nOptimal productivity: {1} branches at {2} each`,
+	msgstr: ``,
+	klei: `
+Скорость производства <style=\\"KKeyword\\">нектара</style> зависит от общей производительности стеблей\\n
+\\n
+{BRANCH_0}\\n
+{BRANCH_1}\\n
+{BRANCH_2}\\n
+{BRANCH_3}\\n
+{BRANCH_4}\\n
+\\n
+Оптимальная производительность: стебель с производительностью {1} ({0} шт.)`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST_BRANCH.NAME",
+	msgid: `Harvest Ready`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST_BRANCH.TOOLTIP",
+	msgid: `This branch can be harvested for materials`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SCOLDING.NAME",
+	msgid: `Cold Scolding`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SCOLDING.NOTIFICATION_NAME",
+	msgid: `Cold Scolding`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SCOLDING.NOTIFICATION_TOOLTIP",
+	msgid: `Extremely Low <style=\\"KKeyword\\">Temperatures</style> are hurting these Duplicants:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SCOLDING.TOOLTIP",
+	msgid: `Current external <style=\\"KKeyword\\">Temperature</style> is perilously low [<b>{ExternalTemperature}</b> / <b>{TargetTemperature}</b>]`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SPACETREEBRANCHLIGHTSTATUS.NAME",
+	msgid: `Branch Productivity: {0}`,
+	msgstr: ``,
+	klei: `Производительность стебля: {0}`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SPACETREEBRANCHLIGHTSTATUS.TOOLTIP",
+	msgid: `The selected branch's <style=\\"KKeyword\\">Light</style> exposure contributes to this plant's total <style=\\"KKeyword\\">Nectar</style> production\\n\\nOptimal lux: {0}\\n\\nCurrent lux: {1}`,
+	msgstr: ``,
+	klei: `
+На выбранный стебель падает <style=\\"KKeyword\\">свет</style>, что повышает скорость производства <style=\\"KKeyword\\">нектара</style> этим растением\\n
+\\n
+Оптимальная производительность: {0} или выше\\n
+\\n
+Текущий уровень освещения: {1}`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE",
+	msgid: `{0} Branch productivity: {1}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE_GROWING",
+	msgid: `{0} Branch growth : {1}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE_MISSING",
+	msgid: `{0} Branch not found`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.NAME",
+	msgid: `Nectar Production Halted: {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.TOOLTIP",
+	msgid: `This plant's branches are not currently producing <style=\\"KKeyword\\">Nectar</style>\\n\\nBranches must be fully grown and exposed to <style=\\"KKeyword\\">Light</style> in order to be productive\\n\\n{BRANCH_0}\\n{BRANCH_1}\\n{BRANCH_2}\\n{BRANCH_3}\\n{BRANCH_4}\\n\\nOptimal productivity: {0} branches at {1} each\\n\\n<style=\\"KKeyword\\">Nectar</style> production will resume when conditions improve`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONWILTED.NAME",
+	msgid: `Nectar Production Halted: {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONWILTED.TOOLTIP",
+	msgid: `This plant is wilted\\n\\n<style=\\"KKeyword\\">Nectar</style> production will resume when conditions improve`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_COLD_DEADLY.NAME",
+	msgid: `Freezing`,
+	msgstr: ``,
+	klei: `Переохлаждение`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_COLD_DEADLY.TOOLTIP",
+	msgid: `This critter is feeling dangerously cold\\n\\nLivable temperature range: {1} to {2}\\nCurrent external temperature: {0}\\n\\n{3}`,
+	msgstr: ``,
+	klei: `
+Переохлаждение ставит жизнь этого существа под угрозу\\n
+\\n
+Подходящая температура для выживания: {1}–{2}\\n
+Текущая внешняя температура: {0}\\n
+\\n
+{3}`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_COLD_UNCOMFORTABLE.NAME",
+	msgid: `Body Temperature Low`,
+	msgstr: ``,
+	klei: `Низкая температура тела`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_COLD_UNCOMFORTABLE.TOOLTIP",
+	msgid: `This critter is feeling unpleasantly cold\\n\\nComfortable temperature range: {1} to {2}\\nCurrent internal temperature: {0}\\n\\n{3}`,
+	msgstr: ``,
+	klei: `
+Это существо замерзло, ему неприятно\\n
+\\n
+Комфортная температура: {1}–{2}\\n
+Текущая внутренняя температура: {0}\\n
+\\n
+{3}`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_HOT_DEADLY.NAME",
+	msgid: `Scalding`,
+	msgstr: ``,
+	klei: `Жар`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_HOT_DEADLY.TOOLTIP",
+	msgid: `This critter is feeling dangerously overheated\\n\\nLivable temperature range: {1} to {2}\\nCurrent external temperature: {0}\\n\\n{3}`,
+	msgstr: ``,
+	klei: `
+Слишком жаркие условия ставят жизнь этого существа под угрозу\\n
+\\n
+Подходящая температура для выживания: {1}–{2}\\n
+Текущая внешняя температура: {0}\\n
+\\n
+{3}`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_HOT_UNCOMFORTABLE.NAME",
+	msgid: `Body Temperature High`,
+	msgstr: ``,
+	klei: `Высокая температура тела`,
+},
+{
+	msgctxt: "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_HOT_UNCOMFORTABLE.TOOLTIP",
+	msgid: `This critter is feeling unpleasantly hot\\n\\nComfortable temperature range: {1} to {2}\\nCurrent internal temperature: {0}\\n\\n{3}`,
+	msgstr: ``,
+	klei: `
+Это существо перегрелось, ему неприятно\\n
+\\n
+Комфортная температура: {1}–{2}\\n
+Текущая внутренняя температура: {0}\\n
+\\n
+{3}`,
+},
+{
 	msgctxt: "STRINGS.CREATURES.STATUSITEMS.UNDERWATERCRITTERCONDO.INTERACTING.NAME",
 	msgid: `Getting Cozy`,
 	msgstr: ``,
@@ -9469,16 +13105,38 @@ This farm is storing materials that are not suitable for this plant\\n
 	klei: `Скорость геонастройки: {0}`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.LUMINESCENCE.DESC",
+	msgid: `Determines how much light a Duplicant emits.`,
+	msgstr: ``,
+	klei: `Определяет, сколько света испускает дубликант.`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.LUMINESCENCE.NAME",
+	msgid: `Luminescence`,
+	msgstr: ``,
+	klei: `Люминесценция`,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.METABOLISM.DESC",
 	msgid: `Affects the rate at which a critter burns <style=\\"KKeyword\\">Calories</style> and produces materials`,
 	msgstr: ``,
-	klei: `Влияет на скорость, с которой существо сжигает <style=\\"KKeyword\\">калории</style>.`,
+	klei: `Влияет на скорость, с которой существо сжигает <style=\\"KKeyword\\">калории</style> и производит материалы.`,
 	mem: [
 		{
 			msgid: `Affects the rate at which a critter burns <style=\\"KKeyword\\">Calories</style>.`,
 			msgstr: `Влияет на скорость, с которой животное сжигает <color=#C38802>калории</color>.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.SCOLDINGTHRESHOLD.DESC",
+	msgid: `Determines the <style=\\"KKeyword\\">Temperature</style> at which a Duplicant will take cold damage.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.SCOLDINGTHRESHOLD.NAME",
+	msgid: `Cold Scolding Threshold`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.TRANSITTUBETRAVELSPEED.DESC",
@@ -9553,6 +13211,42 @@ This farm is storing materials that are not suitable for this plant\\n
 	klei: `Этот дубликант заботится о <style=\\"KKeyword\\">существах</style>`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.NAME",
+	msgid: `Recover from Heat`,
+	msgstr: ``,
+	klei: `Отдых от жары`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.STATUS",
+	msgid: `Recovering from heat`,
+	msgstr: ``,
+	klei: `Восстанавливается после пребывания в жаркой среде`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.TOOLTIP",
+	msgid: `This Duplicant's trying to cool down`,
+	msgstr: ``,
+	klei: `Этот дубликант пытается остыть`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.RECOVERWARMTH.NAME",
+	msgid: `Recover from Cold`,
+	msgstr: ``,
+	klei: `Отдых от холода`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.RECOVERWARMTH.STATUS",
+	msgid: `Recovering from cold`,
+	msgstr: ``,
+	klei: `Восстанавливается после пребывания в холодной среде`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.RECOVERWARMTH.TOOLTIP",
+	msgid: `This Duplicant's trying to warm up`,
+	msgstr: ``,
+	klei: `Этот дубликант пытается согреться`,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.CHORES.SINGTOEGG.TOOLTIP",
 	msgid: `
 A gentle lullaby from a supportive Duplicant encourages developing <style=\\"KKeyword\\">Eggs</style>\\n
@@ -9599,6 +13293,30 @@ Duplicants must possess the <link=\\"RANCHER\\">Critter Ranching I</link> Skill 
 	],
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.ATEFROZENFOOD.NAME",
+	msgid: `Ate frozen food`,
+	msgstr: ``,
+	klei: `Съедена замороженная еда`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.ATEFROZENFOOD.TOOLTIP",
+	msgid: `This Duplicant is in a bad mood from having to eat deep-frozen <style=\\"KKeyword\\">Food</style>`,
+	msgstr: ``,
+	klei: `Этот дубликант в плохом настроении, потому что ему пришлось есть замороженную <style=\\"KKeyword\\">еду</style>`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPCOLD.NAME",
+	msgid: `Unrested: Cold Bedroom`,
+	msgstr: ``,
+	klei: `Недосып: холодная спальня`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPCOLD.TOOLTIP",
+	msgid: `This Duplicant was shivering instead of sleeping`,
+	msgstr: ``,
+	klei: `Этот дубликант всю ночь дрожал вместо сна`,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BONUSLITWORKSPACE.TOOLTIP",
 	msgid: `This Duplicant was in a well-lit environment and is feeling lit`,
 	msgstr: ``,
@@ -9611,6 +13329,12 @@ Duplicants must possess the <link=\\"RANCHER\\">Critter Ranching I</link> Skill 
 	],
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.COLDAIR.CAUSE",
+	msgid: `Duplicants tire quickly and lose body heat in cold environments`,
+	msgstr: ``,
+	klei: `В холодной среде дубликанты быстро устают, а их температура тела падает`,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTGOTMILK.NAME",
 	msgid: `Extra Hydrated`,
 	msgstr: ``,
@@ -9621,6 +13345,18 @@ Duplicants must possess the <link=\\"RANCHER\\">Critter Ranching I</link> Skill 
 	msgid: `This Duplicant recently drank <style=\\"KKeyword\\">Brackene</style>. It's helping them relax`,
 	msgstr: ``,
 	klei: `Дубликант недавно выпил <style=\\"KKeyword\\">бракен</style> и расслабился.`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.EFFECT_IMMUNITIES_HEADER",
+	msgid: `<b>Immune to:</b>`,
+	msgstr: ``,
+	klei: `<b>Иммунитет:</b>`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.IMMUNITY_FORMAT",
+	msgid: `<style=\\"KKeyword\\">{0}</style>`,
+	msgstr: ``,
+	klei: `<style=\\"KKeyword\\">{0}</style>`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.ISJOYSINGER.TOOLTIP",
@@ -9671,6 +13407,42 @@ Everyone's gonna love these`,
 	klei: `У этого дубликанта удовлетворительные условия для сна`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDSCRITTER.NAME",
+	msgid: `Light Wounds`,
+	msgstr: ``,
+	klei: `Легкие раны`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDSCRITTER.TOOLTIP",
+	msgid: `This Critter sustained injuries that are a bit uncomfortable`,
+	msgstr: ``,
+	klei: `Это существо немного пострадало и чувствует себя некомфортно`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDSCRITTER.NAME",
+	msgid: `Moderate Wounds`,
+	msgstr: ``,
+	klei: `Раны средней тяжести`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDSCRITTER.TOOLTIP",
+	msgid: `This Critter sustained injuries that are really affecting their health`,
+	msgstr: ``,
+	klei: `Это существо пострадало, и травмы сказываются на его здоровье`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.REFRESHINGTOUCH.NAME",
+	msgid: `Heat Resistant`,
+	msgstr: ``,
+	klei: `Жаростойкость`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.REFRESHINGTOUCH.TOOLTIP",
+	msgid: `This Duplicant recently visited a cooling station and is temporarily immune to heat-related <style=\\"KKeyword\\">Stress</style> and <style=\\"KKeyword\\">Athletics</style> damage`,
+	msgstr: ``,
+	klei: `Этот дубликант недавно посетил станцию охлаждения и временно не получает <style=\\"KKeyword\\">стресса</style> и <style=\\"KKeyword\\">физического</style> урона от жары`,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.ROOMBEDROOM.NAME",
 	msgid: `Luxury Barracks`,
 	msgstr: ``,
@@ -9705,6 +13477,54 @@ Everyone's gonna love these`,
 	msgid: `This Duplicant slept in a <style=\\"KKeyword\\">Private Bedroom</style> last night and feels super refreshed`,
 	msgstr: ``,
 	klei: `Этот дубликант провел прошлую ночь в <style=\\"KKeyword\\">отдельной спальне</style> и чувствует себя полным сил`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDSCRITTER.NAME",
+	msgid: `Severe Wounds`,
+	msgstr: ``,
+	klei: `Серьезные раны`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDSCRITTER.TOOLTIP",
+	msgid: `This Critter sustained serious injuries that could prove life-threatening`,
+	msgstr: ``,
+	klei: `Это существо серьезно пострадало, это может быть опасно для жизни`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCH.NAME",
+	msgid: `Frost Resistant`,
+	msgstr: ``,
+	klei: `Устойчивость к холоду`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCH.TOOLTIP",
+	msgid: `This Duplicant recently visited a warming station and is temporarily immune to cold-related <style=\\"KKeyword\\">Stress</style> and <style=\\"KKeyword\\">Athletics</style> damage`,
+	msgstr: ``,
+	klei: `Этот дубликант недавно посетил станцию согревания и временно не получает <style=\\"KKeyword\\">стресса</style> и <style=\\"KKeyword\\">физического</style> урона от холода`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.PERSONALITIES.CALVIN.DESC",
+	msgid: `This {0} loves the thrill of running head-first into a wall to see what it's made of.`,
+	msgstr: ``,
+	klei: `{0} обожает с разбегу влетать в стены, чтобы узнать, из чего они сделаны.`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.PERSONALITIES.CALVIN.NAME",
+	msgid: `Calvin`,
+	msgstr: ``,
+	klei: `Кельвин`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.PERSONALITIES.FREYJA.DESC",
+	msgid: `This {0} has never stopped anyone from eating yellow snow.`,
+	msgstr: ``,
+	klei: `{0} никогда никому не скажет: \\"Остановись! Не ешь желтый снег!\\"`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.PERSONALITIES.FREYJA.NAME",
+	msgid: `Freyja`,
+	msgstr: ``,
+	klei: `Фрейя`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.PERSONALITIES.JORGE.DESC",
@@ -9743,6 +13563,54 @@ Everyone's gonna love these`,
 	klei: `Этот дубликант готовит ловушку`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.CARVING.NAME",
+	msgid: `Carving {Target}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.CARVING.TOOLTIP",
+	msgid: `This Duplicant is carving up a <b>{Target}</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.EXITINGCOLD.NAME",
+	msgid: `Shivering`,
+	msgstr: ``,
+	klei: `Дрожит`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.EXITINGCOLD.TOOLTIP",
+	msgid: `This Duplicant was recently exposed to cold <style=\\"KKeyword\\">Temperatures</style> and wants to warm up\\n\\nWithout a warming station, it will take {0} for them to recover\\n\\nStress: <b>{StressModification}</b>\\nStamina: <b>{StaminaModification}</b>\\nAthletics: <b>{AthleticsModification}</b>`,
+	msgstr: ``,
+	klei: `
+Недавно этот дубликант испытал воздействие низких <style=\\"KKeyword\\">температур</style>\\n
+\\n
+Без станции согревания восстановление займет {0} сек.\\n
+\\n
+Стресс: <b>{StressModification}</b>\\n
+Выносливость: <b>{StaminaModification}</b>\\n
+Физическая форма: <b>{AthleticsModification}</b>`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.EXITINGHOT.NAME",
+	msgid: `Sweaty`,
+	msgstr: ``,
+	klei: `Потеет`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.EXITINGHOT.TOOLTIP",
+	msgid: `This Duplicant was recently exposed to hot <style=\\"KKeyword\\">Temperatures</style> and wants to cool down\\n\\nWithout a cooling station, it will take {0} for them to recover\\n\\nStress: <b>{StressModification}</b>\\nStamina: <b>{StaminaModification}</b>\\nAthletics: <b>{AthleticsModification}</b>`,
+	msgstr: ``,
+	klei: `
+Недавно этот дубликант испытал воздействие высоких <style=\\"KKeyword\\">температур</style>\\n
+\\n
+Без станции охлаждения восстановление займет {0} сек.\\n
+\\n
+Стресс: <b>{StressModification}</b>\\n
+Выносливость: <b>{StaminaModification}</b>\\n
+Физическая форма: <b>{AthleticsModification}</b>`,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.FOSSILHUNT.WORKEREXCAVATING.NAME",
 	msgid: `Excavating Fossil`,
 	msgstr: ``,
@@ -9779,6 +13647,16 @@ Everyone's gonna love these`,
 	klei: `Этот дубликант не может добраться до места с назначенным им поручением`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.LEFTDESIRINGTOWARMUP.NAME",
+	msgid: `Desiring To Warm Up`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.LEFTDESIRINGTOWARMUP.TOOLTIP",
+	msgid: `This Duplicant was recently in a cold environment and although they are no longer cold, they were left with the desire to warm up. They will find a warming station whenever they don't find a better task to do`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.METEORPHILE.NAME",
 	msgid: `Rock Fan`,
 	msgstr: ``,
@@ -9805,6 +13683,45 @@ This Duplicant is <i>really</i> into meteor showers\\n
 	msgid: `This Duplicant is guiding a <style=\\"KKeyword\\">Rocket</style>`,
 	msgstr: ``,
 	klei: `Этот дубликант управляет <style=\\"KKeyword\\">ракетой</style>`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING_FROM_POI.NAME",
+	msgid: `Unlocking Research`,
+	msgstr: ``,
+	klei: `Исследование технологий`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING_FROM_POI.TOOLTIP",
+	msgid: `This Duplicant is unlocking crucial technology`,
+	msgstr: ``,
+	klei: `Этот дубликант исследует важнейшую технологию`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGEXHAUSTED.NAME",
+	msgid: `Unscheduled Nap`,
+	msgstr: ``,
+	klei: `Незапланированный сон`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGEXHAUSTED.TOOLTIP",
+	msgid: `Cold <style=\\"KKeyword\\">Temperatures</style> or lack of rest depleted this Duplicant's <style=\\"KKeyword\\">Stamina</style>\\n\\nThey didn't have enough energy to make it to bedtime`,
+	msgstr: ``,
+	klei: `
+Из-за низких <style=\\"KKeyword\\">температур</style> или недостатка отдыха у этого дубликанта закончилась <style=\\"KKeyword\\">выносливость</style>\\n
+\\n
+Ему не хватило энергии, чтобы дождаться запланированного сна`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYCOLD.NAME",
+	msgid: `Interrupted Sleep: Cold Room`,
+	msgstr: ``,
+	klei: `Прерванный сон: холодная комната`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYCOLD.TOOLTIP",
+	msgid: `This Duplicant is having trouble sleeping because this room is too cold`,
+	msgstr: ``,
+	klei: `Этот дубликант не может спать, потому что в комнате слишком холодно`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.SPICING.TOOLTIP",
@@ -9847,6 +13764,18 @@ This boosts their <link=\\"TRAVELTUBE\\">Transit Tube</link> travel speed by {0}
 	msgid: `Charismatic`,
 	msgstr: ``,
 	klei: `Харизма`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.FROSTPROOF.DESC",
+	msgid: `This Duplicant is too cool to be bothered by the cold`,
+	msgstr: ``,
+	klei: `У этого дубликанта холодное сердце и холод всегда ему был по душе`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.FROSTPROOF.NAME",
+	msgid: `Frost Proof`,
+	msgstr: ``,
+	klei: `Защита от холода`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_PYROTECHNICS.DESC",
@@ -9949,6 +13878,21 @@ It can be used to produce <link=\\"OXYGEN\\">Oxygen</link> when used in a <link=
 			msgstr: `(Al) Алюминий — <link=\\"REFINEDMETAL\\">металл</link> с низкой плотностью, нагретый до <link=\\"ELEMENTSGAS\\">газообразного</link> состояния.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.ELEMENTS.CINNABAR.DESC",
+	msgid: `(HgS) Cinnabar Ore, also known as mercury sulfide, is a conductive <link=\\"RAWMETAL\\">Metal</link> that can be refined into <link=\\"MERCURY\\">Mercury</link>.\\n\\nIt is suitable for building <link=\\"POWER\\">Power</link> systems.`,
+	msgstr: ``,
+	klei: `
+(HgS) Киноварь, также известная как сульфид ртути, — электропроводный <link=\\"RAWMETAL\\">металл</link>, его можно обработать и получить <link=\\"MERCURY\\">ртуть</link>.\\n
+\\n
+Подходит для сооружения <link=\\"POWER\\">энергетических</link> систем.`,
+},
+{
+	msgctxt: "STRINGS.ELEMENTS.CINNABAR.NAME",
+	msgid: `<link=\\"CINNABAR\\">Cinnabar Ore</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CINNABAR\\">Киноварь</link>`,
 },
 {
 	msgctxt: "STRINGS.ELEMENTS.COPPERGAS.DESC",
@@ -10402,7 +14346,7 @@ It is useful in <link=\\"RANCHING\\">Ranching</link>.`,
 	msgctxt: "STRINGS.ELEMENTS.MOLTENNIOBIUM.DESC",
 	msgid: `(Nb) Molten Niobium is a <link=\\"RAREMATERIALS\\">Rare Metal</link> heated into a <link=\\"ELEMENTSLIQUID\\">Liquid</link> state.`,
 	msgstr: ``,
-	klei: `(Nb) Расплавленный ниобий — это <link=\\"RAREMATERIALS\\">редкий металл</link>, нагретый до <link=\\"ELEMENTSLIQUID\\">жидкого</link> состояния.`,
+	klei: `(Nb) Расплавленный ниобий — это редкий металл, нагретый до <link=\\"ELEMENTSLIQUID\\">жидкого</link> состояния.`,
 	mem: [
 		{
 			msgid: `(Nb) Niobium is a <link=\\"RAREMATERIALS\\">Rare Metal</link> heated into a <link=\\"ELEMENTSLIQUID\\">Liquid</link> state.`,
@@ -10526,7 +14470,7 @@ It is a byproduct of <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link>.`,
 This selection is in a <link=\\"ELEMENTSGAS\\">Gaseous</link> state.`,
 	msgstr: ``,
 	klei: `
-(Nb) Ниобий — это <link=\\"RAREMATERIALS\\">редкий металл</link>.\\n
+(Nb) Ниобий — это редкий металл.\\n
 \\n
 В данном случае он находится в <link=\\"ELEMENTSGAS\\">газообразном</link> состоянии.`,
 	mem: [
@@ -10655,6 +14599,21 @@ It can be used as a highly effective fuel source when burned.`,
 	],
 },
 {
+	msgctxt: "STRINGS.ELEMENTS.STABLESNOW.DESC",
+	msgid: `(H<sub>2</sub>O) Snow is a mass of loose, crystalline ice particles.\\n\\nIt becomes <link=\\"WATER\\">Water</link> when melted.`,
+	msgstr: ``,
+	klei: `
+(H<sub>2</sub>O) Снег — сыпучая масса, состоящая из кристаллов льда.\\n
+\\n
+При нагревании превращается в <link=\\"WATER\\">воду</link>.`,
+},
+{
+	msgctxt: "STRINGS.ELEMENTS.STABLESNOW.NAME",
+	msgid: `Packed <link=\\"SNOW\\">Snow</link>`,
+	msgstr: ``,
+	klei: `■ <link=\\"SNOW\\">Снег</link>`,
+},
+{
 	msgctxt: "STRINGS.ELEMENTS.STEAM.DESC",
 	msgid: `(H<sub>2</sub>O) Steam is <link=\\"WATER\\">Water</link> that has been heated into a scalding <link=\\"ELEMENTSGAS\\">Gas</link>.`,
 	msgstr: ``,
@@ -10677,6 +14636,18 @@ It can be used as a highly effective fuel source when burned.`,
 			msgstr: `Сталь — <link=\\"RAWMETAL\\">металлический</link> сплав железа и углерода, нагретый до <link=\\"ELEMENTSGAS\\">газообразного</link> состояния.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.ELEMENTS.SUGARWATER.DESC",
+	msgid: `Nectar is a natural, lightly concentrated solution of <link=\\"SUCROSE\\">Sucrose</link> dissolved in <link=\\"WATER\\">Water</link>.`,
+	msgstr: ``,
+	klei: `Нектар — природный слабоконцентрированный раствор <link=\\"SUCROSE\\">сахарозы</link> на основе <link=\\"WATER\\">воды</link>.`,
+},
+{
+	msgctxt: "STRINGS.ELEMENTS.SUGARWATER.NAME",
+	msgid: `<link=\\"SUGARWATER\\">Nectar</link>`,
+	msgstr: ``,
+	klei: `<link=\\"SUGARWATER\\">Нектар</link>`,
 },
 {
 	msgctxt: "STRINGS.ELEMENTS.SUPERCOOLANT.DESC",
@@ -10721,6 +14692,18 @@ This selection is in a <link=\\"ELEMENTSGAS\\">Gaseous</link> state.`,
 	],
 },
 {
+	msgctxt: "STRINGS.ELEMENTS.TALLOW.DESC",
+	msgid: `A chunk of uncooked grease from a deceased <link=\\"SEAL\\">Spigot Seal</link>.`,
+	msgstr: ``,
+	klei: `Кусок сырого жира, полученный от умершего <link=\\"SEAL\\">рогатого тюленя</link>.`,
+},
+{
+	msgctxt: "STRINGS.ELEMENTS.TALLOW.NAME",
+	msgid: `<link=\\"TALLOW\\">Tallow</link>`,
+	msgstr: ``,
+	klei: `<link=\\"TALLOW\\">Жир</link>`,
+},
+{
 	msgctxt: "STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.DESC",
 	msgid: `(WSe<sub>2</sub>) Tungsten Diselenide Gasis a superheated <link=\\"RAWMETAL\\">Metal</link> compound in a <link=\\"ELEMENTSGAS\\">Gaseous</link> state.`,
 	msgstr: ``,
@@ -10755,6 +14738,21 @@ This selection is in a <link=\\"ELEMENTSGAS\\">Gaseous</link> state.`,
 			msgstr: `<link=\\"VISCOGEL\\">Вязко-гель</link>`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.ELEMENTS.WOODLOG.DESC",
+	msgid: `Wood is a good source of <link=\\"HEAT\\">Heat</link> and <link=\\"POWER\\">Power</link>.\\n\\nIts insulation properties and positive <link=\\"DECOR\\">Decor</link> also make it a useful <b>Construction Material</b>.`,
+	msgstr: ``,
+	klei: `
+Древесина — источник <link=\\"HEAT\\">тепла</link> и <link=\\"POWER\\">энергии</link>.\\n
+\\n
+Она также обладает теплоизоляционными свойствами и повышает значение <link=\\"DECOR\\">декора</link>, что делает ее полезным <b>строительным материалом</b>.`,
+},
+{
+	msgctxt: "STRINGS.ELEMENTS.WOODLOG.NAME",
+	msgid: `<link=\\"WOOD\\">Wood</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WOOD\\">Древесина</link>`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.DESC",
@@ -10887,6 +14885,18 @@ Released for Klei Fest 2023.`,
 	klei: `Красный атмопояс с блестками`,
 },
 {
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.TWOTONE_BROWN.DESC",
+	msgid: `Crafted from the tanned hide of a thick-skinned critter.`,
+	msgstr: ``,
+	klei: `Создается из обожженной шкуры толстокожих существ.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.TWOTONE_BROWN.NAME",
+	msgid: `Leather Atmo Belt`,
+	msgstr: ``,
+	klei: `Кожаный атмопояс`,
+},
+{
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.TWOTONE_PURPLE.DESC",
 	msgid: `In the more pretentious space-fashion circles, it's known as \\"aubergine.\\"`,
 	msgstr: ``,
@@ -10957,6 +14967,30 @@ Released for Klei Fest 2023.`,
 	msgid: `Citrus Atmo Suit`,
 	msgstr: ``,
 	klei: `Цитрусовый атмокостюм`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_BLUE_GREY_BLACK.DESC",
+	msgid: `Engineered to resemble stonewashed denim and black leather.`,
+	msgstr: ``,
+	klei: `Должен напоминать потертые джинсы и черную кожу.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_BLUE_GREY_BLACK.NAME",
+	msgid: `Swagger Atmo Suit`,
+	msgstr: ``,
+	klei: `Крутой атмокостюм`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_BLUE_YELLOW_RED.DESC",
+	msgid: `Designed by the Primary Colors Appreciation Society.`,
+	msgstr: ``,
+	klei: `Дизайн от Общества ценителей основных цветов.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_BLUE_YELLOW_RED.NAME",
+	msgid: `Fundamental Stripe Atmo Suit`,
+	msgstr: ``,
+	klei: `Фундаментальный атмокостюм в полоску`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_RED_BLACK.DESC",
@@ -11057,6 +15091,18 @@ Released for Klei Fest 2023.`,
 	msgid: `Default atmo suit gloves.`,
 	msgstr: ``,
 	klei: `Стандартные перчатки для атмокостюма.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.BROWN.DESC",
+	msgid: `They creak rather loudly during the break-in period.`,
+	msgstr: ``,
+	klei: `Поначалу они жутко скрипят.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.BROWN.NAME",
+	msgid: `Leather Atmo Gloves`,
+	msgstr: ``,
+	klei: `Кожаные атмоперчатки`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.CANTALOUPE.DESC",
@@ -11253,6 +15299,30 @@ Released for Klei Fest 2023.`,
 	msgid: `Citrus Atmo Helmet`,
 	msgstr: ``,
 	klei: `Цитрусовый атмошлем`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.MONDRIAN_BLUE_RED_YELLOW.DESC",
+	msgid: `Abstract geometrics are both hip <i>and</i> square.`,
+	msgstr: ``,
+	klei: `Абстрактный геометрический узор — <i>прямолинейное</i> модное высказывание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.MONDRIAN_BLUE_RED_YELLOW.NAME",
+	msgid: `Cubist Atmo Helmet`,
+	msgstr: ``,
+	klei: `Атмошлем \\"Кубизм\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.OVERALLS_RED.DESC",
+	msgid: `The twin antennae serve as an early warning system for low ceilings.`,
+	msgstr: ``,
+	klei: `Двойные антенны заранее предупреждают о низких потолках.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.OVERALLS_RED.NAME",
+	msgid: `Spiffy Atmo Helmet`,
+	msgstr: ``,
+	klei: `Нарядный атмошлем`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.PUFT.DESC",
@@ -11639,6 +15709,18 @@ Released for Klei Fest 2023.`,
 	klei: `Простые желтые штаны`,
 },
 {
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.BELT_KHAKI_TAN.DESC",
+	msgid: `Rip-resistant fabric makes crawling through ducts a breeze.`,
+	msgstr: ``,
+	klei: `Прочная ткань не рвется: ползайте по вентиляционным шахтам с ветерком.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.BELT_KHAKI_TAN.NAME",
+	msgid: `HVAC Khaki Pants`,
+	msgstr: ``,
+	klei: `Теплохладотехнические штаны цвета хаки`,
+},
+{
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.CIRCUIT_GREEN.DESC",
 	msgid: `These legs are lit.`,
 	msgstr: ``,
@@ -11661,6 +15743,138 @@ Released for Klei Fest 2023.`,
 	msgid: `Jeans`,
 	msgstr: ``,
 	klei: `Джинсы`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_BLUE_FROSTY.DESC",
+	msgid: `Icy blue short-shorts with a ruffled hem.`,
+	msgstr: ``,
+	klei: `Льдисто-синие короткие шорты с рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_BLUE_FROSTY.NAME",
+	msgid: `Frosty Shorties`,
+	msgstr: ``,
+	klei: `Льдистые шорты`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_GREEN_GOOP.DESC",
+	msgid: `Short-shorts with a ruffled hem and one pocket full of melted snacks.`,
+	msgstr: ``,
+	klei: `Короткие шорты с рюшами и полным карманом растаявших вкусняшек.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_GREEN_GOOP.NAME",
+	msgid: `Goop Shorties`,
+	msgstr: ``,
+	klei: `Липкие шорты`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_GREY_OBELUS.DESC",
+	msgid: `Comfy grey short-shorts with a ruffled hem.`,
+	msgstr: ``,
+	klei: `Удобные серые короткие шорты с рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_GREY_OBELUS.NAME",
+	msgid: `Obelus Shorties`,
+	msgstr: ``,
+	klei: `Шорты \\"Обелюс\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_GREY_PHLEGM.DESC",
+	msgid: `Ruffled short-shorts in a rather sticky shade of light grey.`,
+	msgstr: ``,
+	klei: `Короткие шорты с рюшами липкого светло-серого цвета.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_GREY_PHLEGM.NAME",
+	msgid: `Phlegmy Shorties`,
+	msgstr: ``,
+	klei: `Сопливые шорты`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_ORANGE_NYBBLE.DESC",
+	msgid: `Comfy orange ruffled short-shorts for computer scientists.`,
+	msgstr: ``,
+	klei: `Удобные оранжевые короткие шорты с рюшами для информатиков.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_ORANGE_NYBBLE.NAME",
+	msgid: `Nybble Shorties`,
+	msgstr: ``,
+	klei: `Шорты \\"Полубайт\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_PINK_GLUON.DESC",
+	msgid: `Comfy pink short-shorts with a ruffled hem.`,
+	msgstr: ``,
+	klei: `Удобные розовые короткие шорты с рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_PINK_GLUON.NAME",
+	msgid: `Gluon Shorties`,
+	msgstr: ``,
+	klei: `Шорты \\"Глюон\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_PURPLE_CORTEX.DESC",
+	msgid: `Comfy purple short-shorts with a ruffled hem.`,
+	msgstr: ``,
+	klei: `Удобные фиолетовые короткие шорты с рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_PURPLE_CORTEX.NAME",
+	msgid: `Cortex Shorties`,
+	msgstr: ``,
+	klei: `Шорты \\"Кортекс\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_RED_IRONBOW.DESC",
+	msgid: `Comfy red short-shorts with a ruffled hem.`,
+	msgstr: ``,
+	klei: `Удобные красные короткие шорты с рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_RED_IRONBOW.NAME",
+	msgid: `Ironbow Shorties`,
+	msgstr: ``,
+	klei: `Шорты \\"Тепловизор\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_TEAL_LOCUS.DESC",
+	msgid: `Comfy teal short-shorts with a ruffled hem.`,
+	msgstr: ``,
+	klei: `Удобные короткие шорты с рюшами цвета морской волны.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_TEAL_LOCUS.NAME",
+	msgid: `Locus Shorties`,
+	msgstr: ``,
+	klei: `Шорты \\"Лоно природы\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_YELLOW_BILE.DESC",
+	msgid: `Ruffled short-shorts in a stomach-turning shade of yellow.`,
+	msgstr: ``,
+	klei: `Короткие шорты с рюшами тошнотворного желтоватого цвета.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GINCH_YELLOW_BILE.NAME",
+	msgid: `Bile Shorties`,
+	msgstr: ``,
+	klei: `Рвотные шорты`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GI_BELT_WHITE_BLACK.DESC",
+	msgid: `Relaxed-fit pants designed for roundhouse kicks.`,
+	msgstr: ``,
+	klei: `Свободные штаны для вертушек.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GI_BELT_WHITE_BLACK.NAME",
+	msgid: `Rebel Gi Pants`,
+	msgstr: ``,
+	klei: `Бунтарские кэйкоги-штаны`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GI_WHITE.DESC",
@@ -11757,6 +15971,18 @@ Released for Klei Fest 2023.`,
 	msgid: `Synergy Briefs`,
 	msgstr: ``,
 	klei: `Трусы \\"Сотрудничество\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.KNIT_POLKADOT_TURQ.DESC",
+	msgid: `For clowning around during mandatory physical fitness week.`,
+	msgstr: ``,
+	klei: `Для тех, кто хочет подурачиться на обязательной неделе физподготовки.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.KNIT_POLKADOT_TURQ.NAME",
+	msgid: `Polka Dot Track Pants`,
+	msgstr: ``,
+	klei: `Спортивные штаны в крапинку`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.NERD_BROWN.DESC",
@@ -12239,6 +16465,18 @@ Released for Klei Fest 2023.`,
 	klei: `Простые красные перчатки`,
 },
 {
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_SLATE.DESC",
+	msgid: `A good, solid pair of slate gloves that go with everything.`,
+	msgstr: ``,
+	klei: `Пара хороших, надежных графитных перчаток.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_SLATE.NAME",
+	msgid: `Basic Slate Gloves`,
+	msgstr: ``,
+	klei: `Простые графитные перчатки`,
+},
+{
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_TAN.DESC",
 	msgid: `A good, solid pair of tan gloves that go with everything.`,
 	msgstr: ``,
@@ -12407,6 +16645,126 @@ Released for Klei Fest 2023.`,
 	klei: `Белые шелковые перчатки`,
 },
 {
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_BLUE_BASIN.DESC",
+	msgid: `Thick, soft blue gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые синие перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_BLUE_BASIN.NAME",
+	msgid: `Frilly Basin Gloves`,
+	msgstr: ``,
+	klei: `Перчатки с рюшами \\"Дно океана\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREEN_LIME.DESC",
+	msgid: `Thick, soft green gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые зеленые перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREEN_LIME.NAME",
+	msgid: `Frilly Leach Gloves`,
+	msgstr: ``,
+	klei: `Перчатки с рюшами \\"Вымывание\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREY_CHARCOAL.DESC",
+	msgid: `Thick, soft dark grey gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые темно-серые перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREY_CHARCOAL.NAME",
+	msgid: `Frilly Charcoal Gloves`,
+	msgstr: ``,
+	klei: `Угольные перчатки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREY_GREY.DESC",
+	msgid: `Thick, soft grey gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые серые перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREY_GREY.NAME",
+	msgid: `Frilly Slate Gloves`,
+	msgstr: ``,
+	klei: `Графитные перчатки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_ORANGE_ATOMIC.DESC",
+	msgid: `Thick, bright orange gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Толстые ярко-оранжевые перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_ORANGE_ATOMIC.NAME",
+	msgid: `Frilly Atomic Gloves`,
+	msgstr: ``,
+	klei: `Атомные перчатки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_PINK_SALTROCK.DESC",
+	msgid: `Thick, soft pink gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые розовые перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_PINK_SALTROCK.NAME",
+	msgid: `Frilly Saltrock Gloves`,
+	msgstr: ``,
+	klei: `Перчатки с рюшами \\"Солевая лампа\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_PURPLE_DUSKY.DESC",
+	msgid: `Thick, soft purple gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые фиолетовые перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_PURPLE_DUSKY.NAME",
+	msgid: `Frilly Dusk Gloves`,
+	msgstr: ``,
+	klei: `Сумеречные перчатки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_RED_MAGMA.DESC",
+	msgid: `Thick, soft red gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые красные перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_RED_MAGMA.NAME",
+	msgid: `Frilly Magma Gloves`,
+	msgstr: ``,
+	klei: `Магмовые перчатки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_TEAL_BALMY.DESC",
+	msgid: `The soft teal fabric soothes hard-working hands.`,
+	msgstr: ``,
+	klei: `Мягкая ткань цвета морской волны успокаивает уставшие руки.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_TEAL_BALMY.NAME",
+	msgid: `Frilly Balm Gloves`,
+	msgstr: ``,
+	klei: `Перчатки с рюшами \\"Бальзам\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_YELLOW_YELLOWCAKE.DESC",
+	msgid: `Thick, soft yellow gloves with added flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые желтые перчатки, которые любят привлекать к себе внимание.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_YELLOW_YELLOWCAKE.NAME",
+	msgid: `Frilly Yellowcake Gloves`,
+	msgstr: ``,
+	klei: `Перчатки с рюшами \\"Урановый концентрат\\"`,
+},
+{
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_CHARCOAL.DESC",
 	msgid: `The muted stripe minimizes distractions so its wearer can focus on trying very, very hard.`,
 	msgstr: ``,
@@ -12491,6 +16849,30 @@ Released for Klei Fest 2023.`,
 	klei: `Спортивные перчатки фаната`,
 },
 {
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.KNIT_GOLD.DESC",
+	msgid: `Produces a pleasantly muffled \\"whump\\" when high-fiving.`,
+	msgstr: ``,
+	klei: `Если дать пять, можно услышать приятное приглушенное \\"Пуф-ф\\".`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.KNIT_GOLD.NAME",
+	msgid: `Gold Knit Gloves`,
+	msgstr: ``,
+	klei: `Золотые вязаные перчатки`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.KNIT_MAGENTA.DESC",
+	msgid: `Produces a pleasantly muffled \\"whump\\" when high-fiving.`,
+	msgstr: ``,
+	klei: `Если дать пять, можно услышать приятное приглушенное \\"Пуф-ф\\".`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.KNIT_MAGENTA.NAME",
+	msgid: `Magenta Knit Gloves`,
+	msgstr: ``,
+	klei: `Пурпурные вязаные перчатки`,
+},
+{
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.LONG_WHITE.DESC",
 	msgid: `Super-long gloves for super-formal occasions.`,
 	msgstr: ``,
@@ -12501,6 +16883,30 @@ Released for Klei Fest 2023.`,
 	msgid: `White Evening Gloves`,
 	msgstr: ``,
 	klei: `Белые вечерние перчатки`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SOCKSUIT_BEIGE.DESC",
+	msgid: `Designed by someone with cold hands and an excess of old socks.`,
+	msgstr: ``,
+	klei: `У создателя всегда мерзли руки и было слишком много старых носков.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SOCKSUIT_BEIGE.NAME",
+	msgid: `Vintage Handsock`,
+	msgstr: ``,
+	klei: `Винтажный рукогрей`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SPARKLE_WHITE.DESC",
+	msgid: `Each sequin was attached using sealant borrowed from the rocketry department.`,
+	msgstr: ``,
+	klei: `Каждая пайетка приклеена вручную с помощью герметика из отделения ракетостроения.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SPARKLE_WHITE.NAME",
+	msgid: `White Glitter Gloves`,
+	msgstr: ``,
+	klei: `Блестящие белые перчатки`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.TWOTONE_CREAM_CHARCOAL.DESC",
@@ -12717,6 +17123,138 @@ Released for Klei Fest 2023.`,
 	msgid: `Denim Shoes`,
 	msgstr: ``,
 	klei: `Джинсовые туфли`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.FLASHY.DESC",
+	msgid: `Why walk when you can <i>moon</i>walk?`,
+	msgstr: ``,
+	klei: `Кому нужна обычная походка, когда есть <i>лунная</i>?`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.FLASHY.NAME",
+	msgid: `Superstar Shoes`,
+	msgstr: ``,
+	klei: `Туфли суперзвезды`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_BLUE_BASIN.DESC",
+	msgid: `Thick, soft blue socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые синие носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_BLUE_BASIN.NAME",
+	msgid: `Frilly Basin Socks`,
+	msgstr: ``,
+	klei: `Носки с рюшами \\"Дно океана\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREEN_LIME.DESC",
+	msgid: `Thick, soft green socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые зеленые носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREEN_LIME.NAME",
+	msgid: `Frilly Leach Socks`,
+	msgstr: ``,
+	klei: `Носки с рюшами \\"Вымывание\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREY_CHARCOAL.DESC",
+	msgid: `Thick, soft dark grey socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые темно-серые носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREY_CHARCOAL.NAME",
+	msgid: `Frilly Charcoal Socks`,
+	msgstr: ``,
+	klei: `Угольные носки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREY_GREY.DESC",
+	msgid: `Thick, soft grey socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые серые носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREY_GREY.NAME",
+	msgid: `Frilly Slate Socks`,
+	msgstr: ``,
+	klei: `Графитные носки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_ORANGE_ATOMIC.DESC",
+	msgid: `Thick, soft orange socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые оранжевые носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_ORANGE_ATOMIC.NAME",
+	msgid: `Frilly Atomic Socks`,
+	msgstr: ``,
+	klei: `Атомные носки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_PINK_SALTROCK.DESC",
+	msgid: `Thick, soft pink socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые розовые носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_PINK_SALTROCK.NAME",
+	msgid: `Frilly Saltrock Socks`,
+	msgstr: ``,
+	klei: `Носки с рюшами \\"Солевая лампа\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_PURPLE_DUSKY.DESC",
+	msgid: `Thick, soft purple socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые фиолетовые носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_PURPLE_DUSKY.NAME",
+	msgid: `Frilly Dusk Socks`,
+	msgstr: ``,
+	klei: `Сумеречные носки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_RED_MAGMA.DESC",
+	msgid: `Thick, toasty red socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые огненно-красные носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_RED_MAGMA.NAME",
+	msgid: `Frilly Magma Socks`,
+	msgstr: ``,
+	klei: `Магмовые носки с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_TEAL_BALMY.DESC",
+	msgid: `Thick, soothing teal socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Мягкие толстые носки цвета морской волны, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_TEAL_BALMY.NAME",
+	msgid: `Frilly Balm Socks`,
+	msgstr: ``,
+	klei: `Носки с рюшами \\"Бальзам\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_YELLOW_YELLOWCAKE.DESC",
+	msgid: `Dangerously soft yellow socks with extra flounce.`,
+	msgstr: ``,
+	klei: `Пугающе мягкие желтые носки, которые не останутся незамеченными.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_YELLOW_YELLOWCAKE.NAME",
+	msgid: `Frilly Yellowcake Socks`,
+	msgstr: ``,
+	klei: `Носки с рюшами \\"Урановый концентрат\\"`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_BLUEBERRY.DESC",
@@ -13079,6 +17617,18 @@ Released for Klei Fest 2023.`,
 	klei: `Балетный купальник`,
 },
 {
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.BUILDER.DESC",
+	msgid: `Unmissable style for the safety-minded.`,
+	msgstr: ``,
+	klei: `Обязательный аксессуар для тех, кто ценит технику безопасности.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.BUILDER.NAME",
+	msgid: `Hi-Vis Jacket`,
+	msgstr: ``,
+	klei: `Светоотражающая куртка`,
+},
+{
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.CIRCUIT_GREEN.DESC",
 	msgid: `For dancing in the dark.`,
 	msgstr: ``,
@@ -13113,6 +17663,150 @@ Released for Klei Fest 2023.`,
 	msgid: `PhD Dress`,
 	msgstr: ``,
 	klei: `Научное платье`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.FLASHY.DESC",
+	msgid: `Some of us were not made to be subtle.`,
+	msgstr: ``,
+	klei: `Некоторые были созданы, чтобы выделяться из толпы.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.FLASHY.NAME",
+	msgid: `Superstar Jacket`,
+	msgstr: ``,
+	klei: `Куртка суперзвезды`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.FLORAL_PINK.DESC",
+	msgid: `For maxing and relaxing when errands are too taxing.`,
+	msgstr: ``,
+	klei: `Чтобы расслабиться и не париться, когда хлопоты на голову валятся.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.FLORAL_PINK.NAME",
+	msgid: `Downtime Shirt`,
+	msgstr: ``,
+	klei: `Рубашка для отдыха`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_BLUE_BASIN.DESC",
+	msgid: `A seamless blue undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная синяя майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_BLUE_BASIN.NAME",
+	msgid: `Frilly Basin Undershirt`,
+	msgstr: ``,
+	klei: `Майка с рюшами \\"Дно океана\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREEN_LIME.DESC",
+	msgid: `A seamless green undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная зеленая майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREEN_LIME.NAME",
+	msgid: `Frilly Leach Undershirt`,
+	msgstr: ``,
+	klei: `Майка с рюшами \\"Вымывание\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREY_CHARCOAL.DESC",
+	msgid: `A seamless dark grey undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная темно-серая майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREY_CHARCOAL.NAME",
+	msgid: `Frilly Charcoal Undershirt`,
+	msgstr: ``,
+	klei: `Угольная майка с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREY_GREY.DESC",
+	msgid: `A seamless grey undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная серая майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREY_GREY.NAME",
+	msgid: `Frilly Slate Undershirt`,
+	msgstr: ``,
+	klei: `Графитная майка с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_ORANGE_ATOMIC.DESC",
+	msgid: `A seamless orange undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная оранжевая майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_ORANGE_ATOMIC.NAME",
+	msgid: `Frilly Atomic Undershirt`,
+	msgstr: ``,
+	klei: `Атомная майка с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_PINK_SALTROCK.DESC",
+	msgid: `A seamless pink undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная розовая майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_PINK_SALTROCK.NAME",
+	msgid: `Frilly Saltrock Undershirt`,
+	msgstr: ``,
+	klei: `Майка с рюшами \\"Солевая лампа\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_PURPLE_DUSKY.DESC",
+	msgid: `A seamless purple undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная фиолетовая майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_PURPLE_DUSKY.NAME",
+	msgid: `Frilly Dusk Undershirt`,
+	msgstr: ``,
+	klei: `Сумеречная майка с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_RED_MAGMA.DESC",
+	msgid: `A seamless red undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная красная майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_RED_MAGMA.NAME",
+	msgid: `Frilly Magma Undershirt`,
+	msgstr: ``,
+	klei: `Магмовая майка с рюшами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_TEAL_BALMY.DESC",
+	msgid: `A seamless teal undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная майка цвета морской волны с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_TEAL_BALMY.NAME",
+	msgid: `Frilly Balm Undershirt`,
+	msgstr: ``,
+	klei: `Майка с рюшами \\"Бальзам\\"`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_YELLOW_YELLOWCAKE.DESC",
+	msgid: `A seamless yellow undershirt with laser-cut ruffles.`,
+	msgstr: ``,
+	klei: `Бесшовная желтая майка с вырезанными лазером рюшами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_YELLOW_YELLOWCAKE.NAME",
+	msgid: `Frilly Yellowcake Undershirt`,
+	msgstr: ``,
+	klei: `Майка с рюшами \\"Урановый концентрат\\"`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GI_WHITE.DESC",
@@ -13307,6 +18001,18 @@ Released for Klei Fest 2023.`,
 	klei: `Арбузный желевик`,
 },
 {
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.KNIT_POLKADOT_TURQ.DESC",
+	msgid: `The dots are infused with odor-neutralizing enzymes!`,
+	msgstr: ``,
+	klei: `Это не просто крапинка, это энзимы, нейтрализующие запах!`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.KNIT_POLKADOT_TURQ.NAME",
+	msgid: `Polka Dot Track Jacket`,
+	msgstr: ``,
+	klei: `Спортивная куртка в крапинку`,
+},
+{
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.MECHANIC.DESC",
 	msgid: `Designed to withstand the rigors of applied science.`,
 	msgstr: ``,
@@ -13329,6 +18035,42 @@ Released for Klei Fest 2023.`,
 	msgid: `Research Shirt`,
 	msgstr: ``,
 	klei: `Исследовательская майка`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_CLOVERS_GLITCH_KELLY.DESC",
+	msgid: `Even the most brilliant minds need a little extra luck sometimes.`,
+	msgstr: ``,
+	klei: `Даже самым светлым умам иногда необходимо немного удачи.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_CLOVERS_GLITCH_KELLY.NAME",
+	msgid: `Lucky Jammies`,
+	msgstr: ``,
+	klei: `Везучая пижама`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_HEARTS_CHILLI_STRAWBERRY.DESC",
+	msgid: `Plush chenille fabric and a drool-absorbent collar? This sleepsuit really <i>is</i> \\"The One.\\"`,
+	msgstr: ``,
+	klei: `Мягкая шенилловая ткань и воротник, впитывающий слюни? Этот спальный наряд <i>точно</i> тот самый.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_HEARTS_CHILLI_STRAWBERRY.NAME",
+	msgid: `Sweetheart Jammies`,
+	msgstr: ``,
+	klei: `Возлюбленная пижама`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.POMPOM_SHINEBUGS_PINK_PEPPERNUT.DESC",
+	msgid: `No Shine Bugs were harmed in the making of this sweater.`,
+	msgstr: ``,
+	klei: `При производстве этого свитера ни один блестячок не пострадал.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.POMPOM_SHINEBUGS_PINK_PEPPERNUT.NAME",
+	msgid: `Pom Bug Sweater`,
+	msgstr: ``,
+	klei: `Свитер с помпонами-жуками`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_CHARCOAL.DESC",
@@ -13413,6 +18155,30 @@ Released for Klei Fest 2023.`,
 	msgid: `Superfan T-shirt`,
 	msgstr: ``,
 	klei: `Футболка фаната`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.SNOWFLAKE_BLUE.DESC",
+	msgid: `Tiny imperfections in the front pattern ensure that no two are truly identical.`,
+	msgstr: ``,
+	klei: `Крохотные несовершенства узора напоминают, что каждая снежинка уникальна.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.SNOWFLAKE_BLUE.NAME",
+	msgid: `Crystal-Iced Sweater`,
+	msgstr: ``,
+	klei: `Свитер со снежинкой`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.SOCKSUIT_BEIGE.DESC",
+	msgid: `Like a sock for the torso. With sleeves.`,
+	msgstr: ``,
+	klei: `Носок для тела с рукавами.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.SOCKSUIT_BEIGE.NAME",
+	msgid: `Vintage Sockshirt`,
+	msgstr: ``,
+	klei: `Винтажный телогрей`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.TSHIRT_MAGENTA.DESC",
@@ -13509,6 +18275,30 @@ Released for Klei Fest 2023.`,
 	msgid: `HVAC Khaki Shirt`,
 	msgstr: ``,
 	klei: `Теплохладотехническая рубашка цвета хаки`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.X1_PINCHAPEPPERNUTBELLS.DESC",
+	msgid: `The peppernuts jingle just loudly enough to be distracting.`,
+	msgstr: ``,
+	klei: `Перцовые орешки звенят и отвлекают всех от работы.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.X1_PINCHAPEPPERNUTBELLS.NAME",
+	msgid: `Pinchabell Jacket`,
+	msgstr: ``,
+	klei: `Куртка с перечными бубенцами`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.X_SPORCHID.DESC",
+	msgid: `This soft knit can be worn anytime, not just during Zombie Spore season.`,
+	msgstr: ``,
+	klei: `Такую мягкую вязку приятно носить всегда, не только в сезон зомби-спор.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.X_SPORCHID.NAME",
+	msgid: `Sporefest Sweater`,
+	msgstr: ``,
+	klei: `Спорный свитер`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.NAME",
@@ -13827,6 +18617,18 @@ Released for Klei Fest 2023.`,
 	msgid: `<link=\\"EQUIPPABLEBALLOON\\">Gold Fingers</link>`,
 	msgstr: ``,
 	klei: `<link=\\"EQUIPPABLEBALLOON\\">Золотые пальцы</link>`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.HOLIDAY_2023_CRATE.DESC",
+	msgid: `An unaddressed package has been discovered near the Printing Pod. It exudes seasonal cheer, and trace amounts of Neutronium have been detected.`,
+	msgstr: ``,
+	klei: `Около печатного станка обнаружена посылка без адреса. От нее так и веет праздничным духом. Также были обнаружены следовые количества нейтрония.`,
+},
+{
+	msgctxt: "STRINGS.EQUIPMENT.PREFABS.HOLIDAY_2023_CRATE.NAME",
+	msgid: `Holiday Gift Crate`,
+	msgstr: ``,
+	klei: `Подарочный ящик`,
 },
 {
 	msgctxt: "STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.EFFECT",
@@ -14212,11 +19014,7 @@ This supports the prevailing theory that a well lit workspace has many benefits 
 	msgctxt: "STRINGS.INPUT_BINDINGS.ROOT.PLAN5",
 	msgid: `Plumbing Build Menu`,
 	msgstr: ``,
-	klei: `
-#-#-#-#-#  strings_preinstalled_ru_klei.po  #-#-#-#-#\\n
-Водоводные строения\\n
-#-#-#-#-#  strings_preinstalled_ru_klei_579699_RU.po  #-#-#-#-#\\n
-Водопроводные строения`,
+	klei: `Водопроводные строения`,
 	mem: [
 		{
 			msgid: `Plan 5`,
@@ -14276,7 +19074,7 @@ This supports the prevailing theory that a well lit workspace has many benefits 
 	msgctxt: "STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSTORYTRAITTOOL",
 	msgid: `Sandbox Story Trait Tool`,
 	msgstr: ``,
-	klei: `Команда \\"Сюжетная особенность\\" (песочница)`,
+	klei: `Сюжетная особенность песочницы`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.DEHYDRATEDFOODPACKAGE.CONSUMED",
@@ -14345,6 +19143,39 @@ Dry rations have no expiry date.`,
 	klei: `Сухой ледяной бургер`,
 },
 {
+	msgctxt: "STRINGS.ITEMS.FOOD.CARROT.DESC",
+	msgid: `An edible tuber with an earthy, elegant flavor.`,
+	msgstr: ``,
+	klei: `Съедобный клубень с тонким землистым вкусом.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.CARROT.NAME",
+	msgid: `<link=\\"CARROT\\">Plume Squash</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CARROT\\">Перьевая тыква</link>`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.COOKEDPIKEAPPLE.DESC",
+	msgid: `Grilling a <link=\\"HARDSKINBERRY\\">Pikeapple</link> softens its spikes, making it slighly less awkward to eat.\\n\\nIt does not diminish the smell.`,
+	msgstr: ``,
+	klei: `
+<link=\\"HARDSKINBERRY\\">Шиплоко</link> можно пожарить на гриле: это смягчит шипы фрукта, и есть его станет чуть удобнее.\\n
+\\n
+На интенсивность аромата жарка никак не повлияет.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.COOKEDPIKEAPPLE.NAME",
+	msgid: `<link=\\"COOKEDPIKEAPPLE\\">Pikeapple Skewer</link>`,
+	msgstr: ``,
+	klei: `<link=\\"COOKEDPIKEAPPLE\\">Шиплоко на шампуре</link>`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.COOKEDPIKEAPPLE.RECIPEDESC",
+	msgid: `A grilled dish made with a fruiting <link=\\"HARDSKINBERRY\\">Pikeapple</link>.`,
+	msgstr: ``,
+	klei: `Блюдо из жареных на гриле созревших <link=\\"HARDSKINBERRY\\">шиплок</link>.`,
+},
+{
 	msgctxt: "STRINGS.ITEMS.FOOD.CURRY.DEHYDRATED.DESC",
 	msgid: `
 A dehydrated <link=\\"CURRY\\">Curried Beans</link> ration. It must be rehydrated in order to be considered <link=\\"FOOD\\">Food</link>.\\n
@@ -14361,6 +19192,108 @@ Dry rations have no expiry date.`,
 	msgid: `Dried Curried Beans`,
 	msgstr: ``,
 	klei: `Сухой карри с бобами`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDFISH.DESC",
+	msgid: `Deep-fried fish cradled in a crunchy fin.`,
+	msgstr: ``,
+	klei: `Жареная рыба, завернутая в хрустящие рыбные кости.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDFISH.NAME",
+	msgid: `<link=\\"DEEPFRIEDFISH\\">Fish Taco</link>`,
+	msgstr: ``,
+	klei: `<link=\\"DEEPFRIEDFISH\\">Рыбное тако</link>`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDFISH.RECIPEDESC",
+	msgid: `Delicately sliced <link=\\"FISHMEAT\\">Pacu Fillet</link> deep-fried in <link=\\"TALLOW\\">Tallow</link>.`,
+	msgstr: ``,
+	klei: `Изящно нарезанное <link=\\"FISHMEAT\\">филе паку</link>, обжаренное в <link=\\"TALLOW\\">жире</link>.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.DESC",
+	msgid: `A juicy slab of meat with a crunchy deep-fried upper layer.`,
+	msgstr: ``,
+	klei: `Сочный кусок мяса, обжаренный до хрустящей корочки.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.NAME",
+	msgid: `<link=\\"DEEPFRIEDMEAT\\">Deep Fried Steak</link>`,
+	msgstr: ``,
+	klei: `<link=\\"DEEPFRIEDMEAT\\">Зажаренный стейк</link>`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.RECIPEDESC",
+	msgid: `A juicy slab of <link=\\"MEAT\\">Raw Meat</link> deep-fried in <link=\\"TALLOW\\">Tallow</link>.`,
+	msgstr: ``,
+	klei: `Сочный кусок <link=\\"MEAT\\">сырого мяса</link>, обжаренный в <link=\\"TALLOW\\">жире</link>.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDSHELLFISH.DESC",
+	msgid: `A crispy deep-fried critter claw.`,
+	msgstr: ``,
+	klei: `Хрустящий зажаренный коготь существа.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDSHELLFISH.NAME",
+	msgid: `<link=\\"DEEPFRIEDSHELLFISH\\">Shellfish Tempura</link>`,
+	msgstr: ``,
+	klei: `<link=\\"DEEPFRIEDSHELLFISH\\">Моллюск в кляре</link>`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDSHELLFISH.RECIPEDESC",
+	msgid: `A tender chunk of <link=\\"SHELLFISHMEAT\\">Raw Shellfish</link> deep-fried in <link=\\"TALLOW\\">Tallow</link>.`,
+	msgstr: ``,
+	klei: `Нежное мясо <link=\\"SHELLFISHMEAT\\">сырого моллюска</link>, обжаренное в <link=\\"TALLOW\\">жире</link>.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.FRIESCARROT.DESC",
+	msgid: `Irresistibly crunchy.\\n\\nBest eaten hot.`,
+	msgstr: ``,
+	klei: `
+Невероятно аппетитно хрустят.\\n
+\\n
+Вкуснее, пока горячие.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.FRIESCARROT.NAME",
+	msgid: `<link=\\"FRIESCARROT\\">Squash Fries</link>`,
+	msgstr: ``,
+	klei: `<link=\\"FRIESCARROT\\">Зажаренные тыквенные дольки</link>`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.FRIESCARROT.RECIPEDESC",
+	msgid: `Sticks of <link=\\"CARROT\\">Plume Squash</link> deep-fried in <link=\\"TALLOW\\">Tallow</link>.`,
+	msgstr: ``,
+	klei: `Нарезанная соломкой <link=\\"CARROT\\">перьевая тыква</link>, обжаренная в <link=\\"TALLOW\\">жире</link>.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.HARDSKINBERRY.DESC",
+	msgid: `An edible fruit encased in a thorny husk.`,
+	msgstr: ``,
+	klei: `Съедобный фрукт в шипастой кожуре.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.HARDSKINBERRY.NAME",
+	msgid: `<link=\\"HARDSKINBERRY\\">Pikeapple</link>`,
+	msgstr: ``,
+	klei: `<link=\\"HARDSKINBERRY\\">Шиплоко</link>`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.ICECAVESFORAGEPLANT.DESC",
+	msgid: `A cold seedless fruit that triggers mild brain freeze.\\n\\nIt cannot be replanted.`,
+	msgstr: ``,
+	klei: `
+Холодная ягода без косточек, от которой зубы сводит.\\n
+\\n
+Нельзя вырастить повторно.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.ICECAVESFORAGEPLANT.NAME",
+	msgid: `<link=\\"ICECAVESFORAGEPLANT\\">Sherberry</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ICECAVESFORAGEPLANT\\">Льдягода</link>`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.FOOD.MUSHROOMWRAP.DEHYDRATED.DESC",
@@ -14421,6 +19354,27 @@ They're so thick!`,
 	msgid: `pasta made from egg and wheat`,
 	msgstr: ``,
 	klei: `паста из яйца и пшеницы`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.PEMMICAN.DESC",
+	msgid: `<link=\\"MEAT\\">Meat</link> and <link=\\"TALLOW\\">Tallow</link> pounded into a calorie-dense brick with an exceptionally long shelf life.\\n\\nSurvival never tasted so good.`,
+	msgstr: ``,
+	klei: `
+<link=\\"MEAT\\">Мясо</link> и <link=\\"TALLOW\\">жир</link>, спрессованные вместе. Этот калорийный батончик можно хранить очень долго.\\n
+\\n
+Выживать еще никогда не было так вкусно.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.PEMMICAN.NAME",
+	msgid: `<link=\\"PEMMICAN\\">Pemmican</link>`,
+	msgstr: ``,
+	klei: `<link=\\"PEMMICAN\\">Пеммикан</link>`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.PEMMICAN.RECIPEDESC",
+	msgid: `<link=\\"MEAT\\">Meat</link> and <link=\\"TALLOW\\">Tallow</link> pounded into a nutrient-dense brick with an exceptionally long shelf life.`,
+	msgstr: ``,
+	klei: `<link=\\"MEAT\\">Мясо</link> и <link=\\"TALLOW\\">жир</link>, спрессованные вместе. Этот питательный батончик можно хранить очень долго.`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.FOOD.QUICHE.DEHYDRATED.DESC",
@@ -14535,6 +19489,21 @@ Dry rations have no expiry date.`,
 	msgid: `Dried Surf'n'Turf`,
 	msgstr: ``,
 	klei: `Сухое жаркое`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ICE_BELLY_POOP.DESC",
+	msgid: `A little treat left behind by a very large critter.\\n\\nIt can be crushed to extract <link=\\"PHOSPHORITE\\">Phosphorite</link> and <link=\\"CLAY\\">Clay</link>.`,
+	msgstr: ``,
+	klei: `
+Небольшой подарочек, оставленный очень крупным существом.\\n
+\\n
+Можно разломать, чтобы получить <link=\\"PHOSPHORITE\\">апатит</link> и <link=\\"CLAY\\">глину</link>.`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ICE_BELLY_POOP.NAME",
+	msgid: `<link=\\"ICEBELLYPOOP\\">Bammoth Patty</link>`,
+	msgstr: ``,
+	klei: `<link=\\"ICEBELLYPOOP\\">Лепешка крольмонта</link>`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.MISSILE_BASIC.DESC",
@@ -14729,10 +19698,22 @@ Must be administered by a Duplicant with the <link=\\"MEDIC\\">Advanced Medical 
 	],
 },
 {
+	msgctxt: "STRINGS.MISC.NOTIFICATIONS.BUILDING_MELTED.NAME",
+	msgid: `Building melted`,
+	msgstr: ``,
+	klei: `Строение растоплено`,
+},
+{
+	msgctxt: "STRINGS.MISC.NOTIFICATIONS.BUILDING_MELTED.TOOLTIP",
+	msgid: `Extreme heat has melted these buildings:`,
+	msgstr: ``,
+	klei: `Экстремальная жара растопила эти строения:`,
+},
+{
 	msgctxt: "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME",
 	msgid: `No <link=\\"BED\\">Cots</link> built`,
 	msgstr: ``,
-	klei: `Не установлено ни одной <link=\\"COT\\">койки</link>`,
+	klei: `Не установлено ни одной <link=\\"BED\\">койки</link>`,
 	mem: [
 		{
 			msgid: `No <link=\\"COT\\">Cots</link> built`,
@@ -14750,7 +19731,7 @@ My Duplicants would appreciate a place to sleep\\n
 	klei: `
 Мои дубликанты не отказались бы от места для сна\\n
 \\n
-<link=\\"COTS\\">Койки</link> можно найти на <b>вкладке \\"Мебель\\"</b> {Hotkey/Plan9}`,
+<link=\\"BED\\">Койки</link> можно найти на <b>вкладке \\"Мебель\\"</b> {Hotkey/Plan9}`,
 	mem: [
 		{
 			msgid: `
@@ -14837,6 +19818,33 @@ Buildings often output contaminated water which must flow out of the building th
 	],
 },
 {
+	msgctxt: "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.BUTTON_VIEW_LORE",
+	msgid: `View entry`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.MESSAGEBODY",
+	msgid: `Eureka! We've decrypted the Research Portal's final transmission. New buildings have become available:\\n  {0}\\n\\nOne file was labeled \\"Open This First.\\" New Database Entry unlocked.`,
+	msgstr: ``,
+	klei: `
+Эврика! Нам удалось расшифровать последнюю передачу исследовательского портала.\\n
+\\n
+Доступны новые строения:\\n
+  {0}`,
+},
+{
+	msgctxt: "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.NAME",
+	msgid: `Research Discovered`,
+	msgstr: ``,
+	klei: `Открыто исследование`,
+},
+{
+	msgctxt: "STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.TOOLTIP",
+	msgid: `{0} unlocked!`,
+	msgstr: ``,
+	klei: `{0}: разблокировано!`,
+},
+{
 	msgctxt: "STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.NAME",
 	msgid: `Move Here`,
 	msgstr: ``,
@@ -14853,6 +19861,12 @@ Buildings often output contaminated water which must flow out of the building th
 	msgid: `Click to see where this item will be moved to`,
 	msgstr: ``,
 	klei: `Нажмите, чтобы увидеть, куда перенесется этот предмет`,
+},
+{
+	msgctxt: "STRINGS.MISC.POPFX.RESOURCE_SELECTION_CHANGED",
+	msgid: `Changed to {0}`,
+	msgstr: ``,
+	klei: `Изменено на: {0}`,
 },
 {
 	msgctxt: "STRINGS.MISC.STATUSITEMS.CLUSTERMETEORREMAININGTRAVELTIME.NAME",
@@ -14935,6 +19949,16 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	],
 },
 {
+	msgctxt: "STRINGS.MISC.STATUSITEMS.PENDINGCARVE.NAME",
+	msgid: `Carve Errand`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.MISC.STATUSITEMS.PENDINGCARVE.TOOLTIP",
+	msgid: `Rock will be carved once a Duplicant is available`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.NAME",
 	msgid: `Rehydrated food`,
 	msgstr: ``,
@@ -14944,7 +19968,10 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	msgctxt: "STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.TOOLTIP",
 	msgid: `Not quite as good as fresh, causes a -1 to <link=\\"MORALE\\">Morale</link>`,
 	msgstr: ``,
-	klei: `По вкусу уступает свежей, снижает <link=\\"MORALE\\">моральный дух</link> на 1`,
+	klei: `
+Влажность этой пищи восстановлена, и продукты пригодны для еды\\n
+\\n
+<style=\\"KKeyword\\"><link=\\"MORALE\\">Моральный дух</link></style>: -1`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.ADVANCEDDOCTORSTATIONMEDICALSUPPLIES",
@@ -14956,7 +19983,7 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	msgctxt: "STRINGS.MISC.TAGS.BUILDABLEANY",
 	msgid: `General Buildable`,
 	msgstr: ``,
-	klei: `Подходит для строительства`,
+	klei: `<link=\\"BUILDABLEANY\\">Подходит для строительства</link>`,
 	mem: [
 		{
 			msgid: `Generic Buildable`,
@@ -14974,25 +20001,37 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	msgctxt: "STRINGS.MISC.TAGS.BUILDABLERAW_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `Необработанные минералы — это природные вещества, которые находятся в твердом состоянии. Практически все их них можно обработать в <link=\\"ROCKCRUSHER\\">камнедробителе</link>, хотя для работы с некоторыми потребуется <link=\\"SUPERMATERIALREFINERY\\">молекулярная кузница</link>.`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.BUILDINGFIBER_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `Волокна — это органические полимеры, которые обладают определенной прочностью и в то же время приятны на ощупь. Благодаря этим качествам волокна часто используются для создания строений, поднимающих <link=\\"MORALE\\">моральный дух</link> дубликантов.`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.BUILDINGWOOD_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `Древесина — это возобновляемый строительный материал, который также может служить ценным источником топлива или электричества. Для этого его нужно обработать в <link=\\"WOODGASGENERATOR\\">сжигателе древесины</link> или в <link=\\"ETHANOLDISTILLERY\\">дистилляторе этанола</link>.`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.CERAMIC",
+	msgid: `<link=\\"CERAMIC\\">Ceramic</link>`,
+	msgstr: ``,
+	klei: `<link=\\"CERAMIC\\">Керамика</link>`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.DEHYDRATED",
 	msgid: `Dehydrated`,
 	msgstr: ``,
 	klei: `Высушено`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.DIAMOND",
+	msgid: `<link=\\"DIAMOND\\">Diamond</link>`,
+	msgstr: ``,
+	klei: `<link=\\"DIAMOND\\">Алмаз</link>`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.DOCTORSTATIONMEDICALSUPPLIES",
@@ -15004,7 +20043,13 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	msgctxt: "STRINGS.MISC.TAGS.FARMABLE_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `Пахотная земля — необходимый элемент базовых сельскохозяйственных систем. Она также может использоваться для производства очищенного <link=\\"OXYGEN\\">кислорода</link>.`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.FOSSIL",
+	msgid: `Fossil`,
+	msgstr: ``,
+	klei: `Ископаемые`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.GLASS",
@@ -15013,22 +20058,45 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	klei: `Стекло`,
 },
 {
+	msgctxt: "STRINGS.MISC.TAGS.ICE",
+	msgid: `Ice`,
+	msgstr: ``,
+	klei: `Лед`,
+},
+{
 	msgctxt: "STRINGS.MISC.TAGS.INSULATOR_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `Изоляторы обладают низкой теплопроводностью, поэтому эффективно снижают скорость, с которой <link=\\"HEAT\\">тепло</link> проходит через них.`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.LEAD",
+	msgid: `<link=\\"LEAD\\">Lead</link>`,
+	msgstr: ``,
+	klei: `<link=\\"LEAD\\">Свинец</link>`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.METAL_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `
+Металлическая руда — это необработанная форма металлов. У руды много практических применений в электронике и строительстве.\\n
+\\n
+Металлическая руда обычно служит источником <link=\\"REFINEDMETAL\\">обработанного металла</link>. Для обработки используется <link=\\"ROCKCRUSHER\\">камнедробитель</link> или <link=\\"METALREFINERY\\">металлургический станок</link>.\\n
+\\n
+Для работы с некоторыми редкими рудами может потребоваться <link=\\"SUPERMATERIALREFINERY\\">молекулярная кузница</link>.`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.OBSIDIAN",
+	msgid: `<link=\\"OBSIDIAN\\">Obsidian</link>`,
+	msgstr: ``,
+	klei: `<link=\\"OBSIDIAN\\">Обсидиан</link>`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.PLASTIC",
 	msgid: `Plastics`,
 	msgstr: ``,
-	klei: `Пластмасса`,
+	klei: `<link=\\"PLASTIC\\">Пластмасса</link>`,
 	mem: [
 		{
 			msgid: `Plastic`,
@@ -15040,7 +20108,13 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	msgctxt: "STRINGS.MISC.TAGS.PLASTIC_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `Пластмасса — это синтетические <link=\\"ELEMENTSSOLID\\">твердые вещества</link>. Она очень гибкая и минимизирует расход <link=\\"HEAT\\">тепла</link>. Обычно пластмасса плавится при низких температурах, но более сложные виды пластика позволяют обойти это ограничение.`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.PLASTIFIABLELIQUID",
+	msgid: `Pre-Plastic`,
+	msgstr: ``,
+	klei: `Предпластмасса`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.PLUMBABLE_DESC",
@@ -15049,10 +20123,25 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	klei: ``,
 },
 {
+	msgctxt: "STRINGS.MISC.TAGS.POLYPROPYLENE",
+	msgid: `<link=\\"POLYPROPYLENE\\">Plastic</link>`,
+	msgstr: ``,
+	klei: `<link=\\"POLYPROPYLENE\\">Пластмасса</link>`,
+},
+{
 	msgctxt: "STRINGS.MISC.TAGS.PRECIOUSROCK_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `
+Драгоценные минералы — это природные необработанные минералы. Их прочность делает их прекрасным материалом для <link=\\"DECOR\\">декора</link>.\\n
+\\n
+Некоторые драгоценные минералы очень красивы даже в необработанной форме.`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.SNOW",
+	msgid: `<link=\\"STABLESNOW\\">Snow</link>`,
+	msgstr: ``,
+	klei: `<link=\\"STABLESNOW\\">Снег</link>`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.STORYTRAITRESOURCE",
@@ -15061,10 +20150,25 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 	klei: `Сюжетная особенность`,
 },
 {
+	msgctxt: "STRINGS.MISC.TAGS.SUBLIMATING",
+	msgid: `Sublimators`,
+	msgstr: ``,
+	klei: `Сублиматоры`,
+},
+{
 	msgctxt: "STRINGS.MISC.TAGS.TRANSPARENT_DESC",
 	msgid: ``,
 	msgstr: ``,
-	klei: ``,
+	klei: `
+Прозрачные материалы пропускают <link=\\"LIGHT\\">свет</link>. Освещение положительно сказывается на работоспособности дубликантов, но понижает качество сна.\\n
+\\n
+Прозрачные материалы также важны для строений, которым для работы необходима высокая видимость, например, для <link=\\"COMETDETECTOR\\">космического сканера</link>.`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.WOODLOG",
+	msgid: `<link=\\"WOODLOG\\">Wood</link>`,
+	msgstr: ``,
+	klei: `<link=\\"WOODLOG\\">Древесина</link>`,
 },
 {
 	msgctxt: "STRINGS.NAMEGEN.COLONY.NOUN.COMET",
@@ -15135,10 +20239,32 @@ XE`,
 	klei: ` `,
 },
 {
+	msgctxt: "STRINGS.NAMEGEN.WORLD.ROOTS.CERES",
+	msgid: `Wintr\\nPolar\\nSubzer\\nImpass\\nGlac\\nBlust\\nShivrr\\n`,
+	msgstr: ``,
+	klei: `
+Зимн\\n
+Поляр\\n
+Хлад\\n
+Гибл\\n
+Ледн\\n
+Ветр\\n
+Бырр\\n`,
+},
+{
 	msgctxt: "STRINGS.NAMEGEN.WORLD.UNKNOWN_WORLD",
 	msgid: `Unknown`,
 	msgstr: ``,
 	klei: `Неизвестно`,
+},
+{
+	msgctxt: "STRINGS.RESEARCH.MESSAGING.DLC.DLC_CONTENT",
+	msgid: `\\n\\n<i>{0}</i> DLC Content`,
+	msgstr: ``,
+	klei: `
+Загружаемый контент: \\n
+\\n
+<i>{0}</i>`,
 },
 {
 	msgctxt: "STRINGS.RESEARCH.TECHS.ANIMALCOMFORT.DESC",
@@ -15212,7 +20338,7 @@ It can be assigned basic building tasks and digging duties in hazardous environm
 	msgctxt: "STRINGS.ROBOTS.MODELS.MORB.NAME",
 	msgid: `Biobot`,
 	msgstr: ``,
-	klei: `Биобот`,
+	klei: `<link=\\"STORYTRAITMORBROVER\\">Биобот</link>`,
 },
 {
 	msgctxt: "STRINGS.ROBOTS.STATS.INTERNALBIOBATTERY.NAME",
@@ -15344,7 +20470,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.NAME",
 	msgid: `Plumbed wash station`,
 	msgstr: ``,
-	klei: `Станция для мытья с водопроводом`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSWASHSTATION\\">Станция для мытья с водопроводом</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.BEDTYPE.DESCRIPTION",
@@ -15374,7 +20500,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.BED_SINGLE.NAME",
 	msgid: `Single <link=\\"BUILDINGCATEGORYREQUIREMENTCLASSBEDTYPE\\">beds</link>`,
 	msgstr: ``,
-	klei: `Односпальная кровать`,
+	klei: `Односпальные <link=\\"BUILDCATEGORYREQUIREMENTCLASSBEDTYPE\\">кровати</link>`,
 	mem: [
 		{
 			msgid: `Single bed`,
@@ -15386,7 +20512,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.NAME",
 	msgid: `Positive <link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">decor</link>`,
 	msgstr: ``,
-	klei: `Положительный уровень декора`,
+	klei: `Положительный уровень <link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">декора</link>`,
 	mem: [
 		{
 			msgid: `Positive decor`,
@@ -15398,7 +20524,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.CLINIC.NAME",
 	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSCLINIC\\">Medical equipment</link>`,
 	msgstr: ``,
-	klei: `Медицинское оборудование`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSCLINIC\\">Медицинское оборудование</link>`,
 	mem: [
 		{
 			msgid: `Medical equipment`,
@@ -15434,7 +20560,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.NAME",
 	msgid: `<link=\\"CREATUREFEEDER\\">Critter Feeder</link>`,
 	msgstr: ``,
-	klei: `Кормушка для существа`,
+	klei: `<link=\\"CREATUREFEEDER\\">Кормушка для существа</link>`,
 	mem: [
 		{
 			msgid: `Critter Feeder`,
@@ -15446,25 +20572,25 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.DECOR20.DESCRIPTION",
 	msgid: `Requires a decorative item with a minimum Decor value of {0}`,
 	msgstr: ``,
-	klei: `Требуется декоративный предмет, значение декора для которого будет не меньше {0}`,
+	klei: `Требуется декоративный предмет, значение декора для которого будет не меньше 20`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.DECOR20.NAME",
 	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">Decor item</link>: +{0} Decor`,
 	msgstr: ``,
-	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">Предмет декора</link>: +{0} декора`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">Стильный предмет декора</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.DECORATION.NAME",
 	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">Decor Item</link>`,
 	msgstr: ``,
-	klei: `Предмет декора`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">Предмет декора</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.NAME",
 	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">Decor item</link> ({0})`,
 	msgstr: ``,
-	klei: `Предмет декора ({0})`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">Предмет декора</link> ({0})`,
 	mem: [
 		{
 			msgid: `Decor item ({0})`,
@@ -15510,7 +20636,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.NAME",
 	msgid: `Flush Toilet`,
 	msgstr: ``,
-	klei: `Спускание туалета`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSFLUSHTOILETTYPE\\">Туалет со смывом</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.HAS_BED.DESCRIPTION",
@@ -15522,7 +20648,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.HAS_BED.NAME",
 	msgid: `One or more <link=\\"BUILDINGCATEGORYREQUIREMENTCLASSBEDTYPE\\">beds</link>`,
 	msgstr: ``,
-	klei: `Одна или несколько кроватей`,
+	klei: `Одна или несколько <link=\\"BUILDCATEGORYREQUIREMENTCLASSBEDTYPE\\">кроватей</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.DESCRIPTION",
@@ -15534,19 +20660,19 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.NAME",
 	msgid: `One or more <link=\\"LUXURYBED\\">Comfy Beds</link>`,
 	msgstr: ``,
-	klei: `Одна или несколько удобных кроватей`,
+	klei: `Одна или несколько <link=\\"LUXURYBED\\">удобных кроватей</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.INDUSTRIALMACHINERY.NAME",
 	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSINDUSTRIALMACHINERY\\">Industrial machinery</link>`,
 	msgstr: ``,
-	klei: `Промышленное оборудование`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSINDUSTRIALMACHINERY\\">Промышленное оборудование</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.IN_CODE_ERROR",
 	msgid: `String Key Not Found: {0}`,
 	msgstr: ``,
-	klei: ``,
+	klei: `String Key not found: {0}`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.DESCRIPTION",
@@ -15600,7 +20726,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.NAME",
 	msgid: `<link=\\"MASSAGETABLE\\">Massage Table</link>`,
 	msgstr: ``,
-	klei: `Массажный стол`,
+	klei: `<link=\\"MASSAGETABLE\\">Массажный стол</link>`,
 	mem: [
 		{
 			msgid: `Massage Table`,
@@ -15624,7 +20750,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.NAME",
 	msgid: `<link=\\"DININGTABLE\\">Mess Tables</link>`,
 	msgstr: ``,
-	klei: `Столики для еды`,
+	klei: `<link=\\"DININGTABLE\\">Столики для еды</link>`,
 	mem: [
 		{
 			msgid: `Mess Tables`,
@@ -15636,7 +20762,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.NO_COTS.NAME",
 	msgid: `No <link=\\"BED\\">Cots</link>`,
 	msgstr: ``,
-	klei: `Нет коек`,
+	klei: `Нет <link=\\"BED\\">коек</link>`,
 	mem: [
 		{
 			msgid: `No Cots`,
@@ -15648,7 +20774,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.NAME",
 	msgid: `No <link=\\"BUILDCATEGORYREQUIREMENTCLASSINDUSTRIALMACHINERY\\">industrial machinery</link>`,
 	msgstr: ``,
-	klei: `Промышленное оборудование запрещено`,
+	klei: `Нет <link=\\"BUILDCATEGORYREQUIREMENTCLASSINDUSTRIALMACHINERY\\">промышленного оборудования</link>`,
 	mem: [
 		{
 			msgid: `No industrial machinery`,
@@ -15666,13 +20792,13 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.NAME",
 	msgid: `No <link=\\"LUXURYBED\\">Comfy Beds</link>`,
 	msgstr: ``,
-	klei: `Нет удобных кроватей`,
+	klei: `Нет <link=\\"LUXURYBED\\">удобных кроватей</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.NAME",
 	msgid: `No <link=\\"DININGTABLE\\">Mess Table</link>`,
 	msgstr: ``,
-	klei: `Нет столика для еды`,
+	klei: `Нет <link=\\"DININGTABLE\\">столика для еды</link>`,
 	mem: [
 		{
 			msgid: `No Mess Table`,
@@ -15684,7 +20810,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.NAME",
 	msgid: `No <link=\\"OUTHOUSE\\">Outhouses</link>`,
 	msgstr: ``,
-	klei: `Нет туалетных кабинок`,
+	klei: `Нет <link=\\"OUTHOUSE\\">туалетных кабинок</link>`,
 	mem: [
 		{
 			msgid: `No Outhouses`,
@@ -15720,13 +20846,13 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.DESCRIPTION",
 	msgid: `Requires a single Grooming Station, Critter Condo, Critter Fountain, Shearing Station or Milking Station`,
 	msgstr: ``,
-	klei: `Требуется одна станция существ, общежитие для существ, фонтанчик для существ или станция доения`,
+	klei: `Требуется одна станция существ, общежитие для существ, фонтанчик для существ, станция для стрижки или станция доения`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.NAME",
 	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSRANCHSTATIONTYPE\\">Ranching building</link>`,
 	msgstr: ``,
-	klei: `Строение для животноводства`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSRANCHSTATIONTYPE\\">Строение для животноводства</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.RECBUILDING.DESCRIPTION",
@@ -15738,13 +20864,13 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.RECBUILDING.NAME",
 	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSRECBUILDING\\">Recreational building</link>`,
 	msgstr: ``,
-	klei: `Строение для отдыха`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSRECBUILDING\\">Строение для отдыха</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.REFRIGERATOR.NAME",
 	msgid: `<link=\\"REFRIGERATOR\\">Refrigerator</link>`,
 	msgstr: ``,
-	klei: `Холодильник`,
+	klei: `<link=\\"REFRIGERATOR\\">Холодильник</link>`,
 	mem: [
 		{
 			msgid: `Refrigerator`,
@@ -15774,13 +20900,13 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.NAME",
 	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSSCIENCEBUILDING\\">Science building</link>`,
 	msgstr: ``,
-	klei: `Научное строение`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSSCIENCEBUILDING\\">Научное строение</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.SCIENCE_BUILDINGS.NAME",
 	msgid: `Two <link=\\"BUILDCATEGORYREQUIREMENTCLASSSCIENCEBUILDING\\">science buildings</link>`,
 	msgstr: ``,
-	klei: `Два научных строения`,
+	klei: `Два <link=\\"BUILDCATEGORYREQUIREMENTCLASSSCIENCEBUILDING\\">научных строения</link>`,
 	mem: [
 		{
 			msgid: `Two science buildings`,
@@ -15810,7 +20936,19 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.TOILETTYPE.NAME",
 	msgid: `Toilet`,
 	msgstr: ``,
-	klei: `Туалет`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\\">Туалет</link>`,
+},
+{
+	msgctxt: "STRINGS.ROOMS.CRITERIA.WARMINGSTATION.DESCRIPTION",
+	msgid: `Raises the ambient temperature`,
+	msgstr: ``,
+	klei: `Повышает температуру окружающей среды`,
+},
+{
+	msgctxt: "STRINGS.ROOMS.CRITERIA.WARMINGSTATION.NAME",
+	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSWARMINGSTATION\\">Warming Station</link>`,
+	msgstr: ``,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSWARMINGSTATION\\">Согревательная станция</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.WASHSTATION.DESCRIPTION",
@@ -15822,7 +20960,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 	msgctxt: "STRINGS.ROOMS.CRITERIA.WASHSTATION.NAME",
 	msgid: `Wash station`,
 	msgstr: ``,
-	klei: `Станция для мытья`,
+	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSWASHSTATION\\">Станция для мытья</link>`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.TYPES.BEDROOM.DESCRIPTION",
@@ -16313,6 +21451,56 @@ Duplicants recover even more stamina while sleeping in a Private Bedroom than in
 	],
 },
 {
+	msgctxt: "STRINGS.SUBWORLDS.CARROTQUARRY.DESC",
+	msgid: `The Cool Pool Biome's chilly landscape features plentiful <link=\\"ETHANOL\\">Ethanol</link> lakes, making it an excellent destination for a colony eager to gather fuel resources.`,
+	msgstr: ``,
+	klei: `Биом \\"Холодный бассейн\\" славится морозными пейзажами и <link=\\"ETHANOL\\">этаноловыми</link> озерами. Это прекрасное место назначения для колонии, которая хочет получить ресурсы для топлива.`,
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.CARROTQUARRY.NAME",
+	msgid: `Cool Pool`,
+	msgstr: ``,
+	klei: `Холодный бассейн`,
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.CARROTQUARRY.UTILITY",
+	msgid: `<link=\\"CARROTPLANT\\">Plume Squash</link> is a calorie-dense crop that thrives in <link=\\"OXYGEN\\">Oxygen</link>, <link=\\"CONTAMINATEDOXYGEN\\">Polluted Oxygen</link> and <link=\\"CARBONDIOXIDE\\">Carbon Dioxide</link> environments.\\n\\nThey make up the <link=\\"BELLYSPECIES\\">Bammoths'</link> entire diet. These gentle giants are a joy to ranch, <link=\\"MEAT\\">Meat</link>, <link=\\"PHOSPHORITE\\">Phosphorite</link>, <link=\\"CINNABARORE\\">Cinnabar Ore</link> and <link=\\"BASICFABRIC\\">Reed Fiber</link>.\\n\\nThe latter is of particular importance, as my Duplicants will need to wear warmly insulated clothing if they are to survive these low temperatures.\\n\\nInitial investigations also reveal an abundance of <link=\\"IRONORE\\">Iron Ore</link> and <link=\\"IGNEOUSROCK\\">Igneous Rock</link> in this <link=\\"OXYGEN\\">Oxygen</link>-rich environment, ideal for industrial projects.`,
+	msgstr: ``,
+	klei: `
+<link=\\"CARROTPLANT\\">Перьевая тыква</link> — калорийное растение, которому подходит <link=\\"OXYGEN\\">кислородная</link> среда, а также среда с <link=\\"CONTAMINATEDOXYGEN\\">загрязненным кислородом</link> и <link=\\"CARBONDIOXIDE\\">углекислым газом</link>.\\n
+\\n
+Диета <link=\\"BELLYSPECIES\\">крольмонта</link> полностью состоит из перьевых тыкв. Заботиться об этих добродушных гигантах — одно удовольствие, а к тому же способ получить <link=\\"MEAT\\">мясо</link>, <link=\\"PHOSPHORITE\\">апатит</link>, <link=\\"CINNABARORE\\">киноварь</link> и <link=\\"BASICFABRIC\\">тростневиковое волокно</link>.\\n
+\\n
+Последний пункт особенно важен, ведь, чтобы выжить в этих суровых морозах, моим дубликантам нужна теплая одежда с хорошей теплоизоляцией.\\n
+\\n
+По предварительным данным, в этой насыщенной <link=\\"OXYGEN\\">кислородом</link> среде также много <link=\\"IRONORE\\">железной руды</link> и <link=\\"IGNEOUSROCK\\">магматических пород</link>, которые послужат прекрасными материалами для промышленных проектов.`,
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.ICECAVES.DESC",
+	msgid: `The Ice Cave Biome's extremely low temperatures make thermal regulation the top priority.`,
+	msgstr: ``,
+	klei: `В условиях экстремально низких температур ледяного пещерного биома терморегуляция становится главной задачей.`,
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.ICECAVES.NAME",
+	msgid: `Ice Cave`,
+	msgstr: ``,
+	klei: `Ледяная пещера`,
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.ICECAVES.UTILITY",
+	msgid: `The below-freezing climate in this biome keeps elements frozen solid, but once a colony has established the means necessary to melt the abundant <link=\\"ICE\\">Ice</link> deposits, it should be able to produce enough <link=\\"WATER\\">Water</link> to meet its needs. Initial scans reveal the presence of <link=\\"CINNABAR\\">Cinnabar Ore</link> that can be used in <link=\\"POWER\\">Power</link> systems.\\n\\n<link=\\"STABLESNOW\\">Snow</link> is a readily available construction material. Note that its structural integrity may be undermined if surrounding areas become hot enough to trigger a state change.\\n\\n<link=\\"HARDSKINBERRY\\">Pikeapple Bushes</link> feed both Duplicants and the native <link=\\"WOODDEER\\">Flox</link>, a critter whose <link=\\"WOOD\\">Wood</link>, antlers offer a renewable source of fuel and attractive temperature-stable construction materials.\\n\\nAlthough pockets of <link=\\"OXYGEN\\">Oxygen</link> allow Duplicants to begin the work of colony-building in this biome, the key to long-term survival is the cultivation of <link=\\"BLUEGRASS\\">Alveo Vera</link> plants. They produce harvestable <link=\\"OXYROCK\\">Oxylite</link> and their beauty--much like that of the dreamy <link=\\"ICEFLOWER\\">Idylla Flower</link>--is a wonderful salve for existential dread.`,
+	msgstr: ``,
+	klei: `
+В невероятно холодном климате этого биома все вокруг замерзло до твердого состояния, но когда дубликантам удастся растопить повсеместные залежи <link=\\"ICE\\">льда</link>, <link=\\"WATER\\">воды</link> должно быть достаточно для поддержания колонии. Первичная разведка обнаружила здесь <link=\\"CINNABAR\\">киноварь</link>, которую можно использовать для создания <link=\\"POWER\\">энергетических</link> систем.\\n
+\\n
+<link=\\"STABLESNOW\\">Снег</link> — это строительный материал, который всегда под рукой. Стоит учесть, что строения могут оказаться под угрозой, если окружающая среда нагреется до достаточной степени, чтобы спровоцировать изменение агрегатного состояния этого вещества.\\n
+\\n
+<link=\\"HARDSKINBERRY\\">Шиплоневые кусты</link> дают плоды, которые могут использовать в пищу как дубликанты, так и <link=\\"WOODDEER\\">лисени</link> — местные существа с <link=\\"WOOD\\">деревянными</link> рогами. Рога лисеней могут стать источником возобновляемого топлива или температурно-стабильного строительного материала.\\n
+\\n
+Хотя в этом биоме есть <link=\\"OXYGEN\\">кислородные</link> участки, позволяющие дубликантам начать строительство колонии, секретом долгосрочного выживания в этих условиях является выращивание <link=\\"BLUEGRASS\\">алвео веры</link>. Дело в том, что это растение производит <link=\\"OXYROCK\\">кислолит</link>, который можно собрать. Как и невероятный <link=\\"ICEFLOWER\\">цветок идиллы</link>, оно очень красиво, поэтому служит чудесным лекарством от экзистенциального ужаса.`,
+},
+{
 	msgctxt: "STRINGS.SUBWORLDS.MAGMA.UTILITY",
 	msgid: `
 <link=\\"MAGMA\\">Magma</link> is source of extreme <link=\\"HEAT\\">Heat</link> which can be used to transform <link=\\"WATER\\">Water</link> in to <link=\\"STEAM\\">Steam</link> or <link=\\"CRUDEOIL\\">Crude Oil</link> into <link=\\"PETROLEUM\\">Petroleum</link>. In order to prevent the extreme temperatures of this biome invading other parts of my base, suitable insulation must be constructed using materials with high melting points like <link=\\"CERAMIC\\">Ceramic</link> or <link=\\"OBSIDIAN\\">Obsidian</link>.\\n
@@ -16372,9 +21560,9 @@ While the Radioactive Biome, and the Beetas contained within it, should be avoid
 	klei: `
 Если дубликанты собираются исследовать этот биом, им необходимы <link=\\"LEADSUIT\\">свинцовые костюмы</link>, поскольку <link=\\"RADIATIONSICKNESS\\">радиоактивные элементы</link> представляют постоянную опасность.\\n
 \\n
-<link=\\"BEE\\">Беты</link> опасны вдвойне, потому что они не только радиоактивны, но и очень агрессивны. Однако <link=\\"BEEHIVE\\">ульи</link> прирученных бет позволяют перерабатывать <link=\\"URANIUMORE\\">урановую руду</link> и превращать ее в <link=\\"ENRICHEDURANIUM\\">обогащенный уран</link>.\\n
+<link=\\"BEE\\">Беты</link> опасны вдвойне, потому что они не только радиоактивны, но и очень агрессивны. Если с ними совладать, <link=\\"BEEHIVE\\">ульи бет</link> позволяют перерабатывать <link=\\"URANIUMORE\\">урановую руду</link> и превращать ее в <link=\\"ENRICHEDURANIUM\\">обогащенный уран</link>.\\n
 \\n
-Без соответствующей защиты дубликантам категорически не рекомендуется заходить в радиоактивный биом, но колонии рано или поздно придется отправиться туда за ресурсами, без которых невозможна разработка технологий высокого уровня.`,
+Без соответствующей защиты дубликантам категорически не рекомендуется заходить в радиоактивный биом или взаимодействовать с бетами, но колонии рано или поздно придется отправиться туда за ресурсами, без которых невозможна разработка технологий высокого уровня.`,
 	mem: [
 		{
 			msgid: `
@@ -16391,6 +21579,29 @@ While the Radioactive Biome, and the Beetas contained within it, should be avoid
 Пока биом радиоактивен, и в нём живут ядерные пчёлы, необходимо избегать его любой ценой, пока дубликанты не обеспечены корректной защитой. Моей колонии придётся пробраться в этот биом, если мы собираемся изучать высокоуровневые ядерные технологии.`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.SUGARWOODS.DESC",
+	msgid: `The <link=\\"SNOW\\">snow</link>-laden Nectar Biome is home to the massive <link=\\"SPACETREE\\">Bonbon Gourd</link>. This complex plant produces <link=\\"SUGARWATER\\">Nectar</link>, which can be refined into <link=\\"SUCROSE\\">Sucrose</link> and <link=\\"STEAM\\">Steam</link>.`,
+	msgstr: ``,
+	klei: `В покрытом <link=\\"SNOW\\">снегом</link> нектарном биоме растут огромные <link=\\"SPACETREE\\">конфетные тыквы</link>. Это замысловатое растение производит <link=\\"SUGARWATER\\">нектар</link>, который можно переработать в <link=\\"SUCROSE\\">сахарозу</link> и <link=\\"STEAM\\">пар</link>.`,
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.SUGARWOODS.NAME",
+	msgid: `Nectar`,
+	msgstr: ``,
+	klei: `Нектар`,
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.SUGARWOODS.UTILITY",
+	msgid: `<link=\\"SEALSPECIES\\">Spigot Seals</link> consume this sweet liquid and produce <link=\\"ETHANOL\\">Ethanol</link> to shore up a colony's fuel supplies. Spigot Seal ranches also yield <link=\\"TALLOW\\">Tallow</link>, a greasy substance that can be used for  <link=\\"FOOD\\">Food</link> or refined into <link=\\"CRUDEOIL\\">Crude Oil</link> to support local <link=\\"POWER\\">Power</link> systems.\\n\\nBeneath the <link=\\"SNOW\\">Snow</link> and <link=\\"ICE\\">Ice</link> are generous deposits of solid <link=\\"MERCURY\\">Mercury</link>, a rare metal that can be liquefied for use in industrial cooling systems.\\n\\nThis biome is truly a sight to behold: in addition to the soft charm of the occasional <link=\\"ICEFLOWER\\">Idylla Flower</link>, there is something quite heartwarming about the way that the  <link=\\"LIGHTBUG\\">Shine Bugs'</link> glowing lights glitter on the frozen landscape.`,
+	msgstr: ``,
+	klei: `
+<link=\\"SEALSPECIES\\">Рогатые тюлени</link> поглощают эту сладкую жидкость и производят <link=\\"ETHANOL\\">этанол</link>, пополняющий запасы топлива колонии. Разведение рогатых тюленей также позволяет получить <link=\\"TALLOW\\">жир</link> — его можно употреблять в <link=\\"FOOD\\">пищу</link> или переработать в <link=\\"CRUDEOIL\\">неочищенную нефть</link>, которая необходима для местных <link=\\"POWER\\">энергетических</link> систем.\\n
+\\n
+Под <link=\\"SNOW\\">снегом</link> и <link=\\"ICE\\">льдом</link> скрываются богатые залежи твердой <link=\\"MERCURY\\">ртути</link>. Этот редкий металл можно разжижить и использовать в качестве промышленного охладителя.\\n
+\\n
+Это удивительно красивый биом: здесь можно встретить очаровательные нежные <link=\\"ICEFLOWER\\">цветы идиллы</link> и полюбоваться танцем <link=\\"LIGHTBUG\\">блестячков</link>, чей свет отражается в кристаллах снега и льда.`,
 },
 {
 	msgctxt: "STRINGS.SUBWORLDS.SWAMP.UTILITY",
@@ -16491,6 +21702,12 @@ The abundance of <link=\\"OXYGEN\\">Oxygen</link> found in the Wasteland Biome m
 	klei: `Мокрый пол`,
 },
 {
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.KETTLE_MELT_RATE",
+	msgid: `Melting Rate: {0}`,
+	msgstr: ``,
+	klei: `Скорость таяния: {0}`,
+},
+{
 	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH_TEMP",
 	msgid: `Shearable {Item}: {Amount} per {Time} ({TempMin} - {TempMax})`,
 	msgstr: ``,
@@ -16569,10 +21786,16 @@ Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill
 	],
 },
 {
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.EDIBLE_PLANT_INTERNAL_STORAGE",
+	msgid: `{0} of stored {1}`,
+	msgstr: ``,
+	klei: `{0} из хранящихся {1}`,
+},
+{
 	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FOOD_DEHYDRATOR_WATER_OUTPUT",
 	msgid: `This building dumps <link=\\"WATER\\">Water</link> on the floor while in use`,
 	msgstr: ``,
-	klei: `Во время работы это строение сбрасывает <link=\\"WATER\\">воду</link> прямо на пол`,
+	klei: `Во время работы это строение сбрасывает <style=\\"KKeyword\\">воду</style> прямо на пол`,
 },
 {
 	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION_GEOTUNED",
@@ -16629,6 +21852,24 @@ This includes its dormant period`,
 	klei: `Исследователь должен осмотреть этот гейзер, чтобы узнать его выработку`,
 },
 {
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.KETTLE_MELT_RATE",
+	msgid: `This building melts {0} of <style=\\"KKeyword\\">Ice</style> into {0} of cold ({1}) <style=\\"KKeyword\\">Water</style>\\n\\n<style=\\"KKeyword\\">Wood</style> consumption varies depending on the initial temperature of the <style=\\"KKeyword\\">Ice</style>`,
+	msgstr: ``,
+	klei: `
+Это строение превращает <style=\\"KKeyword\\">лед</style> ({0}) в холодную ({1}) <style=\\"KKeyword\\">воду</style> ({0})\\n
+\\n
+Потребление <style=\\"KKeyword\\">древесины</style> зависит от изначальной температуры <style=\\"KKeyword\\">льда</style>`,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SCALE_GROWTH_FED",
+	msgid: `This critter can be sheared every <b>{Time}</b> to produce <b>{Amount}</b> of <style=\\"KKeyword\\">{Item}</style>\\n\\nIt must be well fed to grow shearable <style=\\"KKeyword\\">{Item}</style>`,
+	msgstr: ``,
+	klei: `
+Это существо можно стричь раз в <b>{Time}</b>, чтобы получать: <b>{Amount}</b> х <style=\\"KKeyword\\">{Item}</style>\\n
+\\n
+<style=\\"KKeyword\\">{Item}</style> производится, только если хорошо кормить существо`,
+},
+{
 	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SCALE_GROWTH_TEMP",
 	msgid: `
 This critter can be sheared every <b>{Time}</b> to produce <style=\\"produced\\">{Amount}</style> of <style=\\"KKeyword\\">{Item}</style>\\n
@@ -16661,6 +21902,46 @@ It must eat food between {TempMin}-{TempMax} to regrow sheared <style=\\"KKeywor
 Оно должно употреблять пищу с температурой {TempMin}-{TempMax}, чтобы снова отрастить <style=\\"KKeyword\\">{Item}</style>`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNSTABLEENTOMBDEFENSEOFF",
+	msgid: `This entity's ability to unentomb itself from <style=\\"KKeyword\\">Unstable</style> elements is currently disabled`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNSTABLEENTOMBDEFENSEREACTING",
+	msgid: `This entity is actively attempting to unentomb itself from <style=\\"KKeyword\\">Unstable</style> elements`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNSTABLEENTOMBDEFENSEREADY",
+	msgid: `This entity is equipped with the ability to unentomb itself from <style=\\"KKeyword\\">Unstable</style> elements`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNSTABLEENTOMBDEFENSETHREATENED",
+	msgid: `This entity is building up the strength to unentomb itself from <style=\\"KKeyword\\">Unstable</style> elements`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.UNSTABLEENTOMBDEFENSEOFF",
+	msgid: `Entomb Defense: Off`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.UNSTABLEENTOMBDEFENSEREACTING",
+	msgid: `Entomb Defense: Reacting`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.UNSTABLEENTOMBDEFENSEREADY",
+	msgid: `Entomb Defense: Armed`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.UNSTABLEENTOMBDEFENSETHREATENED",
+	msgid: `Entomb Defense: Threatened`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.BUILDMENU.CLEAR_SEARCH_TOOLTIP",
@@ -16703,6 +21984,37 @@ It must eat food between {TempMin}-{TempMax} to regrow sheared <style=\\"KKeywor
 	msgid: `<link=\\"BUILDINGMATERIALCLASSES\\">Building Materials</link>`,
 	msgstr: ``,
 	klei: `<link=\\"BUILDINGMATERIALCLASSES\\">Строительные материалы</link>`,
+},
+{
+	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.FLOODEDDIAGNOSTIC.ALL_NAME",
+	msgid: `FLooded`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.FLOODEDDIAGNOSTIC.BUILDING_FLOODED",
+	msgid: `    • One or more buildings are flooded`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.FLOODEDDIAGNOSTIC.CRITERIA.CHECKFLOODED",
+	msgid: `Check flooded`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.FLOODEDDIAGNOSTIC.NORMAL",
+	msgid: `    • No buildings are flooded`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.FLOODEDDIAGNOSTIC.TOOLTIP_NAME",
+	msgid: `<b>Flooded</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.IDLEDIAGNOSTIC.CRITERIA.CHECKIDLESEVERE",
+	msgid: `Use high severity idle warning`,
+	msgstr: ``,
+	klei: `Выдать суперсуровое предупреждение бездельникам`,
 },
 {
 	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.ALL_NAME",
@@ -16762,7 +22074,7 @@ It must eat food between {TempMin}-{TempMax} to regrow sheared <style=\\"KKeywor
 	msgctxt: "STRINGS.UI.CRASHSCREEN.REPORTEDERROR_SUCCESS",
 	msgid: `Reported Error`,
 	msgstr: ``,
-	klei: `Отправлен отчет об ошибке`,
+	klei: `Спасибо, что сообщили об ошибке.`,
 },
 {
 	msgctxt: "STRINGS.UI.CRASHSCREEN.UPLOADINPROGRESS",
@@ -16783,6 +22095,60 @@ Please submit a bug report at:\\n
 \\n
 Пожалуйста, сообщите об ошибке по ссылке:\\n
 <u>https://forums.kleientertainment.com/klei-bug-tracker/oni</u>`,
+},
+{
+	msgctxt: "STRINGS.UI.DETAILTABS.CONFIGURATION.NAME",
+	msgid: `Config`,
+	msgstr: ``,
+	klei: `Конфигурация`,
+},
+{
+	msgctxt: "STRINGS.UI.DETAILTABS.CONFIGURATION.TOOLTIP",
+	msgid: `<b>Config</b>\\nView and change filters, recipes, production orders and more`,
+	msgstr: ``,
+	klei: `
+<b>Конфигурация</b>\\n
+Просматривайте и изменяйте фильтры, рецепты, производственные заказы и др.`,
+},
+{
+	msgctxt: "STRINGS.UI.DETAILTABS.COSMETICS.NAME",
+	msgid: `Blueprint`,
+	msgstr: ``,
+	klei: `Схема`,
+},
+{
+	msgctxt: "STRINGS.UI.DETAILTABS.COSMETICS.TOOLTIP",
+	msgid: `<b>Blueprint</b>\\nView and change assigned blueprints`,
+	msgstr: ``,
+	klei: `
+<b>Схема</b>\\n
+Просматривайте и изменяйте назначенные схемы`,
+},
+{
+	msgctxt: "STRINGS.UI.DETAILTABS.MATERIAL.BUTTON_CHANGE_MATERIAL",
+	msgid: `Change Material`,
+	msgstr: ``,
+	klei: `Изменить материал`,
+},
+{
+	msgctxt: "STRINGS.UI.DETAILTABS.MATERIAL.NAME",
+	msgid: `Material`,
+	msgstr: ``,
+	klei: `Материал`,
+},
+{
+	msgctxt: "STRINGS.UI.DETAILTABS.MATERIAL.SUB_HEADER_CURRENT_MATERIAL",
+	msgid: `CURRENT MATERIAL`,
+	msgstr: ``,
+	klei: `ТЕКУЩИЙ МАТЕРИАЛ`,
+},
+{
+	msgctxt: "STRINGS.UI.DETAILTABS.MATERIAL.TOOLTIP",
+	msgid: `<b>Material</b>\\nView and change this building's construction material`,
+	msgstr: ``,
+	klei: `
+<b>Материал</b>\\n
+Посмотрите и измените материал этого строения`,
 },
 {
 	msgctxt: "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_EFFECTS",
@@ -16807,6 +22173,31 @@ Please submit a bug report at:\\n
 	msgid: `No meteor showers forecasted`,
 	msgstr: ``,
 	klei: `Метеоритных дождей не ожидается`,
+},
+{
+	msgctxt: "STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.BODY",
+	msgid: `You're about to opt in to the beta for <b>The Frosty Planet Pack</b> DLC.\\nThis free beta is a work in progress, and will be discontinued before the paid DLC is released. \\n\\nAre you sure you want to opt in?`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.CONTINUEBUTTON",
+	msgid: `Play Beta`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.FORUMBUTTON",
+	msgid: `More Information`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.QUITBUTTON",
+	msgid: `Quit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.TITLE",
+	msgid: `<b>Welcome to Oxygen Not Included</b>`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.BODY",
@@ -16889,6 +22280,24 @@ Are you sure you want to opt in?`,
 	],
 },
 {
+	msgctxt: "STRINGS.UI.DLC2.MIXING_TOOLTIP",
+	msgid: `<b>The Frosty Planet Pack</b> features frozen biomes and elements useful in thermal regulation`,
+	msgstr: ``,
+	klei: `<b>В набор \\"Ледяная планета\\"</b> входят замерзшие биомы и элементы, необходимые для терморегуляции`,
+},
+{
+	msgctxt: "STRINGS.UI.DLC2.NAME",
+	msgid: `The Frosty Planet Pack`,
+	msgstr: ``,
+	klei: `Набор \\"Ледяная планета\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.DLC2.NAME_ITAL",
+	msgid: `<i>The Frosty Planet Pack</i>`,
+	msgstr: ``,
+	klei: `<i>Набор \\"Ледяная планета\\"</i>`,
+},
+{
 	msgctxt: "STRINGS.UI.FACADE_SELECTION_PANEL.HEADER",
 	msgid: `Select Blueprint`,
 	msgstr: ``,
@@ -16904,7 +22313,7 @@ Are you sure you want to opt in?`,
 	msgctxt: "STRINGS.UI.FACADE_SELECTION_PANEL.STORE_BUTTON_TOOLTIP",
 	msgid: `More Blueprints`,
 	msgstr: ``,
-	klei: `Больше схем`,
+	klei: `Больше схем в кладовке`,
 	mem: [
 		{
 			msgid: `More Facades`,
@@ -16969,6 +22378,108 @@ Less emphasis on space travel.`,
 	],
 },
 {
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_DLC_HEADER",
+	msgid: `DLC Content`,
+	msgstr: ``,
+	klei: `Загружаемый контент`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_NO_OPTIONS",
+	msgid: `No additional content currently available for remixing. Don't worry, there's plenty of weirdness already baked in.`,
+	msgstr: ``,
+	klei: `В данный момент нет дополнительного содержимого, которое доступно для смешения. Не волнуйтесь, здесь и так много всякой всячины.`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_SETTINGS_HEADER",
+	msgid: `Scramble DLCs`,
+	msgstr: ``,
+	klei: `Смешать дополнения`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_SUBWORLDMIXING_HEADER",
+	msgid: `Biome Remix`,
+	msgstr: ``,
+	klei: `Смешение биомов`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_ASTEROID_MIXING",
+	msgid: `Asteroid remixing modifies which asteroids appear on the starmap`,
+	msgstr: ``,
+	klei: `Смешение астероидов определяет, какие астероиды появляются на звездной карте`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_BIOME_MIXING",
+	msgid: `Biome remixing modifies which biomes will be included across all asteroids`,
+	msgstr: ``,
+	klei: `Смешение биомов определяет, какие биомы доступны среди всех астероидов`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_CANNOT_START",
+	msgid: `Cannot start a new game with current asteroid and biome remix configuration`,
+	msgstr: ``,
+	klei: `Невозможно начать новую игру с текущими настройками смешения астероидов и биомов`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_DLC_CONTENT",
+	msgid: `This content is from {0}`,
+	msgstr: ``,
+	klei: `Источник: {0}`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_LOCKED_REQUIRE_DLC_NOT_ENABLED",
+	msgid: `This setting requires the following content to be enabled:\\n{0}`,
+	msgstr: ``,
+	klei: `
+Для этой настройки необходимо включить следующее содержимое:\\n
+{0}`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_LOCKED_START_NOT_SUPPORTED",
+	msgid: `This destination does not support changing this setting`,
+	msgstr: ``,
+	klei: `С выбранным местом назначения невозможно изменить данную настройку`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_MODDED_SETTING",
+	msgid: `<i><color=#d6d6d6>This setting was added by a mod</color></i>`,
+	msgstr: ``,
+	klei: `<i><color=#d6d6d6>Эта настройка добавлена модом</color></i>`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_TOO_MANY_GUARENTEED_ASTEROID_MIXINGS",
+	msgid: `Asteroid remixing modifies which asteroids appear on the starmap\\n\\nMaximum of {1} guaranteed asteroid remixes allowed\\n\\nTotal currently selected: {0}`,
+	msgstr: ``,
+	klei: `
+Смешение астероидов определяет, какие астероиды появляются на звездной карте\\n
+\\n
+Доступно не более {1} гарантированных смешений астероидов\\n
+\\n
+Выбрано всего: {0}`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_TOO_MANY_GUARENTEED_BIOME_MIXINGS",
+	msgid: `Biome remixing modifies which biomes will be included across all asteroids\\n\\nMaximum of {1} guaranteed biome remixes allowed\\n\\nTotal currently selected: {0}`,
+	msgstr: ``,
+	klei: `
+Смешение биомов определяет, какие биомы доступны среди всех астероидов\\n
+\\n
+Доступно не более {1} гарантированных смешений биомов\\n
+\\n
+Выбрано всего: {0}`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_WARNING",
+	msgid: `Choose additional content to remix into the game. Scrambling realities may cause cosmic collapse.`,
+	msgstr: ``,
+	klei: `Выберите дополнительное содержимое, которое вы хотите добавить в игру. Смешение реальностей может привести к космическому коллапсу.`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_WORLDMIXING_HEADER",
+	msgid: `Asteroid Remix`,
+	msgstr: ``,
+	klei: `Смешение астероидов`,
+},
+{
 	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP_DISABLED",
 	msgid: `This world's seed is predetermined. It cannot be changed`,
 	msgstr: ``,
@@ -16997,6 +22508,33 @@ Consider lowering the number of story traits or changing the selected asteroid</
 Уменьшите количество сюжетных черт или смените стартовый астероид</color>`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DLC_MIXING.LEVELS.DISABLED.NAME",
+	msgid: `Disabled`,
+	msgstr: ``,
+	klei: `Отключено`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DLC_MIXING.LEVELS.DISABLED.TOOLTIP",
+	msgid: `Content from this DLC is currently <b>disabled</b>`,
+	msgstr: ``,
+	klei: `Содержимое этого дополнения сейчас <b>отключено</b>`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DLC_MIXING.LEVELS.ENABLED.NAME",
+	msgid: `Enabled`,
+	msgstr: ``,
+	klei: `Включено`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DLC_MIXING.LEVELS.ENABLED.TOOLTIP",
+	msgid: `Content from this DLC is currently <b>enabled</b>\\n\\nThis includes Care Packages and space POIs`,
+	msgstr: ``,
+	klei: `
+Содержимое этого дополнения сейчас <b>включено</b>\\n
+\\n
+Оно включает в себя посылки и космические точки`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.METEORSHOWERS.LEVELS.CLEAR_SKIES.NAME",
@@ -17071,10 +22609,100 @@ Consider lowering the number of story traits or changing the selected asteroid</
 	klei: `Настраивает интенсивность приближающихся метеоритов.`,
 },
 {
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.DISABLED.NAME",
+	msgid: `Disabled`,
+	msgstr: ``,
+	klei: `Отключено`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.DISABLED.TOOLTIP",
+	msgid: `This biome will not be mixed into any world`,
+	msgstr: ``,
+	klei: `Этот биом не будет добавлен ни в один из миров`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.DISABLED.TOOLTIP_BASEGAME",
+	msgid: `This biome will not be mixed in`,
+	msgstr: ``,
+	klei: `Этот биом не будет добавлен`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.GUARANTEE_MIXING.NAME",
+	msgid: `Guaranteed`,
+	msgstr: ``,
+	klei: `Гарантия`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.GUARANTEE_MIXING.TOOLTIP",
+	msgid: `This biome will be mixed into a world, even if it causes a worldgen failure`,
+	msgstr: ``,
+	klei: `Этот биом будет добавлен в какой-то из миров, даже если это вызовет ошибку генерации мира`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.GUARANTEE_MIXING.TOOLTIP_BASEGAME",
+	msgid: `This biome will be mixed in, even if it causes a worldgen failure`,
+	msgstr: ``,
+	klei: `Этот биом будет добавлен, даже если это вызовет ошибку генерации мира`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.TRY_MIXING.NAME",
+	msgid: `Likely`,
+	msgstr: ``,
+	klei: `Вероятность`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.TRY_MIXING.TOOLTIP",
+	msgid: `This biome is very likely to be mixed into a world`,
+	msgstr: ``,
+	klei: `Скорее всего, этот биом появится в каком-то из миров`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SUBWORLD_MIXING.LEVELS.TRY_MIXING.TOOLTIP_BASEGAME",
+	msgid: `This biome is very likely to be mixed in`,
+	msgstr: ``,
+	klei: `Скорее всего, этот биом появится`,
+},
+{
 	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLDGEN_SEED.FIXEDSEED",
 	msgid: `This is a predetermined seed, and cannot be changed`,
 	msgstr: ``,
 	klei: `Это начальное число мира определено заранее, его нельзя изменить`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_MIXING.LEVELS.DISABLED.NAME",
+	msgid: `Disabled`,
+	msgstr: ``,
+	klei: `Отключено`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_MIXING.LEVELS.DISABLED.TOOLTIP",
+	msgid: `This asteroid will not be mixed in`,
+	msgstr: ``,
+	klei: `Этот астероид не появится`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_MIXING.LEVELS.GUARANTEE_MIXING.NAME",
+	msgid: `Guaranteed`,
+	msgstr: ``,
+	klei: `Гарантия`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_MIXING.LEVELS.GUARANTEE_MIXING.TOOLTIP",
+	msgid: `This asteroid will be mixed in, even if it causes worldgen failure`,
+	msgstr: ``,
+	klei: `Этот астероид будет добавлен, даже если это вызовет ошибку генерации мира`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_MIXING.LEVELS.TRY_MIXING.NAME",
+	msgid: `Likely`,
+	msgstr: ``,
+	klei: `Вероятность`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_MIXING.LEVELS.TRY_MIXING.TOOLTIP",
+	msgid: `This asteroid is very likely to be mixed in`,
+	msgstr: ``,
+	klei: `Скорее всего, этот астероид появится`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.CAMERA_SPEED_LABEL",
@@ -17167,6 +22795,26 @@ Consider lowering the number of story traits or changing the selected asteroid</
 	],
 },
 {
+	msgctxt: "STRINGS.UI.FRONTEND.LOADSCREEN.TOOLTIP_SAVE_INCOMPATABLE_DLC_CONFIGURATION",
+	msgid: `This save was created with a different DLC configuration. To play on this save please:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.LOADSCREEN.TOOLTIP_SAVE_INCOMPATABLE_DLC_CONFIGURATION_ASK_TO_DISABLE",
+	msgid: `    • Disable {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.LOADSCREEN.TOOLTIP_SAVE_INCOMPATABLE_DLC_CONFIGURATION_ASK_TO_ENABLE",
+	msgid: `    • Enable {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.LOADSCREEN.TOOLTIP_SAVE_USES_DLC",
+	msgid: `{0} save`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION",
 	msgid: `<b><color=#F44A47FF>This save file is from a previous version of the game and is no longer supported.</color></b>`,
 	msgstr: ``,
@@ -17191,10 +22839,22 @@ Consider lowering the number of story traits or changing the selected asteroid</
 	],
 },
 {
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_TOOLTIP",
+	msgid: `Click to activate the <i>Spaced Out!</i> DLC`,
+	msgstr: ``,
+	klei: `Нажмите, чтобы включить дополнение <i>Spaced Out!</i>`,
+},
+{
 	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.AD_DLC1",
 	msgid: `Spaced Out! DLC`,
 	msgstr: ``,
 	klei: `Spaced Out! DLC`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_TOOLTIP",
+	msgid: `Click to deactivate the <i>Spaced Out!</i> DLC`,
+	msgstr: ``,
+	klei: `Нажмите, чтобы отключить дополнение <i>Spaced Out!</i>`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.KLEIINVENTORY",
@@ -17207,6 +22867,11 @@ Consider lowering the number of story traits or changing the selected asteroid</
 	msgid: `SUPPLY CLOSET`,
 	msgstr: ``,
 	klei: `КЛАДОВКА`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.WISHLIST_AD",
+	msgid: `Wishlist now`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION",
@@ -17369,6 +23034,12 @@ Game may be unstable until then.`,
 	],
 },
 {
+	msgctxt: "STRINGS.UI.FRONTEND.MOD_EVENTS.DOWNLOAD_FAILED",
+	msgid: `STEAM DOWNLOAD FAILED`,
+	msgstr: ``,
+	klei: `ОШИБКА ЗАГРУЗКИ STEAM`,
+},
+{
 	msgctxt: "STRINGS.UI.FRONTEND.MOD_EVENTS.EXPECTED_DISABLED",
 	msgid: `NEWLY ENABLED`,
 	msgstr: ``,
@@ -17391,6 +23062,12 @@ Game may be unstable until then.`,
 			msgstr: `НЕ ВКЛЮЧЕНО`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.DOWNLOAD_FAILED",
+	msgid: `Steam failed to download the mod`,
+	msgstr: ``,
+	klei: `Steam не удалось загрузить мод`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_SPACESCANNERS",
@@ -17527,6 +23204,16 @@ This may prevent the game from saving.`,
 {0}.\\n
 \\n
 Возможно, игра не будет сохранена.`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FAILURE_MIXING",
+	msgid: `A problem occurred while trying to mix a world from this seed:\\n{0}.\\n\\nUnfortunately, not all seeds germinate. Please try again with different mixing settings or a different seed.`,
+	msgstr: ``,
+	klei: `
+Во время смешения мира по этому коду произошла ошибка:\\n
+{0}.\\n
+\\n
+К сожалению, не все семена прорастают. Пожалуйста, повторите попытку, изменив код или настройки смешения.`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.RANDOM_BUTTON_TOOLTIP",
@@ -18021,6 +23708,17 @@ One copy of this blueprint will be removed from my colony's supply closet.`,
 	klei: `Эту схему можно использовать для любого наряда.`,
 },
 {
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION",
+	msgid: `Part of {Collection} collection.`,
+	msgstr: ``,
+	klei: `Входит в коллекцию \\"{Collection}\\".`,
+},
+{
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_COMING_SOON",
+	msgid: `Part of {Collection} collection. Coming soon!`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.COLUMN_HEADERS.CATEGORY_HEADER",
 	msgid: `BLUEPRINTS`,
 	msgstr: ``,
@@ -18186,13 +23884,25 @@ One copy of this blueprint will be removed from my colony's supply closet.`,
 	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_FOOD",
 	msgid: `Culinary`,
 	msgstr: ``,
-	klei: `Кулинария`,
+	klei: `Готовка`,
 },
 {
 	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_INDUSTRIAL",
 	msgid: `Industrial`,
 	msgstr: ``,
 	klei: `Промышленное`,
+},
+{
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_PRINTING_POD",
+	msgid: `Printing Pods`,
+	msgstr: ``,
+	klei: `Печатные станки`,
+},
+{
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_RANCHING",
+	msgid: `Agricultural`,
+	msgstr: ``,
+	klei: `Агрономия`,
 },
 {
 	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_RECREATION",
@@ -18205,6 +23915,12 @@ One copy of this blueprint will be removed from my colony's supply closet.`,
 	msgid: `Storage`,
 	msgstr: ``,
 	klei: `Хранение`,
+},
+{
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_WASHROOM",
+	msgid: `Sanitation`,
+	msgstr: ``,
+	klei: `Санитария`,
 },
 {
 	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_LANDSCAPE",
@@ -18291,6 +24007,12 @@ One copy of this blueprint will be removed from my colony's supply closet.`,
 	klei: `Обычные перчатки`,
 },
 {
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_GLOVES_FORMAL",
+	msgid: `Fancy Gloves`,
+	msgstr: ``,
+	klei: `Модные перчатки`,
+},
+{
 	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_GLOVES_PRINTS",
 	msgid: `Specialty Gloves`,
 	msgstr: ``,
@@ -18331,6 +24053,12 @@ One copy of this blueprint will be removed from my colony's supply closet.`,
 	msgid: `Dresses and Bodysuits`,
 	msgstr: ``,
 	klei: `Платья и комбинезоны`,
+},
+{
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_FANCY",
+	msgid: `Specialty Tops`,
+	msgstr: ``,
+	klei: `Особенная одежда для верха`,
 },
 {
 	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_JACKET",
@@ -18643,6 +24371,11 @@ Existing item unlocks can still be used while Data Communication is disabled.`,
 	msgid: `OVERJOYED RESPONSE`,
 	msgstr: ``,
 	klei: `СВЕРХРАДОСТНАЯ РЕАКЦИЯ`,
+},
+{
+	msgctxt: "STRINGS.UI.MINION_BROWSER_SCREEN.TOOLTIP_FROM_DLC",
+	msgid: `This Duplicant is part of {0} DLC`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.NEWBUILDCATEGORIES.ADVANCED.BUILDMENUTITLE",
@@ -19553,6 +25286,12 @@ Control`,
 	klei: `Атмонаряд \\"Конфетти\\"`,
 },
 {
+	msgctxt: "STRINGS.UI.OUTFITS.ATMOSUIT_CUBIST.NAME",
+	msgid: `Cubist Atmo Outfit`,
+	msgstr: ``,
+	klei: `Атмокостюм \\"Кубизм\\"`,
+},
+{
 	msgctxt: "STRINGS.UI.OUTFITS.ATMOSUIT_LIMONE.NAME",
 	msgid: `Citrus Atmo Outfit`,
 	msgstr: ``,
@@ -19599,6 +25338,12 @@ Control`,
 	msgid: `Red Glitter Atmo Outfit`,
 	msgstr: ``,
 	klei: `Красный атмонаряд с блестками`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.ATMOSUIT_SPIFFY.NAME",
+	msgid: `Spiffy Atmo Outfit`,
+	msgstr: ``,
+	klei: `Нарядный атмокостюм`,
 },
 {
 	msgctxt: "STRINGS.UI.OUTFITS.BALLET.NAME",
@@ -19667,6 +25412,126 @@ Control`,
 	klei: `Наряд мецената`,
 },
 {
+	msgctxt: "STRINGS.UI.OUTFITS.DOWNTIME.NAME",
+	msgid: `Downtime Outfit`,
+	msgstr: ``,
+	klei: `Наряд для отдыха`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_BLACK.NAME",
+	msgid: `Monochrome Flannel Outfit`,
+	msgstr: ``,
+	klei: `Черно-серый фланелевый наряд`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_BLUE_MIDDLE.NAME",
+	msgid: `Scrub Flannel Outfit`,
+	msgstr: ``,
+	klei: `Черно-голубой фланелевый наряд`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_GREEN.NAME",
+	msgid: `Swampy Flannel Outfit`,
+	msgstr: ``,
+	klei: `Болотный фланелевый наряд`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_ORANGE.NAME",
+	msgid: `Cadmium Flannel Outfit`,
+	msgstr: ``,
+	klei: `Кадмиевый фланелевый наряд`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_PINK_ORCHID.NAME",
+	msgid: `Flare Flannel Outfit`,
+	msgstr: ``,
+	klei: `Черно-розовый фланелевый наряд`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_PURPLE.NAME",
+	msgid: `Fusion Flannel Outfit`,
+	msgstr: ``,
+	klei: `Фланелевый наряд \\"Фьюжн\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_RED.NAME",
+	msgid: `Classic Flannel Outfit`,
+	msgstr: ``,
+	klei: `Классический фланелевый наряд`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_WHITE.NAME",
+	msgid: `White Flannel Outfit`,
+	msgstr: ``,
+	klei: `Белый фланелевый наряд`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.FLANNEL_YELLOW.NAME",
+	msgid: `Flax Flannel Outfit`,
+	msgstr: ``,
+	klei: `Фланелевый наряд \\"Желтый лен\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_BILE.NAME",
+	msgid: `Yellowcake Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Белье: урановый концентрат\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_CORTEX.NAME",
+	msgid: `Dusk Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Сумеречное белье\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_FROSTY.NAME",
+	msgid: `Frostbasin Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Льдистое белье\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_GLUON.NAME",
+	msgid: `Frilly Saltrock Outfit`,
+	msgstr: ``,
+	klei: `Наряд с рюшами \\"Солевая лампа\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_GOOP.NAME",
+	msgid: `Leachy Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Белье: вымывание\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_IRONBOW.NAME",
+	msgid: `Magma Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Магмовое белье\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_LOCUS.NAME",
+	msgid: `Balmy Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Белье: бальзам\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_NYBBLE.NAME",
+	msgid: `Atomic Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Атомное белье\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_OBELUS.NAME",
+	msgid: `Charcoal Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Угольное белье\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.GINCH_PHLEGM.NAME",
+	msgid: `Slate Undies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Графитное белье\\"`,
+},
+{
 	msgctxt: "STRINGS.UI.OUTFITS.GONCHIES_BLUEBERRY.NAME",
 	msgid: `Admin Undies Outfit`,
 	msgstr: ``,
@@ -19707,6 +25572,12 @@ Control`,
 	msgid: `Synergy Undies Outfit`,
 	msgstr: ``,
 	klei: `Наряд \\"Белье для сотрудничества\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.HIVIS.NAME",
+	msgid: `Hi-Vis Outfit`,
+	msgstr: ``,
+	klei: `Светоотражающий наряд`,
 },
 {
 	msgctxt: "STRINGS.UI.OUTFITS.JELLYPUFF_BLUEBERRY.NAME",
@@ -19751,6 +25622,12 @@ Control`,
 	klei: `Арбузный желевик: наряд`,
 },
 {
+	msgctxt: "STRINGS.UI.OUTFITS.LUCKY.NAME",
+	msgid: `Lucky Jammies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Везучая пижама\\"`,
+},
+{
 	msgctxt: "STRINGS.UI.OUTFITS.MECHANIC.NAME",
 	msgid: `Engineer Coveralls`,
 	msgstr: ``,
@@ -19763,6 +25640,24 @@ Control`,
 	klei: `Наряд \\"Исследовательское белье\\"`,
 },
 {
+	msgctxt: "STRINGS.UI.OUTFITS.PAJAMAS_SNOW.NAME",
+	msgid: `Crystal-Iced Jammies`,
+	msgstr: ``,
+	klei: `Пижама со снежинкой`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.POLKADOT_TRACKSUIT.NAME",
+	msgid: `Polka Dot Tracksuit`,
+	msgstr: ``,
+	klei: `Спортивный костюм в крапинку`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.POMPOM_SHINEBUGS_PINK_PEPPERNUT.NAME",
+	msgid: `Pom Bug Outfit`,
+	msgstr: ``,
+	klei: `Наряд с помпонами-жуками`,
+},
+{
 	msgctxt: "STRINGS.UI.OUTFITS.REBELGI.NAME",
 	msgid: `Rebel Gi Outfit`,
 	msgstr: ``,
@@ -19773,6 +25668,24 @@ Control`,
 	msgid: `PhD Dress Outfit`,
 	msgstr: ``,
 	klei: `Научный наряд`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.SNOWFLAKE_BLUE.NAME",
+	msgid: `Crystal-Iced Outfit`,
+	msgstr: ``,
+	klei: `Наряд со снежинкой`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.SUPERSTAR.NAME",
+	msgid: `Superstar Outfit`,
+	msgstr: ``,
+	klei: `Наряд суперзведы`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.SWEETHEART.NAME",
+	msgid: `Sweetheart Jammies Outfit`,
+	msgstr: ``,
+	klei: `Наряд \\"Возлюбленная пижама\\"`,
 },
 {
 	msgctxt: "STRINGS.UI.OUTFITS.TWEED_PINK_ORCHID.NAME",
@@ -19809,6 +25722,18 @@ Control`,
 	msgid: `HVAC Coveralls`,
 	msgstr: ``,
 	klei: `Теплохладотехнический комбинезон`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.X1_PINCHAPEPPERNUTBELLS.NAME",
+	msgid: `Pinchabell Outfit`,
+	msgstr: ``,
+	klei: `Наряд с перечными бубенцами`,
+},
+{
+	msgctxt: "STRINGS.UI.OUTFITS.X_SPORCHID.NAME",
+	msgid: `Sporefest Outfit`,
+	msgstr: ``,
+	klei: `Спорный наряд`,
 },
 {
 	msgctxt: "STRINGS.UI.OUTFIT_BROWSER_SCREEN.TOOLTIP_FILTER_BY_ATMO_SUITS",
@@ -19877,6 +25802,54 @@ Working in well lit areas improves Duplicant <style=\\"KKeyword\\">Morale</style
 Работа при хорошем освещении увеличивает производительность дубликантов`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.OVERLAYS.RELATIVETEMPERATURE.BUTTON",
+	msgid: `Relative Temperature Overlay`,
+	msgstr: ``,
+	klei: `Относительная температурная схема`,
+},
+{
+	msgctxt: "STRINGS.UI.OVERLAYS.RELATIVETEMPERATURE.HOVERTITLE",
+	msgid: `RELATIVE TEMPERATURE`,
+	msgstr: ``,
+	klei: `ОТНОСИТЕЛЬНАЯ ТЕМПЕРАТУРА`,
+},
+{
+	msgctxt: "STRINGS.UI.OVERLAYS.RELATIVETEMPERATURE.NAME",
+	msgid: `RELATIVE TEMPERATURE`,
+	msgstr: ``,
+	klei: `ОТНОСИТЕЛЬНАЯ ТЕМПЕРАТУРА`,
+},
+{
+	msgctxt: "STRINGS.UI.OVERLAYS.TEMPERATURE.DEFAULT_TEMPERATURE_BUTTON",
+	msgid: `Default`,
+	msgstr: ``,
+	klei: `По умолчанию`,
+},
+{
+	msgctxt: "STRINGS.UI.OVERLAYS.TEMPERATURE.HEATSINK",
+	msgid: `Heat Sink`,
+	msgstr: ``,
+	klei: `Поглощение тепла`,
+},
+{
+	msgctxt: "STRINGS.UI.OVERLAYS.TEMPERATURE.HEATSOURCES",
+	msgid: `Heat Source`,
+	msgstr: ``,
+	klei: `Источник тепла`,
+},
+{
+	msgctxt: "STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.HEATSINK",
+	msgid: `Elements displaying this symbol can absorb heat`,
+	msgstr: ``,
+	klei: `Элементы с этим символом поглощают тепло`,
+},
+{
+	msgctxt: "STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.HEATSOURCES",
+	msgid: `Elements displaying this symbol can produce heat`,
+	msgstr: ``,
+	klei: `Элементы с этим символом вырабатывают тепло`,
 },
 {
 	msgctxt: "STRINGS.UI.PERMIT_RARITY.COMMON",
@@ -20005,6 +25978,48 @@ Working in well lit areas improves Duplicant <style=\\"KKeyword\\">Morale</style
 	klei: `Создайте свои сюжетные особенности {Hotkey}`,
 },
 {
+	msgctxt: "STRINGS.UI.SPACEARTIFACTS.FOUNTAINPEN.ARTIFACT",
+	msgid: `The handcrafted gold nib features a triangular logo with the letters V and I inside.\\n\\nIts owner was too proud to report it stolen, and would be shocked to learn of its whereabouts.`,
+	msgstr: ``,
+	klei: `
+Золотое перо ручной работы, на котором можно рассмотреть треугольный логотип с буквами V и I.\\n
+\\n
+Предыдущий владелец был слишком горд и не стал сообщать о краже, когда перо пропало. Он бы удивился, узнав, где оно оказалось.`,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEARTIFACTS.FOUNTAINPEN.DESCRIPTION",
+	msgid: `It cuts through red tape better than a sword ever could.`,
+	msgstr: ``,
+	klei: `Помогает в борьбе против бюрократии лучше, чем самый острый меч.`,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEARTIFACTS.FOUNTAINPEN.NAME",
+	msgid: `Fountain Pen`,
+	msgstr: ``,
+	klei: `Перьевая ручка`,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEARTIFACTS.PLASTICFLOWERS.ARTIFACT",
+	msgid: `Manufactured and sold by a home staging company hired by Gravitas to \\"make Space feel more like home.\\"\\n\\nThis bouquet is designed to smell like freshly baked cookies.`,
+	msgstr: ``,
+	klei: `
+Производится и продается интерьерной компанией по заказу Gravitas, чтобы \\"сделать космос уютнее\\".\\n
+\\n
+Букет с ароматом печенья, только что вынутого из духовки.`,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEARTIFACTS.PLASTICFLOWERS.DESCRIPTION",
+	msgid: `Maintenance-free blooms that will outlast us all.`,
+	msgstr: ``,
+	klei: `За этими бутонами не нужен уход, но они переживут любого из нас.`,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEARTIFACTS.PLASTICFLOWERS.NAME",
+	msgid: `Plastic Flowers`,
+	msgstr: ``,
+	klei: `Пластиковые цветы`,
+},
+{
 	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.BLEACHSTONE.DESCRIPTION",
 	msgid: `A shower of bleach stone meteors on a collision course with the surface of an asteroid.`,
 	msgstr: ``,
@@ -20063,6 +26078,18 @@ Working in well lit areas improves Duplicant <style=\\"KKeyword\\">Morale</style
 	msgid: `Ice Meteor Shower`,
 	msgstr: ``,
 	klei: `Ледяной метеоритный дождь`,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.ICEANDTREES.DESCRIPTION",
+	msgid: `A hailstorm of sweet, icy space rocks on a collision course with the surface of an asteroid`,
+	msgstr: ``,
+	klei: `Град из сладких ледяных космических камней на пути к столкновению с поверхностью астероида.`,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.ICEANDTREES.NAME",
+	msgid: `Icy Nectar Meteor Shower`,
+	msgstr: ``,
+	klei: `Ледяной нектарный метеоритный дождь`,
 },
 {
 	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.IRON.DESCRIPTION",
@@ -20305,6 +26332,12 @@ Its origins and purpose are currently unknown, though a <link=\\"CLUSTERTELESCOP
 	klei: `Снежный метеорит`,
 },
 {
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.COMETS.SPACETREESEEDCOMET.NAME",
+	msgid: `Bonbon Meteor`,
+	msgstr: ``,
+	klei: `Конфетный метеорит`,
+},
+{
 	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.COMETS.URANIUMORECOMET.NAME",
 	msgid: `Uranium Meteor`,
 	msgstr: ``,
@@ -20315,6 +26348,36 @@ Its origins and purpose are currently unknown, though a <link=\\"CLUSTERTELESCOP
 			msgstr: `Урановая комета`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC2CERESFIELD.DESC",
+	msgid: `An asteroid field containing <link=\\"CINNABAR\\">Cinnabar</link>, <link=\\"ICE\\">Ice</link> and <link=\\"MERCURY\\">Mercury</link>.\\n\\nHarvesting resources requires a rocket equipped with a <link=\\"NOSECONEHARVEST\\">Drillcone</link>.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC2CERESFIELD.NAME",
+	msgid: `Ceres Debris Field`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC2CERESOREFIELD.DESC",
+	msgid: `An asteroid field containing <link=\\"CINNABAR\\">Cinnabar</link>, <link=\\"ICE\\">Ice</link> and <link=\\"MERCURY\\">Mercury</link>.\\n\\nHarvesting resources requires a rocket equipped with a <link=\\"NOSECONEHARVEST\\">Drillcone</link>.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC2CERESOREFIELD.NAME",
+	msgid: `Ceres Ore Field`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.PLANETS.DLC2CERESSPACEDESTINATION.DESCRIPTION",
+	msgid: `A cold place.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.PLANETS.DLC2CERESSPACEDESTINATION.NAME",
+	msgid: `Ceres`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.NONE",
@@ -20435,6 +26498,11 @@ This rocket has a <link=\\"NOSECONEHARVEST\\">Drillcone</link> installed but now
 	klei: `В процессе: <color=#5FDB37FF>(усиление)</color>`,
 },
 {
+	msgctxt: "STRINGS.UI.TOOLS.CAPITALS",
+	msgid: `<uppercase>{0}</uppercase>`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.TOOLS.DISCONNECT.NAME",
 	msgid: `Disconnect`,
 	msgstr: ``,
@@ -20457,6 +26525,460 @@ This rocket has a <link=\\"NOSECONEHARVEST\\">Drillcone</link> installed but now
 	msgid: `Sever conduits and connectors {Hotkey}`,
 	msgstr: ``,
 	klei: `Отключить проводники и разъемы: {Hotkey}`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ABSOLUTETEMPERATURE.NAME",
+	msgid: `Absolute Temperature`,
+	msgstr: ``,
+	klei: `Абсолютная температура`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ABSOLUTETEMPERATURE.TOOLTIP",
+	msgid: `<b>Absolute Temperature</b>\\nView the default temperature ranges and categories relative to absolute zero`,
+	msgstr: ``,
+	klei: `
+<b>Абсолютная температура</b>\\n
+Посмотрите температурные интервалы по умолчанию, а также температурные категории относительно абсолютного нуля`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ADAPTIVETEMPERATURE.NAME",
+	msgid: `Adapt. Temperature`,
+	msgstr: ``,
+	klei: `Адапт. температура`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ADAPTIVETEMPERATURE.TOOLTIP",
+	msgid: ``,
+	msgstr: ``,
+	klei: ``,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.AGRICULTURE.NAME",
+	msgid: `Agriculture`,
+	msgstr: ``,
+	klei: `Агрономия`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.AGRICULTURE.TOOLTIP",
+	msgid: ``,
+	msgstr: ``,
+	klei: ``,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ALL.NAME",
+	msgid: `All`,
+	msgstr: ``,
+	klei: `Все`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ALL.TOOLTIP",
+	msgid: `Target all`,
+	msgstr: ``,
+	klei: `Выбрать все`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ALL_OVERLAY.NAME",
+	msgid: `All`,
+	msgstr: ``,
+	klei: `Все`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ALL_OVERLAY.TOOLTIP",
+	msgid: `Show all`,
+	msgstr: ``,
+	klei: `Показать все`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK.NAME",
+	msgid: `Attack`,
+	msgstr: ``,
+	klei: `Атака`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK.TOOLTIP",
+	msgid: ``,
+	msgstr: ``,
+	klei: ``,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL.NAME",
+	msgid: `Background Buildings`,
+	msgstr: ``,
+	klei: `Строения на заднем плане`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL.TOOLTIP",
+	msgid: `Background buildings only`,
+	msgstr: ``,
+	klei: `Только строения на заднем плане`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.BREATHABLE.NAME",
+	msgid: `Breathable Gas`,
+	msgstr: ``,
+	klei: `Пригодный для дыхания газ`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.BREATHABLE.TOOLTIP",
+	msgid: `Show only breathable gases`,
+	msgstr: ``,
+	klei: `Показывать только газы, подходящие для дыхания`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDABLE.NAME",
+	msgid: `Mineral`,
+	msgstr: ``,
+	klei: `Минерал`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDABLE.TOOLTIP",
+	msgid: `Show only minerals`,
+	msgstr: ``,
+	klei: `Показывать только минералы`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS.NAME",
+	msgid: `Buildings`,
+	msgstr: ``,
+	klei: `Строения`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS.TOOLTIP",
+	msgid: `All buildings`,
+	msgstr: ``,
+	klei: `Все строения`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.CLEAN.NAME",
+	msgid: `Cleaning`,
+	msgstr: ``,
+	klei: `Уборка`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.CLEAN.TOOLTIP",
+	msgid: `Target cleaning errands only`,
+	msgstr: ``,
+	klei: `Выбрать только поручения на уборку`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR.NAME",
+	msgid: `Sweep & Mop Orders`,
+	msgstr: ``,
+	klei: `Приказы подмести и вытереть`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR.TOOLTIP",
+	msgid: `Sweep and mop orders only`,
+	msgstr: ``,
+	klei: `Только приказы подмести и вытереть`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.CONSTRUCTION.NAME",
+	msgid: `Construction`,
+	msgstr: ``,
+	klei: `Строительство`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.CONSTRUCTION.TOOLTIP",
+	msgid: `Target <style=\\"KKeyword\\">Construction</style> errands only`,
+	msgstr: ``,
+	klei: `Выбрать только поручения на <style=\\"KKeyword\\">строительство</style>`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.CONSUMABLEORE.NAME",
+	msgid: `Consumable Ore`,
+	msgstr: ``,
+	klei: `Расходуемая руда`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.CONSUMABLEORE.TOOLTIP",
+	msgid: `Show only consumable ore`,
+	msgstr: ``,
+	klei: `Показывать только расходуемую руду`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.DIG.NAME",
+	msgid: `Digging`,
+	msgstr: ``,
+	klei: `Копание`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.DIG.TOOLTIP",
+	msgid: `Target <style=\\"KKeyword\\">Digging</style> errands only`,
+	msgstr: ``,
+	klei: `Выбрать только поручения на <style=\\"KKeyword\\">рытье</style>`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER.NAME",
+	msgid: `Dig Orders`,
+	msgstr: ``,
+	klei: `Приказы копать`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER.TOOLTIP",
+	msgid: `Dig orders only`,
+	msgstr: ``,
+	klei: `Только приказы копать`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST.NAME",
+	msgid: `Disable Harvest`,
+	msgstr: ``,
+	klei: `Не собирать урожай`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST.TOOLTIP",
+	msgid: `Disable harvest on selected plants`,
+	msgstr: ``,
+	klei: `Отключить сбор урожая с выбранных растений`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.FARMABLE.NAME",
+	msgid: `Cultivable Soil`,
+	msgstr: ``,
+	klei: `Пахотная земля`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.FARMABLE.TOOLTIP",
+	msgid: `Show only cultivable soil`,
+	msgstr: ``,
+	klei: `Показывать только пахотную землю`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.FILTER.NAME",
+	msgid: `Filtration Medium`,
+	msgstr: ``,
+	klei: `Фильтрующий материал`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.FILTER.TOOLTIP",
+	msgid: `Show only filtration mediums`,
+	msgstr: ``,
+	klei: `Показывать только фильтрующие материалы`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.GAS.NAME",
+	msgid: `Gas`,
+	msgstr: ``,
+	klei: `Газ`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.GAS.TOOLTIP",
+	msgid: `Show only gases`,
+	msgstr: ``,
+	klei: `Показывать только газы`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES.NAME",
+	msgid: `Gas Pipes`,
+	msgstr: ``,
+	klei: `Трубы для газа`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES.TOOLTIP",
+	msgid: `Gas pipes only`,
+	msgstr: ``,
+	klei: `Только трубы для газа`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY.NAME",
+	msgid: `Enable Harvest`,
+	msgstr: ``,
+	klei: `Собирать урожай`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY.TOOLTIP",
+	msgid: `Enable harvest on selected plants`,
+	msgstr: ``,
+	klei: `Включить сбор урожая с выбранных растений`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.HEATFLOW.NAME",
+	msgid: `Thermal Tolerance`,
+	msgstr: ``,
+	klei: `Температурная устойчивость`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.HEATFLOW.TOOLTIP",
+	msgid: `<b>Thermal Tolerance</b>\\nView the impact of ambient temperatures on living beings`,
+	msgstr: ``,
+	klei: `
+<b>Температурная устойчивость</b>\\n
+Посмотрите, как температура среды влияет на живых существ`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUID.NAME",
+	msgid: `Liquid`,
+	msgstr: ``,
+	klei: `Жидкость`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUID.TOOLTIP",
+	msgid: `Show only liquids`,
+	msgstr: ``,
+	klei: `Показывать только жидкости`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES.NAME",
+	msgid: `Liquid Pipes`,
+	msgstr: ``,
+	klei: `Трубы для жидкости`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES.TOOLTIP",
+	msgid: `Liquid pipes only`,
+	msgstr: ``,
+	klei: `Только трубы для жидкости`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIFIABLE.NAME",
+	msgid: `Liquefiable`,
+	msgstr: ``,
+	klei: `Плавкое`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIFIABLE.TOOLTIP",
+	msgid: `Show only liquefiable elements`,
+	msgstr: ``,
+	klei: `Показывать только плавкие элементы`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.LOGIC.NAME",
+	msgid: `Automation`,
+	msgstr: ``,
+	klei: `Автоматизация`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.LOGIC.TOOLTIP",
+	msgid: `Automation buildings only`,
+	msgstr: ``,
+	klei: `Только строения для автоматизации`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.METAL.NAME",
+	msgid: `Metal`,
+	msgstr: ``,
+	klei: `Металл`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.METAL.TOOLTIP",
+	msgid: `Show only metals`,
+	msgstr: ``,
+	klei: `Показывать только металлы`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.MISC.NAME",
+	msgid: `Miscellaneous`,
+	msgstr: ``,
+	klei: `Разное`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.MISC.TOOLTIP",
+	msgid: `Show only miscellaneous elements`,
+	msgstr: ``,
+	klei: `Показывать только элементы из категории \\"Разное\\"`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.OPERATE.NAME",
+	msgid: `Duties`,
+	msgstr: ``,
+	klei: `Обязанности`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.OPERATE.TOOLTIP",
+	msgid: `Target general duties only`,
+	msgstr: ``,
+	klei: `Выбрать только общие обязанности`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ORGANICS.NAME",
+	msgid: `Organic`,
+	msgstr: ``,
+	klei: `Органика`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.ORGANICS.TOOLTIP",
+	msgid: `Show only organic materials`,
+	msgstr: ``,
+	klei: `Показывать только органические материалы`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.RELATIVETEMPERATURE.NAME",
+	msgid: `Relative Temperature`,
+	msgstr: ``,
+	klei: `Относительная температура`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.RELATIVETEMPERATURE.TOOLTIP",
+	msgid: `<b>Relative Temperature</b>\\nCustomize visual map to identify temperatures relative to a selected midpoint\\n\\nDrag the slider to adjust the relative temperature range`,
+	msgstr: ``,
+	klei: `
+<b>Относительная температура</b>\\n
+Настройте визуальную карту, чтобы видеть температуры в отношении выбранного значения\\n
+\\n
+Двигайте слайдер, чтобы обозначить интервал для относительных температур`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS.NAME",
+	msgid: `Conveyor Rails`,
+	msgstr: ``,
+	klei: `Рельсы конвейера`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS.TOOLTIP",
+	msgid: `Conveyor rails only`,
+	msgstr: ``,
+	klei: `Только рельсы конвейера`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.STATECHANGE.NAME",
+	msgid: `State Change`,
+	msgstr: ``,
+	klei: `Изменение состояния`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.STATECHANGE.TOOLTIP",
+	msgid: `<b>State Change</b>\\nView the impact of ambient temperatures on element states`,
+	msgstr: ``,
+	klei: `
+<b>Изменение состояния</b>\\n
+Посмотрите, как температура среды влияет на состояния элементов`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.TILES.NAME",
+	msgid: `Tiles`,
+	msgstr: ``,
+	klei: `Клетки`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.TILES.TOOLTIP",
+	msgid: `Tiles only`,
+	msgstr: ``,
+	klei: `Только клетки`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.UNBREATHABLE.NAME",
+	msgid: `Unbreathable Gas`,
+	msgstr: ``,
+	klei: `Непригодный для дыхания газ`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.UNBREATHABLE.TOOLTIP",
+	msgid: `Show only unbreathable gases`,
+	msgstr: ``,
+	klei: `Показывать только газы, неподходящие для дыхания`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES.NAME",
+	msgid: `Power Wires`,
+	msgstr: ``,
+	klei: `Провода`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES.TOOLTIP",
+	msgid: `Power wires only`,
+	msgstr: ``,
+	klei: `Только электропровода`,
 },
 {
 	msgctxt: "STRINGS.UI.TOOLS.PLACE.TOOLACTION",
@@ -20527,6 +27049,12 @@ This rocket has a <link=\\"NOSECONEHARVEST\\">Drillcone</link> installed but now
 	klei: `Сюжетная особенность`,
 },
 {
+	msgctxt: "STRINGS.UI.TOOLTIPS.CHANGE_MATERIAL",
+	msgid: `Change this building's construction material`,
+	msgstr: ``,
+	klei: `Измените материал этого строения`,
+},
+{
 	msgctxt: "STRINGS.UI.TOOLTIPS.CHANGE_OUTFIT",
 	msgid: `Change this Duplicant's outfit`,
 	msgstr: ``,
@@ -20537,6 +27065,27 @@ This rocket has a <link=\\"NOSECONEHARVEST\\">Drillcone</link> installed but now
 			msgstr: `Изменить вид дубликанта`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.TOOLTIPS.OPEN_RESOURCE_INFO",
+	msgid: `{0} of {1} available for the Duplicants on this asteroid to use\\n\\nClick to open Resources menu`,
+	msgstr: ``,
+	klei: `
+Нажмите, чтобы открыть в меню ресурсов.\\n
+\\n
+Дубликантам этого астероида доступно: {0} из {1}.`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SPACETREE_ILLUMINATION_DARK",
+	msgid: `This plant must be lit in order to produce <style=\\"KKeyword\\">Nectar</style>`,
+	msgstr: ``,
+	klei: `Для производства <style=\\"KKeyword\\">нектара</style> этому растению требуется свет.`,
+},
+{
+	msgctxt: "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SPACETREE_ILLUMINATION_LIGHT",
+	msgid: `This plant is currently lit, and will produce <style=\\"KKeyword\\">Nectar</style> when fully grown`,
+	msgstr: ``,
+	klei: `Это растение в данный момент освещается. Полностью созрев, оно начнет производить <style=\\"KKeyword\\">нектар</style>.`,
 },
 {
 	msgctxt: "STRINGS.UI.UISIDESCREENS.ARTABLESELECTIONSIDESCREEN.BUTTON",
@@ -20573,6 +27122,30 @@ Creates errand for a skilled Duplicant to paint selected style`,
 Создать поручение для опытного дубликанта для применения выбранного дизайна`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BLUEPRINT_TAB.EDIT_OUTFIT_BUTTON",
+	msgid: `Restyle`,
+	msgstr: ``,
+	klei: `Изменить`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BLUEPRINT_TAB.SUBCATEGORY_ATMOSUIT",
+	msgid: `Atmo Suit`,
+	msgstr: ``,
+	klei: `Атмокостюм`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BLUEPRINT_TAB.SUBCATEGORY_JOYRESPONSE",
+	msgid: `Overjoyed`,
+	msgstr: ``,
+	klei: `Сверхрадость`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BLUEPRINT_TAB.SUBCATEGORY_OUTFIT",
+	msgid: `Clothing`,
+	msgstr: ``,
+	klei: `Одежда`,
 },
 {
 	msgctxt: "STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.ACTIVATE_IF",
@@ -20687,6 +27260,12 @@ Will interrupt a Duplicant working on revealing a new <style=\\"KKeyword\\">Star
 	klei: `Настройки`,
 },
 {
+	msgctxt: "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.DRIEDFOOD",
+	msgid: `Dried Food`,
+	msgstr: ``,
+	klei: `Высушенная еда`,
+},
+{
 	msgctxt: "STRINGS.UI.UISIDESCREENS.GEOTUNERSIDESCREEN.GEOTUNER_LIMIT_TOOLTIP",
 	msgid: `This geyser cannot be targeted by more <style=\\"KKeyword\\">Geotuners</style>`,
 	msgstr: ``,
@@ -20709,6 +27288,43 @@ Will interrupt a Duplicant working on revealing a new <style=\\"KKeyword\\">Star
 			msgstr: `Базовая  {BASE}`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.NAME",
+	msgid: `Errands`,
+	msgstr: ``,
+	klei: `Поручения`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP",
+	msgid: `<b>Errands</b>\\nView current and upcoming errands`,
+	msgstr: ``,
+	klei: `
+<b>Поручения</b>\\n
+Просматривайте текущие и предстоящие поручения`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.NOCONFIG.LABEL",
+	msgid: `There is no configuration available for this object.`,
+	msgstr: ``,
+	klei: `Для этого объекта нет доступных настроек.`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.NOCONFIG.TITLE",
+	msgid: `No configuration`,
+	msgstr: ``,
+	klei: `Нет настроек`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANT_TOGGLE_TOOLTIP",
+	msgid: `{0}\\n\\n{1}\\n\\n<b>{2}</b> seeds available.`,
+	msgstr: ``,
+	klei: `
+Доступно семян: {0}\\n
+\\n
+{1}\\n
+\\n
+<b>{2}</b>`,
 },
 {
 	msgctxt: "STRINGS.UI.UISIDESCREENS.ROCKETRESTRICTIONSIDESCREEN.TITLE",
@@ -20819,6 +27435,30 @@ Will interrupt a Duplicant working on revealing a new <style=\\"KKeyword\\">Star
 	klei: `Выбранное существо`,
 },
 {
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TABS.CONFIGURATION",
+	msgid: `Config`,
+	msgstr: ``,
+	klei: `Конфигурация`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TABS.HEADER",
+	msgid: `Options`,
+	msgstr: ``,
+	klei: `Настройки`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TABS.MATERIAL",
+	msgid: `Material`,
+	msgstr: ``,
+	klei: `Материал`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TABS.SKIN",
+	msgid: `Blueprint`,
+	msgstr: ``,
+	klei: `Схема`,
+},
+{
 	msgctxt: "STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.NO_SELECTED_ANALYSIS_TARGET",
 	msgid: `
 No analysis focus selected\\n
@@ -20889,16 +27529,62 @@ Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 	klei: `Отправляет <b><style=\\"logic_on\\">зеленый сигнал</style></b>, если <style=\\"KKeyword\\">температура</style> внутри опускается ниже <b>{0}</b>`,
 },
 {
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON_CRITTERS",
+	msgid: `All Critters`,
+	msgstr: ``,
+	klei: `Все существа`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON_CRITTERS_TOOLTIP",
+	msgid: `Allow storage of all eligible <style=\\"KKeyword\\">Critters</style>`,
+	msgstr: ``,
+	klei: `Разрешить размещение всех доступных <style=\\"KKeyword\\">существ</style>`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON_EDIBLES",
+	msgid: `All Edibles`,
+	msgstr: ``,
+	klei: `Все съедобное`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON_EDIBLES_TOOLTIP",
+	msgid: `Allow storage of all edible resources`,
+	msgstr: ``,
+	klei: `Разрешить хранение всех съедобных ресурсов`,
+},
+{
 	msgctxt: "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SEARCH_PLACEHOLDER",
 	msgid: `Search`,
 	msgstr: ``,
 	klei: `Поиск`,
 },
 {
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SPECIAL_RESOURCES",
+	msgid: `Non-Standard`,
+	msgstr: ``,
+	klei: `Нестандартное`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SPECIAL_RESOURCES_TOOLTIP",
+	msgid: `These objects may not be ideally suited to storage`,
+	msgstr: ``,
+	klei: `Возможно, эти предметы не совсем подходят для хранения`,
+},
+{
 	msgctxt: "STRINGS.UI.UNITSUFFIXES.TILES",
 	msgid: `Tiles`,
 	msgstr: ``,
 	klei: `Клетки`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.CANCELCARVE.NAME",
+	msgid: `Cancel Carve`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.CANCELCARVE.TOOLTIP",
+	msgid: `Cancel this carve order`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.USERMENUACTIONS.CANCELTRANSITTUBEWAX.NAME",
@@ -20911,6 +27597,16 @@ Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 	msgid: `Disables travel speed boost and refunds stored <link=\\"MILKFAT\\">Brackwax</link>`,
 	msgstr: ``,
 	klei: `Отменяет ускорение путешествия и восстанавливает <link=\\"MILKFAT\\">бракеновый воск</link>`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.CARVE.NAME",
+	msgid: `Carve`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.CARVE.TOOLTIP",
+	msgid: `Carve this rock to release the lumens`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.USERMENUACTIONS.CLOSESTORAGE.NAME",
@@ -20937,6 +27633,54 @@ Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 	klei: `Отменить поручение о закрытии`,
 },
 {
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.OPENPOI.ALREADY_RUMMAGED",
+	msgid: `Already Rummaged`,
+	msgstr: ``,
+	klei: `Обыск уже проведен`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.OPENPOI.TOOLTIP_ALREADYRUMMAGED",
+	msgid: `There are no usable materials left to find`,
+	msgstr: ``,
+	klei: `Все материалы, которые можно использовать, уже найдены`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.ALREADY_RUMMAGED",
+	msgid: `Already Unlocked`,
+	msgstr: ``,
+	klei: `Уже открыто`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.NAME",
+	msgid: `Unlock Research`,
+	msgstr: ``,
+	klei: `Открыть исследование`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.NAME_OFF",
+	msgid: `Cancel Unlock Research`,
+	msgstr: ``,
+	klei: `Отменить открытие исследования`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.TOOLTIP",
+	msgid: `Retrieve data stored in this building`,
+	msgstr: ``,
+	klei: `Получить данные, хранящиеся в строении`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.TOOLTIP_ALREADYRUMMAGED",
+	msgid: `All data has been accessed and recorded`,
+	msgstr: ``,
+	klei: `Доступ ко всем данным получен, вся информация записана`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.TOOLTIP_OFF",
+	msgid: `Cancel this research access order`,
+	msgstr: ``,
+	klei: `Отменить поручение об исследовательском доступе`,
+},
+{
 	msgctxt: "STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME",
 	msgid: `Move To`,
 	msgstr: ``,
@@ -20961,6 +27705,30 @@ Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 	klei: `Отменить перемещение этого объекта`,
 },
 {
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.RECONSTRUCT.CANCEL_RECONSTRUCT",
+	msgid: `Cancel Rebuild Order`,
+	msgstr: ``,
+	klei: `Отменить повторное строительство`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.RECONSTRUCT.CANCEL_RECONSTRUCT_TOOLTIP",
+	msgid: `Cancel deconstruction and rebuilding of this building`,
+	msgstr: ``,
+	klei: `Отмените разрушение и повторное возведение этого строения`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.RECONSTRUCT.REQUEST_RECONSTRUCT",
+	msgid: `Order Rebuild`,
+	msgstr: ``,
+	klei: `Повторное строительство`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.RECONSTRUCT.REQUEST_RECONSTRUCT_TOOLTIP",
+	msgid: `Deconstruct this building and rebuild it using the selected material`,
+	msgstr: ``,
+	klei: `Разрушьте это строение и возведите его повторно, используя выбранный материал`,
+},
+{
 	msgctxt: "STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.NAME",
 	msgid: `Enable Smooth Ride`,
 	msgstr: ``,
@@ -20971,6 +27739,17 @@ Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 	msgid: `Enables the use of <link=\\"MILKFAT\\">Brackwax</link> to boost travel speed`,
 	msgstr: ``,
 	klei: `Позволяет использовать <link=\\"MILKFAT\\">бракеновый воск</link> для ускорения путешествий`,
+},
+{
+	msgctxt: "STRINGS.UI.WELCOMEMESSAGEBODY_DLC2_CERES",
+	msgid: `The ambient temperatures of this planet are inhospitably low.\\n\\nI've detected the ruins of a scientifically advanced settlement buried deep beneath our landing site.\\n\\nIf my Duplicants can survive the journey into this frosty planet's core, we could use this newfound technology to build a colony like no other.`,
+	msgstr: ``,
+	klei: `
+На этой планете очень низкая температура. В таких условиях сложно находиться.\\n
+\\n
+Глубоко под нашим местом высадки мне удалось обнаружить руины научно-развитого поселения.\\n
+\\n
+Если моим дубликантам удастся пережить путешествие к морозному ядру этой планеты, эти технологии помогут нам построить несравненную колонию.`,
 },
 {
 	msgctxt: "STRINGS.UI.WELCOMEMESSAGEBODY_KF23",
@@ -20985,16 +27764,88 @@ I'll need to recalibrate my approach to colony-building in order to make the mos
 Мне необходимо изменить свой подход к обустройству колонии, чтобы извлечь максимум из столь необычного расположения ресурсов.`,
 },
 {
+	msgctxt: "STRINGS.WORLDGEN_MIXING.CERES.DESC",
+	msgid: `Enable care packages, space POIs, and buildings from <b>The Frosty Planet Pack</b>.`,
+	msgstr: ``,
+	klei: `Активировать посылки, космические точки и строения из набора <b>\\"Ледяная планета\\"</b>.`,
+},
+{
+	msgctxt: "STRINGS.WORLDGEN_MIXING.CERES.NAME",
+	msgid: `The Frosty Planet Pack`,
+	msgstr: ``,
+	klei: `Набор \\"Ледяная планета\\"`,
+},
+{
 	msgctxt: "STRINGS.WORLDS.BIGEMPTY.DESCRIPTION",
 	msgid: `A base game sized asteroid without biomes, perfect for Game Devs.`,
 	msgstr: ``,
-	klei: `Астероид стандартного размера без биомов, идеален для разработчиков.`,
+	klei: `Старая добрая космическая каменюка без биома — для разработчиков, страдающих клаустрофобией.`,
 },
 {
 	msgctxt: "STRINGS.WORLDS.BIGEMPTY.NAME",
 	msgid: `Big Empty FOR DEVS`,
 	msgstr: ``,
 	klei: `Большой и пустой ДЛЯ РАЗРАБОТЧИКОВ`,
+},
+{
+	msgctxt: "STRINGS.WORLDS.CERESBASEGAME.DESCRIPTION",
+	msgid: `A frosty location with sub-zero temperatures throughout.\\n\\n<smallcaps>Duplicants who work in Ceres's sub-zero temperatures will need to wear or build warming equipment. Abundant natural fuel sources could lead to a well-powered colony.</smallcaps>`,
+	msgstr: ``,
+	klei: `
+Морозная локация. Температура здесь никогда не поднимается выше нуля.\\n
+\\n
+<smallcaps>Дубликантам, работающим в холодных условиях Цереры, придется носить или создавать согревающее снаряжение. Здесь достаточно природных ресурсов, которые могут послужить топливом и обеспечить колонию энергией.</smallcaps>`,
+},
+{
+	msgctxt: "STRINGS.WORLDS.CERESBASEGAME.NAME",
+	msgid: `Ceres`,
+	msgstr: ``,
+	klei: `Церера`,
+},
+{
+	msgctxt: "STRINGS.WORLDS.CERESCLASSIC.DESCRIPTION",
+	msgid: `A frosty starting world with sub-zero temperatures throughout.\\n\\n<smallcaps>Duplicants who work in Ceres's sub-zero temperatures will need to wear or build warming equipment. Abundant natural fuel sources could lead to a well-powered colony.</smallcaps>`,
+	msgstr: ``,
+	klei: `
+Морозный мир, с которого можно начать приключение. Температура здесь никогда не поднимается выше нуля.\\n
+\\n
+<smallcaps>Дубликантам, работающим в холодных условиях Цереры, придется носить или создавать согревающее снаряжение. Здесь достаточно природных ресурсов, которые могут послужить топливом и обеспечить колонию энергией.</smallcaps>`,
+},
+{
+	msgctxt: "STRINGS.WORLDS.CERESCLASSIC.NAME",
+	msgid: `Ceres`,
+	msgstr: ``,
+	klei: `Церера`,
+},
+{
+	msgctxt: "STRINGS.WORLDS.CERESMIXING.DESCRIPTION",
+	msgid: `A fragment of a frosty starting world with sub-zero temperatures throughout.\\n\\n<smallcaps>Duplicants who work in sub-zero temperatures will need to wear or build warming equipment. Abundant natural fuel sources could lead to a well-powered colony.</smallcaps>`,
+	msgstr: ``,
+	klei: `
+Морозный мир, с которого можно начать приключение. Температура здесь никогда не поднимается выше нуля.\\n
+\\n
+<smallcaps>Дубликантам, работающим в холодных условиях Цереры, придется носить или создавать согревающее снаряжение. Здесь достаточно природных ресурсов, которые могут послужить топливом и обеспечить колонию энергией.</smallcaps>`,
+},
+{
+	msgctxt: "STRINGS.WORLDS.CERESMIXING.NAME",
+	msgid: `Ceres Fragment`,
+	msgstr: ``,
+	klei: `Церера`,
+},
+{
+	msgctxt: "STRINGS.WORLDS.CERESSPACEDOUT.DESCRIPTION",
+	msgid: `A smaller frosty starting world with sub-zero temperatures throughout.\\n\\n<smallcaps>Duplicants who work in Ceres's sub-zero temperatures will need to wear or build warming equipment. Abundant natural fuel sources could lead to a well-powered colony.</smallcaps>`,
+	msgstr: ``,
+	klei: `
+Небольшой морозный мир, с которого можно начать приключение. Температура здесь никогда не поднимается выше нуля.\\n
+\\n
+<smallcaps>Дубликантам, работающим в холодных условиях Цереры, придется носить или создавать согревающее снаряжение. Здесь достаточно природных ресурсов, которые могут послужить топливом и обеспечить колонию энергией.</smallcaps>`,
+},
+{
+	msgctxt: "STRINGS.WORLDS.CERESSPACEDOUT.NAME",
+	msgid: `Ceres`,
+	msgstr: ``,
+	klei: `Церера`,
 },
 {
 	msgctxt: "STRINGS.WORLDS.NIOBIUMMOONLET.DESCRIPTION",
