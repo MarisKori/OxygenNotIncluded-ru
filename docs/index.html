@@ -253,7 +253,7 @@ function DoModal(html, _uid) {
     }, 100);
   }); */
 }
-function CloseModal(result) { console.log("CloseModal()")
+function CloseModal(result) { //console.log("CloseModal()")
 	if (!IS_MODAL) return console.log('err: закрытие модального окна, когда оно не открыто');
 	RESULT_MODEL = result;
 	IS_MODAL = false;
@@ -609,10 +609,12 @@ function Show() { //console.log("Show()")
 					if (acc.length && acc[acc.length - 1][prop_to_act]) {
 						acc[acc.length - 1].value += item.value;
 					} else {
-						acc.push({ ...item });
+						//acc.push({ ...item });
+            acc.push(Object.assign({}, item));
 					}
 				} else {
-					acc.push({ ...item });
+					//acc.push({ ...item });
+          acc.push(Object.assign({}, item));
 				}
 				return acc;
 			}, []);
@@ -960,7 +962,7 @@ function SearchBlock() {
 	document.getElementById('search_str').addEventListener('keypress', function (e) {
     if (e.key === 'Enter') {
       // Действия, которые нужно выполнить при нажатии Enter
-			console.log('enter');
+			//console.log('enter');
       ButtonStartSearch();
     }
 	});
@@ -1072,7 +1074,7 @@ function ButtonStartSearch() {
 }
 
 
-
+console.log('UI loaded.');
 </script>
 </body>
 </html>
