@@ -7,6 +7,13 @@
 <script src="preview.js"></script>
 <title>ONI UI for translaters</title>
 <style>
+
+/* --- For Chrome 49 ---
+textarea.main {
+  height: 200px;
+}
+*/
+
 	body {
 		margin: 0;
 		padding: 0;
@@ -19,7 +26,7 @@
 	}
 	.header, .footer {
 		background-color: #151515;
-		color: #333;
+		color: #999;
 		text-align: center;
 		padding: 10px 0;
 		position: fixed;
@@ -63,7 +70,6 @@
 			color: #0f0;
 		}
 
-	
 	
 	button {
 	margin: 5px;
@@ -124,7 +130,7 @@
 .version {
 	padding:0;
 	margin:0;
-	font-size:10px;
+	font-size:12px;
 	position: relative;
 	top: -6px; /* Смещение на 5 пикселей вверх */
 }
@@ -192,7 +198,8 @@
 	<div class="header">
 		<button id="btnSettings">Настройки</button>
 		<button id="btnImport">Импорт</button>
-		<button id="btnExport">Сохр./Экспорт</button><br><span class="version">v0.05</span>
+		<button id="btnExport">Сохр./Экспорт</button><br>
+    <span class="version">v0.06</span>
 		<!--button>About</button>
 		<button>Contact</button-->
   <!-- Settings content -->
@@ -268,6 +275,7 @@ btn.onclick = function() {
 	DoModal('<p>'
 		+'<input type=checkbox id="settings_show_block_num"'+(SETTINGS.show_block_num?' checked':'')+'> Показывать номер блока в загловке<br>'
 		+'<input type=checkbox id="settings_is_short_h3"'+(SETTINGS.is_short_h3?' checked':'')+'> Укороченный заголовк (без STRINGS)<br>'
+    +'<input type=checkbox id="settings_is_autosave"'+(SETTINGS.is_autosave?' checked':'')+'> Автосохранение при смене блока<br>'
 		+'<button onclick="SettingsApply()">Принять</button>'
 		+'</p>'
 		+'<div class="help"><h4>Небольшая справка по клавишам</h4><ul style="text-align:left;">\n'
@@ -289,6 +297,7 @@ btn.onclick = function() {
 function SettingsApply() {
 	SETTINGS.show_block_num = document.querySelector('#settings_show_block_num').checked
 	SETTINGS.is_short_h3 = document.querySelector('#settings_is_short_h3').checked
+  SETTINGS.is_autosave = document.querySelector('#settings_is_autosave').checked
 	localStorage.settings = JSON.stringify(SETTINGS);
 	CloseModal()
 	Show()
@@ -308,6 +317,40 @@ function CheckShortKeyID(key) {
 	return key;
 }
 
+
+// Обновление блока с версией.
+var block_version = document.querySelector('.version')
+var block_version_imported = 0;
+var block_version_edited = 0;
+var block_version_saved_time = '';
+var is_started_as_edited = false;
+const VERSION = block_version.innerHTML;
+function UpdateVersion() {
+  block_version.innerHTML = VERSION
+    + (block_version_imported > 0 ? ', <font color=#ffff00>Imported: ' + block_version_imported + '</font>' : '')
+    + (block_version_edited > 0 ? ', <font color=#00ff00>Edited: ' + block_version_edited + '</font>' : '')
+    + (block_version_saved_time !== '' ? ', Saved' + block_version_saved_time + '' : '')
+  ;
+}
+function FullReCountEdited(NUM_NOW) { //console.log('FullReCountEdited')
+  block_version_edited = 0;
+  is_started_as_edited = false;
+	for(let i=0;i<db.length;i++) {
+		let row = db[i];
+    if (row.msgstr && row.imported !== row.msgstr) {
+      block_version_edited++;
+      if (NUM_NOW === i) is_started_as_edited = true;
+    }
+  }
+  UpdateVersion();
+}
+function QuickRedrawVersion(is_edited) { //console.log('QuickRedrawVersion', is_edited, is_started_as_edited);
+  if (is_edited == is_started_as_edited) return;
+  is_started_as_edited = is_edited;
+  if (is_edited) block_version_edited++; else block_version_edited--;
+  //console.log('new data=',block_version_edited)
+  UpdateVersion();
+}
 
 
 //Добавляем кавычки, как они должны быть в переводе
@@ -330,21 +373,67 @@ function RemoveQuotes(str) {
 	return t.join('\n');
 }
 
+
+function calculateStringSize(str) {
+  // Определяем количество байтов в строке
+  let byteSize = new Blob([str]).size;
+
+  // Преобразуем байты в килобайты
+  let kiloBytes = byteSize / 1000;
+
+  // Округляем до десятых
+  let roundedKiloBytes = Math.round(kiloBytes * 10) / 10;
+
+  // Проверяем, нужно ли добавлять десятые
+  function isInteger(value) {
+    return typeof value === 'number' && isFinite(value) && Math.floor(value) === value;
+  }
+  // Проверяем, нужно ли добавлять десятые
+  if (isInteger(roundedKiloBytes)) {
+    return roundedKiloBytes + " кБ";
+  } else {
+    return roundedKiloBytes.toFixed(1) + " кБ";
+  }
+}
+
+
 let exportData = 'asdasd';
 //Формируем строку для сохранения в localStorage
-function SaveData() {
+function SaveData() { //console.log('SaveData()')
 	let save = []; // объект для сохранения
 	let arr = []; // формирование строки для экспорта
+  cnt_saved = 0;
 	for(let i=0;i<db.length;i++) {
 		let row = db[i];
 		if (row.msgstr === '') continue;
 		if (row.msgstr === row.imported) continue;
 		save.push({k:row.msgctxt, r:row.msgstr});
 		arr.push(row.msgctxt, AddQuotes(row.msgstr), ''); //пустая строка - для пропуска строки
+    cnt_saved++;
 	}
 	exportData = arr.join('\n');
 	localStorage.data = JSON.stringify(save); //console.log(save)
 	localStorage.total = db.length;
+  //block_version_edited = cnt_saved;
+
+  // Сохраняем время записи.
+
+  var now = new Date();
+
+  // Получаем текущие часы и минуты
+  var hours = now.getHours();
+  var minutes = now.getMinutes();
+
+  // Функция для добавления ведущего нуля
+  function addLeadingZero(num) {
+    return num < 10 ? '0' + num : num;
+  }
+
+  // Форматируем часы и минуты в строку ЧЧ:ММ
+  var formattedTime = addLeadingZero(hours) + ':' + addLeadingZero(minutes);
+
+  block_version_saved_time = '(<font color=#fff>' + cnt_saved + '</font>): '+ formattedTime + ', <font color=#fff>' + calculateStringSize(exportData)+'</font>';
+  UpdateVersion();
 }
 function LoadData() {
 	if (localStorage.data === undefined) return console.log('err: Cant LOAD, no data');
@@ -362,6 +451,7 @@ function LoadData() {
 	if (localStorage.settings !== undefined) {
 		SETTINGS = JSON.parse(localStorage.settings);
 	}
+  FullReCountEdited()
 }
 LoadData();
 
@@ -434,6 +524,14 @@ function ImportData() {
 			done_cnt++;
 		}
 	}
+  
+  //Подсчёт импортированного
+  block_version_imported = 0
+  for(let i=0;i<db.length;i++) {
+    if (db[i].imported) block_version_imported++;
+  }
+  UpdateVersion();
+  
 	// Перезаписываем окно
 	IS_MODAL = false;
 	Show();
@@ -441,6 +539,7 @@ function ImportData() {
 		+'Проигнорировано: ' + ignore_cnt + '<br>\n'
 		+'Ошибок: ' + err_cnt + '<br>\n'
 	);
+  console.log('Imported '+done_cnt+' rows.');
 }
 
 
@@ -570,7 +669,7 @@ function replaceStarColor(text) {
 	}).replace(/_B_END_COLOR_STAR_/g, '</b></span>').replace(/_END_COLOR_STAR_/g, '</span>');
 }
 
-function Show() { //console.log("Show()")
+function Show() { //console.log("Show()", NUM_NOW+1)
 	let num = NUM_NOW;
 	let row = db[num];
 	textarea.value = row.msgstr;
@@ -687,6 +786,11 @@ function Show() { //console.log("Show()")
 	
 	UpdateButtons();
 	OnTextareaUpdate(true)
+  FullReCountEdited(NUM_NOW)
+  if (SETTINGS.is_autosave) {
+    SaveData();
+  }
+  //console.log('Show done');
 }
 
 
@@ -721,7 +825,7 @@ function ChangeKeyIDCol(col) {
 
 let _col_id_now = -1;
 let _COLS_ID = ['#f00', '#c00', '#900', '#c00'];
-function OnTextareaUpdate(is_forced) { // is_forced - значит, что игнорируем кэш
+function OnTextareaUpdate(is_forced) { // is_forced - значит, что игнорируем кэш. То есть вызывается из Show()
 	let str = textarea.value;
 	let data = db[NUM_NOW]
 	if (str === data.msgstr && !is_forced) {
@@ -736,6 +840,9 @@ function OnTextareaUpdate(is_forced) { // is_forced - значит, что иг�
 		text_color = '#ff0';
 	}
 	textarea.style = 'color:'+text_color;
+  let is_edited = (text_color === '#0f0' && str !== '');
+  //console.log('edited=',is_edited)
+  QuickRedrawVersion(is_edited);
 	
 	_col_id_now = -1;
 	if (str === '') return ChangeKeyIDCol('#777');
