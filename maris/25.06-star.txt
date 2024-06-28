@@ -1,0 +1,839 @@
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.DESC
+"Всегда трудно понять, правильно ли застегнуты пуговицы."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.NAME
+"Монохромная фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.DESC
+"Прочная, но мягкая, для трудяг, которым нужно немного больше любви и заботы."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.NAME
+"Фланелевая рубашка \"Чистюля\""
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_ORANGE.DESC
+"От неё веет атмосферой приключений на природе, как у Ровера."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.NAME
+"Ярко-розовая фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.DESC
+"Серия идеально выровненных чередующихся квадратов намекает на определенную трудовую этику."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.NAME
+"Фланелевая рубашка \"Фьюжн\""
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_YELLOW.NAME
+"Ярко-льняная фланелевая рубашка"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_1.DESC
+"Вдохновлено классическими кубиками."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_1.NAME
+"<link=\"EXTERIORWALL\">Натуральная единица</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_2.DESC
+"Вдохновлено классическими кубиками."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_2.NAME
+"<link=\"EXTERIORWALL\">Двойка</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_3.DESC
+"Вдохновлено классическими кубиками."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_3.NAME
+"<link=\"EXTERIORWALL\">Тройка</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_4.DESC
+"Вдохновлено классическими кубиками."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_4.NAME
+"<link=\"EXTERIORWALL\">Четвёрка</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_5.DESC
+"Вдохновлено классическими кубиками."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_5.NAME
+"<link=\"EXTERIORWALL\">Пятёрка</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_6.DESC
+"Вдохновлено классическими кубиками."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_6.NAME
+"<link=\"EXTERIORWALL\">Критический успех</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_AZULENE_VITRO.DESC
+"Весёлый голубой узор, восхваляющий хранение информации."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_AZULENE_VITRO.NAME
+"<link=\"EXTERIORWALL\">Водные банки данных</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_BLACK_WHITE.DESC
+"Стильный чёрно-белый узор, восхваляющий хранение информации."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_BLACK_WHITE.NAME
+"<link=\"EXTERIORWALL\">Монохромные банки данных</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_MAGMA_AMINO.DESC
+"Весёлый красный узор, восхваляющий хранение информации."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_MAGMA_AMINO.NAME
+"<link=\"EXTERIORWALL\">Взрывные банки данных</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_PEAGREEN_BALMY.DESC
+"Весёлый зеленый узор, восхваляющий хранение информации."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_PEAGREEN_BALMY.NAME
+"<link=\"EXTERIORWALL\">Свежие банки данных</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_SATSUMA_YELLOWCAKE.DESC
+"Весёлый оранжевый узор, восхваляющий хранение информации."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_SATSUMA_YELLOWCAKE.NAME
+"<link=\"EXTERIORWALL\">Яркие банки данных</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_PURPLE_BRAINFAT.DESC
+"Эти обои, как и приключения космической колонии, полны неожиданных поворотов."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_PURPLE_BRAINFAT.NAME
+"<link=\"EXTERIORWALL\">Томно-фиолетовые извилины</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_YELLOW_TARTAR.DESC
+"Эти обои, как и приключения космической колонии, полны неожиданных поворотов."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_YELLOW_TARTAR.NAME
+"<link=\"EXTERIORWALL\">Мерзко-жёлтые извилины</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_PURPLE_BRAINFAT.DESC
+"Диагональные полосы двух оттенков фиолетового."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_PURPLE_BRAINFAT.NAME
+"<link=\"EXTERIORWALL\">Томно-фиолетовая диагональ</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_YELLOW_TARTAR.DESC
+"Диагональные полосы двух оттенков жёлтого."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_YELLOW_TARTAR.NAME
+"<link=\"EXTERIORWALL\">Мерзко-жёлтая диагональ</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_PURPLE_BRAINFAT.DESC
+"Из-за вертикальных полос сразу заметно, если в комнате что-то стоит неровно."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_PURPLE_BRAINFAT.NAME
+"<link=\"EXTERIORWALL\">Томно-фиолетовые полосы</link>"
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_YELLOW_TARTAR.DESC
+"Из-за вертикальных полос сразу заметно, если в комнате что-то стоит неровно."
+
+STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_YELLOW_TARTAR.NAME
+"<link=\"EXTERIORWALL\">Мерзко-жёлтые полосы</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.TITLE
+"Согревающие постройки"
+
+STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.NAME
+"Остывание"
+
+STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.STATUS
+"Охлаждается после пребывания в жаркой среде"
+
+STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.TOOLTIP
+"Этот дубликант пытается остыть"
+
+STRINGS.DUPLICANTS.CHORES.RECOVERWARMTH.NAME
+"Согревание"
+
+STRINGS.DUPLICANTS.CHORES.RECOVERWARMTH.STATUS
+"Восстанавливается после пребывания в холодной среде"
+
+STRINGS.DUPLICANTS.CHORES.RECOVERWARMTH.TOOLTIP
+"Этот дубликант пытается согреться"
+
+STRINGS.DUPLICANTS.MODIFIERS.ATEFROZENFOOD.NAME
+"Поел замороженной еды"
+
+STRINGS.DUPLICANTS.MODIFIERS.ATEFROZENFOOD.TOOLTIP
+"Этот дубликант в плохом настроении, потому что ему пришлось есть замороженную <color=#C38802>еду</color>"
+
+STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPCOLD.NAME
+"Недосып: холодная спальня"
+
+STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPCOLD.TOOLTIP
+"Этот дубликант всю ночь дрожал вместо сна"
+
+STRINGS.DUPLICANTS.MODIFIERS.BONUSLITWORKSPACE.TOOLTIP
+"Этот дубликант находился в хорошо освещённом помещении, и теперь сам немного светится"
+
+STRINGS.DUPLICANTS.MODIFIERS.COLDAIR.CAUSE
+"В холодной среде дубликанты устают, а их температура тела быстро падает"
+
+STRINGS.DUPLICANTS.MODIFIERS.EFFECT_IMMUNITIES_HEADER
+"<b>Невосприимчивость к:</b>"
+
+STRINGS.DUPLICANTS.MODIFIERS.REFRESHINGTOUCH.TOOLTIP
+"Этот дубликант недавно посетил охлаждающую постройку и временно не получает <color=#C38802>стресса</color> от жары и штрафа к <color=#C38802>атлетичности</color>"
+
+STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCH.NAME
+"Устойчивость к холоду"
+
+STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCH.TOOLTIP
+"Этот дубликант недавно посетил согревающую постройку и временно не получает <color=#C38802>стресса</color> от холода и штрафа к <color=#C38802>атлетичности</color>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.EXITINGCOLD.NAME
+"Дрожит"
+
+STRINGS.DUPLICANTS.STATUSITEMS.EXITINGCOLD.TOOLTIP
+""
+"Недавно этот дубликант испытал воздействие низких <color=#C38802>температур</color>\n"
+"\n"
+"Без согревающей постройки восстановление займёт {0} сек.\n"
+"\n"
+"Стресс: <b>{StressModification}</b>\n"
+"Выносливость: <b>{StaminaModification}</b>\n"
+"Атлетичность: <b>{AthleticsModification}</b>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.LEFTDESIRINGTOWARMUP.NAME
+"Желание согреться"
+
+STRINGS.DUPLICANTS.TRAITS.FROSTPROOF.DESC
+"У этого дубликанта слишком холодное сердце, чтобы холод мог его охладить"
+
+STRINGS.DUPLICANTS.TRAITS.FROSTPROOF.NAME
+"Морозостойкий"
+
+STRINGS.ELEMENTS.TALLOW.NAME
+"<link=\"TALLOW\">Сало</link>"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.BASIC_ORANGE_SATSUMA.NAME
+"Броские штаны"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.KNIT_POLKADOT_TURQ.DESC
+"Для тех, кто хочет подурачиться на обязательной неделе физподготовки."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.KNIT_POLKADOT_TURQ.NAME
+"Спортивные штаны в горошек"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_SLATE.DESC
+"Пара хороших, надёжных перчаток тёмного цвета."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_SLATE.NAME
+"Оюычные графитные перчатки"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_BLUE_BASIN.DESC
+"Мягкие толстые синеватые перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_BLUE_BASIN.NAME
+"Океанические перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREEN_LIME.DESC
+"Мягкие толстые блевотно-зелёные перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREEN_LIME.NAME
+"Щелочные перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREY_CHARCOAL.DESC
+"Мягкие толстые тёмно-серые перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREY_CHARCOAL.NAME
+"Угольные перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREY_GREY.DESC
+"Мягкие толстые серые перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_GREY_GREY.NAME
+"Графитные перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_ORANGE_ATOMIC.DESC
+"Мягкие толстые ярко-оранжевые перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_ORANGE_ATOMIC.NAME
+"Атомные перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_PINK_SALTROCK.DESC
+"Мягкие толстые розовые перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_PINK_SALTROCK.NAME
+"Рюшечные перчатки цвета каменной соли"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_PURPLE_DUSKY.DESC
+"Мягкие толстые фиолетово-ночные перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_PURPLE_DUSKY.NAME
+"Сумеречные перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_RED_MAGMA.DESC
+"Мягкие толстые красные перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_RED_MAGMA.NAME
+"Магмовые перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_TEAL_BALMY.DESC
+"Мягкие толстые салатовые перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_TEAL_BALMY.NAME
+"Бальзамные перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_YELLOW_YELLOWCAKE.DESC
+"Мягкие толстые радиационно-жёлтые перчатки с рюшечными манжетами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_YELLOW_YELLOWCAKE.NAME
+"Урановые перчатки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SPARKLE_WHITE.DESC
+"Каждая блёстка была прикреплена с помощью герметика из отдела ракетостроения."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SPARKLE_WHITE.NAME
+"Блестящие белые перчатки"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.FLASHY.DESC
+"Кому нужна обычная походка, когда есть <i>лунная</i>?"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.FLASHY.NAME
+"Туфли суперзвезды"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_BLUE_BASIN.DESC
+"Мягкие толстые синие носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_BLUE_BASIN.NAME
+"Океанические носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREEN_LIME.DESC
+"Мягкие толстые зеленые носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREEN_LIME.NAME
+"Щелочные носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREY_CHARCOAL.DESC
+"Мягкие толстые тёмно-серые носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREY_CHARCOAL.NAME
+"Угольные носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREY_GREY.DESC
+"Мягкие толстые серые носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_GREY_GREY.NAME
+"Графитные носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_ORANGE_ATOMIC.DESC
+"Мягкие толстые оранжевые носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_ORANGE_ATOMIC.NAME
+"Атомные носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_PINK_SALTROCK.DESC
+"Мягкие толстые розовые носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_PINK_SALTROCK.NAME
+"Носки с рюшами цвета каменной соли"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_PURPLE_DUSKY.DESC
+"Мягкие толстые фиолетовые носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_PURPLE_DUSKY.NAME
+"Сумеречные носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_RED_MAGMA.DESC
+"Мягкие толстые огненно-красные носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_RED_MAGMA.NAME
+"Магмовые носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_TEAL_BALMY.DESC
+"Мягкие толстые носки цвета морской волны с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_TEAL_BALMY.NAME
+"Бальзамные носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_YELLOW_YELLOWCAKE.DESC
+"Пугающе мягкие жёлтые носки с рюшами по краям."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.GINCH_YELLOW_YELLOWCAKE.NAME
+"Урановые носки с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.BUILDER.DESC
+"Обязательный аксессуар для тех, кто ценит технику безопасности."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.BUILDER.NAME
+"Светоотражающая куртка"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.FLASHY.DESC
+"Некоторые были созданы, чтобы выделяться из толпы."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.FLASHY.NAME
+"Куртка суперзвезды"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.FLORAL_PINK.DESC
+"Чтобы расслабиться и не париться, когда хлопоты на голову валятся."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.FLORAL_PINK.NAME
+"Рубашка лентяя"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_BLUE_BASIN.DESC
+"Бесшовная синяя майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_BLUE_BASIN.NAME
+"Океаническая майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREEN_LIME.DESC
+"Бесшовная зеленая майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREEN_LIME.NAME
+"Щелочная майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREY_CHARCOAL.DESC
+"Бесшовная тёмно-серая майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREY_CHARCOAL.NAME
+"Угольная майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREY_GREY.DESC
+"Бесшовная серая майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_GREY_GREY.NAME
+"Графитная майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_ORANGE_ATOMIC.DESC
+"Бесшовная оранжевая майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_ORANGE_ATOMIC.NAME
+"Атомная майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_PINK_SALTROCK.DESC
+"Бесшовная розовая майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_PINK_SALTROCK.NAME
+"Майка с рюшами цвета каменной соли"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_PURPLE_DUSKY.DESC
+"Бесшовная фиолетовая майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_PURPLE_DUSKY.NAME
+"Сумеречная майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_RED_MAGMA.DESC
+"Бесшовная красная майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_RED_MAGMA.NAME
+"Магмовая майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_TEAL_BALMY.DESC
+"Бесшовная майка цвета морской волны с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_TEAL_BALMY.NAME
+"Бальзамная майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_YELLOW_YELLOWCAKE.DESC
+"Бесшовная жёлтая майка с вырезанными лазером рюшами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GINCH_YELLOW_YELLOWCAKE.NAME
+"Урановая майка с рюшами"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.KNIT_POLKADOT_TURQ.DESC
+"Горошенки пропитаны энзимами, нейтрализующими запахи!"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.KNIT_POLKADOT_TURQ.NAME
+"Спортивная куртка в горошек"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_CLOVERS_GLITCH_KELLY.DESC
+"Даже самым блестящим умам иногда нужна дополнительная порция везения."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_CLOVERS_GLITCH_KELLY.NAME
+"Пижама удачи"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_HEARTS_CHILLI_STRAWBERRY.DESC
+"Плюшевая шенилловая ткань и воротник, впитывающий слюнки? Эта пижама действительно <i>покоряет сердце</i>."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_HEARTS_CHILLI_STRAWBERRY.NAME
+"Любимая пижама"
+
+STRINGS.ITEMS.FOOD.PEMMICAN.DESC
+""
+"<link=\"MEAT\">Мясо</link> и <link=\"TALLOW\">сало</link>, спрессованные вместе. Этот калорийный батончик можно хранить очень долго.\n"
+"\n"
+"Выживать ещё никогда не было так вкусно."
+
+STRINGS.ITEMS.FOOD.PEMMICAN.NAME
+"<link=\"PEMMICAN\">Пеммикан</link>"
+
+STRINGS.ITEMS.FOOD.PEMMICAN.RECIPEDESC
+"<link=\"MEAT\">Мясо</link> и <link=\"TALLOW\">сало</link>, спрессованные вместе. Этот питательный батончик можно хранить очень долго."
+
+STRINGS.NAMEGEN.WORLD.ROOTS.CERES
+"Зимн\nПоляр\nМороз\nМерзл\nЛедн\nШторм\nХолод\n"
+
+STRINGS.NAMEGEN.WORLD.UNKNOWN_WORLD
+"Безымянный"
+
+STRINGS.ROOMS.CRITERIA.WARMINGSTATION.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSWARMINGSTATION\">Согревающая постройка</link>"
+
+STRINGS.UI.DETAILTABS.COSMETICS.NAME
+"Скин"
+
+STRINGS.UI.DETAILTABS.COSMETICS.TOOLTIP
+""
+"<b>Скин</b>\n"
+"Для данного объекта можно выбрать подходящий скин"
+
+STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.BODY
+"Вы собираетесь присоединиться к бета-тестированию DLC <b>"The Frosty Planet Pack"</b>.\nЭта бесплатная бета-версия находится в разработке и будет отключена перед выпуском платного DLC.\n\nВы уверены, что хотите присоединиться?"
+
+STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.CONTINUEBUTTON
+"Играть в бета-версию"
+
+STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.FORUMBUTTON
+"Больше информации"
+
+STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.QUITBUTTON
+"Выйти на рабочий стол"
+
+STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.TITLE
+"<b>Добро пожаловать в Oxygen Not Included</b>"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_DLC_HEADER
+"Контент из DLC"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_NO_OPTIONS
+"В данный момент нет DLC, которые доступны для смешивания с вашей игрой. Не волнуйтесь, здесь и так много всякой всячины."
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_SETTINGS_HEADER
+"Замешательство DLC"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_SUBWORLDMIXING_HEADER
+"Приправить биомами"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_ASTEROID_MIXING
+"Примешивание астероидов определяет, какие астероиды появляются на звёздной карте"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_BIOME_MIXING
+"Сдабривание биомами определяет, какие биомы доступны среди всех астероидов"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_CANNOT_START
+"Невозможно начать новую игру с текущими настройками смешения астероидов и биомов"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_DLC_CONTENT
+"Источник: {0}"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_LOCKED_REQUIRE_DLC_NOT_ENABLED
+""
+"Для этой настройки необходимо включить следующее:\n"
+"{0}"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_LOCKED_START_NOT_SUPPORTED
+"С выбранным начальным астероидом невозможно изменить данную настройку"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_MODDED_SETTING
+"<i><color=#d6d6d6>Эта настройка добавлена модом</color></i>"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_TOO_MANY_GUARENTEED_ASTEROID_MIXINGS
+""
+"Намешивание астероидов определяет, какие астероиды появляются на звёздной карте\n"
+"\n"
+"Доступно не более {1} гарантированных астероидов\n"
+"\n"
+"Выбрано всего: {0}"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_TOO_MANY_GUARENTEED_BIOME_MIXINGS
+""
+"Сдабривание биомомами определяет, какие биомы доступны среди всех астероидов\n"
+"\n"
+"Доступно не более {1} гарантированных биомов\n"
+"\n"
+"Выбрано всего: {0}"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_WARNING
+"Выберите разные DLC, чтобы заварить кашу в игре. Перемешивание реальностей может привести к космическому коллапсу."
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_WORLDMIXING_HEADER
+"Намешать астероидов"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION
+"Входит в коллекцию: {Collection}."
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_COMING_SOON
+"Входит в коллекцию: {Collection}. Скоро будет доступно!"
+
+STRINGS.UI.OUTFITS.HIVIS.NAME
+"Светоотражающий наряд"
+
+STRINGS.UI.OUTFITS.POLKADOT_TRACKSUIT.NAME
+"Спортивный комплект в горошек"
+
+STRINGS.UI.OVERLAYS.TEMPERATURE.HEATSINK
+"Поглотители тепла"
+
+STRINGS.UI.OVERLAYS.TEMPERATURE.HEATSOURCES
+"Источники тепла"
+
+STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.HEATSINK
+"Объекты с этим символом поглощают тепло"
+
+STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.HEATSOURCES
+"Объекты с этим символом вырабатывают тепло"
+
+STRINGS.UI.TOOLS.DISCONNECT.NAME
+"Отсоединить"
+
+STRINGS.UI.TOOLS.DISCONNECT.TOOLNAME
+"Инструмент отсоединения"
+
+STRINGS.UI.TOOLS.DISCONNECT.TOOLTIP
+"Отсоединение проводов или труб: {Hotkey}"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ABSOLUTETEMPERATURE.NAME
+"Стандартный вид"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ABSOLUTETEMPERATURE.TOOLTIP
+""
+"<b>Стандартный вид</b>\n"
+"Показывает температуру в интервале по умолчанию с фиксированным смещением относительно абсолютного нуля"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.AGRICULTURE.NAME
+"Сельскохозяйственный"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ALL.NAME
+"Всё"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ALL.TOOLTIP
+"Показывает все элементы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ALL_OVERLAY.NAME
+"Всё"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ALL_OVERLAY.TOOLTIP
+"Показать всё"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK.NAME
+"Атака"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL.NAME
+"Задний фон"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL.TOOLTIP
+"Только строения на заднем плане"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.BREATHABLE.NAME
+"Пригодный для дыхания"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.BREATHABLE.TOOLTIP
+"Показывать только газы, пригодные для дыхания"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.BUILDABLE.NAME
+"Минерал"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.BUILDABLE.TOOLTIP
+"Показывать только минералы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS.NAME
+"Постройки"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS.TOOLTIP
+"Учитывать все постройки"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.CLEAN.NAME
+"Очистка"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.CLEAN.TOOLTIP
+"Выбрать только поручения на уборку"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR.NAME
+"Приказы убрать и мыть"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR.TOOLTIP
+"Только приказы подмести и мыть"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.CONSTRUCTION.NAME
+"Строительство"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.CONSTRUCTION.TOOLTIP
+"Выбрать только поручения на <color=#C38802>строительство</color>"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.CONSUMABLEORE.NAME
+"Потребляемая руда"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.CONSUMABLEORE.TOOLTIP
+"Показывать только потребляемую руду"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.DIG.NAME
+"Добыча"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.DIG.TOOLTIP
+"Выбрать только поручения по <color=#C38802>добыче</color>"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER.NAME
+"Приказы копания"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER.TOOLTIP
+"Только приказы копать"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST.NAME
+"Сбор ВЫКЛ"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST.TOOLTIP
+"Отключить сбор урожая с выбранных растений"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.FARMABLE.NAME
+"Плодородная почва"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.FARMABLE.TOOLTIP
+"Показывать только плодородную почву"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.FILTER.NAME
+"Фильтрующее"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.FILTER.TOOLTIP
+"Показывать только фильтрующие материалы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.GAS.NAME
+"Газы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.GAS.TOOLTIP
+"Показывать только газы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES.NAME
+"Газовые трубы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES.TOOLTIP
+"Учитывать только газовые трубы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY.NAME
+"Сбор ВКЛ"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY.TOOLTIP
+"Включить сбор урожая с выбранных растений"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.HEATFLOW.NAME
+"Вид комфортный условий"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.HEATFLOW.TOOLTIP
+""
+"<b>Вид комфортных условий</b>\n"
+"Показывает зоны, которые по разному влияют на живых существ в рамках теплообмена"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.LIQUID.NAME
+"Жидкости"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.LIQUID.TOOLTIP
+"Показывать только жидкости"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES.NAME
+"Жидкостные трубы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES.TOOLTIP
+"Учитывать только жидкостные трубы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIFIABLE.NAME
+"Плавкий"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIFIABLE.TOOLTIP
+"Показывать только плавкие элементы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.LOGIC.NAME
+"Логика"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.LOGIC.TOOLTIP
+"Учитывать только логические постройки"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.METAL.NAME
+"Металл"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.METAL.TOOLTIP
+"Показывать только металлы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.MISC.NAME
+"Разное"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.MISC.TOOLTIP
+"Показывать только элементы из категории \"разное\""
+
+STRINGS.UI.TOOLS.FILTERLAYERS.OPERATE.NAME
+"Использование"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.OPERATE.TOOLTIP
+"Выбирать только объекты, которые можно использовать"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ORGANICS.NAME
+"Органика"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.ORGANICS.TOOLTIP
+"Показывать только органические материалы"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.RELATIVETEMPERATURE.NAME
+"Настраиваемый вид"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.RELATIVETEMPERATURE.TOOLTIP
+""
+"<b>Настраиваемый вид</b>\n"
+"Показывает интервал температур с настраиваемым смещением\n"
+"\n"
+"Можно двигать ползунок, чтобы выбрать точку отсчёт для этого интервала"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS.NAME
+"Конвейеры"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS.TOOLTIP
+"Учитывать только конвейеры"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.STATECHANGE.NAME
+"Вид фазовых состояний"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.STATECHANGE.TOOLTIP
+""
+"<b>Вид фазовых состояний</b>\n"
+"Показывает элементы, близкие к переходу в другое агрегатное состояние"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.TILES.NAME
+"Клетки"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.TILES.TOOLTIP
+"Только клетки"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.UNBREATHABLE.NAME
+"Не пригодный для дыхания"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.UNBREATHABLE.TOOLTIP
+"Показывать только газы, непригодные для дыхания"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.WIRES.NAME
+"Проводка"
+
+STRINGS.UI.TOOLS.FILTERLAYERS.WIRES.TOOLTIP
+"Только электропровода"
+
+STRINGS.UI.TOOLS.SANDBOX.SPAWN_STORY_TRAIT.NAME
+"Сюжетная черта"
+
+STRINGS.UI.TOOLTIPS.CHANGE_OUTFIT
+"Изменить вид дубликанта"
+
+STRINGS.UI.UISIDESCREENS.ARTABLESELECTIONSIDESCREEN.BUTTON_TOOLTIP
+""
+"Очистить выбранное творение\n"
+"\n"
+"Создать поручение для опытного дубликанта на создание выбранного дизайна"
+
+STRINGS.UI.UISIDESCREENS.BLUEPRINT_TAB.EDIT_OUTFIT_BUTTON
+"Изменить"
+
+STRINGS.UI.UISIDESCREENS.BLUEPRINT_TAB.SUBCATEGORY_ATMOSUIT
+"Атмокостюм"
+
+STRINGS.UI.UISIDESCREENS.BLUEPRINT_TAB.SUBCATEGORY_OUTFIT
+"Одежда"
+
+STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.NAME
+"Поручения"
+
+STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP
+""
+"<b>Поручения</b>\n"
+"Просматривайте текущие и предстоящие поручения"
+
+STRINGS.UI.UISIDESCREENS.TABS.SKIN
+"Скин"
+
+STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SPECIAL_RESOURCES
+"Нестандартное"
+
+STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SPECIAL_RESOURCES_TOOLTIP
+"Эти предметы не совсем подходят для хранения"
