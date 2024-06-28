@@ -1,0 +1,1428 @@
+STRINGS.BLUEPRINTS.CEILINGLIGHT_CHANDELIER.DESC
+"Дизайнеры не несут ответственности за травмы, полученные при раскачивании на этом предмете декора."
+
+STRINGS.BLUEPRINTS.DININGTABLE_LOG.DESC
+"Необработанная грубая столешница — занозы... эм-м, то есть <i>зубочистки</i> всегда под рукой!"
+
+STRINGS.BLUEPRINTS.MANUALGENERATOR_ELLIPTICAL.DESC
+"Несложный тренажёр для занятий аэробикой в энергичных колониях!"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_BLACK.NAME
+"Чёрно-серый фланелевый наряд"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_GREEN.NAME
+"Болотный фланелевый наряд"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_ORANGE.NAME
+"Кадмиевый фланелевый наряд"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_PINK_ORCHID.NAME
+"Бликующий фланелевый наряд"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_RED.NAME
+"Классический фланелевый наряд"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_WHITE.NAME
+"Белый фланелевый наряд"
+
+STRINGS.BLUEPRINTS.PERMIT_BED_COTTAGE.DESC
+"Уютная кровать с лоскутным одеялом ручной работы: маленькие кусочки ткани сшиты вручную."
+
+STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.DESC
+"С сильным ароматом копчёностей."
+
+STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.DESC
+"Чтобы к сложным рецептам было проще... подступиться."
+
+STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.DESC
+"Увидев эту лампу, дубликанты начинают мечтать о сказке на ночь."
+
+STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.DESC
+"Базовая модель, разработанная с учётом портативности и низких температур."
+
+STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.DESC
+"Если на вашей вечеринке никто не пытается угостить статую морозной булкой, то никакая это не вечеринка."
+
+STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME
+"Безудержное веселье"
+
+STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC
+"Некоторые вещи <i>никогда</i> не меняются."
+
+STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.DESC
+"Часто выставляются парами, по обе стороны двери."
+
+STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.NAME
+"Изящный страж"
+
+STRINGS.BLUEPRINTS.PERMIT_RANCHSTATION_COTTAGE.DESC
+"Некоторые животноводы считают, что дерево и сельская эстетика успокаивают животных."
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_GULP.DESC
+"Могучий паку не желает объяснять свою философию, а просто ею живет."
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_GULP.NAME
+"Стоический трофей"
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PACU.DESC
+"Дубликанты любят подшучивать над друзьями. Они засовывают руки в скульптуру и притворяются, будто она ожила."
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PACU.NAME
+"Ом-ном-номский трофей"
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PUFT.DESC
+"Воистину блаженное неведение."
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PUFT.NAME
+"Чистый лист"
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_WOOD_DEER.NAME
+"Хитрый взгляд"
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_DRECKO.DESC
+"Вид после стрижки сочли слишком откровенным."
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_PUFT.DESC
+"Иногда испускает едва различимый звук."
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.DESC
+"Этот шедевр вырезал скульптор или выгрызло какое-то животное? Никто не знает."
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.NAME
+"Неровный ствол"
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.DESC
+"Реалистичное изображение морозной пшеницы, также известное как \"Прогноз: полный рот заноз\"."
+
+STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.NAME
+"Деревянный злак"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.DESC
+"Сложно не запутаться с пуговицами."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.NAME
+"Чёрно-серая фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.DESC
+"Прочная, но мягкая. Для трудяг, которым нужно немного больше любви и заботы."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.NAME
+"Чёрно-голубая фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_GREEN.DESC
+"Остается тёплой и мягкой, даже когда намокает."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_GREEN.NAME
+"Болотная фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_ORANGE.NAME
+"Кадмиевая фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.DESC
+"Все эти нагрудные карманы просто для вида."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.NAME
+"Чёрно-розовая фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.DESC
+"Соблюдающий такую точность при подборе идеального соответствия квадратов наверняка идеально соответствует правилам рабочей этики."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_RED.DESC
+"Легендарные цвета, правда?"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_RED.NAME
+"Классическая фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_WHITE.DESC
+"Для дубликантов в авангарде строгих фланелевых нарядов."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_WHITE.NAME
+"Белая фланелевая рубашка"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_YELLOW.DESC
+"Пылкие умы тяготеют к пылким цветам."
+
+STRINGS.BUILDING.STATUSITEMS.CRITTERCAPACITY.NAME
+"Внутри: {Stored}/{Capacity} животных"
+
+STRINGS.BUILDING.STATUSITEMS.CRITTERCAPACITY.TOOLTIP
+"Этот контейнер содержит в себе <b>{Stored}х{StoredUnits}</b> из <b>{Capacity}х{CapacityUnits}</b> возможных"
+
+STRINGS.BUILDING.STATUSITEMS.CRITTERCAPACITY.UNIT
+"Животное"
+
+STRINGS.BUILDING.STATUSITEMS.CRITTERCAPACITY.UNITS
+"Животные"
+
+STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTFUEL.NAME
+"Не хватает <link=\"WOODLOG\">древесины</link>"
+
+STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTFUEL.TOOLTIP
+""
+"Чем холоднее <link=\"ICE\">лёд</link>, тем больше <link=\"WOODLOG\">древесины</link> нужно, чтобы его растопить\n"
+"\n"
+"Необходимый минимум <link=\"WOODLOG\">древесины</link> на данный момент: {0}"
+
+STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTLIQUIDSPACE.NAME
+"Ожидается опустошение"
+
+STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTSOLIDS.NAME
+"Не хватает <link=\"ICE\">льда</link>"
+
+STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTSOLIDS.TOOLTIP
+"Для работы этой постройке требуется <link=\"ICE\">лёд</link>, как минимум {0}\n"
+"\n"
+"Доставьте больше <link=\"ICE\">льда</link>, чтобы пользоваться этой постройкой"
+
+STRINGS.BUILDING.STATUSITEMS.KETTLEMELTING.NAME
+"Плавит лёд"
+
+STRINGS.BUILDING.STATUSITEMS.KETTLEMELTING.TOOLTIP
+""
+"Сейчас эта постройка плавит накопленный <link=\"ICE\">лёд</link> и производит <link=\"WATER\">воду</link>\n"
+"\n"
+"Температура производимой <link=\"WATER\">воды</link>: {0}"
+
+STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.NAME
+"Требуется опустошить"
+
+STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.TOOLTIP
+"Нужно избавиться от <link=\"MILKFAT\">скользеина</link> в этой постройке, чтобы продолжить работу"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_NOSURFACESIGHT.NAME
+"Нет прямой видимости"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_NOSURFACESIGHT.TOOLTIP
+"У этой постройки нет космоса в прямой видимости\n"
+"\n"
+"Для работы этой постройки обеспечьте прямую видимость космоса"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_PARTIALLYBLOCKED.NAME
+"Огранниченная видимость"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_PARTIALLYBLOCKED.TOOLTIP
+"У этой постройки ограниченная видимость космоса\n"
+"\n"
+"Для работы этой постройки обеспечьте прямую видимость космоса"
+
+STRINGS.BUILDINGS.PREFABS.DEEPFRYER.DESC
+"Любая еда вкуснее, если её хорошенько обжарить."
+
+STRINGS.BUILDINGS.PREFABS.DEEPFRYER.EFFECT
+""
+"Позволяет готовить много разной <link=\"FOOD\">еды</link> по более сложным рецептам.\n"
+"\n"
+"Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь."
+
+STRINGS.BUILDINGS.PREFABS.DEEPFRYER.STATUSITEMS.OUTSIDE_KITCHEN.NAME
+"За пределами кухни"
+
+STRINGS.BUILDINGS.PREFABS.DEEPFRYER.STATUSITEMS.OUTSIDE_KITCHEN.TOOLTIP
+"Чтобы использовать, нужно разместить в кухне"
+
+STRINGS.BUILDINGS.PREFABS.DEVHEATER.DESC
+"Кто-то подкрутил термостат?"
+
+STRINGS.BUILDINGS.PREFABS.DEVHEATER.EFFECT
+"По запросу генерирует тепло для тестирования высокой температуры."
+
+STRINGS.BUILDINGS.PREFABS.DEVHEATER.NAME
+"Обогреватель разработчиков"
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.DESC
+"Высокоэнергетические частицы (ВЭЧ) необходимы для исследований материалов."
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.EFFECT
+"Производит высокоэнергетические частицы."
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT
+"Не излучать ВЭЧ"
+
+STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.NAME
+"ВЭЧ-генератор разработчиков"
+
+STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.BRIGHTNESS_LABEL
+"Яркость"
+
+STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.DESC
+"Луч света в темном царстве разработчиков."
+
+STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.EFFECT
+"По команде создаёт источник света, который можно приглушить."
+
+STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.FALLOFF_LABEL
+"Скорость затухания"
+
+STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.NAME
+"Источник света разработчиков"
+
+STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.RANGE_LABEL
+"Дальность"
+
+STRINGS.BUILDINGS.PREFABS.DEVPUMPSOLID.DESC
+"Для поступления твёрдых веществ необходимо соединить выходное отверстие насоса с входным отверстием постройки."
+
+STRINGS.BUILDINGS.PREFABS.DEVPUMPSOLID.EFFECT
+"Служит для производства выбранных <link=\"ELEMENTSSOLID\">твёрдых материалов</link> и их транспортировки по <link=\"SOLIDCONDUIT\">рельсам конвейера</link>"
+
+STRINGS.BUILDINGS.PREFABS.DEVPUMPSOLID.NAME
+"Насос разработчиков для твёрдых веществ"
+
+STRINGS.BUILDINGS.PREFABS.DLC2POITECHUNLOCKS.DESC
+""
+"Функциональное декодирующее устройство для расшифровки исследований. Осталась одна передача.\n"
+"\n"
+"Призвано обеспечить выживание колонии."
+
+STRINGS.BUILDINGS.PREFABS.DLC2POITECHUNLOCKS.NAME
+"Исследовательский портал"
+
+STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT
+""
+"Отгораживает зоны, не мешая течению <link=\"ELEMENTSLIQUID\">жидкостей</link> или <link=\"ELEMENTSGAS\">газов</link>.\n"
+"\n"
+"<link=\"CREATURES\">Животные</link> не могут проходить через двери."
+
+STRINGS.BUILDINGS.PREFABS.EGGCRACKER.EFFECT
+""
+"Обращает жизнеспособные яйца различных <link=\"CREATURES\">животных</link> в ингредиенты для готовки.\n"
+"\n"
+"Разбитые яйца не смогут вылупиться.\n"
+"\n"
+"Дубликанты не начнут разбивать яйца, пока это задание не будет добавлено в очередь."
+
+STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.DESC
+"Орбитальные лаборатории собирают данные, когда находятся на орбите планетоида, и записывают их в <link=\"ORBITALRESEARCHDATABANK\">банк данных</link>"
+
+STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.DESCRIPTION
+"За этими бутонами не нужен уход, но они переживут любого из нас."
+
+STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.LORE_DLC2
+""
+"Этот букет создан компанией Home Staging Heroes Ltd. по заказу Gravitas и призван <i>\"сделать космос уютнее\".</i>\n"
+"\n"
+"С ароматом печенья, только что вынутого из духовки."
+
+STRINGS.BUILDINGS.PREFABS.PLASTICFLOWERS.NAME
+"Пластиковые цветы"
+
+STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.EFFECT
+"Большие двойные двери. Такие можно увидеть на главном входе крупного предприятия."
+
+STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.NAME
+"Выставочные двери"
+
+STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.DESC
+"Как обычный трансформатор, только большой. Ограничивает максимальную нагрузку в подсети и предотвращает перегрузку проводов, а также урон от неё."
+
+STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
+""
+"Блокирует течение <link=\"ELEMENTSLIQUID\">жидкостей</link> и <link=\"ELEMENTSGAS\">газов</link>, сохраняя давление в каждой области.\n"
+"\n"
+"Функционирует, как <link=\"MANUALPRESSUREDOOR\">ручной шлюз</link>, когда нет <link=\"POWER\">энергии</link>.\n"
+"\n"
+"Дикие <link=\"CREATURES\">животные</link> не могут проходить через двери."
+
+STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERA.DESC
+""
+"Плакат, рекламирующий популярное направление для местного туризма.\n"
+"\n"
+"Реальный вид может отличаться."
+
+STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERA.NAME
+"Туристический постер"
+
+STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERB.DESC
+""
+"Плакат о живой природе здешних мест.\n"
+"\n"
+"Первая работа в незаконченной серии."
+
+STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERB.NAME
+"Туристический постер"
+
+STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERLARGE.DESC
+"Звукопоглощающая панель, которая делает подземную жизнь более сносной.\n"
+"\n"
+"На картине изображён источник энергии."
+
+STRINGS.BUILDINGS.PREFABS.PROPCERESPOSTERLARGE.NAME
+"Панель акустического искусства"
+
+STRINGS.BUILDINGS.PREFABS.PROPCLOTHESHANGER.DESC
+""
+"На ней висит один <link=\"WARMVEST\">тёплый свитер</link>.\n"
+"\n"
+"Было бы глупо не воспользоваться."
+
+STRINGS.BUILDINGS.PREFABS.PROPCLOTHESHANGER.NAME
+"Вешалка для пальто"
+
+STRINGS.BUILDINGS.PREFABS.PROPDLC2DISPLAY1.DESC
+"Электронный дисплей, на котором показан чертёж инженерного проекта.\n"
+"\n"
+"Выглядит как какой-то насос."
+
+STRINGS.BUILDINGS.PREFABS.PROPDLC2DISPLAY1.NAME
+"Электронный дисплей"
+
+STRINGS.BUILDINGS.PREFABS.PROPDLC2GEOTHERMALCART.DESC
+"Оборудование для технического обслуживания, однажды заваленное остатками сложных механизмов.\n"
+"\n"
+"Одно из колёс скрипит."
+
+STRINGS.BUILDINGS.PREFABS.PROPDLC2GEOTHERMALCART.NAME
+"Тележка техобслуживания"
+
+STRINGS.BUILDINGS.PREFABS.PROPEXOSETLOCKER.DESC
+""
+"Шкафчик из ультралегких материалов.\n"
+"\n"
+"Содержит личные вещи."
+
+STRINGS.BUILDINGS.PREFABS.PROPEXOSETLOCKER.NAME
+"Внешний шкафчик"
+
+STRINGS.BUILDINGS.PREFABS.PROPEXOSHELFLONG.DESC
+""
+"Полка из плоских деталей, которые можно собрать разными способами.\n"
+"\n"
+"Это будет сложно."
+
+STRINGS.BUILDINGS.PREFABS.PROPEXOSHELFLONG.NAME
+"Длинная сборная полка"
+
+STRINGS.BUILDINGS.PREFABS.PROPEXOSHELSHORT.DESC
+""
+"Полка из плоских деталей, которые можно собрать разными способами.\n"
+"\n"
+"Выглядит симпатично."
+
+STRINGS.BUILDINGS.PREFABS.PROPEXOSHELSHORT.NAME
+"Сборная полка"
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIREEXTINGUISHER.DESC
+"Важное лабораторное оборудование.\n"
+"\n"
+"На инспекционной бирке указано, что сроки поверки давно истекли."
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASFIREEXTINGUISHER.NAME
+"Сломанный огнетушитель"
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSMALLSEEDLOCKER.DESC
+""
+"Небольшой стеклянный шкафчик.\n"
+"\n"
+"На нём знак биологической опасности."
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASSMALLSEEDLOCKER.NAME
+"Настенный шкафчик"
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.DESC
+"Приспособление для переноски инструментов.\n"
+"\n"
+"Немного заржавело."
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.NAME
+"Инструментальный ящик"
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.DESC
+"Настенный стеллаж для хранения и демонстрации полезных инструментов, расположенный вне досягаемости."
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.NAME
+"Инструментальный стеллаж"
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.NAME
+"Стена"
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.NAME
+"Стена"
+
+STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDCHAIR.DESC
+"Роскошное кресло. Будущие поколения смогут удобно в нём развалиться и мечтать о доме."
+
+STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDCHAIR.NAME
+"Выставочное кресло"
+
+STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDSOFA.DESC
+"Шикарный диван, на котором можно вздремнуть и увидеть сны о доме."
+
+STRINGS.BUILDINGS.PREFABS.PROPHUMANCHESTERFIELDSOFA.NAME
+"Выставочный диван"
+
+STRINGS.BUILDINGS.PREFABS.PROPHUMANMURPHYBED.DESC
+""
+"Откидная кровать. В сложенном виде встаёт к стене и экономит место.\n"
+"\n"
+"На ней ещё никто не спал."
+
+STRINGS.BUILDINGS.PREFABS.PROPHUMANMURPHYBED.NAME
+"Откидная кровать"
+
+STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT
+""
+"Позволяет назначенному <link=\"RANCHER\">скотоводу</link> ухаживать за <link=\"CREATURES\">животными</link>.\n"
+"\n"
+"Назначенные дубликанты должны обладать навыком <link=\"RANCHING1\">Скотоводство I</link>.\n"
+"\n"
+"Эта постройка является необходимой для загона."
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.BLUE_BABYTEARS.DESC
+"От такой холодной еды плакать хочется."
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.BLUE_BABYTEARS.NAME
+"<link=\"REFRIGERATOR\">Слёзно-голубой холодильник</link>"
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.DESC
+"Срок годности еды можно продлить, поместив её в подходящую атмосферу (хлор, водород, углекислый газ, вакуум), либо спрятав в холодильник."
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.NAME
+"<link=\"REFRIGERATOR\">Холодильник</link>"
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.DESC
+"От этого цвета даже мурашки по коже бегут."
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.NAME
+"<link=\"REFRIGERATOR\">Землисто-зелёный холодильник</link>"
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.PURPLE_BRAINFAT.DESC
+"Сразу видно, что цвет подбирался с холодным умом."
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.PURPLE_BRAINFAT.NAME
+"<link=\"REFRIGERATOR\">Томно-лиловый холодильник</link>"
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.RED_ROSE.DESC
+"Вдохновлён поэмой одного дубликанта \"Милашка в грязно-розовом\"."
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.RED_ROSE.NAME
+"<link=\"REFRIGERATOR\">Грязно-розовый холодильник</link>"
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.NAME
+"<link=\"REFRIGERATOR\">Красный полосатый холодильник</link>"
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.YELLOW_TARTAR.DESC
+"Некоторые дубликанты называют этот цвет \"солнечным\". Дело в том, что солнца они никогда не видели."
+
+STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.YELLOW_TARTAR.NAME
+"<link=\"REFRIGERATOR\">Мерзковато-жёлтый холодильник</link>"
+
+STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.RECIPE_DESCRIPTION_TWO_OUTPUT
+"В результате дробления {0} получатся {1} и {2}."
+
+STRINGS.BUILDINGS.PREFABS.ROCKETWALLTILE.NAME
+"<link=\"ROCKETENVELOPETILE\">Корпус ракеты</link>"
+
+STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_1.DESC
+"Учёный, который о чём-то задумался."
+
+STRINGS.BUILDINGS.PREFABS.SNOWTILE.EFFECT
+""
+"Используется для постройки пола и стен в комнатах.\n"
+"\n"
+"Обеспечивает теплоизоляцию в комнате и не даёт терять <link=\"HEAT\">тепло</link> в холодном климате."
+
+STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.EFFECT
+"Сжигает <link=\"IRON\">железо</link> и <link=\"OXYROCK\">оксилит</link> для увеличения дальности полёта ракеты."
+
+STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT
+"<link=\"HEAT\">Температура</link> ресурсов внутри"
+
+STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC
+"Радиус охвата манипулятора можно увидеть, если (ClickType/clicking) на постройку."
+
+STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.SUPERCOOLANT_RECIPE_DESCRIPTION
+"Супер-хладагент — промышленный хладагент из <link=\"FULLERENE\">фуллерена</link>."
+
+STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.VISCOGEL_RECIPE_DESCRIPTION
+"Вязко-гель – <link=\"ELEMENTSLIQUID\">жидкий</link> полимер с невероятно высоким поверхностным натяжением."
+
+STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.DESC
+"Нетронутый раздатчик <link=\"FIELDRATION\">питательных батончиков</link>."
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.BLUE_BABYTEARS.DESC
+"Яркая успокаивающая раковина для дубликантов с разбитым сердцем."
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.BLUE_BABYTEARS.NAME
+"<link=\"WASHSINK\">Слёзно-голубая раковина</link>"
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.DEFAULT_WASHSINK.DESC
+"Раковины подключены к системе трубопровода, их не нужно вручную опустошать и наполнять."
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.DEFAULT_WASHSINK.NAME
+"<link=\"WASHSINK\">Раковина</link>"
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.GREEN_MUSH.DESC
+"Даже мыло в нужной гамме."
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.GREEN_MUSH.NAME
+"<link=\"WASHSINK\">Землисто-зелёная раковина</link>"
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.PURPLE_BRAINFAT.DESC
+"Освежающий всплеск цвета для моментов слабости."
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.PURPLE_BRAINFAT.NAME
+"<link=\"WASHSINK\">Томно-лиловая раковина</link>"
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.RED_ROSE.DESC
+"Некоторые дубликанты говорят, что эта раковина похожа на пасть, пожирающую микробов."
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.RED_ROSE.NAME
+"<link=\"WASHSINK\">Грязно-розовая раковина</link>"
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.YELLOW_TARTAR.DESC
+"Есть что-то приятное в сочетании мерзкого с чистым."
+
+STRINGS.BUILDINGS.PREFABS.WASHSINK.FACADES.YELLOW_TARTAR.NAME
+"<link=\"WASHSINK\">Мерзковато-жёлтая раковина</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.BLUE_BABYTEARS.DESC
+"Вода немного солёная: это слёзы дубликантов."
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.BLUE_BABYTEARS.NAME
+"<link=\"WATERCOOLER\">Слёзно-голубой кулер</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.GREEN_MUSH.DESC
+"Идеально очищает вкусовые сосочки после грязевого батончика."
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.GREEN_MUSH.NAME
+"<link=\"WATERCOOLER\">Землисто-зелёный кулер</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.PURPLE_BRAINFAT.DESC
+"Большинство дубликантов считают, что этот кулер должен наливать сок."
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.PURPLE_BRAINFAT.NAME
+"<link=\"WATERCOOLER\">Томно-лиловый кулер</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.RED_ROSE.DESC
+"Розовые стаканчики — это лучше, чем розовые очки."
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.RED_ROSE.NAME
+"<link=\"WATERCOOLER\">Грязно-розовый кулер</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.YELLOW_TARTAR.DESC
+"Кто-то варил в этой воде яйца?"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.FACADES.YELLOW_TARTAR.NAME
+"<link=\"WATERCOOLER\">Мерзковато-жёлтый кулер</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERTRAP.EFFECT
+""
+"Приманивает и ловит плавающего <link=\"PACU\">паку</link>.\n"
+"\n"
+"Только дубликанты с навыком <link=\"RANCHING1\">Скотоводство I</link> могут поставить эту ловушку. Ее можно будет использовать повторно!"
+
+STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.AVERAGEQUALITYNAME
+"Посредственная деревянная скульптура"
+
+STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.DESC
+"Отлично подходит для небольших помещений."
+
+STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.EFFECT
+""
+"Умеренно увеличивает значение <link=\"DECOR\">декора</link>, повышая уровень <link=\"MORALE\">морального духа</link>.\n"
+"\n"
+"Должна быть высечена дубликантом-скульптором."
+
+STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.EXCELLENTQUALITYNAME
+"Гениальная деревянная скульптура"
+
+STRINGS.BUILDINGS.PREFABS.WOODSCULPTURE.POORQUALITYNAME
+"\"Абстрактная\" деревянная скульптура"
+
+STRINGS.BUILDINGS.PREFABS.WOODSTORAGE.DESC
+"Запас не бесконечен, но не стоит себя за это корить."
+
+STRINGS.BUILDINGS.PREFABS.WOODSTORAGE.EFFECT
+"Вмещает ограниченные запасы <link=\"WOOD\">древесины</link>, которую можно использовать для строительства или выработки <link=\"HEAT\">тепла</link>."
+
+STRINGS.BUILDINGS.PREFABS.WOODSTORAGE.NAME
+"Куча дерева"
+
+STRINGS.BUILDINGS.PREFABS.WOODTILE.DESC
+"Комнаты, построенные с использованием деревянных плиток, отличаются уютом. В них приятно находиться."
+
+STRINGS.BUILDINGS.PREFABS.WOODTILE.EFFECT
+""
+"Используется для постройки пола и стен в комнатах.\n"
+"\n"
+"Обеспечивает хорошую теплоизоляцию и увеличивает значение <link=\"DECOR\">декора</link>, повышая уровень <link=\"MORALE\">морального духа</link>."
+
+STRINGS.CLUSTER_NAMES.CERES_BASE_CLUSTER.DESCRIPTION
+"Скопление пригодных для посещения планетоидов со стартовым биомом Ледяные пещеры."
+
+STRINGS.CLUSTER_NAMES.CERES_BASE_CLUSTER.NAME
+"Скопление Цереры"
+
+STRINGS.CLUSTER_NAMES.CERES_CLASSIC_CLUSTER.DESCRIPTION
+"Скопление пригодных для посещения планетоидов, где можно начать с ледяного пещерного мира."
+
+STRINGS.CLUSTER_NAMES.CERES_CLASSIC_CLUSTER.NAME
+"Скопление Цереры"
+
+STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.DESCRIPTION
+"Скопление пригодных для посещения планетоидов, где можно начать с ледяного пещерного мира."
+
+STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.NAME
+"Скопление Цереры"
+
+STRINGS.CODEX.A1A_B111.BODY.CONTAINER1
+""
+"Сегодня пришлось отправить доктора Холланда домой: он шатался по лаборатории и что-то бормотал себе под нос. Выглядел так, будто уже несколько дней не спал!\n"
+"\n"
+"Кажется, все так боятся разочаровать нашего драгоценного директора, что доводят себя до ручки. Надо будет обсудить это с Джеки при первой же возможности.\n"
+"------------------\n"
+
+STRINGS.CODEX.A1A_B111.BODY.CONTAINER2
+""
+"Не сработало.\n"
+"\n"
+"Я попыталась сказать, что нам нужно время на внерабочие занятия, но директор продолжила упорствовать, что нам некогда отвлекаться на развлечения.\n"
+"\n"
+"Это уже выходит за всякие рамки. Завтра я устрою для сотрудников что-нибудь интересное, и Джеки придётся с этим смириться. Нужно показать ей, что небольшие перерывы не позволят стрессу накапливаться, и тогда она признает, что это действительно важно.\n"
+"------------------\n"
+
+STRINGS.CODEX.A1A_B111.BODY.CONTAINER3
+""
+"Просто не верится! Я предложила каждому приготовить что-нибудь вкусненькое, а потом устроить совместный обед, но, когда мы стали накрывать на стол, пришла Джеки и заявила, что на \"всю эту ерунду\" ни у кого нет времени. Естественно, все побоялись спорить с \"директором\" и вернулись к работе.\n"
+"\n"
+"Всю еду выкинули, а ведь кто-то принёс домашние вареники! Увидев мусорку, забитую картофельным салатом и куриными крылышками, я расстроилась еще сильнее. Те вареники выглядели просто роскошно.\n"
+"------------------\n"
+
+STRINGS.CODEX.A1A_B111.BODY.CONTAINER4
+""
+"Я продолжаю видеть бессмысленные ошибки от страдающих стрессом лаборантов. Это уже становится опасным. Боюсь, что колония, которую мы хотим построить, будет страдать от таких же проблем, если мы не займёмся оптимизацией здоровья душевного так же, как и здоровья физического. Зачем нам всё это, если мы не сможем построить лучший мир?\n"
+"\n"
+"Возвожно, однажды мне удастся тайком ввести в программу биопринтера регулярные периоды отдыха для дубликантов, так, чтобы Джеки об этом не узнала.\n"
+"------------------\n"
+
+STRINGS.CODEX.BEETA.BODY.CONTAINER1
+""
+"Ядерные пчёлы — это насекомоподобные животные, которые наслаждаются симбиозом с радиоактивной средой, в которой они обитают.\n"
+"\n"
+"Так же, как обычные пчёлы собирают нектар и производят из него мёд, их ядерные «собратья» превращают <link=\"URANIUMORE\">урановую руду</link> в <link=\"ENRICHEDURANIUM\">обогащённый уран</link> в процессе сложной изотопной сепарации внутри ядерного улья.\n"
+"\n"
+"Когда ученые впервые обнаружили это явление, они были приятно удивлены, насколько кооперативное взаимодействие насекомых и их ульев эффективнее самых совершенных промышленных процессов."
+
+STRINGS.CODEX.BLUE_GRASS.SUBTITLE
+"Растение"
+
+STRINGS.CODEX.C01_EVIL.BODY.CONTAINER1
+""
+"Определённо, Никола злой. У него есть какая-то схема, которую он продолжает скрывать от всей Gravitas , и я не смог узнать, что это, потому что он всегда оффлайн и всегда за своим компьютером. Когда я спросил, над чем он работает, он ответил, что я не пойму. П-ф-ф-ф! Мы оба учились физике в одном классе, дружище. Только из-за того, что я «топчу клавиатуру», а не кручу ручки, я не перестал знать, что делает Поле Сдерживания Времени.\n"
+"\n"
+"И когда я сегодня уронил гаечный ключ, Никола чуть из кожи вон не выскочил! Он прыгал вокруг и кричал, чтобы я никогда так не делал. А потом я сказал, «Боже, это ведь не конец света», а он ответил — «Ага, это не похоже на взрыв мира, если я ошибся». Это прозвучало весьма саркастично.\n"
+"\n"
+"Но технически это так. Если Поле Сдерживания Времени разрушится, Темпоральная Дуга теоретически может взорвать весь мир, но специально для предотвращения этого создано множество систем безопасности. И системы безопасности систем безопасности. И ещё системы безопасности поверх всего этого. Но именно он создавал все эти системы, и если бы он захотел, то...\n"
+"------------------\n"
+
+STRINGS.CODEX.C01_EVIL.BODY.CONTAINER2
+""
+"Сегодня я решил приступить к работе пораньше, но когда я пришёл, Никола уже был здесь, и похоже, что он не уходил домой на выходные. Он ходил туда-судя по лаборатории и бормотал себе под нос, но не как злобный злодей. Он выглядел как человек, не спавший целую неделю.\n"
+"\n"
+"«Руби», —  сказал он. «Пообещай мне, что если что-то пойдёт не так, ты включишь эту машину. Они зашли слишком далеко. Биопринтеры печатают слишком...много — СЛИШКОМ МНОГО! Что-то может взорваться. Я пытался... Я пытался сохранить это. Не Землю. Нет надежды сохранить Землю, всё идёт к...», — он изобразил звук взрыва. «Но Космос. Само Время. Оно должно сохраниться, понимаешь? Данная машина способна на это. Расположить Поле Сдерживания Времени вокруг Земли, чтобы время не сломало само себя, и... и...»\n"
+"\n"
+"Неожиданно пришли ребята из службы безопасности. Новые ребята. Люди, которых я никогда раньше не видел. И они просто увели его. Затем они отвели меня в отдельную комнату и задавали много вопросов, и я ответил на них, надеюсь. Я не помню, потому что всё это время я думал  — а что если я ошибался? Что если не он злой, а Gravitas?\n"
+"\n"
+"Что если я ошибался, а он всё это время был прав?\n"
+"------------------\n"
+
+STRINGS.CODEX.CREATURE_DESCRIPTORS.MAXAGE
+"Средняя <link=\"CREATURES::GUIDE::FERTILITY\">продолжительность жизни</link> животного в циклах: <b>{0}</b>."
+
+STRINGS.CODEX.CREATURE_DESCRIPTORS.NON_LETHAL_RANGE
+"Диапазон, пригодный для жизни: от <b>{0}</b> до <b>{1}</b>"
+
+STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING
+"<link=\"CREATURES::GUIDE::MOOD\">Перенаселение</link> наступает, когда в комнате не хватает клеток: менее <b>{0}</b> на каждое животное или яйцо."
+
+STRINGS.CODEX.CRITTERDELIVERY.BODY.CONTAINER1
+""
+"<smallcaps>[Инициализация распознавания голоса]\n"
+"[Идентифицированные субъекты: B482, B759, C094]</smallcaps>\n"
+"\n"
+"[НАЧАЛО ЗАПИСИ]\n"
+"\n"
+"Офицер службы безопасности 1: Эй, эй! Вернитесь!\n"
+"\n"
+"Офицер службы безопасности 2: Руку на сканер, пожалуйста.\n"
+"\n"
+"Курьер: Коенчно, разумеется, я только хотел...\n"
+"\n"
+"Курьер: У-у-упс, спасибо, Стив. Эти парнишки требуют контроля обеими руками.\n"
+"\n"
+"(звуки сопения и скрежета по картону)\n"
+"\n"
+"Офицер безопасности 2: Следуйте за мной, пожалуйста.\n"
+"\n"
+"[КОНЕЦ ЗАПИСИ]"
+
+STRINGS.CODEX.CRITTERSTATUS.CRITTERSTATUS_TITLE
+"Путеводитель"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.BODY.CONTAINER1
+""
+"При первой встрече все животные являются дикими, за исключением детёнышей, которые вылупляются из яиц одомашненных особей: такие животные рождаются уже приручёнными.\n"
+"\n"
+"В процессе одомашнивания животные становятся менее самостоятельными, а также требуют более комфортной среды и ухода. Метаболизм таких животных ускоряется, поэтому им требуется больше калорий.\n"
+"\n"
+"Приручить животное могут дубликанты с навыком животноводства на станции существ. Приручённые существа очень радуются, когда приходит их очередь наслаждаться заботой и вниманием дубликантов."
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.CONTAINER1
+""
+"Одомашненные животные дают намного больше ресурсов и откладывают яйца намного чаще, чем дикие. Чтобы они оставались счастливыми и приносили колонии максимум пользы, им нужна дополнительная забота. (С ними также приятнее находиться рядом.)\n"
+"\n"
+"Когда животное приручено, оно может пользоваться кормушкой, которая неинтересна его диким собратьям."
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.SUBTITLE
+"<b>Эффекты</b>"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_HAPPINESS
+"    • Счастье\n"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_METABOLISM
+"    • Метаболизм животного"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TITLE
+"Приручённость"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TITLE
+"Одомашнивание"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.CONTAINER1
+""
+"Благодаря медленному метаболизму диких животных, дубликантам не приходится их кормить. Однако дикие животные производят меньше ресурсов, чем одомашненные.\n"
+"\n"
+"Если дикое животное относится к миролюбивому виду, его можно попытаться загнать в ловушку или отловить вручную — это довольно безопасно. Если дубликант решит напасть на животное, это спровоцирует битву."
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.SUBTITLE
+"<b>Эффекты</b>"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.TITLE
+"Дикость"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_METABOLISM
+"    • Метаболизм животного\n"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_POOP
+"    • Производство ресурсов\n"
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.BODY.CONTAINER1
+""
+"Скорость и способ размножения зависят от вида животного. Большинство откладывает яйца, которые можно поместить в инкубатор, где и вылупится следующее поколение животных.\n"
+"\n"
+"На скорость размножения животных влияет то, как вы заботитесь о них, а также одомашнивание, уровень счастья и условия, в которых они содержатся."
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.CONTAINER1
+""
+"В большинстве случаев из яйца вылупляется животное такого же типа, как его родитель. Однако из-за генетической нестабильности есть вероятность, что детёныш окажется представителем другого варианта этого вида, другой морфой.\n"
+"\n"
+"На тип яйца влияет ряд факторов.\n"
+"\n"
+"Вероятность определяют:\n"
+"    • диета\n"
+"    • температура тела\n"
+"    • газы и элементы среды\n"
+"    • растения, о которых заботится существо\n"
+"    • морфы в том же вольере\n"
+"\n"
+"Если яйцо отложено приручённым животным, детёныш также вылупится приручённым."
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.TITLE
+"Шансы на получение яйца"
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.CONTAINER1
+""
+"Каждый раз, когда животное завершает репродуктивный цикл (на 100%), оно откладывает яйцо, а затем начинается новый цикл.\n"
+"\n"
+"Среда, в которой живёт животное, имеет огромное значение для его базовой скорости размножения. Если животному тесно, оно подождёт, пока все яйца в помещении не вылупятся или не исчезнут, и только потом станет откладывать собственные.\n"
+"\n"
+"Если животное чувствует себя ограждённым, оно перестает размножаться. Такое может произойти, если животному слишком мало места или если оно застрянет в двери или плитке.\n"
+"\n"
+"Одомашнивание животного и его настроение также влияют на размножение: счастливые откладывают яйца более регулярно. Быстрее всего размножаются счастливые одомашненные животные."
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.TITLE
+"Скорость размножения"
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.CONTAINER1
+"Если рядом с животным слишком много других животных (или если их станет слишком много, когда все вокруг вылупятся), оно временно перестаёт откладывать яйца. Репродуктивная система придёт в норму, когда в пространстве вылупятся все животные или исчезнут все яйца."
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.CRAMPED_FERTILITY
+"    • Размножение"
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.SUBTITLE
+"<b>Эффекты</b>"
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FUTURE_OVERCROWDED.TITLE
+"Теснота"
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.CONTAINER1
+""
+"Инкубационный период животного составляет одну пятую от его общей продолжительности жизни. К примеру, если максимальный возраст животного — 100 циклов, чтобы вылупиться из яйца, ему потребуется 20 циклов.\n"
+"\n"
+"Инкубационный период можно ускорить с помощью осторожного вмешательства скотовода. Животные вылупляются быстрее из яиц, которым пели колыбельные или которых обнимали обнимипы.\n"
+"\n"
+"Обнимать яйца можно где угодно, но петь им колыбельные можно только в инкубаторе. Объятья и колыбельные обладают накопительным действием."
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.TITLE
+"Инкубация"
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_DLC1
+""
+"За исключением ядерных ульев и морбов, которые могут бесконечно существовать в дикой природе, у всех животных продолжительность жизни ограничена. Максимальный возраст отражает максимальное количество циклов, которое может прожить животное, если ему не помешает голод или другие неестественные причины смерти.\n"
+"\n"
+"Если животные травмированы или нездоровы, скотовод может помочь им на станции ухода.\n"
+"\n"
+"Детство существа длится до тех пор, пока оно не станет способно к размножению, обычно 5 циклов. Для этого периода развития животного характерен медленный метаболизм и хорошее настроение.\n"
+"\n"
+"Большинство видов в среднем живут от 75 до 100 циклов. Самой короткой продолжительностью жизни обладают ядерные пчёлы, которые живут только пять циклов."
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_VANILLA
+""
+"За исключением морбов, которые могут бесконечно существовать в дикой природе, у всех животных продолжительность жизни ограничена. Максимальный возраст отражает максимальное количество циклов, которое может прожить животное, если ему не помешает голод или другие неестественные причины смерти.\n"
+"\n"
+"Если животные травмированы или нездоровы, скотовод может помочь им на станции ухода.\n"
+"\n"
+"Детство существа длится до тех пор, пока оно не станет способно к размножению, обычно 5 циклов. Для этого периода развития животного характерен медленный метаболизм и хорошее настроение.\n"
+"\n"
+"Большинство видов в среднем живут от 75 до 100 циклов."
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.TITLE
+"Макс. возраст"
+
+STRINGS.CODEX.CRITTERSTATUS.FERTILITY.TITLE
+"Размножение"
+
+STRINGS.CODEX.CRITTERSTATUS.METABOLISM.BODY.CONTAINER1
+""
+"Метаболизм животного определяется его аппетитом и материалами, которые оно выделяет.\n"
+"\n"
+"Чем быстрее метаболизм животного, тем быстрее оно начинает голодать. Животные с низким метаболизмом меньше едят, но, поскольку они потребляют меньше калорий, они дают меньше ресурсов.\n"
+"\n"
+"На пищеварительный процесс животного влияют его одомашненность, настроение и возраст (детёныш это или взрослое животное)."
+
+STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.CONTAINER1
+""
+"Приручённые животные обладают намного более быстрым метаболизмом, чем дикие, поэтому они быстрее начинают чувствовать голод. Если колония может обеспечивать им необходимое питание, приручённые животные более выгодны для производства ресурсов.\n"
+"\n"
+"Размеры желудка у всех животных разные, но все они способны запасти еды как минимум на пять циклов. Живот существа начинает урчать, когда наполненность его желудка падает ниже 90%. Такое существо начинает искать еду и не останавливается, пока не заполнит желудок до 100%.\n"
+"\n"
+"Самым медленным метаболизмом обладают детёныши, хотя метаболизм грустных прирученных существ ненамного выше."
+
+STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.TITLE
+"Голод"
+
+STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_DLC1
+"За исключением морбов и ядерных пчёл, которым для выживания не нужны калории, приручённые животные могут прожить без еды лишь ограниченное количество циклов (не более {0}). Дикие существа никогда не умирают от голода."
+
+STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_VANILLA
+"За исключением морбов, которым для выживания не нужны калории, приручённые животные могут прожить без еды лишь ограниченное количество циклов (не более {0}). Дикие существа никогда не умирают от голода."
+
+STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.TITLE
+"Истощение"
+
+STRINGS.CODEX.CRITTERSTATUS.METABOLISM.TITLE
+"Метаболизм"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_FERTILITY
+"    • Размножение\n"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_HAPPINESS
+"    • Счастье"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONTAINER1
+""
+"Животным каждого вида нужно определенное пространство. Если существу слишком мало места, оно чувствует себя ограждённым. Это также происходит, если существо застревает в дверях или плитке. В этом состоянии существа не размножаются.\n"
+"\n"
+"Ройки являются исключением из этого правила: из-за инстинкта рыть норы они чувствуют себя вполне комфортно в тесных пространствах и никогда не чувствуют себя ограждёнными."
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.SUBTITLE
+"<b>Эффекты</b>"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.TITLE
+"Ограждён"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.CONTAINER1
+""
+"Животные могут выживать в неидеальных условиях, но их настроение, метаболизм и выработка ресурсов будут падать. Если уровень счастья животного опускается ниже нуля, оно становится грустным.\n"
+"\n"
+"Дикие существа менее подвержены влиянию грусти, чем их приручённые братья, но тесные замкнутые пространства и на них оказывают отрицательное влияние."
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.GLUMWILD_METABOLISM
+"    • Метаболизм животного\n"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.SUBTITLE
+"<b>Эффекты</b>"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.CONTAINER1
+""
+"Счастливые приручённые животные производят больше полезных ресурсов и откладывают яйца чаще, чем хмурые или дикие. Одомашненные животные обладают меньшей выносливостью, чем дикие: чтобы оставаться счастливыми, им нужно больше заботы от дубликантов.\n"
+"\n"
+"Базовый уровень счастья детёнышей выше, чем у взрослых особей, но детёныши не производят ни ресурсов, ни яиц.\n"
+"\n"
+"Дубликанты с навыком скотоводства умеют приручать животных и заботиться о них. Они могут поднять настроение животного, пообщавшись с ним на станции ухода.\n"
+"\n"
+"Если животное попьёт из поилки, его настроение также улучшится, хотя в молокене из поилки не так много полезных веществ.\n"
+"\n"
+"Если животному тесно или оно чувствует себя ограждённым, его уровень счастья падает."
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.HAPPY_METABOLISM
+"    • Косвенно влияет на скорость откладывания яиц"
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_DLC1
+""
+"Большинство животных обладают дружелюбной натурой. Если дубликанты захотят их атаковать, такие существа попытаются защититься, но их природная пассивность не позволит им нанести серьёзный урон обидчику.\n"
+"\n"
+"В то же время, некоторые животные отличаются удивительным инстинктом самосохранения. С ними стоит держаться очень осторожно. Например, крабы-щипачи, которые не враждебны по природе, яростно защищают своих детёнышей и яйца и готовы напасть, если другое животное или дубликант подойдут слишком близко к их яйцам.\n"
+"\n"
+"Ядерные пчёлы не только враждебны от природы, но еще и радиоактивны. Их нельзя приручить, но можно усыпить с помощью углекислого газа."
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_VANILLA
+""
+"Большинство животных обладают дружелюбной натурой. Если дубликанты захотят их атаковать, такие существа попытаются защититься, но их природная пассивность не позволит им нанести серьёзный урон обидчику.\n"
+"\n"
+"В то же время, некоторые животные отличаются удивительным инстинктом самосохранения. С ними стоит держаться очень осторожно. Например, крабы-щипачи, которые не враждебны по природе, яростно защищают своих детёнышей и яйца и готовы напасть, если другое животное или дубликант подойдут слишком близко к их яйцам."
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.CONTAINER1
+""
+"Наступает, если животному отводится достаточно места, но ему приходится делить его с большим количеством других животных. У каждого вида свои потребности в пространстве, поэтому в одних и тех же условиях разные животные чувствуют себя по-разному. Например, имеется комната из 28 клеток. В ней находятся хатч (требует 12 клеток) и пуффт (требует 16 клеток). Каждое животное считает требования по месту других животных равными собственным, поэтому хатчу будет комфортно (12+12=24 клетки, 24<28), а пуффт ощутит перенаселение (16+16=32 клетки, 32>28).\n"
+"\n"
+"Чем сильнее превышена норма соседей, тем острее существо ощущает перенаселение: если животному и так мало места, но вы подселяете к нему новых соседей, его уровень счастья опустится еще ниже."
+
+STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.TITLE
+"Перенаселение"
+
+STRINGS.CODEX.DEERSPECIES.SPECIES_SUBTITLE
+"Морфы животного"
+
+STRINGS.CODEX.DEERSPECIES.SUBTITLE
+"Одомашненное животное"
+
+STRINGS.CODEX.EXOBASES.PARAGRAPH_2
+""
+"Для исследования космоса и открытия ближайших пунктов назначения ракет, необходимо построить <link=\"CLUSTERTELESCOPE\">телескоп</link> на поверхности планетоида. <link=\"ORBITALRESEARCHCENTER\">Орбитальные микролаборатории</link> на орбите планетоида и <link=\"SCANNERMODULE\">картографический модуль</link> на ракете также будут открывать пространство космической карты\n"
+"\n"
+"Всегда проверяйте топливо в двигателе, чтобы его хватало для достижения пункта назначения, а также помните о том, что ракеты могут приземляться только на те планетоиды, где построена <link=\"LAUNCHPAD\">ракетная платформа</link>. Однако, некоторые модули, такие как <link=\"SCOUTMODULE\">модуль для Ровера</link> и <link=\"PIONEERMODULE\">модуль для десантирования</link> могут быть отправлены с орбиты на поверхность планетоида.\n"
+"\n"
+
+STRINGS.CODEX.HARDSKINBERRYPLANT.SUBTITLE
+"Съедобное растение"
+
+STRINGS.CODEX.ICEBELLY.SPECIES_SUBTITLE
+"Морфы животного"
+
+STRINGS.CODEX.ICEBELLY.SUBTITLE
+"Одомашненное животное"
+
+STRINGS.CODEX.ICEFLOWER.SUBTITLE
+"Декоративное растение"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_CLEANUP.BODY.CONTAINER1
+""
+"Опубликовано: Б. Бозон\n"
+"ID сотрудника: X002\n"
+"Отделение: Управление интеллектуальной собственностью Gravitas\n"
+"\n"
+"Описание вакансии:\n"
+"\n"
+"Требуется один (1) роботоинженер для одиночного путешествия. Пункт назначения: [СКРЫТО]. Инженер должен создать, запрограммировать и обеспечить поддержку для восьми (8) биоботов П.Э.Г.Г.И.\n"
+"\n"
+"Инженер должен вести учет всех отходов проекта [СКРЫТО].\n"
+"\n"
+"Все оборудование предприятия должно быть возвращено на его территорию для дальнейшего исследования. От органических отходов инженер может избавляться по своему усмотрению.\n"
+"\n"
+"Кандидат: Проф. Э. Госсмэнн\n"
+"\n"
+"Территория для очищения: [СКРЫТО] кв. км.\n"
+"*Это только примерные значения.\n"
+"\n"
+"Время: 54 церерных дня (соотв. 6 дней на планете происхождения).\n"
+"\n"
+"Дополнительные комментарии:\n"
+"1. Документ об отказе от ответственности, письменная доверенность и соглашение о неразглашении информации во вложении.\n"
+"2. Передача сигнала с [СКРЫТО] может занять до 0,5 часа в зависимости от орбитального положения.\n"
+"3. Вся соответствующая информация должна направляться непосредственно по адресу bboson@gipm.nova.\n"
+"\n"
+"Подпись: [СКРЫТО]\n"
+"\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_CLEANUP.BODY.CONTAINER2
+""
+"<smallcaps><i>Авторизовано: Директор Дж. Стерн\n"
+"\n"
+"-----------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_CLEANUP.SUBTITLE
+"Статус: СРОЧНО"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_CLEANUP.TITLE
+"Санитарный приказ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.CONTAINER1
+""
+"<indent=5%>Удивительно. Его результаты значительно превосходят мои ожидания, но он <i>действительно</i> обладает выдающейся харизмой.\n"
+"\n"
+"Если мне удастся найти замену, возможно, доктор Текна сможет воспользоваться его услугами.\n"
+"\n"
+"В данный момент продолжаем действовать по плану... с подобающей осторожностью.</indent>"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.CONTAINER2
+""
+"<indent=5%>Директор,\n"
+"\n"
+"Так точно. Прекращаем всяческое тестирование.\n"
+"\n"
+"Один из резидентов уже встретился с доктором Олоуэ. Результаты приложены ниже. Они несовместимы с нашими целями, и, откровенно говоря, они меня пугают.\n"
+"\n"
+"Исключить его из тренировочной группы?</indent>"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.CONTAINER3
+""
+"<indent=5%>Эти кандидаты отобраны мной лично. Знать критерии в ваши обязанности не входит. Считайте эту группу заведомо одобренной.\n"
+"\n"
+"Нарушение сроков этого проекта может привести к критическим временным последствиям. Вам все ясно?</indent>"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.CONTAINER4
+""
+"<indent=5%>Директор,\n"
+"\n"
+"Заявки потенциальных поселенцев обработаны на первичном этапе.\n"
+"\n"
+"Поскольку кандидаты не проходили формальной подготовки к космическим путешествиям, доктор Олоуэ проведет оценку их психологического и эмоционального состояния.\n"
+"\n"
+"Когда тестирование закончится, потенциальные поселенцы будут отправлены в биокупол для начала тренировки.</indent></color>"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.EMAILHEADER1
+""
+"<smallcaps>Кому: <b>Директору Стерн</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color>\n"
+"От: <b>[СКРЫТО]</b></smallcaps>\n"
+"------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.EMAILHEADER2
+""
+"<smallcaps>Кому: <b>[СКРЫТО]</b>\n"
+"От: <b>Директора Стерн</b><size=12><alpha=#AA> <jstern@gravitas.nova></size></color></smallcaps>\n"
+"------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.SIGNATURE1
+""
+"\n"
+"[СКРЫТО]\n"
+"<size=11>Координатор проекта \"Церера\"\n"
+"Корпорация Gravitas</size>\n"
+"------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.BODY.SIGNATURE2
+""
+"\n"
+"-Директор Стерн\n"
+"<size=11>Корпорация Gravitas</size>\n"
+"------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: ВТОРОЙ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.TITLE
+"Re: Re: Экотуризм"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.TITLE2
+"Re: Экотуризм"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_ECOTOURISM.TITLE3
+"Экотуризм"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.BODY.CONTAINER1
+""
+"Уважаемый доктор Морсон,\n"
+"\n"
+"С сожалением сообщаю, что с этого момента ваш сын Кельвин исключён из научной академии Брайтхол.\n"
+"\n"
+"Во время своего непродолжительного обучения Кельвин показал себя талантливым юношей с незаурядными способностями по всем предметам.\n"
+"\n"
+"Однако он предпочитает использовать свой интеллект в бунтарских и подстрекательских целях.\n"
+"\n"
+"Его последнее нарушение — публичное оскорбление приглашенного лектора из компании Global Energy Inc. во время ярмарки спонсоров сегодня утром, вследствие которого все студенты без разрешения покинули лекцию.\n"
+"\n"
+"Мы сочувствуем сложной ситуации Кельвина и понимаем, что, как учёный-беженец из захваченной GEI территории, он сталкивается со множеством испытаний, но академия больше не может мириться с подобными нарушениями образовательного процесса.\n"
+"\n"
+"С уважением,"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.BODY.LETTERHEADER1
+""
+"<smallcaps>Кому: <b>Доктору Гарольду П. Морсону</b><alpha=#AA><size=12> <hmoreson@gravitas.nova></size></color>\n"
+"От: <b>Доктора Дилана Тимбра</b><alpha=#AA><size=12> <principal@brighthall.edu></smallcaps>\n"
+"------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.BODY.SIGNATURE
+""
+"Дилан Тимбр\n"
+"<size=11>Директор\n"
+"\n"
+"Научная академия Брайтхол\n"
+"<i>Virtutem Doctrina Parat</i></size>\n"
+"------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: НЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_EXPELLED.TITLE
+"Письмо от директора"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.BODY.CONTAINER1
+""
+"Директор, это письмо пришло в общий почтовый ящик.\n"
+"\n"
+"-----------------------------------------------------------------------------------------------------\n"
+"<indent=35%>~ * ~</indent>\n"
+"\n"
+"<indent=12%>П-к. Джозефина Карно и доктор Алан Стерн</indent>\n"
+"<indent=35%>, а также</indent>\n"
+"<indent=12%>проф. Кюнг Мин Вен и проф. Субин Чен</indent>\n"
+"\n"
+"<indent=20%><i>с радостью сообщают о\n"
+"<indent=15%>появлении на свет своей первой внучки,</i></indent>\n"
+"\n"
+"<smallcaps><indent=20%><b><size=17>Жизель Джеки-Лин Стерн,</size></b></indent></smallcaps>\n"
+"\n"
+"<indent=15%><i>и поздравляют счастливых родителей</i></indent>\n"
+"\n"
+"<indent=20%>Джонатана Стерна и Венлин Чен</indent>\n"
+"\n"
+"<indent=18%><i>с успешным и здоровым вынашиванием.</i></indent>\n"
+"\n"
+"<indent=35%>~ * ~</indent>\n"
+"\n"
+"</indent><indent=18%><i>Позже пришлем приглашения на празднование.</i></indent>\n"
+"-----------------------------------------------------------------------------------------------------\n"
+"\n"
+"Отправить к остальным?"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.BODY.LETTERHEADER1
+""
+"<smallcaps>Кому: <b>Директору Стерн</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\n"
+"От: <b>[СКРЫТО]</b></smallcaps>\n"
+"\n"
+"-----------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.BODY.SIGNATURE
+""
+"Администратор<size=11>\n"
+"Корпорация Gravitas</size>\n"
+"------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: НЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_NEWBABY.TITLE
+"FWD: Радостное событие"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.BODY.CONTAINER1
+""
+"<smallcaps><b>[ФАЙЛ ПОВРЕЖДЁН]</b></smallcaps>\n"
+"\n"
+"...\n"
+"\n"
+"[Помехи.]\n"
+"\n"
+"...трагедия...ведущий проект по изучению солнечных клеток...\n"
+"\n"
+"     ...во время тренировочных...     ...два первоклассных пилота...многочисленная команда центра управления...\n"
+"\n"
+"...директор института Vertex выражает соболезнования...  ...обещает продолжить...не напрасно...\n"
+"\n"
+"       ...исследовательское сообщество скорбит...\n"
+"\n"
+"...корпорация Gravitas выпустила [неразборчиво] заявление...\n"
+"...осудив небезопасные условия труда...    ...приглашает профессионалов...всем дисциплинам...\n"
+"\n"
+"             ...следите за..."
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.BODY.CONTAINER2
+""
+"...\n"
+"\n"
+"[Помехи.]\n"
+"\n"
+"<smallcaps><b>[ЗАПИСЬ ОБРЫВАЕТСЯ]</b></smallcaps>\n"
+"\n"
+"-----------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: НЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.TITLE
+"Новости о трагедии"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.BODY.CONTAINER1
+""
+"<smallcaps><b>[ФАЙЛ ПОВРЕЖДЁН]</b></smallcaps>\n"
+"\n"
+"...\n"
+"\n"
+"[Помехи.]\n"
+"\n"
+"...трагедия...  ...ведущая система борьбы со смогом...\n"
+"\n"
+"    ...тренировочный...\n"
+"\n"
+"...турбулентность ясного неба...    ...пилот в реанимации...\n"
+"\n"
+"...невозможно предсказать долгосрочные последствия...\n"
+"\n"
+"         ...меры общественного здравоохранения...\n"
+"\n"
+"  ...проекты института Vertex приостановлены до завершения расследования...\n"
+"\n"
+"...исследовательское сообщество шокировано...\n"
+"\n"
+"      ...корпорация Gravitas выступила с [неразборчиво] заявлением...\n"
+"\n"
+"...приглашает всех пострадавших сотрудников...все дисциплины...\n"
+"\n"
+"           ...следите за дальн..."
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.BODY.CONTAINER2
+""
+"...\n"
+"\n"
+"[Помехи.]\n"
+"\n"
+"<smallcaps><b>[ЗАПИСЬ ОБРЫВАЕТСЯ]</b></smallcaps>\n"
+"\n"
+"-----------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: НЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.TITLE
+"Новости о трагедии"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.BODY.CONTAINER1
+""
+"<smallcaps><b>[ФАЙЛ ПОВРЕЖДЁН]</b></smallcaps>\n"
+"\n"
+"...\n"
+"\n"
+"[Помехи.]\n"
+"\n"
+"...чуть не обернулся трагедией, но повлек за собой исторический успех...      \n"
+"\n"
+"...ведущий проект по разработке искусственного интеллекта...\n"
+"\n"
+"     ...турбулентность ясного неба...     ...мощный ураган...\n"
+"\n"
+"...пилот потерял сознание...    ...автоматическая система взяла контроль над управлением...\n"
+"\n"
+"     ...в безопасности...      ...директор института Vertex... выражает благодарность...полковнику [неразборчиво] от лица...\n"
+"\n"
+"      ...возобновить финансирование, лимиты не оговариваются...\n"
+"\n"
+"...исследовательское сообщество торжествует...     корпорация Gravitas выступила с заявлением ...требует ответа... обвинения в промышленном шпионаже...\n"
+"\n"
+"      ...отказался комментировать... \n"
+"\n"
+"...оставайтесь с...\n"
+"\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.BODY.CONTAINER2
+""
+"...\n"
+"\n"
+"[Помехи.]\n"
+"\n"
+"<smallcaps><b>[ЗАПИСЬ ОБРЫВАЕТСЯ]</b></smallcaps>\n"
+"\n"
+"-----------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: НЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.TITLE
+"Предотвращённая трагедия"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_THEARCHIVE.BODY.CONTAINER1
+""
+"Добро пожаловать!\n"
+"Всё под контролем!\n"
+"\n"
+"<b>Ваш VIP-набор включает в себя:</b><indent=5%>\n"
+"\n"
+"- Эксклюзивный набор уникальных технологий для выживания!\n"
+"- Полное руководство поселенца, в котором есть все для поддержания гомеостаза в вашем новом доме! <alpha=#AA>[ВЛОЖЕНИЕ ОТСУТСТВУЕТ]</color></indent>\n"
+"\n"
+"Народная мудрость предлагает смотреть на небо, оказавшись на дне! Это неверно! Смотрите под ноги!\n"
+"\n"
+"Это прекрасный способ приятно потянуть напряженные мышцы шеи. Также это позволит вам заметить разноцветные линии на полу, которые указывают путь к отапливаемым комфортным жилым помещениям снизу.\n"
+"\n"
+"Помните: выживание — это успех!\n"
+"\n"
+"<smallcaps><size=11><i>Gravitas не несет ответственности за смерть, последствия для здоровья, травмы, а также психологический и эмоциональный урон, который могут понести поселенцы. Свяжитесь с агентом бронирования, чтобы узнать подробности.</i></size></smallcaps>"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_THEARCHIVE.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: НЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_THEARCHIVE.TITLE
+"Добро пожаловать на Цереру!"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_VOICEMAIL.BODY.CONTAINER1
+""
+"<smallcaps>[Файл поврежден]\n"
+"[Определение голоса невозможно]</smallcaps>\n"
+"\n"
+"[НАЧАЛО ЗАПИСИ]\n"
+"\n"
+"...Дедуль? ...один из твоих интернов в кардигане оставил письмо, в котором сказано, что ты полетел В КОСМОС??\n"
+"\n"
+"Ты с ума сошел?\n"
+"\n"
+"Дата на конверте наступит только через неделю... парнишка весь покраснел, когда заметил свою ошибку.\n"
+"\n"
+"Миранда говорит, что не общалась с тобой с саммита об устойчивом будущем.\n"
+"\n"
+"Она упомянула какую-то тренировку. Но никто в офисе не понимает, о чем она.\n"
+"\n"
+"Как я завтра буду объяснять твое отсутствие? GEI будет рвать и метать. Если они откажутся от сделки, работу потеряют не только мелкие сотрудники.\n"
+"\n"
+"...Чего ты надеялся добиться, оказавшись запертым в космосе с четырьмя незнакомцами до конца своей жалкой жизни?\n"
+"\n"
+"Ты бизнесмен, а не космонавт!\n"
+"\n"
+"И я еще молчу о том, что идет <i>война</i>! Откуда тебе знать, что центр управления всё ещё будет существовать через год?\n"
+"\n"
+"[Детский плач.]\n"
+"\n"
+"<i>Эндрю, это тебе не детский сад!</i>\n"
+"\n"
+"Мне пора. Перезвони, иначе я отправлюсь напрямую к совету директоров.\n"
+"\n"
+"[КОНЕЦ ЗАПИСИ]"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_VOICEMAIL.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: НЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_VOICEMAIL.TITLE
+"Голосовое сообщение"
+
+STRINGS.CODEX.JOURNALISTREQUEST.BODY.CONTAINER2
+""
+"<indent=5%>Я не знаю, как ты добился этого, но из офиса Стерн только что позвонили в газету и дали мне эксклюзивный материал... и пропуск в корпорацию Gravitas. Я задолжал тебе пиво. Нет, ящик пива. Шесть ящиков пива!\n"
+"\n"
+"Серьёзно, спасибо тебе. Я знаю, что ты в сложном положении, но ты всё сделал правильно. Увидимся во вторник.</indent>"
+
+STRINGS.CODEX.JOURNALISTREQUEST.BODY.CONTAINER4
+""
+"<indent=5%>Доктор Олоуэ!\n"
+"\n"
+"Простите, я понимаю, мне не стоило подкарауливать вас возле дома прошлым вечером. Но в Gravitas творится что-то не то, люди должны об этом узнать. Пожалуйста, позвоните мне.</indent>"
+
+STRINGS.CODEX.MISSINGNOTES.BODY.CONTAINER2
+""
+"<indent=5%>Б-же, Амари, ты столь драматична! Возможно, это просто глюк системного обновления по сети. Никто не может проникнуть в твой офис, не пройдя через новый сканер отпечатков.\n"
+"\n"
+"PS: Работа любого сотрудника приватна, не только твоя ;)</indent>"
+
+STRINGS.CODEX.MYLOG.BODY.RECBUILDINGS.BODY
+""
+"Мои дубликанты продолжают расти и учиться очень быстро, я не могу им в этом помочь, но горжусь их достижениями. Но чем больше растут их навыки, тем больший требуется моральный стимул. Если все будут работать без отдыха, колония будет несчастна.\n"
+"\n"
+"Я должен обеспечить более продуманные развлекательные мероприятия для моих дубликантов, чтобы они комфортно себя чувствовали и колония могла расти. Период отдыха делает дубликанта счастливым, а счастливый дубликант — продуктивный дубликант.\n"
+"\n"
