@@ -870,12 +870,13 @@ let textarea_timer = setInterval(OnTextareaUpdate,300);
 // Добавляем обработчик события keydown к элементу textarea
 textarea.addEventListener('keydown', function(event) {
 	// event.key содержит название нажатой клавиши
-	//console.log('Нажата клавиша: ' + event.key);
+	//console.log('Нажата клавиша: ' + event.keyCode);
+	var keyCode = event.keyCode
 	if (event.altKey) {
-		let key = event.key
+		//let key = event.key
 		
 		// Для сочетаний клавиш вы можете использовать event.altKey, event.ctrlKey, и event.shiftKey
-		if (key === 'x' || key === 'X' || key === 'ч' || key === 'Ч') {
+		if (keyCode === 88) {
 			//console.log('Нажата комбинация Alt + X');
 			// Здесь можно добавить ваш код, который будет выполняться при нажатии Alt + C
 			let text = textarea.value;
@@ -903,7 +904,7 @@ textarea.addEventListener('keydown', function(event) {
 		}
 	}
 	if (event.ctrlKey) {
-		let move = (event.key === 'ArrowLeft' ? -1 : (event.key === 'ArrowRight' ? 1 : 0));
+		let move = (keyCode === 37 ? -1 : (keyCode === 39 ? 1 : 0));
 		if (move !== 0) {
 			if (!CURRENT_ENG_TAGS) { // анализируем английский вариант и создаём теги
 				const regex = /<(\w+)([^>]*)>/g;
@@ -973,11 +974,12 @@ textarea.addEventListener('keydown', function(event) {
 
 document.addEventListener('keydown', function(event) {
 	//console.log(event.key)
-	if (event.key === 'Escape' && IS_MODAL) {
+	var keyCode = event.keyCode;
+	if (keyCode === 27 && IS_MODAL) {
 		CloseModal()
 	}
 	if (event.ctrlKey) {
-		if (event.key === 's' || event.key === 'S' || event.key === 'ы' || event.key === 'Ы' ) { // Ctrl+S
+		if (keyCode === 83) { // Ctrl+S
 			// Save/export
 			SaveOrExport();
 			event.preventDefault();
@@ -1054,7 +1056,7 @@ function SearchBlock() {
 		+'<p id="search_results" style="text-align:left;width:100%"></p>'
 	);
 	document.getElementById('search_str').addEventListener('keypress', function (e) {
-    if (e.key === 'Enter') {
+    if (e.keyCode === 13) {
       // Действия, которые нужно выполнить при нажатии Enter
 			//console.log('enter');
       ButtonStartSearch();
