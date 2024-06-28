@@ -1009,7 +1009,19 @@ function SetNumber() {
 	DoModal('<p>Введите номер блока (от 1 до '+(db.length)+'):<br>'
 		+'<input type=text size=10 id="block_num" value="'+(NUM_NOW+1)+'"><br>'
 		+'<button onclick="SetNumberOK()">Принять</button></p>'
-	)
+	);
+	let input = document.getElementById('block_num');
+	input.addEventListener('keypress', function (e) {
+    if (e.keyCode === 13) {
+      // Действия, которые нужно выполнить при нажатии Enter
+			//console.log('enter');
+      SetNumberOK()
+    }
+	});
+	if (input) {
+		input.focus();
+		input.setSelectionRange(input.value.length, input.value.length);
+	}
 }
 function SetNumberOK(num) { //console.log("SetNumberOK()")
 	if (!IS_MODAL) return console.log('err: not is modal');
