@@ -8,11 +8,15 @@
 <title>ONI UI for translaters</title>
 <style>
 
-/* --- For Chrome 49 ---
+/* --- For Chrome 49 --- 
 textarea.main {
   height: 200px;
 }
 */
+
+* {
+  box-sizing: border-box;
+}
 
 	body {
 		margin: 0;
@@ -20,9 +24,10 @@ textarea.main {
 		font-family: Arial, sans-serif;
 		background-color: #000;
 		color: #999;
-		display: flex;
+		/* display: flex;
 		flex-direction: column;
-		height: 100vh;
+		height: 100vh; */
+		min-height: 100vh;
 	}
 	.header, .footer {
 		background-color: #151515;
@@ -36,36 +41,49 @@ textarea.main {
 	}
 	.header {
 		top: 0;
+		height:70px;
 	}
 	.footer {
 		bottom: 0;
+		height:60px;
 	}
 	.content {
-		flex-grow: 1;
-		padding-top: 60px; /* Height of header */
-		padding-bottom: 60px; /* Height of footer */
-		overflow: auto;
+		/* flex-grow: 1; */
+		padding-top: 60px; 
+		padding-bottom: 60px; 
+		overflow: hidden; /* clearfix */
+		*/ overflow: auto;
 		display: flex;
 		flex-direction: column;
-		flex-grow: 1;
+		flex-grow: 1; */
 	}
 	
+.content::after { /* clearfix */
+  content: "";
+  display: table;
+  clear: both;
+}
+	
 		.textarea-section {
-			flex: 1;  /* Takes 1/3 of the available space */
+			/* flex: 1; */  /* Takes 1/3 of the available space */
+			float: left;
+			width: 100%;
 			padding: 20px;
 			padding-bottom: 0;
-			min-height: calc(33.33%);
+			/* min-height: calc(33.33%); */
 		}
 		.other-section {
-			flex: 2; /* Takes 2/3 of the available space */
+			/* flex: 2; */ /* Takes 2/3 of the available space */
+			float: left;
+			width: 100%;
 			padding: 20px;
 			padding-top: 0;
 			/* background-color: #000;  Just for visibility */
 		}
 		textarea {
 			width: 100%;
-			height: 100%;
-			box-sizing: border-box;
+			height: 180px;
+			/* box-sizing: border-box; */
 			background-color: #111;
 			color: #0f0;
 		}
@@ -199,7 +217,7 @@ textarea.main {
 		<button id="btnSettings">Настройки</button>
 		<button id="btnImport">Импорт</button>
 		<button id="btnExport">Сохр./Экспорт</button><br>
-    <span class="version">v0.06</span>
+    <span class="version">v0.07</span>
 		<!--button>About</button>
 		<button>Contact</button-->
   <!-- Settings content -->
@@ -567,45 +585,14 @@ btnExport.onclick = SaveOrExport;
 
 </script>
 	</div>
-	<div class="content">
-				<div
-        <div class="textarea-section">
-            <textarea class=main>Нужно включить JavaScript, чтобы функции UI заработали.</textarea>
-        </div>
-        <div class="other-section">
-            <!-- Add content here -->
-								<h3><span id="msgxtxt">Welcome to Our Page</span></h3>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here.</p>
-		<p>This is the content area. You can add more content here0.</p>
-		<p>This is the content area. You can add more content here1.</p>
-		<p>This is the content area. You can add more content here2.</p>
-		<p>This is the content area. You can add more content here3.</p>
-        </div>
-
+	<div class="content">	
+		<div class="textarea-section">
+			<textarea class=main>Нужно включить JavaScript, чтобы функции UI заработали.</textarea>
+		</div>
+		<div class="other-section">
+			<h3><span id="msgxtxt">Welcome to Our Page</span></h3>
+			<!-- <p>This is the content area. We can add more content here.</p> -->
+		</div>
 	</div>
 	<div class="footer">
 		<button>Privacy</button>
