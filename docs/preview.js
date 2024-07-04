@@ -535,6 +535,16 @@ db = [
 	klei: `{Duplicant} возвращается в состояние блаженного неведения`,
 },
 {
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.COOLINGWATER.NAME",
+	msgid: `Cooling Water`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.COOLINGWATER.TOOLTIP",
+	msgid: `This building is cooling <style=\\"KKeyword\\">Water</style> down to its freezing point`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.NEEDS_ARMING.NAME",
 	msgid: `Waiting to be Armed`,
 	msgstr: ``,
@@ -1810,6 +1820,20 @@ Reveals visitable Planetoids in space... in comfort!\\n
 \\n
 Assigned Duplicants must possess the <link=\\"ASTRONOMY\\">Astronomy</link> skill.\\n
 \\n
+Building must be exposed to space to function.`,
+			msgstr: `
+Открывает планетоиды в космосе... с комфортом!\\n
+\\n
+Назначенные дубликанты должны обладать навыком <link=\\"ASTRONOMY\\">Астрономия</link> skill.\\n
+\\n
+Космос должен находиться в прямой видимости постройки для её функционирования.`,
+		},
+		{
+			msgid: `
+Reveals visitable Planetoids in space... in comfort!\\n
+\\n
+Assigned Duplicants must possess the <link=\\"ASTRONOMY\\">Astronomy</link> skill.\\n
+\\n
 Excellent sunburn protection  (100%), partial <link=\\"RADIATION\\">Radiation</link> protection (50%) .\\n
 \\n
 Building must be exposed to space to function.`,
@@ -1821,20 +1845,6 @@ Building must be exposed to space to function.`,
 Отличная защита от солнечных ожогов (100%), частичная защита от <link=\\"RADIATION\\">радиации</link> (50%).\\n
 \\n
 Постройка должна быть расположена в прямой видимости космоса.`,
-		},
-		{
-			msgid: `
-Reveals visitable Planetoids in space... in comfort!\\n
-\\n
-Assigned Duplicants must possess the <link=\\"ASTRONOMY\\">Astronomy</link> skill.\\n
-\\n
-Building must be exposed to space to function.`,
-			msgstr: `
-Открывает планетоиды в космосе... с комфортом!\\n
-\\n
-Назначенные дубликанты должны обладать навыком <link=\\"ASTRONOMY\\">Астрономия</link> skill.\\n
-\\n
-Космос должен находиться в прямой видимости постройки для её функционирования.`,
 		},
 	],
 },
@@ -1890,20 +1900,6 @@ Conducts <link=\\"RESEARCH\\">Interstellar Research</link> to unlock new technol
 \\n
 Consumes data from <link=\\"TELESCOPE\\">Telescopes</link> and <link=\\"RESEARCHMODULE\\">Research Modules</link>.\\n
 \\n
-Assigned Duplicants must possess the <link=\\"ASTRONOMY\\">Astronomy</link> skill.`,
-			msgstr: `
-Производит очки <link=\\"RESEARCH\\">космических исследований</link> для разблокирования новых технологий.\\n
-\\n
-Обрабатываает данные с <link=\\"TELESCOPE\\">телескопов</link> и <link=\\"RESEARCHMODULE\\">картографических модулей</link>.\\n
-\\n
-Назначенные дубликанты должны обладать навыком <link=\\"ASTRONOMY\\">Астрономия</link>.`,
-		},
-		{
-			msgid: `
-Conducts <link=\\"RESEARCH\\">Interstellar Research</link> to unlock new technologies.\\n
-\\n
-Consumes data from <link=\\"TELESCOPE\\">Telescopes</link> and <link=\\"RESEARCHMODULE\\">Research Modules</link>.\\n
-\\n
 Assigned Duplicants must possess the <link=\\"SENIORRESEARCHER\\">Astronomy</link> skill.`,
 			msgstr: `
 Производит очки <link=\\"RESEARCH\\">космических исследований</link> для разблокирования новых технологий.\\n
@@ -1911,6 +1907,20 @@ Assigned Duplicants must possess the <link=\\"SENIORRESEARCHER\\">Astronomy</lin
 Использует данные с <link=\\"TELESCOPE\\">телескопов</link> и <link=\\"RESEARCHMODULE\\">исследовательских модулей</link>.\\n
 \\n
 Назначенные дубликанты должны обладать навыком <link=\\"SENIORRESEARCHER\\">Астрономия</link>.`,
+		},
+		{
+			msgid: `
+Conducts <link=\\"RESEARCH\\">Interstellar Research</link> to unlock new technologies.\\n
+\\n
+Consumes data from <link=\\"TELESCOPE\\">Telescopes</link> and <link=\\"RESEARCHMODULE\\">Research Modules</link>.\\n
+\\n
+Assigned Duplicants must possess the <link=\\"ASTRONOMY\\">Astronomy</link> skill.`,
+			msgstr: `
+Производит очки <link=\\"RESEARCH\\">космических исследований</link> для разблокирования новых технологий.\\n
+\\n
+Обрабатываает данные с <link=\\"TELESCOPE\\">телескопов</link> и <link=\\"RESEARCHMODULE\\">картографических модулей</link>.\\n
+\\n
+Назначенные дубликанты должны обладать навыком <link=\\"ASTRONOMY\\">Астрономия</link>.`,
 		},
 	],
 },
@@ -2418,21 +2428,21 @@ Assigned Duplicants must possess the <link=\\"RANCHING1\\">Critter Ranching</lin
 			msgid: `
 Incubates <link=\\"CRITTERS\\">Critter</link> eggs until ready to hatch.\\n
 \\n
-Assigned Duplicants must possess the <link=\\"RANCHING1\\">Critter Ranching</link> .`,
-			msgstr: `
-Инкубирует <link=\\"CRITTERS\\">животных</link> из яиц до их взросления.\\n
-\\n
-Назначенные дубликанты должны обладать навыком <link=\\"RANCHING1\\">Скотоводство</link> .`,
-		},
-		{
-			msgid: `
-Incubates <link=\\"CRITTERS\\">Critter</link> eggs until ready to hatch.\\n
-\\n
 Assigned Duplicants must possess the <link=\\"RANCHER\\">Critter Wrangling</link> trait.`,
 			msgstr: `
 Инкубирует яйца <link=\\"CRITTERS\\">животных</link> для их вылупления.\\n
 \\n
 Назначенные дубликанты должны обладать навыком <link=\\"RANCHER\\">Поимка животных</link>.`,
+		},
+		{
+			msgid: `
+Incubates <link=\\"CRITTERS\\">Critter</link> eggs until ready to hatch.\\n
+\\n
+Assigned Duplicants must possess the <link=\\"RANCHING1\\">Critter Ranching</link> .`,
+			msgstr: `
+Инкубирует <link=\\"CRITTERS\\">животных</link> из яиц до их взросления.\\n
+\\n
+Назначенные дубликанты должны обладать навыком <link=\\"RANCHING1\\">Скотоводство</link> .`,
 		},
 	],
 },
@@ -5295,12 +5305,12 @@ Defunct Biobots drop harvestable <link=\\"STEEL\\">Steel</link>.`,
 	klei: `Орбитальные лаборатории для сбора данных накапливают информацию, находясь на орбите планетоида, и записывают ее в <link=\\"ORBITALRESEARCHDATABANK\\">банк данных</link>. `,
 	mem: [
 		{
-			msgid: `Orbital Data Collection Labs record data while orbiting a Planetoid and write it to a <link=\\"ORBITALRESEARCHDATABANK\\">Data Bank</link>`,
-			msgstr: `Орбитальные лаборатории собирают данные, когда находятся на орбите планетоида, и записывают их на <link=\\"ORBITALRESEARCHDATABANK\\">банки данных</link>`,
-		},
-		{
 			msgid: `Orbital Microlabs perform research from the orbit around a Planetoid.`,
 			msgstr: `Требуется проводить исследования в орбитальной микролаборатории с орбиты планетоида.`,
+		},
+		{
+			msgid: `Orbital Data Collection Labs record data while orbiting a Planetoid and write it to a <link=\\"ORBITALRESEARCHDATABANK\\">Data Bank</link>`,
+			msgstr: `Орбитальные лаборатории собирают данные, когда находятся на орбите планетоида, и записывают их на <link=\\"ORBITALRESEARCHDATABANK\\">банки данных</link>`,
 		},
 	],
 },
@@ -5327,6 +5337,21 @@ Defunct Biobots drop harvestable <link=\\"STEEL\\">Steel</link>.`,
 			msgstr: `<link=\\"LIQUIDOXIDIZERTANKCLUSTER\\">Бак жидкого окислителя</link>`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.OXYSCONCE.DESC",
+	msgid: `Sconces prevent diffused oxygen from being wasted inside storage bins.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.OXYSCONCE.EFFECT",
+	msgid: `Stores a small chunk of <link=\\"OXYROCK\\">Oxylite</link> which gradually releases <link=\\"OXYGEN\\">Oxygen</link> into the environment.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.OXYSCONCE.NAME",
+	msgid: `<link=\\"OXYSCONCE\\">Oxylite Sconce</link>`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.DESC",
@@ -5635,17 +5660,17 @@ There's a biohazard symbol on it.`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.DESC",
-	msgid: `A tool for toting tools around.\\n\\nIt's a little rusty.`,
+	msgid: `A packing crate intended for safety equipment.\\n\\nIt has been repurposed for tool storage.`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLCRATE.NAME",
-	msgid: `Tool Tote`,
+	msgid: `Tool Crate`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.DESC",
-	msgid: `A wall-mounted rack for storing and displaying useful tools just out of reach.`,
+	msgid: `A wall-mounted rack for storing and displaying useful tools at a not-so-useful height.`,
 	msgstr: ``,
 },
 {
@@ -5738,20 +5763,6 @@ Assigned Duplicants must possess the <link=\\"RANCHING1\\">Critter Ranching</lin
 			msgid: `
 Allows the assigned <link=\\"RANCHER\\">Rancher</link> to care for <link=\\"CRITTERS\\">Critters</link>.\\n
 \\n
-Assigned Duplicants must possess the <link=\\"RANCHING1\\">Critter Ranching</link> skill.\\n
-\\n
-This building is a necessary component of the Stable room.`,
-			msgstr: `
-Позволяет назначенному <link=\\"RANCHER\\">скотоводу</link> ухаживать за <link=\\"CRITTERS\\">животными</link>.\\n
-\\n
-Назначенные дубликанты должны обладать навыком <link=\\"RANCHING1\\">Скотоводство</link>.\\n
-\\n
-Эта постройка является необходимой для загона.`,
-		},
-		{
-			msgid: `
-Allows the assigned <link=\\"RANCHER\\">Rancher</link> to care for <link=\\"CRITTERS\\">Critters</link>.\\n
-\\n
 Assigned Duplicants must possess the <link=\\"RANCHER\\">Critter Wrangling</link> trait.\\n
 \\n
 This building is a necessary component of the Stable room.`,
@@ -5761,6 +5772,20 @@ This building is a necessary component of the Stable room.`,
 Назначенные дубликанты должны обладать навыком <link=\\"RANCHER\\">Поимка животных</link>.\\n
 \\n
 Эта постройка является необходимым компонентом загона.`,
+		},
+		{
+			msgid: `
+Allows the assigned <link=\\"RANCHER\\">Rancher</link> to care for <link=\\"CRITTERS\\">Critters</link>.\\n
+\\n
+Assigned Duplicants must possess the <link=\\"RANCHING1\\">Critter Ranching</link> skill.\\n
+\\n
+This building is a necessary component of the Stable room.`,
+			msgstr: `
+Позволяет назначенному <link=\\"RANCHER\\">скотоводу</link> ухаживать за <link=\\"CRITTERS\\">животными</link>.\\n
+\\n
+Назначенные дубликанты должны обладать навыком <link=\\"RANCHING1\\">Скотоводство</link>.\\n
+\\n
+Эта постройка является необходимой для загона.`,
 		},
 	],
 },
@@ -6101,12 +6126,12 @@ This building is a necessary component of the Stable room.`,
 	klei: `Эти существа сами себя не подстригут.`,
 	mem: [
 		{
-			msgid: `Shearing stations allow <link=\\"DRECKO\\">Dreckos</link> and <link=\\"MOLEDELICACY\\">Delecta Voles</link> to be safely sheared for useful raw materials.`,
-			msgstr: `Станции стрижки позволяют безопасно постричь <link=\\"DRECKO\\">дрекконов</link> и <link=\\"MOLEDELICACY\\">имбирных роек</link>, чтобы получить полезные материалы.`,
-		},
-		{
 			msgid: `Shearing stations allow <link=\\"DRECKO\\">Dreckos</link> to be safely sheared for useful raw materials.`,
 			msgstr: `Станции стрижки позволяют безопасно стричь <link=\\"DRECKO\\">дрекконов</link> ради полезных материалов.`,
+		},
+		{
+			msgid: `Shearing stations allow <link=\\"DRECKO\\">Dreckos</link> and <link=\\"MOLEDELICACY\\">Delecta Voles</link> to be safely sheared for useful raw materials.`,
+			msgstr: `Станции стрижки позволяют безопасно постричь <link=\\"DRECKO\\">дрекконов</link> и <link=\\"MOLEDELICACY\\">имбирных роек</link>, чтобы получить полезные материалы.`,
 		},
 	],
 },
@@ -6120,12 +6145,12 @@ This building is a necessary component of the Stable room.`,
 После посещения этого строения физическое и эмоциональное состояние <link=\\"CREATURES\\">существ</link> улучшается.`,
 	mem: [
 		{
-			msgid: `Allows the assigned Rancher to shear Dreckos and Delecta Voles.`,
-			msgstr: `Позволяет назначенному скотоводу стричь дрекконов и имбирных роек.`,
-		},
-		{
 			msgid: `Allows the assigned Rancher to shear Dreckos.`,
 			msgstr: `Позволяет назначить скотовода для стрижки дрекконов.`,
+		},
+		{
+			msgid: `Allows the assigned Rancher to shear Dreckos and Delecta Voles.`,
+			msgstr: `Позволяет назначенному скотоводу стричь дрекконов и имбирных роек.`,
 		},
 	],
 },
@@ -6277,16 +6302,16 @@ This building is a necessary component of the Stable room.`,
 	klei: `Радиус действия автосборщика можно посмотреть, (ClickType/щелкнув) по строению.`,
 	mem: [
 		{
-			msgid: `An auto-sweeper's range can be viewed at any time by  (ClickType/clicking) on the building.`,
-			msgstr: `Радиус охвата манипулятора можно увидеть, если (ClickType/clicking) на постройку.`,
+			msgid: `An auto-sweeper's range can be viewed at any time by clicking on the building.`,
+			msgstr: `Диапазон работы манипулятора можно посмотреть в любое время, просто щёлкнув по постройке.`,
 		},
 		{
 			msgid: `An auto-sweeper's range can be viewed at any time by  \\\\clicking\\\\ on the building.`,
 			msgstr: `Радиус действия манипулятора можно посмотреть в любое время, \\\\нажав\\\\ на него.`,
 		},
 		{
-			msgid: `An auto-sweeper's range can be viewed at any time by clicking on the building.`,
-			msgstr: `Диапазон работы манипулятора можно посмотреть в любое время, просто щёлкнув по постройке.`,
+			msgid: `An auto-sweeper's range can be viewed at any time by  (ClickType/clicking) on the building.`,
+			msgstr: `Радиус охвата манипулятора можно увидеть, если (ClickType/clicking) на постройку.`,
 		},
 	],
 },
@@ -6842,7 +6867,7 @@ Only Duplicants with the <link=\\"RANCHING1\\">Critter Ranching I</link> skill c
 },
 {
 	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_CLUSTER.NAME",
-	msgid: `Ceres Cluster`,
+	msgid: `Ceres Minor Cluster`,
 	msgstr: ``,
 	klei: `Скопление Цереры`,
 },
@@ -6928,24 +6953,24 @@ All the food was just thrown out. Someone had even brought homemade perogies! Se
 			msgid: `
 I can’t believe this! I organized a potluck lunch thinking it would be a nice break but Jackie discovered us as we were setting up and insisted that no one had time for “fooling around”. Of course, everyone was too afraid to defy ‘The Director’ and went right back to work.\\n
 \\n
-All the food was just thrown out. Someone had even brought homemade perogies! Seeing the break room garbage full of potato salad and chicken wings made me even more depressed than before. Those perogies looked so good.\\n
-------------------\\n`,
-			msgstr: `
-Не могу поверить в это! Я организовал обед, думая, что это будет отличным перерывом, но Джеки обнаружила нас сидящими и высказала, что ни у кого нет времени на то, чтобы «дурачиться тут». Разумеется, все были слишком испуганы, чтобы перечить 'Директору', и вернулись к работе.\\n
-\\n
-Вся еда была просто выброшена. А ведь кто-то принёс домашнее печенье! Вид мусорного ведра, полного картофельного салата и куриных крылышек ввергли меня в ещё большую депрессию, чем было до этого. Эти печенья выглядели очень вкусными.\\n
-------------------\\n`,
-		},
-		{
-			msgid: `
-I can’t believe this! I organized a potluck lunch thinking it would be a nice break but Jackie discovered us as we were setting up and insisted that no one had time for “fooling around”. Of course, everyone was too afraid to defy ‘The Director’ and went right back to work.\\n
-\\n
 All the food was just thrown out. Someone had even made home-made perogies! Seeing the break room garbage full of potato salad and chicken wings made me even more depressed than before. Those perogies looked so good.\\n
 ------------------\\n`,
 			msgstr: `
 Поверить не могу! Я организовал обед, думая, что это был бы хороший перерыв, но Джеки нашла нас, когда мы готовились, и настояла на том, чтобы никто не успел «подурачиться». Конечно, все слишком боялись бросить вызов «Директору» и сразу же вернулись к работе.\\n
 \\n
 Вся еда была просто выброшена. Кто-то даже сделал самодельные пирожные! Видя мусорную корзину из комнаты отдыха, полную картофельного салата и куриных крылышек, я стал ещё более подавленным, чем раньше. Эти пирожные выглядели так хорошо.\\n
+------------------\\n`,
+		},
+		{
+			msgid: `
+I can’t believe this! I organized a potluck lunch thinking it would be a nice break but Jackie discovered us as we were setting up and insisted that no one had time for “fooling around”. Of course, everyone was too afraid to defy ‘The Director’ and went right back to work.\\n
+\\n
+All the food was just thrown out. Someone had even brought homemade perogies! Seeing the break room garbage full of potato salad and chicken wings made me even more depressed than before. Those perogies looked so good.\\n
+------------------\\n`,
+			msgstr: `
+Не могу поверить в это! Я организовал обед, думая, что это будет отличным перерывом, но Джеки обнаружила нас сидящими и высказала, что ни у кого нет времени на то, чтобы «дурачиться тут». Разумеется, все были слишком испуганы, чтобы перечить 'Директору', и вернулись к работе.\\n
+\\n
+Вся еда была просто выброшена. А ведь кто-то принёс домашнее печенье! Вид мусорного ведра, полного картофельного салата и куриных крылышек ввергли меня в ещё большую депрессию, чем было до этого. Эти печенья выглядели очень вкусными.\\n
 ------------------\\n`,
 		},
 	],
@@ -6966,18 +6991,6 @@ Maybe there's some way I can sneak some prerequisite downtime activities into th
 	mem: [
 		{
 			msgid: `
-I keep finding senseless mistakes from stressed-out lab workers. It’s getting dangerous. I’m worried this colony we’re building will be plagued with these kinds of problems if we don’t prioritize mental health as much as physical health. What’s the use of making all these plans for the future if we can’t build a better world?\\n
-\\n
-Maybe there’s some way I can sneak some prerequisite downtime activities into the Printing Pod without Jackie knowing.\\n
-------------------\\n`,
-			msgstr: `
-Я продолжаю видеть бессмысленные ошибки от страдающих стрессом лаборантов. Это уже становится опасным. Боюсь, что колония, которую мы хотим построить, будет страдать от таких же проблем, если мы не займёмся оптимизацией здоровья душевного так же, как и здоровья физического. Зачем нам всё это, если мы не сможем построить лучший мир?\\n
-\\n
-Возвожно, однажды мне удастся тайком ввести в программу биопринтера регулярные периоды отдыха для дубликантов, так, чтобы Джеки об этом не узнала.\\n
-------------------\\n`,
-		},
-		{
-			msgid: `
 I keep finding senseless mistakes from stressed-out lab workers. It’s getting dangerous. I’m worried this colony we’re building will be plagued with these kind of problems if we don’t prioritize mental health as much as physical health. What’s the use of making all these plans for the future if we can’t build a better world?\\n
 \\n
 Maybe there’s some way I can sneak some prerequisite down-time activities into the Printing Pod without Jackie knowing.\\n
@@ -6986,6 +6999,18 @@ Maybe there’s some way I can sneak some prerequisite down-time activities into
 Я продолжаю находить бессмысленные ошибки у напряженных лабораторных работников. Становится опасно. Я боюсь, что эта колония, которую мы строим, будет страдать от подобных проблем, если мы не станем ставить на первое место психическое здоровье, а не физическое. Какой смысл строить все эти планы на будущее, если мы не можем построить лучший мир?\\n
 \\n
 Может быть, есть какой-нибудь способ, чтобы я мог тайком пробраться в капсулу для печати, и Джеки об этом не узнала.\\n
+------------------\\n`,
+		},
+		{
+			msgid: `
+I keep finding senseless mistakes from stressed-out lab workers. It’s getting dangerous. I’m worried this colony we’re building will be plagued with these kinds of problems if we don’t prioritize mental health as much as physical health. What’s the use of making all these plans for the future if we can’t build a better world?\\n
+\\n
+Maybe there’s some way I can sneak some prerequisite downtime activities into the Printing Pod without Jackie knowing.\\n
+------------------\\n`,
+			msgstr: `
+Я продолжаю видеть бессмысленные ошибки от страдающих стрессом лаборантов. Это уже становится опасным. Боюсь, что колония, которую мы хотим построить, будет страдать от таких же проблем, если мы не займёмся оптимизацией здоровья душевного так же, как и здоровья физического. Зачем нам всё это, если мы не сможем построить лучший мир?\\n
+\\n
+Возвожно, однажды мне удастся тайком ввести в программу биопринтера регулярные периоды отдыха для дубликантов, так, чтобы Джеки об этом не узнала.\\n
 ------------------\\n`,
 		},
 	],
@@ -7027,6 +7052,33 @@ I am also very interested in the commercial opportunities this presents. Off the
 \\n
 [LOG BEGINS]\\n
 \\n
+Dr. Techna's newest notes on Duplicant memories have revealed some interesting discoveries. It seems memories </i>can</i> be transferred to the cloned subject but it requires the host to be subjected to a machine that performs extremely detailed microanalysis. This in depth dissection of the subject would produce the results we need but at the expense of destroying the host.\\n
+\\n
+Of course this is not ideal for our current situation. The time and energy it took to recruit Gravitas’ highly trained staff would be wasted if we were to extirpate these people for the sake of experimentation. But perhaps we can use our Duplicants as experimental subjects until we perfect the process and look into finding volunteers for the future in order to obtain an ideal specimen. I will have to discuss this with Dr. Techna but I'm sure he would be enthusiastic about such an opportunity to continue his work.\\n
+\\n
+I am also very interested in the commercial opportunities this presents. Off the top of my head I can think of applications in genetics, AI development, and teleportation technology. This could be a significant financial windfall for the company.\\n
+\\n
+[LOG ENDS]`,
+			msgstr: `
+<smallcaps>[Инициализация распознавания голоса]\\n
+[Идентифицированные субъекты: A001]</smallcaps>\\n
+\\n
+[НАЧАЛО ЗАПИСИ]\\n
+Заметки доктора Текны о воспоминаниях дубликантов выявили несколько интересных открытий. Кажется, что воспоминания </i> могут</i> быть переданы к клонированному субъекту, но для этого требуется, чтобы хозяин был подвергнут машине, которая выполняет чрезвычайно детальный микроанализ. Это при глубоком расчленении субъекта даст нужные результаты, но за счет уничтожения хоста.\\n
+\\n
+Конечно, это не идеально подходит для нашей нынешней ситуации. Время и энергия, потраченные для найма в Гравитас высококвалифицированных специалистов, могут быть потрачены впустую, если мы погубим этих людей ради экспериментов. Но, возможно, мы сможем использовать наших дубликантов как экспериментальные образцы, пока мы не убедимся в идеальности процесса и будем искать добровольцев, чтобы получить идеальный образец. Я ещё обсужу этот вопрос с доктором Текной, но я уверен, что он проявит энтузиазм и продолжит свою работу.\\n
+\\n
+Я также очень заинтересован в коммерческих перспективах, которые при этом раскрываются. Краем мысли я касаюсь идеи о приложениях в генетике, развитии ИИ и технологии телепортации. Это может стать значительным финансовым ударом для компании.\\n
+\\n
+[ЗАПИСЬ ЗАВЕРШЕНА]`,
+		},
+		{
+			msgid: `
+<smallcaps>[Voice Recognition Initialized]\\n
+[Subject Identified: A001]</smallcaps>\\n
+\\n
+[LOG BEGINS]\\n
+\\n
 Dr. Techna's newest notes on Duplicant memories have revealed some interesting discoveries. It seems memories </i>can</i> be transferred to the cloned subject but it requires the host to be subjected to a machine that performs extremely detailed microanalysis. This in-depth dissection of the subject would produce the results we need but at the expense of destroying the host.\\n
 \\n
 Of course this is not ideal for our current situation. The time and energy it took to recruit Gravitas’ highly trained staff would be wasted if we were to extirpate these people for the sake of experimentation. But perhaps we can use our Duplicants as experimental subjects until we perfect the process and look into finding volunteers for the future in order to obtain an ideal specimen. I will have to discuss this with Dr. Techna but I'm sure he would be enthusiastic about such an opportunity to continue his work.\\n
@@ -7048,33 +7100,6 @@ I am also very interested in the commercial opportunities this presents. Off the
 \\n
 [КОНЕЦ ЗАПИСИ]`,
 		},
-		{
-			msgid: `
-<smallcaps>[Voice Recognition Initialized]\\n
-[Subject Identified: A001]</smallcaps>\\n
-\\n
-[LOG BEGINS]\\n
-\\n
-Dr. Techna's newest notes on Duplicant memories have revealed some interesting discoveries. It seems memories </i>can</i> be transferred to the cloned subject but it requires the host to be subjected to a machine that performs extremely detailed microanalysis. This in depth dissection of the subject would produce the results we need but at the expense of destroying the host.\\n
-\\n
-Of course this is not ideal for our current situation. The time and energy it took to recruit Gravitas’ highly trained staff would be wasted if we were to extirpate these people for the sake of experimentation. But perhaps we can use our Duplicants as experimental subjects until we perfect the process and look into finding volunteers for the future in order to obtain an ideal specimen. I will have to discuss this with Dr. Techna but I'm sure he would be enthusiastic about such an opportunity to continue his work.\\n
-\\n
-I am also very interested in the commercial opportunities this presents. Off the top of my head I can think of applications in genetics, AI development, and teleportation technology. This could be a significant financial windfall for the company.\\n
-\\n
-[LOG ENDS]`,
-			msgstr: `
-<smallcaps>[Инициализация распознавания голоса]\\n
-[Идентифицированные субъекты: A001]</smallcaps>\\n
-\\n
-[НАЧАЛО ЗАПИСИ]\\n
-Заметки доктора Текны о воспоминаниях дубликантов выявили несколько интересных открытий. Кажется, что воспоминания </i> могут</i> быть переданы к клонированному субъекту, но для этого требуется, чтобы хозяин был подвергнут машине, которая выполняет чрезвычайно детальный микроанализ. Это при глубоком расчленении субъекта даст нужные результаты, но за счет уничтожения хоста.\\n
-\\n
-Конечно, это не идеально подходит для нашей нынешней ситуации. Время и энергия, потраченные для найма в Гравитас высококвалифицированных специалистов, могут быть потрачены впустую, если мы погубим этих людей ради экспериментов. Но, возможно, мы сможем использовать наших дубликантов как экспериментальные образцы, пока мы не убедимся в идеальности процесса и будем искать добровольцев, чтобы получить идеальный образец. Я ещё обсужу этот вопрос с доктором Текной, но я уверен, что он проявит энтузиазм и продолжит свою работу.\\n
-\\n
-Я также очень заинтересован в коммерческих перспективах, которые при этом раскрываются. Краем мысли я касаюсь идеи о приложениях в генетике, развитии ИИ и технологии телепортации. Это может стать значительным финансовым ударом для компании.\\n
-\\n
-[ЗАПИСЬ ЗАВЕРШЕНА]`,
-		},
 	],
 },
 {
@@ -7095,20 +7120,6 @@ When first observing the Beeta's enrichment process, many scientists note with s
 	mem: [
 		{
 			msgid: `
-Beetas are insectoid creatures that enjoy a symbiotic relationship with the radioactive environment they thrive in.\\n
-\\n
-Much like the honey bee gathers nectar and processes it to honey, the Beeta turns <link=\\"URANIUMORE\\">Uranium</link> into <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link> through a complex process of isotope separation inside the Beeta Hive.\\n
-\\n
-When first observing the Beeta's enrichment process, many scientists note with surprise just how much more efficient the cooperative combination of insect and hive is when compared to even the most advanced industrial processes.`,
-			msgstr: `
-Ядерные пчёлы — это насекомоподобные животные, которые наслаждаются симбиозом с радиоактивной средой, в которой они обитают.\\n
-\\n
-Так же, как обычные пчёлы собирают нектар и производят из него мёд, их ядерные «собратья» превращают <link=\\"URANIUMORE\\">урановую руду</link> в <link=\\"ENRICHEDURANIUM\\">обогащённый уран</link> в процессе сложной изотопной сепарации внутри ядерного улья.\\n
-\\n
-После первого взгляда на процесс обогащения урана этими животными, многие учёные были приятно удивлены, насколько кооперативное взаимодействие насекомых и их ульев эффективнее самых совершенных промышленных процессов.`,
-		},
-		{
-			msgid: `
 Beetas are insectiod creatures that enjoy a symbiotic relationship with the radioactive environment they thrive in.\\n
 \\n
 Much like the honey bee gathers nectar and processes it to honey, the Beeta turns Uranium into Enriched Uranium through a complex process of isotope separation inside the Beeta Hive.\\n
@@ -7120,6 +7131,20 @@ When first observing the Beeta's enrichment process, many scientists note with s
 Так же, как обычные пчёлы собирают нектар и превращают его в мёд, ядерные пчёлы превращают урановую руду в обогащённый уран посредством сложного процесса изотопной сепарации внутри ядерного улья.\\n
 \\n
 Впервые увидев этот процесс обогащения урана, многие учёные с удивлением писали, насколько более эффективно использовать комбинацию насекомых и их ульев в сравнении с самыми продвинутыми техногенными процессами.`,
+		},
+		{
+			msgid: `
+Beetas are insectoid creatures that enjoy a symbiotic relationship with the radioactive environment they thrive in.\\n
+\\n
+Much like the honey bee gathers nectar and processes it to honey, the Beeta turns <link=\\"URANIUMORE\\">Uranium</link> into <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link> through a complex process of isotope separation inside the Beeta Hive.\\n
+\\n
+When first observing the Beeta's enrichment process, many scientists note with surprise just how much more efficient the cooperative combination of insect and hive is when compared to even the most advanced industrial processes.`,
+			msgstr: `
+Ядерные пчёлы — это насекомоподобные животные, которые наслаждаются симбиозом с радиоактивной средой, в которой они обитают.\\n
+\\n
+Так же, как обычные пчёлы собирают нектар и производят из него мёд, их ядерные «собратья» превращают <link=\\"URANIUMORE\\">урановую руду</link> в <link=\\"ENRICHEDURANIUM\\">обогащённый уран</link> в процессе сложной изотопной сепарации внутри ядерного улья.\\n
+\\n
+После первого взгляда на процесс обогащения урана этими животными, многие учёные были приятно удивлены, насколько кооперативное взаимодействие насекомых и их ульев эффективнее самых совершенных промышленных процессов.`,
 		},
 	],
 },
@@ -7168,9 +7193,9 @@ Which technically is true. If the Time Containment Field were to break down, the
 			msgid: `
 Clearly Nikola is evil. He has some kind of scheme going on that he’s keeping secret from the rest of Gravitas and I haven’t been able to crack what that is because it’s offline and he’s always at his computer. Whenever I ask him what he’s up to he says I wouldn’t understand. Pfft! We both went through the same particle physics classes, buddy. Just because you mash a keyboard and I adjust knobs does not mean I don’t know what the Time Containment Field does.\\n
 \\n
-And then today I dropped a wrench and Nikola nearly jumped out of his skin! He spun around and screamed at me never to do that again. And then when I said, \\"Geez, it’s not the end of the world,\\" he was like, \\"Yeah, it’s not like the world will blow up if I get this wrong\\" really sarcastic-like.\\n
+And then today I dropped a wrench and Nikola nearly jumped out of his skin! He spun around and screamed at me never to do that again. And then when I said, \\"Geez, it’s not the end of the world,\\" he was like, \\"Yeah, it’s not like the world will blow up if I get this wrong\\" really sarcastic like.\\n
 \\n
-Which technically is true. If the Time Containment Field were to break down, the Temporal Bow could theoretically blow up the world. But that’s why there are safety systems in place. And safety systems on safety systems. And then safety systems on top of that. But then again he built all the safety systems, so if he wanted to…\\n
+Which technically is true. If the Time Containment Field were to break down the Temporal Bow could theoretically blow up the world but that’s why there are safety systems in place. And safety systems on safety systems. And then safety systems on top of that. But then he built all the safety systems so if he wanted to…\\n
 ------------------\\n`,
 			msgstr: `
 Определённо, Никола злой. У него есть какая-то схема, которую он продолжает скрывать от всей Gravitas , и я не смог узнать, что это, потому что он всегда оффлайн и всегда за своим компьютером. Когда я спросил, над чем он работает, он ответил, что я не пойму. П-ф-ф-ф! Мы оба учились физике в одном классе, дружище. Только из-за того, что я «топчу клавиатуру», а не кручу ручки, я не перестал знать, что делает Поле Сдерживания Времени.\\n
@@ -7184,9 +7209,9 @@ Which technically is true. If the Time Containment Field were to break down, the
 			msgid: `
 Clearly Nikola is evil. He has some kind of scheme going on that he’s keeping secret from the rest of Gravitas and I haven’t been able to crack what that is because it’s offline and he’s always at his computer. Whenever I ask him what he’s up to he says I wouldn’t understand. Pfft! We both went through the same particle physics classes, buddy. Just because you mash a keyboard and I adjust knobs does not mean I don’t know what the Time Containment Field does.\\n
 \\n
-And then today I dropped a wrench and Nikola nearly jumped out of his skin! He spun around and screamed at me never to do that again. And then when I said, \\"Geez, it’s not the end of the world,\\" he was like, \\"Yeah, it’s not like the world will blow up if I get this wrong\\" really sarcastic like.\\n
+And then today I dropped a wrench and Nikola nearly jumped out of his skin! He spun around and screamed at me never to do that again. And then when I said, \\"Geez, it’s not the end of the world,\\" he was like, \\"Yeah, it’s not like the world will blow up if I get this wrong\\" really sarcastic-like.\\n
 \\n
-Which technically is true. If the Time Containment Field were to break down the Temporal Bow could theoretically blow up the world but that’s why there are safety systems in place. And safety systems on safety systems. And then safety systems on top of that. But then he built all the safety systems so if he wanted to…\\n
+Which technically is true. If the Time Containment Field were to break down, the Temporal Bow could theoretically blow up the world. But that’s why there are safety systems in place. And safety systems on safety systems. And then safety systems on top of that. But then again he built all the safety systems, so if he wanted to…\\n
 ------------------\\n`,
 			msgstr: `
 Определённо, Никола злой. У него есть какая-то схема, которую он продолжает скрывать от всей Gravitas , и я не смог узнать, что это, потому что он всегда оффлайн и всегда за своим компьютером. Когда я спросил, над чем он работает, он ответил, что я не пойму. П-ф-ф-ф! Мы оба учились физике в одном классе, дружище. Только из-за того, что я «топчу клавиатуру», а не кручу ручки, я не перестал знать, что делает Поле Сдерживания Времени.\\n
@@ -7222,7 +7247,7 @@ What if I was wrong and what if he's right?\\n
 	mem: [
 		{
 			msgid: `
-I decided to get into work early today but when I got in Nikola was already there and it looked like he hadn’t been home all weekend. He was pacing back and forth in the lab, monologuing but not like an evil villain. Like someone who hadn’t slept in a week.\\n
+I decided to get into work early today but when I got in Nikola was already there and it looked like he hadn’t been home all weekend. He was pacing back-and-forth in the lab, monologuing but not like an evil villain. Like someone who hadn’t slept in a week.\\n
 \\n
 \\"Ruby,\\" he said. \\"You have to promise me that if anything goes wrong you’ll turn on this machine. They’re pushing it too far. The printing pods are pushing the...It’s too much - TOO MUCH! Something’s going to blow. I tried… I’m trying to save it. Not the Earth. There’s no hope for the Earth, it’s all going to…\\" then he made this exploding sound. \\"But the Universe. Time itself. It could all go, don’t you see? This machine can contain it. Put a Temporal Containment Field around the Earth so time itself doesn’t break down and...and…\\"\\n
 \\n
@@ -7242,7 +7267,7 @@ What if I was wrong and what if he’s right?\\n
 		},
 		{
 			msgid: `
-I decided to get into work early today but when I got in Nikola was already there and it looked like he hadn’t been home all weekend. He was pacing back-and-forth in the lab, monologuing but not like an evil villain. Like someone who hadn’t slept in a week.\\n
+I decided to get into work early today but when I got in Nikola was already there and it looked like he hadn’t been home all weekend. He was pacing back and forth in the lab, monologuing but not like an evil villain. Like someone who hadn’t slept in a week.\\n
 \\n
 \\"Ruby,\\" he said. \\"You have to promise me that if anything goes wrong you’ll turn on this machine. They’re pushing it too far. The printing pods are pushing the...It’s too much - TOO MUCH! Something’s going to blow. I tried… I’m trying to save it. Not the Earth. There’s no hope for the Earth, it’s all going to…\\" then he made this exploding sound. \\"But the Universe. Time itself. It could all go, don’t you see? This machine can contain it. Put a Temporal Containment Field around the Earth so time itself doesn’t break down and...and…\\"\\n
 \\n
@@ -7901,11 +7926,15 @@ Always check engine fuel to determine if your rocket can reach its destination, 
 	mem: [
 		{
 			msgid: `
-To scan space and see nearby intersteller destinations a <link=\\"CLUSTERTELESCOPE\\">Telescope</link> must first be built on the surface of a Planetoid. <link=\\"ORBITALRESEARCHCENTER\\">Orbital Microlabs</link> in orbit around a Planetoid, and <link=\\"SCANNERMODULE\\">Cartographic Module</link> attached to a rocket can also reveal places on a Starmap.\\n
+To scan space and see nearby intersteller destinations a <link=\\"TELESCOPE\\">Telescope</link> must first be built on the surface of a Planetoid. <link=\\"ORBITALRESEARCHCENTER\\">Orbital Microlabs</link> in orbit around a Planetoid, and <link=\\"SCANNERMODULE\\">Cartographic Module</link> attached to a rocket can also reveal places on a Starmap.\\n
 \\n
-Always check engine fuel to determine if your rocket can reach its destination, keeping in mind rockets can only land on Plantoids with a <link=\\"LAUNCHPAD\\">Rocket Platform</link> on it although some modules like <link=\\"SCOUTMODULE\\">Rover's Modules</link> and <link=\\"PIONEERMODULE\\">Trailblazer Modules</link> can be sent to the surface of a Planetoid from a rocket in orbit.\\n
+Always check engine fuel to determine if your rocket can reach its destination, keeping in mind rockets can only land on Plantoids with a <link=\\"LAUNCHPLATFORM\\">Rocket Platform</link> on it although some modules like <link=\\"SCOUTMODULE\\">Rover's Modules</link> and <link=\\"PIONEERMODULE\\">Trailblazer Modules</link> can be sent to the surface of a Planetoid from a rocket in orbit.\\n
 \\n`,
-			msgstr: `Для сканирования космоса и поиска ближайших пунктов назначения, необходимо построить <link=\\"CLUSTERTELESCOPE\\">телескоп</link> в прямой видимости космоса. <link=\\"ORBITALRESEARCHCENTER\\">Орбитальные лаборатории</link> и <link=\\"SCANNERMODULE\\">картографические модули</link> открывают космическую карту при нахождении на орбите планетоида или в открытом космосе.\\n`,
+			msgstr: `
+Для исследования космоса и открытия ближайших пунктов назначения ракет, необходимо построить <link=\\"TELESCOPE\\">телескоп</link> на поверхности планетоида. <link=\\"ORBITALRESEARCHCENTER\\">Орбитальные микролаборатории</link> на орбите планетоида и <link=\\"SCANNERMODULE\\">картографический модуль</link> на ракете также будут открывать пространство космической карты\\n
+\\n
+Всегда проверяйте топливо в двигателе, чтобы его хватало для достижения пункта назначения, а также помните о том, что ракеты могут приземляться только на те планетоиды, где построена <link=\\"LAUNCHPLATFORM\\">ракетная платформа</link>. Однако, некоторые модули, такие как <link=\\"SCOUTMODULE\\">модуль для Ровера</link> и <link=\\"PIONEERMODULE\\">модуль для десантирования</link> могут быть отправлены с орбиты на поверхность планетоида.\\n
+\\n`,
 		},
 		{
 			msgid: `
@@ -7922,15 +7951,11 @@ Always check engine fuel to determine if your rocket can reach its destination, 
 		},
 		{
 			msgid: `
-To scan space and see nearby intersteller destinations a <link=\\"TELESCOPE\\">Telescope</link> must first be built on the surface of a Planetoid. <link=\\"ORBITALRESEARCHCENTER\\">Orbital Microlabs</link> in orbit around a Planetoid, and <link=\\"SCANNERMODULE\\">Cartographic Module</link> attached to a rocket can also reveal places on a Starmap.\\n
+To scan space and see nearby intersteller destinations a <link=\\"CLUSTERTELESCOPE\\">Telescope</link> must first be built on the surface of a Planetoid. <link=\\"ORBITALRESEARCHCENTER\\">Orbital Microlabs</link> in orbit around a Planetoid, and <link=\\"SCANNERMODULE\\">Cartographic Module</link> attached to a rocket can also reveal places on a Starmap.\\n
 \\n
-Always check engine fuel to determine if your rocket can reach its destination, keeping in mind rockets can only land on Plantoids with a <link=\\"LAUNCHPLATFORM\\">Rocket Platform</link> on it although some modules like <link=\\"SCOUTMODULE\\">Rover's Modules</link> and <link=\\"PIONEERMODULE\\">Trailblazer Modules</link> can be sent to the surface of a Planetoid from a rocket in orbit.\\n
+Always check engine fuel to determine if your rocket can reach its destination, keeping in mind rockets can only land on Plantoids with a <link=\\"LAUNCHPAD\\">Rocket Platform</link> on it although some modules like <link=\\"SCOUTMODULE\\">Rover's Modules</link> and <link=\\"PIONEERMODULE\\">Trailblazer Modules</link> can be sent to the surface of a Planetoid from a rocket in orbit.\\n
 \\n`,
-			msgstr: `
-Для исследования космоса и открытия ближайших пунктов назначения ракет, необходимо построить <link=\\"TELESCOPE\\">телескоп</link> на поверхности планетоида. <link=\\"ORBITALRESEARCHCENTER\\">Орбитальные микролаборатории</link> на орбите планетоида и <link=\\"SCANNERMODULE\\">картографический модуль</link> на ракете также будут открывать пространство космической карты\\n
-\\n
-Всегда проверяйте топливо в двигателе, чтобы его хватало для достижения пункта назначения, а также помните о том, что ракеты могут приземляться только на те планетоиды, где построена <link=\\"LAUNCHPLATFORM\\">ракетная платформа</link>. Однако, некоторые модули, такие как <link=\\"SCOUTMODULE\\">модуль для Ровера</link> и <link=\\"PIONEERMODULE\\">модуль для десантирования</link> могут быть отправлены с орбиты на поверхность планетоида.\\n
-\\n`,
+			msgstr: `Для сканирования космоса и поиска ближайших пунктов назначения, необходимо построить <link=\\"CLUSTERTELESCOPE\\">телескоп</link> в прямой видимости космоса. <link=\\"ORBITALRESEARCHCENTER\\">Орбитальные лаборатории</link> и <link=\\"SCANNERMODULE\\">картографические модули</link> открывают космическую карту при нахождении на орбите планетоида или в открытом космосе.\\n`,
 		},
 	],
 },
@@ -8400,7 +8425,7 @@ ID сотрудника: X002\\n
 },
 {
 	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP1.BODY.CONTAINER1",
-	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a tragic accident...flagship solar cell project...\\n\\n     ...training exercise...     ...two highly decorated pilots...countless ground crew...\\n\\n...Vertex Institute director expresses sorrow...  ...vows to carry on...not be in vain...\\n\\n       ...the research community is in mourning...\\n\\n...Gravitas Facility releases [unintelligible] statement...\\n...deploring unsafe work conditions...    ...invites applications...all disciplines...\\n\\n             ...stay tuned for...`,
+	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a tragic accident...flagship solar cell project...\\n\\n     ...training exercise...     ...two highly decorated pilots...countless ground crew...\\n\\n...Vertex Institute director expresses sorrow...  ...vows to carry on...not be in vain...\\n\\n       ...the research community is in mourning...\\n\\n...long-time competitor Gravitas Facility releases [unintelligible] statement...\\n...deploring unsafe work conditions...    ...invites applications...all disciplines...\\n\\n             ...stay tuned for...`,
 	msgstr: ``,
 	klei: `
 <smallcaps><b>[ФАЙЛ ПОВРЕЖДЕН]</b></smallcaps>\\n
@@ -8449,7 +8474,7 @@ ID сотрудника: X002\\n
 },
 {
 	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP2.BODY.CONTAINER1",
-	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a tragic accident...  ...flagship smog dispersal system...\\n\\n    ...training exercise...\\n\\n...clear-air turbulence...    ...pilot in intensive care...\\n\\n...impossible to predict long-term impact...\\n\\n         ...public health order...\\n\\n  ...Vertex Institute projects suspended until investigations complete...\\n\\n...the research community is in shock...\\n\\n      ...Gravitas Facility releases [unintelligible] statement...\\n\\n...invites applications from affected workers...all disciplines...\\n\\n           ...stay tuned for...`,
+	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a tragic accident...  ...flagship smog dispersal system...\\n\\n    ...training exercise...\\n\\n...clear-air turbulence...    ...pilot in intensive care...\\n\\n...impossible to predict long-term impact...\\n\\n         ...public health order...\\n\\n  ...Vertex Institute projects suspended until investigations complete...\\n\\n...the research community is in shock...\\n\\n      ...former rival Gravitas Facility releases [unintelligible] statement...\\n\\n...invites applications from affected workers...all disciplines...\\n\\n           ...stay tuned for...`,
 	msgstr: ``,
 	klei: `
 <smallcaps><b>[ФАЙЛ ПОВРЕЖДЕН]</b></smallcaps>\\n
@@ -8505,7 +8530,7 @@ ID сотрудника: X002\\n
 },
 {
 	msgctxt: "STRINGS.CODEX.INVESTIGATIONS.DLC2_RADIOCLIP3.BODY.CONTAINER1",
-	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a near-tragic accident turned into a historic victory...      \\n\\n...flagship artificial intelligence project...\\n\\n     ...clear-air turbulence...     ...record-breaking storm...\\n\\n...pilot lost consciousness...    ...automated system override...\\n\\n     ...safe and sound...      ...Vertex Institute director... expresses gratitude to...Colonel [unintelligible] on behalf of...\\n\\n      ...funding renewed at unspecified amount...\\n\\n...the research community is jubilant...     Gravitas Facility releases a statement...demanding response...claims of corporate espionage...\\n\\n      ...refuses to comment... \\n\\n...stay tuned for...\\n\\n`,
+	msgid: `<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\\n\\n...\\n\\n[Radio static.]\\n\\n...a near-tragic accident turned into a historic victory...      \\n\\n...flagship artificial intelligence project...\\n\\n     ...clear-air turbulence...     ...record-breaking storm...\\n\\n...pilot lost consciousness...    ...automated system override...\\n\\n     ...safe and sound...      ...Vertex Institute director... expresses gratitude to...Colonel [unintelligible] on behalf of...\\n\\n      ...funding renewed at unspecified amount...\\n\\n...the research community is jubilant...     competitor Gravitas Facility releases a statement...demanding response...claims of corporate espionage...\\n\\n      ...refuses to comment... \\n\\n...stay tuned for...\\n\\n`,
 	msgstr: ``,
 	klei: `
 <smallcaps><b>[ФАЙЛ ПОВРЕЖДЕН]</b></smallcaps>\\n
@@ -8991,16 +9016,6 @@ Using proper transportation vessels, such as those which are lined with <link=\\
 	mem: [
 		{
 			msgid: `
-When transporting radioactive materials such as <link=\\"URANIUMORE\\">Uranium</link>, care must be taken to avoid exposing outside objects to <link=\\"RADIATIONSICKNESS\\">Radioactive Contaminants</link>.\\n
-\\n
-Using proper transportation vessels, such as those which are lined with <link=\\"LEAD\\">Lead</link>, is crucial to ensuring that Duplicants avoid <link=\\"RADIATIONSICKNESS\\">Radiation Sickness</link>.`,
-			msgstr: `
-При транспортировке радиоактивных материалов, таких как <link=\\"URANIUMORE\\">урановая руд</link>, необходимо соблюдать осторожность, поскольку окружающие объекты могут подвергнуться <link=\\"RADIATIONSICKNESS\\">радиоактивному загрязнению</link>.\\n
-\\n
-Использование правильных транспортировочных туннелей, например, ограждённых <link=\\"LEAD\\">свинцом</link>, позволит значительно обезопасить дубликантов от <link=\\"RADIATIONSICKNESS\\">лучевой болезни</link>.`,
-		},
-		{
-			msgid: `
 When transporting radioactive materials such as Uranium, care must be taken to avoid exposing outside objects to contaminants.\\n
 \\n
 Using proper transportation vessels, such as those which are lead lined, is crucial to ensuring that Duplicants avoid Radiation Sickness.`,
@@ -9008,6 +9023,16 @@ Using proper transportation vessels, such as those which are lead lined, is cruc
 При транспортировке радиоактивных материалов, таких как уран, необходимо проявлять осторожность для предотвращения загрязнения окружающих объектов.\\n
 \\n
 Использование надлежащих транспортных сосудов, таких как сосуды со свинцовым покрытием, имеет решающее значение для обеспечения того, чтобы дубликаты избегали лучевой болезни.`,
+		},
+		{
+			msgid: `
+When transporting radioactive materials such as <link=\\"URANIUMORE\\">Uranium</link>, care must be taken to avoid exposing outside objects to <link=\\"RADIATIONSICKNESS\\">Radioactive Contaminants</link>.\\n
+\\n
+Using proper transportation vessels, such as those which are lined with <link=\\"LEAD\\">Lead</link>, is crucial to ensuring that Duplicants avoid <link=\\"RADIATIONSICKNESS\\">Radiation Sickness</link>.`,
+			msgstr: `
+При транспортировке радиоактивных материалов, таких как <link=\\"URANIUMORE\\">урановая руд</link>, необходимо соблюдать осторожность, поскольку окружающие объекты могут подвергнуться <link=\\"RADIATIONSICKNESS\\">радиоактивному загрязнению</link>.\\n
+\\n
+Использование правильных транспортировочных туннелей, например, ограждённых <link=\\"LEAD\\">свинцом</link>, позволит значительно обезопасить дубликантов от <link=\\"RADIATIONSICKNESS\\">лучевой болезни</link>.`,
 		},
 	],
 },
@@ -9025,16 +9050,6 @@ Once supplied with <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link>, a <link=
 	mem: [
 		{
 			msgid: `
-A <link=\\"NUCLEARREACTOR\\">Research Reactor</link> will require <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link> to run. Uranium can be enriched using a <link=\\"URANIUMCENTRIFUGE\\">Uranium Centrifuge</link>.\\n
-\\n
-Once supplied with <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link>, a <link=\\"NUCLEARREACTOR\\">Research Reactors</link> will create an enormous amount of <link=\\"HEAT\\">Heat</link> which can then be placed under a source of <link=\\"WATER\\">Water</link> to produce <link=\\"STEAM\\">Steam</link>and connected to a  <link=\\"STEAMTURBINE2\\">Steam Turbine</link> to produce a considerable source of <link=\\"POWER\\">Power</link>.`,
-			msgstr: `
-<link=\\"NUCLEARREACTOR\\">Ядерному реактору</link> для работы требуется <link=\\"ENRICHEDURANIUM\\">обогащённый уран</link>. Уран можно обогатить с помощью <link=\\"URANIUMCENTRIFUGE\\">урановой центрифуги</link>.\\n
-\\n
-Сразу после доставки <link=\\"ENRICHEDURANIUM\\">обогащённого урана</link>, <link=\\"NUCLEARREACTOR\\">ядерный реактор</link> выделяет громадное количество <link=\\"HEAT\\">тепла</link>, которое отводится в <link=\\"WATER\\">воду</link> и превращает её в <link=\\"STEAM\\">пар</link>. Если поставить возле комнаты с реактором достаточное количество <link=\\"STEAMTURBINE2\\">паровых турбин</link>, они соберут этот пар и выделят достаточное количество <link=\\"POWER\\">энергии</link>, а также чистую воду, которую можно повторно использовать в реакторе.`,
-		},
-		{
-			msgid: `
 A Research Reactor will require Enriched Uranium to run. Uranium can be enriched using a Uranium Centrifuge.\\n
 \\n
 Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous amount of heat which can then be placed under a source of water to produce steam and connected to a Steam Turbine to produce a considerable source of power.`,
@@ -9042,6 +9057,16 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 Ядерному реактору для запуска требуется обогащённый уран. Уран может быть обогащён с помощью урановой центрифуги.\\n
 \\n
 Как только обогащённый уран доставлен в реактор, он начинает производить громадное количество тепла, при этом он использует воду из внутреннего хранилища для своего охлаждения и выделяет пар. Если этот пар подвести к паровой турбине, можно производить значительное количество энергии.`,
+		},
+		{
+			msgid: `
+A <link=\\"NUCLEARREACTOR\\">Research Reactor</link> will require <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link> to run. Uranium can be enriched using a <link=\\"URANIUMCENTRIFUGE\\">Uranium Centrifuge</link>.\\n
+\\n
+Once supplied with <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link>, a <link=\\"NUCLEARREACTOR\\">Research Reactors</link> will create an enormous amount of <link=\\"HEAT\\">Heat</link> which can then be placed under a source of <link=\\"WATER\\">Water</link> to produce <link=\\"STEAM\\">Steam</link>and connected to a  <link=\\"STEAMTURBINE2\\">Steam Turbine</link> to produce a considerable source of <link=\\"POWER\\">Power</link>.`,
+			msgstr: `
+<link=\\"NUCLEARREACTOR\\">Ядерному реактору</link> для работы требуется <link=\\"ENRICHEDURANIUM\\">обогащённый уран</link>. Уран можно обогатить с помощью <link=\\"URANIUMCENTRIFUGE\\">урановой центрифуги</link>.\\n
+\\n
+Сразу после доставки <link=\\"ENRICHEDURANIUM\\">обогащённого урана</link>, <link=\\"NUCLEARREACTOR\\">ядерный реактор</link> выделяет громадное количество <link=\\"HEAT\\">тепла</link>, которое отводится в <link=\\"WATER\\">воду</link> и превращает её в <link=\\"STEAM\\">пар</link>. Если поставить возле комнаты с реактором достаточное количество <link=\\"STEAMTURBINE2\\">паровых турбин</link>, они соберут этот пар и выделят достаточное количество <link=\\"POWER\\">энергии</link>, а также чистую воду, которую можно повторно использовать в реакторе.`,
 		},
 	],
 },
@@ -9423,7 +9448,7 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.DESCRIPTION",
-	msgid: `Buildings designed to help Duplicants counter the effects of cold environments and soggy feet.`,
+	msgid: `Buildings that Duplicants will visit when they are suffering the effects of cold environments.`,
 	msgstr: ``,
 	klei: `Строения, созданные, чтобы помочь дубликантам справляться с воздействием холодной среды и сушить промокшие ноги.`,
 },
@@ -9517,7 +9542,7 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 },
 {
 	msgctxt: "STRINGS.CODEX.SPACETREE.BODY.CONTAINER1",
-	msgid: `The Bonbon Gourd is a towering plant developed to thrive in below-freezing temperatures. It features multiple independently functioning stems that synthesize bright light to funnel nutrients into a hollow central core.\\n\\nOnce the plant is fully grown, the core secretes digestive enzymes that break down surplus nutrients and store them as thick, sweet fluid. This can be refined for the production of higher-tier foods, or used to sustain Spigot Seal ranches.\\n\\nBonbon Gourds are generally considered an eyesore, and would likely be eradicated if not for their delicious output.`,
+	msgid: `The Bonbon Tree is a towering plant developed to thrive in below-freezing temperatures. It features multiple independently functioning branches that synthesize bright light to funnel nutrients into a hollow central core.\\n\\nOnce the tree is fully grown, the core secretes digestive enzymes that break down surplus nutrients and store them as thick, sweet fluid. This can be refined into <link=\\"SUCROSE\\">Sucrose</link> for the production of higher-tier foods, or used as-is to sustain Spigot Seal ranches.\\n\\nBonbon Trees are generally considered an eyesore, and would likely be eradicated if not for their delicious output.`,
 	msgstr: ``,
 	klei: `
 Конфетная тыква — это крупное растение, выведенное специально для выращивания при очень низких температурах. У него несколько независящих друг от друга стеблей, которые синтезируют яркий свет и передают питательные вещества в полое ядро по центру.\\n
@@ -9534,7 +9559,7 @@ Once supplied with Enriched Uranium a Nuclear Reactor will create an enormous am
 },
 {
 	msgctxt: "STRINGS.CODEX.SPACETREE.TITLE",
-	msgid: `Bonbon Gourd`,
+	msgid: `Bonbon Tree`,
 	msgstr: ``,
 	klei: `Конфетная тыква`,
 },
@@ -11486,17 +11511,17 @@ PS: Пришлось попросить Стива меня впустить, ч
 },
 {
 	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENT_DESCRIPTION",
-	msgid: `This achievement will be available upon release of <b>The Frosty Planet Pack</b> DLC`,
+	msgid: `This achievement will be available upon full release of <b><i>The Frosty Planet Pack</i></b> DLC`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENT_TITLE",
-	msgid: ``,
+	msgid: `Coming soon`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.DLC_ACHIEVEMENT",
-	msgid: `<i>{0}</i> DLC Achievement`,
+	msgid: `<i>{0}</i> DLC Initiative`,
 	msgstr: ``,
 },
 {
@@ -11740,20 +11765,6 @@ Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> skill
 		{
 			msgid: `
 This egg was recently sung to by a kind Duplicant\\n
-\\n
-Increased <style=\\"KKeyword\\">Incubation Rate</style>\\n
-\\n
-Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill to sing to eggs`,
-			msgstr: `
-Этому яйцу недавно спел дубликант\\n
-\\n
-<color=#C38802>Скорость инкубации</color> увеличена\\n
-\\n
-Чтобы петь яйцам в инкубаторе, дубликант должен иметь навык <color=#C38802>Скотоводство</color>`,
-		},
-		{
-			msgid: `
-This egg was recently sung to by a kind Duplicant\\n
 ------------------\\n
 Increased <style=\\"KKeyword\\">Incubation Rate</style>\\n
 \\n
@@ -11764,6 +11775,20 @@ Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill
 Увеличена <color=#C38802>скорость инкубации</color>\\n
 \\n
 Дубликанты должны обладать навыком <color=#C38802>Скотоводство</color>, чтобы петь для яиц`,
+		},
+		{
+			msgid: `
+This egg was recently sung to by a kind Duplicant\\n
+\\n
+Increased <style=\\"KKeyword\\">Incubation Rate</style>\\n
+\\n
+Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill to sing to eggs`,
+			msgstr: `
+Этому яйцу недавно спел дубликант\\n
+\\n
+<color=#C38802>Скорость инкубации</color> увеличена\\n
+\\n
+Чтобы петь яйцам в инкубаторе, дубликант должен иметь навык <color=#C38802>Скотоводство</color>`,
 		},
 	],
 },
@@ -11872,21 +11897,21 @@ They commonly gather <link=\\"URANIUMORE\\">Uranium Ore</link> for their <link=\
 			msgid: `
 Beetas are hostile critters that thrive in <link=\\"RADIATION\\">Radioactive</link> environments.\\n
 \\n
-They commonly gather <link=\\"URANIUMORE\\">Uranium</link> for their <link=\\"BEEHIVE\\">Beeta Hives</link> to produce <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link>.`,
-			msgstr: `
-Ядерные пчёлы — это агрессивные животные, которые обитают в радиоактивных областях.\\n
-\\n
-Обычно они собирают <link=\\"URANIUMORE\\">урановую руду</link> в свои <link=\\"BEEHIVE\\">ульи</link> для производства <link=\\"ENRICHEDURANIUM\\">обогащённого урана</link>.`,
-		},
-		{
-			msgid: `
-Beetas are hostile critters that thrive in <link=\\"RADIATION\\">Radioactive</link> environments.\\n
-\\n
 They commonly gather <link=\\"URANIUM\\">Uranium</link> for their <link=\\"BEEHIVE\\">Beeta Hives</link> to produce <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link>.`,
 			msgstr: `
 Ядерные пчёлы — агрессивные животные, процветающие в <link=\\"RADIATION\\">радиоактивной</link> среде.\\n
 \\n
 Обычно они собирают <link=\\"URANIUM\\">уран</link> для своих <link=\\"BEEHIVE\\">ядерных ульев</link>, чтобы производить <link=\\"ENRICHEDURANIUM\\">обогащённый уран</link>.`,
+		},
+		{
+			msgid: `
+Beetas are hostile critters that thrive in <link=\\"RADIATION\\">Radioactive</link> environments.\\n
+\\n
+They commonly gather <link=\\"URANIUMORE\\">Uranium</link> for their <link=\\"BEEHIVE\\">Beeta Hives</link> to produce <link=\\"ENRICHEDURANIUM\\">Enriched Uranium</link>.`,
+			msgstr: `
+Ядерные пчёлы — это агрессивные животные, которые обитают в радиоактивных областях.\\n
+\\n
+Обычно они собирают <link=\\"URANIUMORE\\">урановую руду</link> в свои <link=\\"BEEHIVE\\">ульи</link> для производства <link=\\"ENRICHEDURANIUM\\">обогащённого урана</link>.`,
 		},
 	],
 },
@@ -11972,16 +11997,6 @@ They eat <link=\\"TOXICSAND\\">Polluted Dirt</link>, <link=\\"SLIMEMOLD\\">Slime
 	mem: [
 		{
 			msgid: `
-Sanishells are nonhostile critters that thrive in  <link=\\"WATER\\">Water</link> and eliminate <link=\\"DISEASE\\">Germs</link> from any liquid it inhabits.\\n
-\\n
-They eat <link=\\"TOXICSAND\\">Polluted Dirt</link>, <link=\\"SLIMEMOLD\\">Slime</link> and <link=\\"COMPOST\\">Rot Piles</link>.`,
-			msgstr: `
-Крабы-санитары — это неагрессивные животные, процветающие в <link=\\"WATER\\">воде</link>  и уничтожающие <link=\\"DISEASE\\">микробов</link> в любой жидкости, в которой находится.\\n
-\\n
-Они питаются <link=\\"TOXICSAND\\">загрязнённой землёй</link>, <link=\\"SLIMEMOLD\\">слизью</link> и <link=\\"COMPOST\\">сгнившей едой</link>.`,
-		},
-		{
-			msgid: `
 Sanishells are nonhostile critters that thrive in  <link=\\"WATER\\">Water</link> and eliminates <link=\\"DISEASE\\">Germs</link> from any liquid it inhabits.\\n
 \\n
 They eat <link=\\"TOXICSAND\\">Polluted Dirt</link>, <link=\\"SLIMEMOLD\\">Slime</link> and <link=\\"COMPOST\\">Rot Piles</link>.`,
@@ -11989,6 +12004,16 @@ They eat <link=\\"TOXICSAND\\">Polluted Dirt</link>, <link=\\"SLIMEMOLD\\">Slime
 Крабы-санитары — это неагрессивные животные, которые обычно живут в <link=\\"WATER\\">воде</link>. Они могут уничтожать <link=\\"DISEASE\\">микробов</link> в любой жидкости, в которой находятся.\\n
 \\n
 Они питаются  <link=\\"TOXICSAND\\">загрязнённой землёй</link>, <link=\\"SLIMEMOLD\\">слизью</link> и <link=\\"COMPOST\\">сгнившей едой</link>.`,
+		},
+		{
+			msgid: `
+Sanishells are nonhostile critters that thrive in  <link=\\"WATER\\">Water</link> and eliminate <link=\\"DISEASE\\">Germs</link> from any liquid it inhabits.\\n
+\\n
+They eat <link=\\"TOXICSAND\\">Polluted Dirt</link>, <link=\\"SLIMEMOLD\\">Slime</link> and <link=\\"COMPOST\\">Rot Piles</link>.`,
+			msgstr: `
+Крабы-санитары — это неагрессивные животные, процветающие в <link=\\"WATER\\">воде</link>  и уничтожающие <link=\\"DISEASE\\">микробов</link> в любой жидкости, в которой находится.\\n
+\\n
+Они питаются <link=\\"TOXICSAND\\">загрязнённой землёй</link>, <link=\\"SLIMEMOLD\\">слизью</link> и <link=\\"COMPOST\\">сгнившей едой</link>.`,
 		},
 	],
 },
@@ -12273,32 +12298,32 @@ They are closely related to the <link=\\"DIVERGENTWORM\\">Grubgrub</link> and ex
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCK.DESC",
-	msgid: `It's even brighter and more beautiful once it's been carved and displayed.`,
+	msgid: `Lumen quartz emits a soft glowing <link=\\"LIGHT\\">Light</link> that makes everything look and feel a little rosier.\\n\\nIt's even brighter and more beautiful once it's been carved.`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCK.EFFECT",
-	msgid: `Lumen quartz emits a soft glowing <link=\\"LIGHT\\">Light</link> that makes everything look a little rosier.\\n\\nIt naturally boosts <link=\\"DECOR\\">Decor</link>.`,
+	msgid: ``,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCK.NAME",
-	msgid: `<link=\\"PINKROCK\\">Lumen Quartz</link>`,
+	msgid: `Lumen Quartz`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCKCARVED.DESC",
-	msgid: `It's a very pretty rock.`,
+	msgid: `A Duplicant has carved this Lumen quartz in a way that really maximizes its <link=\\"DECOR\\">Decor</link> value and <link=\\"LIGHT\\">brightness</link>.`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCKCARVED.EFFECT",
-	msgid: `A Duplicant has carved this <link=\\"PINKROCK\\">Lumen Quartz</link> in a way that really maximizes its <link=\\"DECOR\\">Decor</link> value and <link=\\"LIGHT\\">Light</link> production.`,
+	msgid: ``,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.PINKROCKCARVED.NAME",
-	msgid: `<link=\\"PINKROCK\\">Carved Quartz</link>`,
+	msgid: `Carved Lumen Quartz`,
 	msgstr: ``,
 },
 {
@@ -12315,16 +12340,6 @@ It is rooted firmly in place, and is waiting for some brave soul to bring it foo
 	mem: [
 		{
 			msgid: `
-A <link=\\"RESIN\\">Resin</link>-producing cybernetic tree that shows signs of sentience.\\n
-\\n
-It is rooted firmly in place, and is waiting for some brave soul to bring it food.`,
-			msgstr: `
-Производящее <link=\\"RESIN\\">каучук</link> кибернетическое дерево, которое подаёт признаки разумности.\\n
-\\n
-Оно крепко вросло корнями на своём месте, и ожидает смелую душу, которая принесёт ему еду.`,
-		},
-		{
-			msgid: `
 An <link=\\"RESIN\\">Resin</link>-producing, cybernetic tree that shows signs of sentience.\\n
 \\n
 It is rooted firmly in place, and appears to have been here for some time.`,
@@ -12332,6 +12347,16 @@ It is rooted firmly in place, and appears to have been here for some time.`,
 Производящее <link=\\"RESIN\\">каучук</link> кибернетическое дерево проявляет признаки разумности.\\n
 \\n
 Оно укоренилось в этом месте, и похоже что надолго.`,
+		},
+		{
+			msgid: `
+A <link=\\"RESIN\\">Resin</link>-producing cybernetic tree that shows signs of sentience.\\n
+\\n
+It is rooted firmly in place, and is waiting for some brave soul to bring it food.`,
+			msgstr: `
+Производящее <link=\\"RESIN\\">каучук</link> кибернетическое дерево, которое подаёт признаки разумности.\\n
+\\n
+Оно крепко вросло корнями на своём месте, и ожидает смелую душу, которая принесёт ему еду.`,
 		},
 	],
 },
@@ -12352,7 +12377,7 @@ It is rooted firmly in place, and appears to have been here for some time.`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.SEAL.DESC",
-	msgid: `Spigot Seals are charismatic creatures who produce <link=\\"ETHANOL\\">Ethanol</link>.\\n\\nThey enjoy sipping <link=\\"SUGARWATER\\">Nectar</link> straight from the <link=\\"SPACETREE\\">Bonbon Gourd</link>.`,
+	msgid: `Spigot Seals are charismatic creatures who produce <link=\\"ETHANOL\\">Ethanol</link>.\\n\\nThey enjoy sipping <link=\\"SUGARWATER\\">Nectar</link> straight from the <link=\\"SPACETREE\\">Bonbon Tree</link>.`,
 	msgstr: ``,
 	klei: `
 Рогатые тюлени — очаровательные создания, производящие <link=\\"ETHANOL\\">этанол</link>.\\n
@@ -12451,7 +12476,7 @@ Used as feed for <link=\\"MOO\\">Gassy Moos</link>.`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.SPACETREE.DESC",
-	msgid: `The <link=\\"PLANTS\\">Seed</link> of a <link=\\"SPACETREE\\">Bonbon Gourd</link>.\\n\\nDigging up Buried Objects may uncover a Bonbon Gourd Seed.`,
+	msgid: `The <link=\\"PLANTS\\">Seed</link> of a <link=\\"SPACETREE\\">Bonbon Tree</link>.\\n\\nDigging up Buried Objects may uncover a Bonbon Tree Seed.`,
 	msgstr: ``,
 	klei: `
 <link=\\"PLANTS\\">Семя</link> <link=\\"SPACETREE\\">конфетной тыквы</link>.\\n
@@ -12460,13 +12485,13 @@ Used as feed for <link=\\"MOO\\">Gassy Moos</link>.`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.SEEDS.SPACETREE.NAME",
-	msgid: `<link=\\"SPACETREE\\">Bonbon Gourd Seed</link>`,
+	msgid: `<link=\\"SPACETREE\\">Bonbon Tree Seed</link>`,
 	msgstr: ``,
 	klei: `<link=\\"SPACETREE\\">Семя конфетной тыквы</link>`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.SPACETREE.DESC",
-	msgid: `Bonbon Gourd branches synthesize <link=\\"LIGHT\\">Light</link> to produce <link=\\"SUGARWATER\\">Nectar</link>.\\n\\nBranches can be harvested for <link=\\"WOOD\\">Wood</link>.\\n\\nBonbon Gourds can shed most environmental debris, and rarely become entombed.`,
+	msgid: `Bonbon Tree branches synthesize <link=\\"LIGHT\\">Light</link> to produce <link=\\"SUGARWATER\\">Nectar</link>.\\n\\nBranches can be harvested for <link=\\"WOOD\\">Wood</link>.\\n\\nBonbon Trees can shed most environmental debris, and rarely become entombed.`,
 	msgstr: ``,
 	klei: `
 Конфетные тыквы адаптировались к самым разным условиям, включая <link=\\"VACUUM\\">вакуум</link>.\\n
@@ -12481,7 +12506,7 @@ Used as feed for <link=\\"MOO\\">Gassy Moos</link>.`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.SPECIES.SPACETREE.NAME",
-	msgid: `<link=\\"SPACETREE\\">Bonbon Gourd</link>`,
+	msgid: `<link=\\"SPACETREE\\">Bonbon Tree</link>`,
 	msgstr: ``,
 	klei: `<link=\\"SPACETREE\\">Конфетная тыква</link>`,
 },
@@ -12880,12 +12905,12 @@ Preferred food temperature range: {templo}-{temphi}`,
 },
 {
 	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SCOLDING.NAME",
-	msgid: `Cold Scolding`,
+	msgid: `Frostbite`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CREATURES.STATUSITEMS.SCOLDING.NOTIFICATION_NAME",
-	msgid: `Cold Scolding`,
+	msgid: `Frostbite`,
 	msgstr: ``,
 },
 {
@@ -13079,22 +13104,22 @@ This farm is storing <style=\\"KKeyword\\">Liquids</style> that are not suitable
 		{
 			msgid: `
 This farm is storing materials that are not suitable for this plant\\n
-\\n
-<style=\\"KKeyword\\">Empty Storage</style> on this building to remove the incorrect materials`,
-			msgstr: `
-В этой ферме находятся материалы, не нужные для данного растения\\n
-\\n
-Опустошите <color=#C38802>внутреннее хранилище</color> этой постройки, чтобы убрать лишние материалы`,
-		},
-		{
-			msgid: `
-This farm is storing materials that are not suitable for this plant\\n
 ------------------\\n
 <style=\\"KKeyword\\">Empty Storage</style> on this building to remove the incorrect materials`,
 			msgstr: `
 Эта ферма хранит материалы, которые не подходят для этого растения\\n
 ------------------\\n
 <color=#C38802>Опустошите внутреннее хранилище</color> фермы, чтобы убрать неиспользуемые материалы`,
+		},
+		{
+			msgid: `
+This farm is storing materials that are not suitable for this plant\\n
+\\n
+<style=\\"KKeyword\\">Empty Storage</style> on this building to remove the incorrect materials`,
+			msgstr: `
+В этой ферме находятся материалы, не нужные для данного растения\\n
+\\n
+Опустошите <color=#C38802>внутреннее хранилище</color> этой постройки, чтобы убрать лишние материалы`,
 		},
 	],
 },
@@ -13130,12 +13155,12 @@ This farm is storing materials that are not suitable for this plant\\n
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.SCOLDINGTHRESHOLD.DESC",
-	msgid: `Determines the <style=\\"KKeyword\\">Temperature</style> at which a Duplicant will take cold damage.`,
+	msgid: `Determines the <style=\\"KKeyword\\">Temperature</style> at which a Duplicant will get frostbitten.`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.SCOLDINGTHRESHOLD.NAME",
-	msgid: `Cold Scolding Threshold`,
+	msgid: `Frostbite Threshold`,
 	msgstr: ``,
 },
 {
@@ -13268,20 +13293,6 @@ A gentle lullaby from a supportive Duplicant encourages developing <style=\\"KKe
 \\n
 Increases <style=\\"KKeyword\\">Incubation Rate</style>\\n
 \\n
-Duplicants must possess the <link=\\"RANCHING1\\">Critter Ranching I</link> Skill to sing to an egg`,
-			msgstr: `
-Дубликант поёт нежную колыбельную для <color=#C38802>яиц</color>\\n
-\\n
-Увеличивается <color=#C38802>скорость инкубации</color>\\n
-\\n
-Дубликант должен обладать навыком <link=\\"RANCHING1\\">Скотоводство I</link>, чтобы петь колыбельные`,
-		},
-		{
-			msgid: `
-A gentle lullaby from a supportive Duplicant encourages developing <style=\\"KKeyword\\">Eggs</style>\\n
-\\n
-Increases <style=\\"KKeyword\\">Incubation Rate</style>\\n
-\\n
 Duplicants must possess the <link=\\"RANCHER\\">Critter Ranching I</link> Skill to sing to an egg`,
 			msgstr: `
 Нежная колыбельная, которую поёт скотовод, благотворно влияет на развитие животного внутри <color=#C38802>яйца</color>\\n
@@ -13289,6 +13300,20 @@ Duplicants must possess the <link=\\"RANCHER\\">Critter Ranching I</link> Skill 
 Увеличивает <color=#C38802>скорость инкубации</color>\\n
 \\n
 Дубликанты должны обладать навыком <link=\\"RANCHER\\">Скотоводство</link>, чтобы они могли петь для яиц`,
+		},
+		{
+			msgid: `
+A gentle lullaby from a supportive Duplicant encourages developing <style=\\"KKeyword\\">Eggs</style>\\n
+\\n
+Increases <style=\\"KKeyword\\">Incubation Rate</style>\\n
+\\n
+Duplicants must possess the <link=\\"RANCHING1\\">Critter Ranching I</link> Skill to sing to an egg`,
+			msgstr: `
+Дубликант поёт нежную колыбельную для <color=#C38802>яиц</color>\\n
+\\n
+Увеличивается <color=#C38802>скорость инкубации</color>\\n
+\\n
+Дубликант должен обладать навыком <link=\\"RANCHING1\\">Скотоводство I</link>, чтобы петь колыбельные`,
 		},
 	],
 },
@@ -13438,7 +13463,7 @@ Everyone's gonna love these`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.REFRESHINGTOUCH.TOOLTIP",
-	msgid: `This Duplicant recently visited a cooling station and is temporarily immune to heat-related <style=\\"KKeyword\\">Stress</style> and <style=\\"KKeyword\\">Athletics</style> damage`,
+	msgid: `This Duplicant recently visited a cooling station and is totally unbothered by heat as a result`,
 	msgstr: ``,
 	klei: `Этот дубликант недавно посетил станцию охлаждения и временно не получает <style=\\"KKeyword\\">стресса</style> и <style=\\"KKeyword\\">физического</style> урона от жары`,
 },
@@ -13497,10 +13522,40 @@ Everyone's gonna love these`,
 	klei: `Устойчивость к холоду`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCH.PROVIDERS_NAME",
+	msgid: `Frost Resistance`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCH.PROVIDERS_TOOLTIP",
+	msgid: `Using this building provides temporary immunity to <style=\\"KKeyword\\">Chilly Surroundings</style> and <style=\\"KKeyword\\">Soggy Feet</style>`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCH.TOOLTIP",
-	msgid: `This Duplicant recently visited a warming station and is temporarily immune to cold-related <style=\\"KKeyword\\">Stress</style> and <style=\\"KKeyword\\">Athletics</style> damage`,
+	msgid: `This Duplicant recently visited a warming station, sauna, or hot tub\\n\\nThey are impervious to cold as a result`,
 	msgstr: ``,
 	klei: `Этот дубликант недавно посетил станцию согревания и временно не получает <style=\\"KKeyword\\">стресса</style> и <style=\\"KKeyword\\">физического</style> урона от холода`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCHFOOD.CAUSE",
+	msgid: `Obtained by eating a very spicy meal`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCHFOOD.DESCRIPTION",
+	msgid: `Eating this provides temporary immunity to <style=\\"KKeyword\\">Chilly Surroundings</style> and <style=\\"KKeyword\\">Soggy Feet</style>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCHFOOD.NAME",
+	msgid: `Frost Resistant: Spicy Diet`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCHFOOD.TOOLTIP",
+	msgid: `This Duplicant ate spicy food and feels so warm inside that they don't even notice the cold right now`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.PERSONALITIES.CALVIN.DESC",
@@ -13569,7 +13624,7 @@ Everyone's gonna love these`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.CARVING.TOOLTIP",
-	msgid: `This Duplicant is carving up a <b>{Target}</b>`,
+	msgid: `This Duplicant is carving away at a <b>{Target}</b>`,
 	msgstr: ``,
 },
 {
@@ -13645,16 +13700,6 @@ Everyone's gonna love these`,
 	msgid: `This Duplicant cannot reach any pending errands`,
 	msgstr: ``,
 	klei: `Этот дубликант не может добраться до места с назначенным им поручением`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.LEFTDESIRINGTOWARMUP.NAME",
-	msgid: `Desiring To Warm Up`,
-	msgstr: ``,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.LEFTDESIRINGTOWARMUP.TOOLTIP",
-	msgid: `This Duplicant was recently in a cold environment and although they are no longer cold, they were left with the desire to warm up. They will find a warming station whenever they don't find a better task to do`,
-	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.METEORPHILE.NAME",
@@ -19539,21 +19584,21 @@ Must be administered by a Duplicant with the <link=\\"MEDICINE3\\">Advanced Medi
 			msgid: `
 An extremely powerful medication created to treat severe <link=\\"DISEASE\\">Diseases</link>. Serum Vial is very effective against <link=\\"SLIMESICKNESS\\">Slimelung</link>.\\n
 \\n
-Must be administered by a Duplicant with the <link=\\"MEDICINE3\\">Advanced Medical Care</link> Skill.`,
-			msgstr: `
-Очень мощное лекарство, созданное для борьбы с <link=\\"DISEASE\\">болезнями</link>. Ампула с сывороткой очень эффективна против <link=\\"SLIMESICKNESS\\">лёгочной слизи</link>.\\n
-\\n
-Для применения требуется дубликант с навыком <link=\\"MEDICINE3\\">Продвинутая медицина</link>.`,
-		},
-		{
-			msgid: `
-An extremely powerful medication created to treat severe <link=\\"DISEASE\\">Diseases</link>. Serum Vial is very effective against <link=\\"SLIMESICKNESS\\">Slimelung</link>.\\n
-\\n
 Must be administered by a Duplicant with the <link=\\"MEDIC\\">Advanced Medical Care</link> Skill.`,
 			msgstr: `
 Очень мощный препарат, созданный для лечения тяжёлых <link=\\"DISEASE\\">болезней</link>. Ампула с сывороткой очень эффективна против <link=\\"SLIMESICKNESS\\">лёгочной слизи</link>.\\n
 \\n
 Может назначаться дубликантом с навыком <link=\\"MEDIC\\">Улучшенные лекарства I</link> для применения.`,
+		},
+		{
+			msgid: `
+An extremely powerful medication created to treat severe <link=\\"DISEASE\\">Diseases</link>. Serum Vial is very effective against <link=\\"SLIMESICKNESS\\">Slimelung</link>.\\n
+\\n
+Must be administered by a Duplicant with the <link=\\"MEDICINE3\\">Advanced Medical Care</link> Skill.`,
+			msgstr: `
+Очень мощное лекарство, созданное для борьбы с <link=\\"DISEASE\\">болезнями</link>. Ампула с сывороткой очень эффективна против <link=\\"SLIMESICKNESS\\">лёгочной слизи</link>.\\n
+\\n
+Для применения требуется дубликант с навыком <link=\\"MEDICINE3\\">Продвинутая медицина</link>.`,
 		},
 	],
 },
@@ -19595,25 +19640,21 @@ Must be administered by a Duplicant with the <link=\\"MEDIC\\">Advanced Medical 
 	mem: [
 		{
 			msgid: `
-• I can use {Hotkey/PanLeft} and {Hotkey/PanRight} to pan my view left and right, and {Hotkey/PanUp} and {Hotkey/PanDown} to pan up and down.\\n
+• The <b><color=#F44A4A>[WASD]</b></color> keys pan my view and the <b><color=#F44A4A>[MOUSE WHEEL]</b></color> zooms it in and out.\\n
 \\n
-• {Hotkey/ZoomIn} lets me zoom in, and {Hotkey/ZoomOut} zooms out.\\n
+• <b><color=#F44A4A>[H]</b></color> returns my view to the Printing Pod.\\n
 \\n
-• {Hotkey/CameraHome} returns my view to the Printing Pod.\\n
+• I can speed or slow my perception of time using the top left corner buttons, or by pressing <b><color=#F44A4A>[TAB]</b></color>, while pressing <b><color=#F44A4A>[SPACE]</b></color> will pause the flow of time entirely.\\n
 \\n
-• I can speed or slow my perception of time using the top left corner buttons, or by pressing {Hotkey/SpeedUp} or {Hotkey/SlowDown}. Pressing {Hotkey/TogglePause} will pause the flow of time entirely.\\n
-\\n
-•  I'll keep records of everything I discover in my personal DATABASE {Hotkey/ManageDatabase} to refer back to if I forget anything important.`,
+• I'll keep records of everything I discover in my personal DATABASE <b><color=#F44A4A>[U]</b></color> to refer back to if I forget anything important.`,
 			msgstr: `
-• Я могу использовать {Hotkey/PanLeft} и {Hotkey/PanRight}, чтобы перемещать камеру влево или вправо, а также {Hotkey/PanUp} и {Hotkey/PanDown} для перемещения вверх и вниз.\\n
+• Используйте клавиши <color=#F44A4A><b>[WASD]</color></b> для перемещения камеры и <color=#F44A4A><b>[Колёсико мыши]</color></b> для изменения масштаба.\\n
 \\n
-• {Hotkey/ZoomIn} позволяет приблизить изображение, а {Hotkey/ZoomOut}  — отдалить.\\n
+• <color=#F44A4A><b>[H]</color></b> переместит камеру к биопринтеру.\\n
 \\n
-• {Hotkey/CameraHome} возвращает положение камеры к биопринтеру.\\n
+• Скорость игры можно изменить с помощью кнопок в верхнем углу или нажатием <color=#F44A4A><b>[TAB]</color></b>. Нажатие на <color=#F44A4A><b>[Пробел]</color></b> поставит или снимет игру с паузы.\\n
 \\n
-• Я могу ускорять или замедлять скорость игры, используя кнопки в левой верхней части экрана, либо нажимая {Hotkey/SpeedUp} или {Hotkey/SlowDown}. Нажатие {Hotkey/TogglePause} приостанавливает течение игрового времени.\\n
-\\n
-•  Я сохраняю записи обо всех своих открытиях в БАЗЕ ДАННЫХ {Hotkey/ManageDatabase}, чтобы просмотреть их, когда забуду что-то важное.`,
+• Также можно прочитать открытые записи в персональной Базе данных <color=#F44A4A><b>[U]</color></b>, чтобы узнать что-нибудь важное.`,
 		},
 		{
 			msgid: `
@@ -19639,21 +19680,25 @@ Must be administered by a Duplicant with the <link=\\"MEDIC\\">Advanced Medical 
 		},
 		{
 			msgid: `
-• The <b><color=#F44A4A>[WASD]</b></color> keys pan my view and the <b><color=#F44A4A>[MOUSE WHEEL]</b></color> zooms it in and out.\\n
+• I can use {Hotkey/PanLeft} and {Hotkey/PanRight} to pan my view left and right, and {Hotkey/PanUp} and {Hotkey/PanDown} to pan up and down.\\n
 \\n
-• <b><color=#F44A4A>[H]</b></color> returns my view to the Printing Pod.\\n
+• {Hotkey/ZoomIn} lets me zoom in, and {Hotkey/ZoomOut} zooms out.\\n
 \\n
-• I can speed or slow my perception of time using the top left corner buttons, or by pressing <b><color=#F44A4A>[TAB]</b></color>, while pressing <b><color=#F44A4A>[SPACE]</b></color> will pause the flow of time entirely.\\n
+• {Hotkey/CameraHome} returns my view to the Printing Pod.\\n
 \\n
-• I'll keep records of everything I discover in my personal DATABASE <b><color=#F44A4A>[U]</b></color> to refer back to if I forget anything important.`,
+• I can speed or slow my perception of time using the top left corner buttons, or by pressing {Hotkey/SpeedUp} or {Hotkey/SlowDown}. Pressing {Hotkey/TogglePause} will pause the flow of time entirely.\\n
+\\n
+•  I'll keep records of everything I discover in my personal DATABASE {Hotkey/ManageDatabase} to refer back to if I forget anything important.`,
 			msgstr: `
-• Используйте клавиши <color=#F44A4A><b>[WASD]</color></b> для перемещения камеры и <color=#F44A4A><b>[Колёсико мыши]</color></b> для изменения масштаба.\\n
+• Я могу использовать {Hotkey/PanLeft} и {Hotkey/PanRight}, чтобы перемещать камеру влево или вправо, а также {Hotkey/PanUp} и {Hotkey/PanDown} для перемещения вверх и вниз.\\n
 \\n
-• <color=#F44A4A><b>[H]</color></b> переместит камеру к биопринтеру.\\n
+• {Hotkey/ZoomIn} позволяет приблизить изображение, а {Hotkey/ZoomOut}  — отдалить.\\n
 \\n
-• Скорость игры можно изменить с помощью кнопок в верхнем углу или нажатием <color=#F44A4A><b>[TAB]</color></b>. Нажатие на <color=#F44A4A><b>[Пробел]</color></b> поставит или снимет игру с паузы.\\n
+• {Hotkey/CameraHome} возвращает положение камеры к биопринтеру.\\n
 \\n
-• Также можно прочитать открытые записи в персональной Базе данных <color=#F44A4A><b>[U]</color></b>, чтобы узнать что-нибудь важное.`,
+• Я могу ускорять или замедлять скорость игры, используя кнопки в левой верхней части экрана, либо нажимая {Hotkey/SpeedUp} или {Hotkey/SlowDown}. Нажатие {Hotkey/TogglePause} приостанавливает течение игрового времени.\\n
+\\n
+•  Я сохраняю записи обо всех своих открытиях в БАЗЕ ДАННЫХ {Hotkey/ManageDatabase}, чтобы просмотреть их, когда забуду что-то важное.`,
 		},
 	],
 },
@@ -19736,12 +19781,12 @@ My Duplicants would appreciate a place to sleep\\n
 		{
 			msgid: `
 My Duplicants would appreciate a place to sleep\\n
-\\n
-<link=\\"COTS\\">Cots</link> can be built from the <b>Furniture Tab</b> {Hotkey/Plan9}`,
+------------------\\n
+<link=\\"COTS\\">Cots</link> can be built from the <b>Furniture Tab</b> <b><color=#F44A4A>[9]</b></color>`,
 			msgstr: `
-Моим дубликантам нужно место для сна\\n
-\\n
-<link=\\"COTS\\">Койки</link> можно построить из вкладки <b>Мебель</b> {Hotkey/Plan9}`,
+Мои дубликанты не могут найти место для сна\\n
+------------------\\n
+<link=\\"COTS\\">Койки</link> могут быть найдены на строительной вкладке <b>Мебель</b> <color=#F44A4A><b>[9]</color></b>`,
 		},
 		{
 			msgid: `
@@ -19756,12 +19801,12 @@ My Duplicants would appreciate a place to sleep\\n
 		{
 			msgid: `
 My Duplicants would appreciate a place to sleep\\n
-------------------\\n
-<link=\\"COTS\\">Cots</link> can be built from the <b>Furniture Tab</b> <b><color=#F44A4A>[9]</b></color>`,
+\\n
+<link=\\"COTS\\">Cots</link> can be built from the <b>Furniture Tab</b> {Hotkey/Plan9}`,
 			msgstr: `
-Мои дубликанты не могут найти место для сна\\n
-------------------\\n
-<link=\\"COTS\\">Койки</link> могут быть найдены на строительной вкладке <b>Мебель</b> <color=#F44A4A><b>[9]</color></b>`,
+Моим дубликантам нужно место для сна\\n
+\\n
+<link=\\"COTS\\">Койки</link> можно построить из вкладки <b>Мебель</b> {Hotkey/Plan9}`,
 		},
 	],
 },
@@ -19783,17 +19828,13 @@ Ventilation applies the same principles to gases. Select the Ventilation Overlay
 	mem: [
 		{
 			msgid: `
-When connecting pipes for plumbing, it is useful to have the Plumbing Overlay {Hotkey/Overlay6} selected. Each building which requires plumbing must have their Building Intake connected to the Output Pipe from a source such as a Liquid Pump. Liquid Pumps must be submerged in liquid and attached to a power source to function.\\n
+When connecting pipes it is useful to have the Plumbing Overlay <b><color=#F44A4A>[F6]</b></color> selected. Each building which requires plumbing must have their Building Intake connected to the Output Pipe from a source such as a Liquid Pump. Liquid Pumps must be submerged in liquid and attached to a power source to function.\\n
 \\n
-Buildings often output contaminated water which must flow out of the building through piping from the Output Pipe. The water can then be expelled through a Liquid Vent, or filtered through a Liquid Filter for reuse.\\n
-\\n
-Ventilation applies the same principles to gases. Select the Ventilation Overlay {Hotkey/Overlay7} to see how gases are being moved around the colony.`,
+Buildings often output contaminated water which must flow out of the building through piping from the Output Pipe. The water can then be expelled through a Liquid Vent, or filtered through a Liquid Filter for reuse.`,
 			msgstr: `
-При подключении труб в систему трубопровода, удобно включать Оверлей трубопровода {Hotkey/Overlay6}. Каждую постройку, имеющую порт ввода жидкости, необходимо подключить к источнику жидкости, например, к жидкостному насосу. Жидкостный насос должен быть погружён в жидкость и подкючён к источнику энергии, чтобы он мог работать.\\n
+При подключении труб, полезно использовать оверлей сантехники <b><color=#F44A4A>[F6]</color></b>. Каждая постройка, требующая ввода жидкости по трубе, должна быть подключена трубой к источнику жидкости, например, жидкостному насосу. Жидкостные насосы должны быть погружены в жидкость и подключены к энергии.\\n
 \\n
-Постройки часто выделяют загрязнённую воду через трубу вывода жидкости. Её можно выпустить из трубы с помощью слива или пропустить через очиститель жидкости для превращения в чистую воду и дальнейшего использования.\\n
-\\n
-Вентиляционный трубопровод работает по аналогичным принципам. Включите Оверлей вентиляции {Hotkey/Overlay7}, чтобы увидеть, какие газы и как перемещаются по колонии.`,
+Постройки часто выделяют загрязнённую воду, которая выходит через трубу. Её можно вылить с помощью слива или очистить для повторного использования с помощью соответствующих построек.`,
 		},
 		{
 			msgid: `
@@ -19807,13 +19848,17 @@ Buildings often output contaminated water which must flow out of the building th
 		},
 		{
 			msgid: `
-When connecting pipes it is useful to have the Plumbing Overlay <b><color=#F44A4A>[F6]</b></color> selected. Each building which requires plumbing must have their Building Intake connected to the Output Pipe from a source such as a Liquid Pump. Liquid Pumps must be submerged in liquid and attached to a power source to function.\\n
+When connecting pipes for plumbing, it is useful to have the Plumbing Overlay {Hotkey/Overlay6} selected. Each building which requires plumbing must have their Building Intake connected to the Output Pipe from a source such as a Liquid Pump. Liquid Pumps must be submerged in liquid and attached to a power source to function.\\n
 \\n
-Buildings often output contaminated water which must flow out of the building through piping from the Output Pipe. The water can then be expelled through a Liquid Vent, or filtered through a Liquid Filter for reuse.`,
+Buildings often output contaminated water which must flow out of the building through piping from the Output Pipe. The water can then be expelled through a Liquid Vent, or filtered through a Liquid Filter for reuse.\\n
+\\n
+Ventilation applies the same principles to gases. Select the Ventilation Overlay {Hotkey/Overlay7} to see how gases are being moved around the colony.`,
 			msgstr: `
-При подключении труб, полезно использовать оверлей сантехники <b><color=#F44A4A>[F6]</color></b>. Каждая постройка, требующая ввода жидкости по трубе, должна быть подключена трубой к источнику жидкости, например, жидкостному насосу. Жидкостные насосы должны быть погружены в жидкость и подключены к энергии.\\n
+При подключении труб в систему трубопровода, удобно включать Оверлей трубопровода {Hotkey/Overlay6}. Каждую постройку, имеющую порт ввода жидкости, необходимо подключить к источнику жидкости, например, к жидкостному насосу. Жидкостный насос должен быть погружён в жидкость и подкючён к источнику энергии, чтобы он мог работать.\\n
 \\n
-Постройки часто выделяют загрязнённую воду, которая выходит через трубу. Её можно вылить с помощью слива или очистить для повторного использования с помощью соответствующих построек.`,
+Постройки часто выделяют загрязнённую воду через трубу вывода жидкости. Её можно выпустить из трубы с помощью слива или пропустить через очиститель жидкости для превращения в чистую воду и дальнейшего использования.\\n
+\\n
+Вентиляционный трубопровод работает по аналогичным принципам. Включите Оверлей вентиляции {Hotkey/Overlay7}, чтобы увидеть, какие газы и как перемещаются по колонии.`,
 		},
 	],
 },
@@ -19919,12 +19964,12 @@ Only Duplicants with the <link=\\"RANCHING1\\">Critter Ranching I</link> skill c
 		{
 			msgid: `
 Waiting for a Duplicant to capture this <style=\\"KKeyword\\">Critter</style>\\n
-\\n
-Only Duplicants with the <link=\\"RANCHING1\\">Critter Ranching I</link> Skill can catch critters without traps`,
+------------------\\n
+Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can catch critters without traps`,
 			msgstr: `
 Ожидание дубликанта для поимки этого <color=#C38802>животного</color>\\n
-\\n
-Только дубликанты с навыком <link=\\"RANCHING1\\">Скотоводство I</link> или выше могут ловить животных без ловушек`,
+------------------\\n
+Только дубликанты с навыком <link=\\"RANCHER\\">Скотоводство</link> могут ловить животных без ловушек`,
 		},
 		{
 			msgid: `
@@ -19939,12 +19984,12 @@ Only Duplicants with the <link=\\"RANCHING1\\">Critter Ranching I</link> Skill c
 		{
 			msgid: `
 Waiting for a Duplicant to capture this <style=\\"KKeyword\\">Critter</style>\\n
-------------------\\n
-Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can catch critters without traps`,
+\\n
+Only Duplicants with the <link=\\"RANCHING1\\">Critter Ranching I</link> Skill can catch critters without traps`,
 			msgstr: `
 Ожидание дубликанта для поимки этого <color=#C38802>животного</color>\\n
-------------------\\n
-Только дубликанты с навыком <link=\\"RANCHER\\">Скотоводство</link> могут ловить животных без ловушек`,
+\\n
+Только дубликанты с навыком <link=\\"RANCHING1\\">Скотоводство I</link> или выше могут ловить животных без ловушек`,
 		},
 	],
 },
@@ -20112,9 +20157,14 @@ Only Duplicants with the <link=\\"RANCHER\\">Critter Ranching I</link> Skill can
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.PLASTIFIABLELIQUID",
-	msgid: `Pre-Plastic`,
+	msgid: `<link=\\"PLASTIFIABLELIQUID\\">Plastic Monomer</link>`,
 	msgstr: ``,
 	klei: `Предпластмасса`,
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.PLASTIFIABLELIQUID_DESC",
+	msgid: `Plastic monomers are organic compounds that can be processed into plastic polymers in order to produce <link=\\"PLASTIC\\">Plastics</link> that have useful applications as advanced building materials and <link=\\"FOOD\\">Food</link> preservation.`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.PLUMBABLE_DESC",
@@ -20593,12 +20643,12 @@ The internal battery can not be recharged and this robot will cease functioning 
 	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\\">Предмет декора</link> ({0})`,
 	mem: [
 		{
-			msgid: `Decor item ({0})`,
-			msgstr: `Украшение ({0})`,
-		},
-		{
 			msgid: `Decor item`,
 			msgstr: `Украшение`,
+		},
+		{
+			msgid: `Decor item ({0})`,
+			msgstr: `Украшение ({0})`,
 		},
 	],
 },
@@ -20946,7 +20996,7 @@ The internal battery can not be recharged and this robot will cease functioning 
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.WARMINGSTATION.NAME",
-	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSWARMINGSTATION\\">Warming Station</link>`,
+	msgid: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSWARMINGSTATION\\">Warming station</link>`,
 	msgstr: ``,
 	klei: `<link=\\"BUILDCATEGORYREQUIREMENTCLASSWARMINGSTATION\\">Согревательная станция</link>`,
 },
@@ -21005,12 +21055,12 @@ Sleeping in a Bedroom will improve Duplicants' Morale.`,
 	klei: `Сон в роскошной казарме поднимет моральный дух дубликантов`,
 	mem: [
 		{
-			msgid: `Sleeping in a Bedroom will improve Duplicants' Morale`,
-			msgstr: `Сон в спальне улучшает моральный дух дубликантов`,
-		},
-		{
 			msgid: `Sleeping in a private Bedroom will improve Duplicants' Morale.`,
 			msgstr: `Сон в личной спальне повысит моральный дух дубликантов.`,
+		},
+		{
+			msgid: `Sleeping in a Bedroom will improve Duplicants' Morale`,
+			msgstr: `Сон в спальне улучшает моральный дух дубликантов`,
 		},
 	],
 },
@@ -21061,12 +21111,12 @@ Stabled critters can be tended at a Grooming Station to hasten their domesticati
 	klei: `Хлев позволяет использовать станции существ, общежития для существ, фонтанчики для существ, станции для стрижки и станции доения`,
 	mem: [
 		{
-			msgid: `Stabled critters can be tended at a Grooming Station to hasten their domestication and increase their production`,
-			msgstr: `Можно заботиться о животных с помощью станции ухода. Это приручает их и увеличивает производство продукции`,
-		},
-		{
 			msgid: `Stabled critters can be tended at a Grooming Station to hasten their domestication and increase their production.`,
 			msgstr: `На станции ухода можно ухаживать за животными в загоне, чтобы ускорить их одомашнивание и повысить производство.`,
+		},
+		{
+			msgid: `Stabled critters can be tended at a Grooming Station to hasten their domestication and increase their production`,
+			msgstr: `Можно заботиться о животных с помощью станции ухода. Это приручает их и увеличивает производство продукции`,
 		},
 	],
 },
@@ -21201,12 +21251,12 @@ Duplicants recover even more stamina while sleeping in a Private Bedroom than in
 	klei: `Сон в отдельной спальне поднимает моральный дух дубликантов.`,
 	mem: [
 		{
-			msgid: `Duplicants recover even more stamina while sleeping in a Private Bedroom than in Barracks`,
-			msgstr: `В личной спальне дубликанты восстанавливают больше выносливости, чем в казарме`,
-		},
-		{
 			msgid: `Duplicants recover even more stamina while sleeping in a Private Bedroom than in Barracks.`,
 			msgstr: `Дубликанты восстанавливают ещё больше выносливости во время сна в личной спальне, чем в казармах.`,
+		},
+		{
+			msgid: `Duplicants recover even more stamina while sleeping in a Private Bedroom than in Barracks`,
+			msgstr: `В личной спальне дубликанты восстанавливают больше выносливости, чем в казарме`,
 		},
 	],
 },
@@ -21582,7 +21632,7 @@ While the Radioactive Biome, and the Beetas contained within it, should be avoid
 },
 {
 	msgctxt: "STRINGS.SUBWORLDS.SUGARWOODS.DESC",
-	msgid: `The <link=\\"SNOW\\">snow</link>-laden Nectar Biome is home to the massive <link=\\"SPACETREE\\">Bonbon Gourd</link>. This complex plant produces <link=\\"SUGARWATER\\">Nectar</link>, which can be refined into <link=\\"SUCROSE\\">Sucrose</link> and <link=\\"STEAM\\">Steam</link>.`,
+	msgid: `The <link=\\"SNOW\\">snow</link>-laden Nectar Biome is home to the massive <link=\\"SPACETREE\\">Bonbon Tree</link>. This complex plant produces <link=\\"SUGARWATER\\">Nectar</link>, which can be refined into <link=\\"SUCROSE\\">Sucrose</link> and <link=\\"STEAM\\">Steam</link>.`,
 	msgstr: ``,
 	klei: `В покрытом <link=\\"SNOW\\">снегом</link> нектарном биоме растут огромные <link=\\"SPACETREE\\">конфетные тыквы</link>. Это замысловатое растение производит <link=\\"SUGARWATER\\">нектар</link>, который можно переработать в <link=\\"SUCROSE\\">сахарозу</link> и <link=\\"STEAM\\">пар</link>.`,
 },
@@ -21744,16 +21794,16 @@ Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> skill
 		{
 			msgid: `
 This critter can be captured\\n
-\\n
-Mark critters for capture using the <b>Wrangle Tool</b> {Hotkey/Capture}\\n
+------------------\\n
+Mark critters for capture using the <b>Wrangle Tool</b> <b><color=#F44A4A>[N]</b></color>\\n
 \\n
 Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill in order to wrangle critters`,
 			msgstr: `
-Это животное можно поймать\\n
+Это животное может быть поймано\\n
+------------------\\n
+Отметьте животных для ловли <b>инструментом отлова</b> <color=#F44A4A><b>[N]</color></b>\\n
 \\n
-Отметить животных для поимки можно с помощью <b>Инструмента отлова</b> {Hotkey/Capture}\\n
-\\n
-Дубликанты должны обладать навыком <color=#C38802>Скотоводство I</color> или выше, чтобы уметь ловить животных`,
+Дубликанты должны обладать навыком <color=#C38802>Скотоводство</color>, чтобы ловить животных`,
 		},
 		{
 			msgid: `
@@ -21772,16 +21822,16 @@ Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill
 		{
 			msgid: `
 This critter can be captured\\n
-------------------\\n
-Mark critters for capture using the <b>Wrangle Tool</b> <b><color=#F44A4A>[N]</b></color>\\n
+\\n
+Mark critters for capture using the <b>Wrangle Tool</b> {Hotkey/Capture}\\n
 \\n
 Duplicants must possess the <style=\\"KKeyword\\">Critter Ranching</style> Skill in order to wrangle critters`,
 			msgstr: `
-Это животное может быть поймано\\n
-------------------\\n
-Отметьте животных для ловли <b>инструментом отлова</b> <color=#F44A4A><b>[N]</color></b>\\n
+Это животное можно поймать\\n
 \\n
-Дубликанты должны обладать навыком <color=#C38802>Скотоводство</color>, чтобы ловить животных`,
+Отметить животных для поимки можно с помощью <b>Инструмента отлова</b> {Hotkey/Capture}\\n
+\\n
+Дубликанты должны обладать навыком <color=#C38802>Скотоводство I</color> или выше, чтобы уметь ловить животных`,
 		},
 	],
 },
@@ -21884,22 +21934,22 @@ It must eat food between {TempMin} - {TempMax} to regrow sheared <style=\\"KKeyw
 		{
 			msgid: `
 This critter can be sheared every <b>{Time}</b> to produce <style=\\"produced\\">{Amount}</style> of <style=\\"KKeyword\\">{Item}</style>\\n
-\\n
-It must eat food between {TempMin}-{TempMax} to regrow sheared <style=\\"KKeyword\\">{Item}</style>`,
-			msgstr: `
-Это животное можно постричь каждые <b>{Time}</b>, чтобы получить <color=#C38802>{Item}</color> в количестве <style=\\"produced\\">{Amount}</style>\\n
-\\n
-Чтобы <color=#C38802>{Item}</color> можно было снова состричь, температура еды животного должна быть в пределах {TempMin}-{TempMax}`,
-		},
-		{
-			msgid: `
-This critter can be sheared every <b>{Time}</b> to produce <style=\\"produced\\">{Amount}</style> of <style=\\"KKeyword\\">{Item}</style>\\n
 ------------------\\n
 It must eat food between {TempMin}-{TempMax} to regrow sheared <style=\\"KKeyword\\">{Item}</style>`,
 			msgstr: `
 Это животное можно стричь каждые <b>{Time}</b>, чтобы получать <color=#C38802>{Item}</color> по <style=\\"produced\\">{Amount}</style>\\n
 ------------------\\n
 Оно должно употреблять пищу с температурой {TempMin}-{TempMax}, чтобы снова отрастить <style=\\"KKeyword\\">{Item}</style>`,
+		},
+		{
+			msgid: `
+This critter can be sheared every <b>{Time}</b> to produce <style=\\"produced\\">{Amount}</style> of <style=\\"KKeyword\\">{Item}</style>\\n
+\\n
+It must eat food between {TempMin}-{TempMax} to regrow sheared <style=\\"KKeyword\\">{Item}</style>`,
+			msgstr: `
+Это животное можно постричь каждые <b>{Time}</b>, чтобы получить <color=#C38802>{Item}</color> в количестве <style=\\"produced\\">{Amount}</style>\\n
+\\n
+Чтобы <color=#C38802>{Item}</color> можно было снова состричь, температура еды животного должна быть в пределах {TempMin}-{TempMax}`,
 		},
 	],
 },
@@ -21987,7 +22037,7 @@ It must eat food between {TempMin}-{TempMax} to regrow sheared <style=\\"KKeywor
 },
 {
 	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.FLOODEDDIAGNOSTIC.ALL_NAME",
-	msgid: `FLooded`,
+	msgid: `Flooded`,
 	msgstr: ``,
 },
 {
@@ -21997,7 +22047,7 @@ It must eat food between {TempMin}-{TempMax} to regrow sheared <style=\\"KKeywor
 },
 {
 	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.FLOODEDDIAGNOSTIC.CRITERIA.CHECKFLOODED",
-	msgid: `Check flooded`,
+	msgid: `Check Flooded`,
 	msgstr: ``,
 },
 {
@@ -22246,16 +22296,16 @@ Are you sure you want to opt in?`,
 	klei: `(ClickType/Щелкните), чтобы следить за этим показателем. Текущий статус: <b>не отображается</b>`,
 	mem: [
 		{
-			msgid: `(ClickType/Click) to subscribe to this diagnostic - Current State:  <b>Never Visible      </b>`,
-			msgstr: `(ClickType/Click) для подписки на эту диагностику - Текущее состояние:  <b>Скрыть навсегда    </b>`,
+			msgid: `Click to subscribe to this diagnostic - Current State:  <b>Never Visible      </b>`,
+			msgstr: `Выберите для включения диагностики — Текущее состояние: <b>Не показывать      </b>`,
 		},
 		{
 			msgid: `\\\\Click\\\\ to subscribe to this diagnostic - Current State:  <b>Never Visible      </b>`,
 			msgstr: `\\\\Нажмите\\\\ для подписки на диагностику — Текущее состояние:  <b>Не показывать      </b>`,
 		},
 		{
-			msgid: `Click to subscribe to this diagnostic - Current State:  <b>Never Visible      </b>`,
-			msgstr: `Выберите для включения диагностики — Текущее состояние: <b>Не показывать      </b>`,
+			msgid: `(ClickType/Click) to subscribe to this diagnostic - Current State:  <b>Never Visible      </b>`,
+			msgstr: `(ClickType/Click) для подписки на эту диагностику - Текущее состояние:  <b>Скрыть навсегда    </b>`,
 		},
 	],
 },
@@ -22266,22 +22316,22 @@ Are you sure you want to opt in?`,
 	klei: `(ClickType/Щелкните), чтобы отключить этот показатель. Текущий статус: <b>отображается постоянно</b>`,
 	mem: [
 		{
-			msgid: `(ClickType/Click) to mute this diagnostic on the sidebar -  Current State: <b>Always Visible</b>`,
-			msgstr: `(ClickType/Click) для выключения звука этой диагностики сбоку экрана -  Текущее состояние: <b>Видимо всегда </b>`,
+			msgid: `Click to mute this diagnostic on the sidebar -  Current State: <b>Always Visible</b>`,
+			msgstr: `Выберите для отключения звука этой диагностики на боковой панели — Текущее состояние: <b>Всегда видимо </b>`,
 		},
 		{
 			msgid: `\\\\Click\\\\ to mute this diagnostic on the sidebar -  Current State: <b>Always Visible</b>`,
 			msgstr: `\\\\Нажмите\\\\, чтобы заглушить диагностику сбоку: <b>Показывать всегда</b>`,
 		},
 		{
-			msgid: `Click to mute this diagnostic on the sidebar -  Current State: <b>Always Visible</b>`,
-			msgstr: `Выберите для отключения звука этой диагностики на боковой панели — Текущее состояние: <b>Всегда видимо </b>`,
+			msgid: `(ClickType/Click) to mute this diagnostic on the sidebar -  Current State: <b>Always Visible</b>`,
+			msgstr: `(ClickType/Click) для выключения звука этой диагностики сбоку экрана -  Текущее состояние: <b>Видимо всегда </b>`,
 		},
 	],
 },
 {
 	msgctxt: "STRINGS.UI.DLC2.MIXING_TOOLTIP",
-	msgid: `<b>The Frosty Planet Pack</b> features frozen biomes and elements useful in thermal regulation`,
+	msgid: `<b><i>The Frosty Planet Pack</i></b> features frozen biomes and elements useful in thermal regulation`,
 	msgstr: ``,
 	klei: `<b>В набор \\"Ледяная планета\\"</b> входят замерзшие биомы и элементы, необходимые для терморегуляции`,
 },
@@ -22403,13 +22453,13 @@ Less emphasis on space travel.`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_ASTEROID_MIXING",
-	msgid: `Asteroid remixing modifies which asteroids appear on the starmap`,
+	msgid: `Asteroid remixing modifies which asteroids appear on the starmap\\n\\nRemixed asteroids will retain key features of the outer asteroids that they replace`,
 	msgstr: ``,
 	klei: `Смешение астероидов определяет, какие астероиды появляются на звездной карте`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_BIOME_MIXING",
-	msgid: `Biome remixing modifies which biomes will be included across all asteroids`,
+	msgid: `Biome remixing modifies which biomes will be included across multiple asteroids`,
 	msgstr: ``,
 	klei: `Смешение биомов определяет, какие биомы доступны среди всех астероидов`,
 },
@@ -22424,6 +22474,11 @@ Less emphasis on space travel.`,
 	msgid: `This content is from {0}`,
 	msgstr: ``,
 	klei: `Источник: {0}`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_DLC_MIXING",
+	msgid: `DLC content includes buildings,Care Packages, space POIs, critters, etc\\n\\nEnabling DLC content allows asteroid and biome remixes from that DLC to be customized in the sections below`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_LOCKED_REQUIRE_DLC_NOT_ENABLED",
@@ -22447,7 +22502,7 @@ Less emphasis on space travel.`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_TOO_MANY_GUARENTEED_ASTEROID_MIXINGS",
-	msgid: `Asteroid remixing modifies which asteroids appear on the starmap\\n\\nMaximum of {1} guaranteed asteroid remixes allowed\\n\\nTotal currently selected: {0}`,
+	msgid: `Asteroid remixing modifies which asteroids appear on the starmap\\n\\nRemixed asteroids will retain key features of the outer asteroids that they replace\\n\\nMaximum of {1} guaranteed asteroid remixes allowed\\n\\nTotal currently selected: {0}`,
 	msgstr: ``,
 	klei: `
 Смешение астероидов определяет, какие астероиды появляются на звездной карте\\n
@@ -22458,7 +22513,7 @@ Less emphasis on space travel.`,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_TOO_MANY_GUARENTEED_BIOME_MIXINGS",
-	msgid: `Biome remixing modifies which biomes will be included across all asteroids\\n\\nMaximum of {1} guaranteed biome remixes allowed\\n\\nTotal currently selected: {0}`,
+	msgid: `Biome remixing modifies which biomes will be included across multiple asteroids\\n\\nMaximum of {1} guaranteed biome remixes allowed\\n\\nTotal currently selected: {0}`,
 	msgstr: ``,
 	klei: `
 Смешение биомов определяет, какие биомы доступны среди всех астероидов\\n
@@ -22529,7 +22584,7 @@ Consider lowering the number of story traits or changing the selected asteroid</
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DLC_MIXING.LEVELS.ENABLED.TOOLTIP",
-	msgid: `Content from this DLC is currently <b>enabled</b>\\n\\nThis includes Care Packages and space POIs`,
+	msgid: `Content from this DLC is currently <b>enabled</b>\\n\\nThis includes Care Packages, buildings, and space POIs`,
 	msgstr: ``,
 	klei: `
 Содержимое этого дополнения сейчас <b>включено</b>\\n
@@ -22796,17 +22851,17 @@ Consider lowering the number of story traits or changing the selected asteroid</
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.LOADSCREEN.TOOLTIP_SAVE_INCOMPATABLE_DLC_CONFIGURATION",
-	msgid: `This save was created with a different DLC configuration. To play on this save please:`,
+	msgid: `This save file was created with a different DLC configuration\\n\\nTo load this file:`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.LOADSCREEN.TOOLTIP_SAVE_INCOMPATABLE_DLC_CONFIGURATION_ASK_TO_DISABLE",
-	msgid: `    • Disable {0}`,
+	msgid: `    • Deactivate {0}`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.LOADSCREEN.TOOLTIP_SAVE_INCOMPATABLE_DLC_CONFIGURATION_ASK_TO_ENABLE",
-	msgid: `    • Enable {0}`,
+	msgid: `    • Activate {0}`,
 	msgstr: ``,
 },
 {
@@ -26351,12 +26406,12 @@ Its origins and purpose are currently unknown, though a <link=\\"CLUSTERTELESCOP
 },
 {
 	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC2CERESFIELD.DESC",
-	msgid: `An asteroid field containing <link=\\"CINNABAR\\">Cinnabar</link>, <link=\\"ICE\\">Ice</link> and <link=\\"MERCURY\\">Mercury</link>.\\n\\nHarvesting resources requires a rocket equipped with a <link=\\"NOSECONEHARVEST\\">Drillcone</link>.`,
+	msgid: `The harvestable remains of a planet containing <link=\\"CINNABAR\\">Cinnabar</link>, <link=\\"ICE\\">Ice</link> and <link=\\"MERCURY\\">Mercury</link>.\\n\\nHarvesting resources requires a rocket equipped with a <link=\\"NOSECONEHARVEST\\">Drillcone</link>.`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC2CERESFIELD.NAME",
-	msgid: `Ceres Debris Field`,
+	msgid: `Frozen Cinnabar Asteroid Field`,
 	msgstr: ``,
 },
 {
@@ -26366,7 +26421,7 @@ Its origins and purpose are currently unknown, though a <link=\\"CLUSTERTELESCOP
 },
 {
 	msgctxt: "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC2CERESOREFIELD.NAME",
-	msgid: `Ceres Ore Field`,
+	msgid: `Frozen Mercury Asteroid Field`,
 	msgstr: ``,
 },
 {
@@ -26392,21 +26447,21 @@ There are no Duplicants assigned to this rocket crew\\n
 		{
 			msgid: `
 There are no Duplicants assigned to this rocket crew\\n
-\\n
+------------------\\n
     • {0}/{1} Boarded`,
 			msgstr: `
 Нет дубликантов, назначенных в экипаж этой ракеты\\n
-\\n
+------------------\\n
     • {0}/{1} на борту`,
 		},
 		{
 			msgid: `
 There are no Duplicants assigned to this rocket crew\\n
-------------------\\n
+\\n
     • {0}/{1} Boarded`,
 			msgstr: `
 Нет дубликантов, назначенных в экипаж этой ракеты\\n
-------------------\\n
+\\n
     • {0}/{1} на борту`,
 		},
 	],
@@ -26424,21 +26479,21 @@ Some Duplicants assigned to this rocket crew have not yet boarded\\n
 		{
 			msgid: `
 Some Duplicants assigned to this rocket crew have not yet boarded\\n
-\\n
+------------------\\n
     • {0}/{1} Boarded`,
 			msgstr: `
 Некоторые дубликанты, назначенные в экипаж этой ракеты, ещё не поднялись на борт\\n
-\\n
+------------------\\n
     • {0}/{1} на борту`,
 		},
 		{
 			msgid: `
 Some Duplicants assigned to this rocket crew have not yet boarded\\n
-------------------\\n
+\\n
     • {0}/{1} Boarded`,
 			msgstr: `
 Некоторые дубликанты, назначенные в экипаж этой ракеты, ещё не поднялись на борт\\n
-------------------\\n
+\\n
     • {0}/{1} на борту`,
 		},
 	],
@@ -26987,16 +27042,16 @@ This rocket has a <link=\\"NOSECONEHARVEST\\">Drillcone</link> installed but now
 	klei: `(ClickType/ЩЕЛКНИТЕ), ЧТОБЫ РАЗМЕСТИТЬ`,
 	mem: [
 		{
-			msgid: `(ClickType/CLICK)  TO PLACE`,
-			msgstr: `(ClickType/CLICK)  ДЛЯ РАЗМЕЩЕНИЯ`,
+			msgid: `CLICK TO PLACE`,
+			msgstr: `НАЖМИТЕ ДЛЯ РАЗМЕЩЕНИЯ`,
 		},
 		{
 			msgid: `\\\\CLICK\\\\  TO PLACE`,
 			msgstr: `\\\\НАЖМИТЕ\\\\ ДЛЯ РАЗМЕЩЕНИЯ`,
 		},
 		{
-			msgid: `CLICK TO PLACE`,
-			msgstr: `НАЖМИТЕ ДЛЯ РАЗМЕЩЕНИЯ`,
+			msgid: `(ClickType/CLICK)  TO PLACE`,
+			msgstr: `(ClickType/CLICK)  ДЛЯ РАЗМЕЩЕНИЯ`,
 		},
 	],
 },
@@ -27369,6 +27424,21 @@ Will interrupt a Duplicant working on revealing a new <style=\\"KKeyword\\">Star
 	klei: `Фильтр элементов`,
 },
 {
+	msgctxt: "STRINGS.UI.UISIDESCREENS.SPACEHEATERSIDESCREEN.CURRENT_THRESHOLD",
+	msgid: `Current Power Consumption: {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.SPACEHEATERSIDESCREEN.TITLE",
+	msgid: `Power Consumption`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.SPACEHEATERSIDESCREEN.TOOLTIP",
+	msgid: `Adjust power consumption to determine how much heat is produced\\n\\nCurrent heat production: <b>{0}</b>`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.AWAITINGDELIVERY",
 	msgid: `AWAITING DELIVERY: {0}`,
 	msgstr: ``,
@@ -27471,18 +27541,18 @@ Open the <b>Starmap</b> {Hotkey/ManageStarmap} to select a focus`,
 		{
 			msgid: `
 No analysis focus selected\\n
-Open the <b>Starmap</b> {Hotkey/ManageStarmap} to selected a focus`,
-			msgstr: `
-Цели для анализа не выбраны\\n
-Откройте <b>звёздную карту</b> {Hotkey/ManageStarmap}, чтобы их выбрать`,
-		},
-		{
-			msgid: `
-No analysis focus selected\\n
 Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 			msgstr: `
 Анализ не сфокусирован\\n
 Откройте <b>звёздную карту</b> <b><color=#F44A4A>[Z]</b></color> для определения фокуса`,
+		},
+		{
+			msgid: `
+No analysis focus selected\\n
+Open the <b>Starmap</b> {Hotkey/ManageStarmap} to selected a focus`,
+			msgstr: `
+Цели для анализа не выбраны\\n
+Откройте <b>звёздную карту</b> {Hotkey/ManageStarmap}, чтобы их выбрать`,
 		},
 	],
 },
@@ -27583,7 +27653,7 @@ Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 },
 {
 	msgctxt: "STRINGS.UI.USERMENUACTIONS.CANCELCARVE.TOOLTIP",
-	msgid: `Cancel this carve order`,
+	msgid: `Cancel order to carve this rock`,
 	msgstr: ``,
 },
 {
@@ -27605,7 +27675,7 @@ Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 },
 {
 	msgctxt: "STRINGS.UI.USERMENUACTIONS.CARVE.TOOLTIP",
-	msgid: `Carve this rock to release the lumens`,
+	msgid: `Carve this rock to enhance its positive effects`,
 	msgstr: ``,
 },
 {
@@ -27705,6 +27775,11 @@ Open the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color> to selected a focus`,
 	klei: `Отменить перемещение этого объекта`,
 },
 {
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_DISPLAY_FAIL.SEARCH1",
+	msgid: `The display is frozen. Whatever information it once contained is long gone.`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.USERMENUACTIONS.RECONSTRUCT.CANCEL_RECONSTRUCT",
 	msgid: `Cancel Rebuild Order`,
 	msgstr: ``,
@@ -27765,7 +27840,7 @@ I'll need to recalibrate my approach to colony-building in order to make the mos
 },
 {
 	msgctxt: "STRINGS.WORLDGEN_MIXING.CERES.DESC",
-	msgid: `Enable care packages, space POIs, and buildings from <b>The Frosty Planet Pack</b>.`,
+	msgid: `Enable care packages, space POIs, and buildings from <b><i>The Frosty Planet Pack</b></i>.`,
 	msgstr: ``,
 	klei: `Активировать посылки, космические точки и строения из набора <b>\\"Ледяная планета\\"</b>.`,
 },
@@ -27813,7 +27888,7 @@ I'll need to recalibrate my approach to colony-building in order to make the mos
 },
 {
 	msgctxt: "STRINGS.WORLDS.CERESCLASSIC.NAME",
-	msgid: `Ceres`,
+	msgid: `Ceres Asteroid`,
 	msgstr: ``,
 	klei: `Церера`,
 },
@@ -27843,7 +27918,7 @@ I'll need to recalibrate my approach to colony-building in order to make the mos
 },
 {
 	msgctxt: "STRINGS.WORLDS.CERESSPACEDOUT.NAME",
-	msgid: `Ceres`,
+	msgid: `Ceres Minor`,
 	msgstr: ``,
 	klei: `Церера`,
 },
