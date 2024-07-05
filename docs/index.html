@@ -217,7 +217,7 @@ textarea.main {
 		<button id="btnSettings">Настройки</button>
 		<button id="btnImport">Импорт</button>
 		<button id="btnExport">Сохр./Экспорт</button><br>
-    <span class="version">v0.07</span>
+    <span class="version">v0.08</span>
 		<!--button>About</button>
 		<button>Contact</button-->
   <!-- Settings content -->
@@ -294,6 +294,7 @@ btn.onclick = function() {
 		+'<input type=checkbox id="settings_show_block_num"'+(SETTINGS.show_block_num?' checked':'')+'> Показывать номер блока в загловке<br>'
 		+'<input type=checkbox id="settings_is_short_h3"'+(SETTINGS.is_short_h3?' checked':'')+'> Укороченный заголовк (без STRINGS)<br>'
     +'<input type=checkbox id="settings_is_autosave"'+(SETTINGS.is_autosave?' checked':'')+'> Автосохранение при смене блока<br>'
+    +'<input type=checkbox id="settings_is_next_problem"'+(SETTINGS.is_next_problem?' checked':'')+'> Кнопки пред/сдед переводят на пустоту<br>'
 		+'<button onclick="SettingsApply()">Принять</button>'
 		+'</p>'
 		+'<div class="help"><h4>Небольшая справка по клавишам</h4><ul style="text-align:left;">\n'
@@ -316,6 +317,7 @@ function SettingsApply() {
 	SETTINGS.show_block_num = document.querySelector('#settings_show_block_num').checked
 	SETTINGS.is_short_h3 = document.querySelector('#settings_is_short_h3').checked
   SETTINGS.is_autosave = document.querySelector('#settings_is_autosave').checked
+	SETTINGS.is_next_problem = document.querySelector('#settings_is_next_problem').checked
 	localStorage.settings = JSON.stringify(SETTINGS);
 	CloseModal()
 	Show()
@@ -991,16 +993,34 @@ document.addEventListener('keydown', function(event) {
 function Prev() {
 	if (IS_MODAL) return;
 	if (NUM_NOW==0) return;
+	let next = NUM_NOW - 1;
+	if (SETTINGS.is_next_problem) {
+		while (true) { //console.log('prev=',next)
+			let row = db[next];
+			if (!row.msgstr || row.msgstr === '') break; // found!
+			if (next === 0) return; // halt
+			next--;
+		}
+	}
 	ReSaveTextarea()
-	NUM_NOW--;
+	NUM_NOW = next;
 	localStorage.num = NUM_NOW;
 	Show()
 }
 function Next() {
 	if (IS_MODAL) return;
 	if(NUM_NOW>=db.length-1) return;
+	let next = NUM_NOW + 1;
+	if (SETTINGS.is_next_problem) {
+		while (true) { //console.log('next=',next)
+			let row = db[next];
+			if (!row.msgstr || row.msgstr === '') break; // found!
+			if (next >= db.length-1) return; // halt
+			next++;
+		}
+	}
 	ReSaveTextarea()
-	NUM_NOW++;
+	NUM_NOW = next;
 	localStorage.num = NUM_NOW;
 	Show()
 }
