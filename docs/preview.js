@@ -18,13 +18,118 @@ db = [
 	klei: `<link=\\"MANUALGENERATOR\\">Эллиптический генератор</link>`,
 },
 {
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_01.NAME",
+	msgid: `Slapshot Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_02.NAME",
+	msgid: `Blocker Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_03.NAME",
+	msgid: `High-Stick Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_04.NAME",
+	msgid: `Faceoff Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_05.NAME",
+	msgid: `MVP Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_07.NAME",
+	msgid: `Hat-Trick Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_08.NAME",
+	msgid: `Overtime Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_09.NAME",
+	msgid: `Penalty Box Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_10.NAME",
+	msgid: `Enforcer Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_11.NAME",
+	msgid: `Hoser Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_12.NAME",
+	msgid: `Rookie Outfit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.DESC",
+	msgid: `It's truly excellent, dude.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.NAME",
+	msgid: `Radical Atmo Suit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_80S.DESC",
+	msgid: `Just big enough to hold a single lip balm whose lid keeps coming off.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_80S.NAME",
+	msgid: `Fannypack Atmo Belt`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_80S.DESC",
+	msgid: `A funky fresh pair of hand coverings.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_80S.NAME",
+	msgid: `Radical Atmo Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_80S.DESC",
+	msgid: `A choice lid keeps things copacetic out here in the cosmos.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_80S.NAME",
+	msgid: `Radical Atmo Helmet`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.DESC",
+	msgid: `Can you do the Running Man in space? With these, maybe.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.NAME",
+	msgid: `Radical Atmo Boots`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.DESC",
-	msgid: `A safe place to sleep.`,
+	msgid: `One person's junk is another person's bespoke bed.`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.NAME",
-	msgid: `<link=\\"BED\\">Cot</link>`,
+	msgid: `<link=\\"BED\\">DIY Cot</link>`,
 	msgstr: ``,
 },
 {
@@ -37,6 +142,446 @@ db = [
 	msgid: `<link=\\"GOURMETCOOKINGSTATION\\">Rustic Oven</link>`,
 	msgstr: ``,
 	klei: `<link=\\"GOURMETCOOKINGSTATION\\">Сельская печь</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.DESC",
+	msgid: `The smoky flavor is intentional.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.NAME",
+	msgid: `<link=\\"PERMITCOOKSTATIONCOTTAGE\\">Backcountry Grill</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.DESC",
+	msgid: `It makes quality meal recipes feel more...approachable.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.NAME",
+	msgid: `<link=\\"PERMITCOOKSTATIONGOURMETCOTTAGE\\">Rustic Gas Range</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.DESC",
+	msgid: `Slapshots are allowed, slapping is not.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.NAME",
+	msgid: `Slapshot Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.DESC",
+	msgid: `Designed to cause disappointment for opponents.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.NAME",
+	msgid: `Blocker Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.DESC",
+	msgid: `Hold your head high, and your hockey stick higher.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.NAME",
+	msgid: `High-Stick Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.DESC",
+	msgid: `When two scientists disagree, there is only one solution.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.NAME",
+	msgid: `Faceoff Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.DESC",
+	msgid: `Can only be worn by this season's Most Valuable Physicist.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.NAME",
+	msgid: `MVP Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.DESC",
+	msgid: `Marks the wearer as someone who once received three high-fives in a single day.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.NAME",
+	msgid: `Hat-Trick Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.DESC",
+	msgid: `Keeps your hands warm when things take longer than scheduled.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.NAME",
+	msgid: `Overtime Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.DESC",
+	msgid: `High contrast colors for effective gesturing through plexiglass.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.NAME",
+	msgid: `Penalty Box Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.DESC",
+	msgid: `They're not afraid to get a little dirty.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.NAME",
+	msgid: `Enforcer Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.DESC",
+	msgid: `Good game, bud.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.NAME",
+	msgid: `Hoser Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.DESC",
+	msgid: `They're a little green.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.NAME",
+	msgid: `Rookie Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.DESC",
+	msgid: `Keeps fingers snuggled up next to each other, as nature intended.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.NAME",
+	msgid: `Smog Mittens`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.DESC",
+	msgid: `Very useful for dusting off old reference books.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.NAME",
+	msgid: `Azulene Mittens`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.DESC",
+	msgid: `A bit fiddly for handling lab equipment.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.NAME",
+	msgid: `Enzyme Mittens`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.DESC",
+	msgid: `If you rub them on your hair, you get a little zap.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.NAME",
+	msgid: `Tectonic Mittens`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.DESC",
+	msgid: `Easy to find in the snow.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.NAME",
+	msgid: `Cosmic Mittens`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.DESC",
+	msgid: `They should really be attached to each other by a long string.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.NAME",
+	msgid: `Astral Mittens`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.DESC",
+	msgid: `What they lack in dexterity, they also lack in stain-resistance.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.NAME",
+	msgid: `White Mittens`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.DESC",
+	msgid: `They're great for stroking one's own face.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.NAME",
+	msgid: `Yellowcake Mittens`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.DESC",
+	msgid: `You cannot choose your family, but you can choose your friends.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME",
+	msgid: `Lady With a Bammini`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC",
+	msgid: `The tale of this catch grows more unbelievable with each telling.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.NAME",
+	msgid: `Catch of the Day`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.DESC",
+	msgid: `The scale implies that this critter and its friend were larger than most.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.NAME",
+	msgid: `Babe the Blue Flox`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_COTTAGE.DESC",
+	msgid: `Some ranchers believe that a woodsy aesthetic puts critters at ease.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_COTTAGE.NAME",
+	msgid: `<link=\\"RANCHSTATION\\">Rustic Grooming Station</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_01.DESC",
+	msgid: `Not to be confused with a \\"Snapshot\\" jersey, which is made out of old photographs.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_01.NAME",
+	msgid: `Slapshot Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_02.DESC",
+	msgid: `Oh, was I in your way? Good.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_02.NAME",
+	msgid: `Blocker Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_03.DESC",
+	msgid: `Subtle padding in the neck and chest protects from retaliation.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_03.NAME",
+	msgid: `High-Stick Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_04.DESC",
+	msgid: `It makes other colony members see red.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_04.NAME",
+	msgid: `Faceoff Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_05.DESC",
+	msgid: `Often worn with the matching gloves to make sure <i>everyone</i> knows.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_05.NAME",
+	msgid: `MVP Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_07.DESC",
+	msgid: `Three hypotheses in one paper? Wow!`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_07.NAME",
+	msgid: `Hat-Trick Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_08.DESC",
+	msgid: `It's comfy enough to sleep in.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_08.NAME",
+	msgid: `Overtime Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_09.DESC",
+	msgid: `There's a troublemaker on every research team.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_09.NAME",
+	msgid: `Penalty Box Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_10.DESC",
+	msgid: `It's time to lay down the law. Newton's Law.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_10.NAME",
+	msgid: `Enforcer Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_11.DESC",
+	msgid: `You win some, you learn some.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_11.NAME",
+	msgid: `Hoser Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.DESC",
+	msgid: `Grants the wearer enthusiasm and beginner's luck.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.NAME",
+	msgid: `Rookie Jersey`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_WALLS_FOREST.DESC",
+	msgid: `Sustainable forest bathing.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_WALLS_FOREST.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Forest</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.DESC",
+	msgid: `Snow tile style that won't melt!`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Ice Panel</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.DESC",
+	msgid: `Southwest of <i>what</i>, Duplicants aren't sure. But they like it.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Southwest</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_WALLS_WOOD_PANEL.DESC",
+	msgid: `Even labs can be dressed up as log cabins!`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_WALLS_WOOD_PANEL.NAME",
+	msgid: `<link=\\"EXTERIORWALL\\">Wood Panel</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGED.NAME",
+	msgid: `Fully Charged`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGED.TOOLTIP",
+	msgid: `This building is functioning at maximum capacity`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGING.NAME",
+	msgid: `Powering Up: {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGING.TOOLTIP",
+	msgid: `This building's <style=\\"KKeyword\\">Light</style> levels are gradually increasing\\n\\nIf its <style=\\"KKeyword\\">Liquid</style> and <style=\\"KKeyword\\">Power</style> requirements continue to be met, it will reach maximum brightness in {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.NAME",
+	msgid: `Powered Off`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.TOOLTIP",
+	msgid: `This building is non-operational due to a lack of resources\\n\\nIt will begin to power up when its <style=\\"KKeyword\\">Liquid</style> and <style=\\"KKeyword\\">Power</style> are met`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATING.NAME",
+	msgid: `Brightness: {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATING.TOOLTIP",
+	msgid: `This building's <style=\\"KKeyword\\">Light</style> output is decreasing because its <style=\\"KKeyword\\">Liquid</style> and <style=\\"KKeyword\\">Power</style> requirements are not being met\\n\\nIt will power off once its stores are depleted`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.DESC",
@@ -66,6 +611,21 @@ db = [
 	klei: `Дает материалы высокой <link=\\"TEMPERATURE\\">температуры</link>, нагретые <link=\\"GEOTHERMALCONTROLLER\\">геотермальным тепловым насосом</link>.`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.DESC",
+	msgid: `Mercury ceiling lights take a while to reach full brightness, but once they do...zowie!`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.EFFECT",
+	msgid: `Uses <link=\\"MERCURY\\">Mercury</link> and <link=\\"POWER\\">Power</link> to produce <link=\\"LIGHT\\">Light</link>.\\n\\nLight reduces Duplicant stress and is required to grow certain plants.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.NAME",
+	msgid: `<link=\\"MERCURYCEILINGLIGHT\\">Mercury Ceiling Light</link>`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.DESC",
 	msgid: ``,
 	msgstr: ``,
@@ -79,6 +639,11 @@ db = [
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.DESC",
 	msgid: ``,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.HEADERS.EQUIPMENTEFFECTS",
+	msgid: `Effects`,
 	msgstr: ``,
 },
 {
@@ -208,6 +773,21 @@ db = [
 	klei: `Винтажный телогрей`,
 },
 {
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.DESC",
+	msgid: `Crunchy bean treats`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.NAME",
+	msgid: `<link=\\"DEEPFRIEDNOSH\\">Nosh Snack</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.RECIPEDESC",
+	msgid: `A crunchy pile of <link=\\"BEANPLANT\\">Nosh Beans</link> deep-fried in <link=\\"TALLOW\\">Tallow</link>.`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.MISC.TAGS.BUILDABLEANY_DESC",
 	msgid: ``,
 	msgstr: ``,
@@ -218,6 +798,26 @@ db = [
 	msgid: ``,
 	msgstr: ``,
 	klei: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.IMPROVED_PLANTS",
+	msgid: `Improved Plants`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.IMPROVED_PLANTS_ITEM",
+	msgid: `{0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_PLANTS",
+	msgid: `<style=\\"KKeyword\\">Tune Ups</style> will improve these plants:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_PLANTS_ITEM",
+	msgid: `{0}`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.NEWBUILDCATEGORIES.ADVANCED.TOOLTIP",
