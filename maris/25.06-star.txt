@@ -41,7 +41,7 @@ STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.NAME
 "<link=\"FLOORLAMP\">Винтажная лампа</link>"
 
 STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.NAME
-"Льдистый биопринтер"
+"<link=\"HEADQUARTERS\">Льдистый биопринтер</link>"
 
 STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.NAME
 "Семейная возня"
@@ -93,6 +93,12 @@ STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.NAME
 
 STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.NAME
 "Деревянный колос пшеницы"
+
+STRINGS.BLUEPRINTS.PERMIT_SMARTSTORAGELOCKER_GRAVITAS.DESC
+"Смарт-склад поможет автоматизировать организацию ресурсов по типу и массе."
+
+STRINGS.BLUEPRINTS.PERMIT_SMARTSTORAGELOCKER_GRAVITAS.NAME
+"<link=\"STORAGELOCKERSMART\">Смарт-склад</link>"
 
 STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.DESC
 "Всегда трудно понять, правильно ли застегнуты пуговицы."
@@ -178,13 +184,13 @@ STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.NAME
 "<link=\"BED\">Нестабильная койка</link>"
 
 STRINGS.BUILDINGS.PREFABS.CAMPFIRE.DESC
-"Камины позволяют высушить мокрые носочки и помогают дубликантам забыть о холоде."
+"Печи-камины позволяют высушить мокрые носочки и помогают дубликантам забыть о холоде."
 
 STRINGS.BUILDINGS.PREFABS.CAMPFIRE.EFFECT
-"Расходует <link=\"WOOD\">древесину</link> и <link=\"HEAT\">нагревает</link> холодную среду вокруг."
+"Расходует <link=\"WOOD\">древесину</link> и медленно <link=\"HEAT\">нагревает</link> холодную среду вокруг."
 
 STRINGS.BUILDINGS.PREFABS.CAMPFIRE.NAME
-"<link=\"CAMPFIRE\">Камин</link>"
+"<link=\"CAMPFIRE\">Печь-камин</link>"
 
 STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_R.DESC
 "Сочетает в себе две вещи, которые все обожают: обнимипы и лазеры."
@@ -396,6 +402,9 @@ STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.DESC
 STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.NAME
 "<link=\"FLUSHTOILET\">Томно-фиолетовый туалет</link>"
 
+STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.RED_ROSE.DESC
+"Ароматная розовая туалетная бумага пахнет, точно розовый куст на очистительной станции."
+
 STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.RED_ROSE.NAME
 "<link=\"FLUSHTOILET\">Пыльно-розовый туалет</link>"
 
@@ -407,6 +416,15 @@ STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.NAME
 
 STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.NAME
 "<link=\"GASRESERVOIR\">Мерзко-жёлтый газовый резервуар</link>"
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.NAME
+"<link=\"GEOTHERMALCONTROLLER\">Геотермальный теплонасос</link>"
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.NAME
+"<link=\"GEOTHERMALVENT\">Геотермальный экстрактор</link>"
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.NAME_FMT
+"<link=\"GEOTHERMALVENT\">Геотермальный экстрактор C-{ID}</link>"
 
 STRINGS.BUILDINGS.PREFABS.ICEKETTLE.DESC
 "Вода никогда не оказывается слишком горячей и не обжигает язык."
@@ -440,6 +458,12 @@ STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.YELLOW_TARTAR.DESC
 
 STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.YELLOW_TARTAR.NAME
 "<link=\"LUXURYBED\">Удобная мерзко-жёлтая кровать</link>"
+
+STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_GOOD_1.DESC
+"Такую гриву нельзя не вывести на передний план."
+
+STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_GOOD_1.NAME
+"<link=\"SCULPTUREMARBLEGOOD1\">Бюст единорога</link>"
 
 STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.BLUE_BABYTEARS.DESC
 "Невкусно, но питательно."
@@ -476,6 +500,18 @@ STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.DESC
 
 STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.NAME
 "<link=\"MICROBEMUSHER\">Мерзко-жёлтый микробный преобразователь</link>"
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.EFFECT
+"Стена амбициозного отдела исследований и разработок."
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.NAME
+"Лабораторная стена"
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.EFFECT
+"Стена амбициозного отдела исследований и разработок."
+
+STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.NAME
+"Мозайка лабораторной стены"
 
 STRINGS.BUILDINGS.PREFABS.SNOWTILE.DESC
 "Снежные плитки обладают низкой теплопроводностью, но тают при высоких температурах."
@@ -570,31 +606,32 @@ STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.TITLE
 "Согревающие постройки"
 
 STRINGS.CODEX.SEAL.BODY.CONTAINER1
-"Конусные тюлени получили своё название благодаря полому коническому межбровному отростку, который позволяет им втягивать полезные вещества из растений прямо в пищеварительную полость, расположенную у основания конуса.\n"
+""
+"Тюлени-самогонщики получили своё название благодаря своей уникальной способности выделять спирт. У них есть полый конический межбровный отросток, который позволяет им втягивать полезные вещества из растений прямо в пищеварительную полость, расположенную у основания конуса.\n"
 "\n"
-"Чтобы втянуть питательную жидкость через эту \"соломинку\", рогатые тюлени блокируют свою назальную полость и многократно поднимают язык к мягкому нёбу, тем самым создавая вакуум.\n"
+"Чтобы втянуть питательную жидкость через эту \"соломинку\", тюлени-самогонщики блокируют свою назальную полость и многократно поднимают язык к мягкому нёбу, тем самым создавая вакуум.\n"
 "\n"
-"Завершив прием пищи, конусный тюлень жадно глотает воздух, чтобы не задохнуться.\n"
+"Завершив прием пищи, тюлень-самогонщик жадно глотает воздух, чтобы не задохнуться.\n"
 "\n"
-"Многие животноводы учат этих существ хлопать ластами, но вскоре обнаруживают, что у них нет контроля над тем, насколько часто и громко конусный тюлень будет повторять этот трюк."
+"Многие животноводы учат этих существ хлопать ластами, но вскоре обнаруживают, что у них нет контроля над тем, насколько часто и громко тюлень-самогонщик будет повторять этот трюк."
 
 STRINGS.CODEX.SEAL.SPECIES_SUBTITLE
 "Вид можно приручить"
 
 STRINGS.CODEX.SEAL.SPECIES_TITLE
-"Конусные тюлени"
+"Тюлени-самогонщики"
 
 STRINGS.CODEX.SEAL.SUBTITLE
 "Одомашненное существо"
 
 STRINGS.CODEX.SEAL.TITLE
-"Конусный тюлень"
+"Тюлень-самогонщик"
 
 STRINGS.CODEX.SPACETREE.BODY.CONTAINER1
 ""
 "Конфетное дерево - это высокое растение, выведенное для процветания при температурах ниже нуля. Оно обладает множеством независимо функционирующих ветвей, которые синтезируют питательные вещества из яркого света и направляют их в полую центральную сердцевину.\n"
 "\n"
-"Когда дерево полностью вырастает, ядро выделяет пищеварительные ферменты, которые расщепляют избыточные питательные вещества и преобразуют их в густую, сладкую жидкость. Её можно очистить до <link=\"SUCROSE\">сахарозы</link> для производства продуктов питания высокого качества или же использовать в исходном виде для поддержания фермы конусных тюленей.\n"
+"Когда дерево полностью вырастает, ядро выделяет пищеварительные ферменты, которые расщепляют избыточные питательные вещества и преобразуют их в густую, сладкую жидкость. Её можно очистить до <link=\"SUCROSE\">сахарозы</link> для производства продуктов питания высокого качества или же использовать в исходном виде для поддержания фермы тюленей-самогонщиков.\n"
 "\n"
 "Конфетные деревья обычно считаются уродливыми и, вероятно, были бы уничтожены, если бы не их восхитительное содержимое."
 
@@ -848,10 +885,10 @@ STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILEMPTY.TOOLTIP
 "Добыча начнётся, когда будут доставлены материалы"
 
 STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.LINE_ITEM
-"    •Под завалом"
+"    •Погребено"
 
 STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.NAME
-"Завал"
+"Погребено"
 
 STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.TOOLTIP
 "Необходимо выкопать этот фрагмент, прежде чем поднимать его на поверхность"
@@ -916,8 +953,24 @@ STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UNLOCK_DNADATA_POPUP.NAME
 STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.UNLOCK_DNADATA_POPUP.VIEW_IN_CODEX
 "Просмотреть данные"
 
+STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.CODEX_NAME
+"Знакомьтесь, П.Э.Г.Г.И."
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.COMING_SOON_CONTROLLER_DESC
+"Это здание является частью геотермальной электростанции, которая ранее давала сбои с катастрофическими последствиями. В настоящее время она слишком нестабильна для безопасной работы.\n"
+"\n"
+"Его можно будет использовать для нужд колонии после выхода DLC <b>The Frosty Planet Pack</b>."
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.COMING_SOON_VENT_DESC
+"Это здание является частью геотермальной электростанции, которая ранее давала сбои с катастрофическими последствиями. В настоящее время она слишком нестабильна для безопасной работы.\n"
+"\n"
+"Его можно будет использовать для нужд колонии после выхода DLC <b>The Frosty Planet Pack</b>."
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENT_DESCRIPTION
+"Это достижение станет доступно после выхода DLC <b><i>The Frosty Planet Pack</i></b>"
+
 STRINGS.CREATURES.FAMILY.SEAL
-"<link=\"SEALSPECIES\">Конусный тюлень</link>"
+"<link=\"SEALSPECIES\">Тюлень-самогонщик</link>"
 
 STRINGS.CREATURES.FAMILY.WOODDEER
 "<link=\"DEERSPECIES\">Лисень</link>"
@@ -926,7 +979,7 @@ STRINGS.CREATURES.FAMILY_PLURAL.DEERSPECIES
 "<link=\"DEERSPECIES\">Лисени</link>"
 
 STRINGS.CREATURES.FAMILY_PLURAL.SEALSPECIES
-"<link=\"SEALSPECIES\">Конусные тюлени</link>"
+"<link=\"SEALSPECIES\">Тюлени-самогонщики</link>"
 
 STRINGS.CREATURES.MODIFIERS.AIRBORNECRITTERCONDOINTERACTEFFECT.TOOLTIP
 "Это существо недавно обустроилость в подвесном домике"
@@ -1035,24 +1088,24 @@ STRINGS.CREATURES.SPECIES.PINKROCKCARVED.NAME
 
 STRINGS.CREATURES.SPECIES.SEAL.BABY.DESC
 ""
-"Маленький неуверенный детёныш конусного тюленя.\n"
+"Маленький неуверенный детёныш тюленя-самогонщика.\n"
 "\n"
-"Со временем вырастет во взрослого <link=\"SEAL\">конусного тюленя</link>."
+"Со временем вырастет во взрослого <link=\"SEAL\">тюленя-самогонщика</link>."
 
 STRINGS.CREATURES.SPECIES.SEAL.BABY.NAME
-"<link=\"SEAL\">Конусный щенок</link>"
+"<link=\"SEAL\">Щенок тюленя-самогонщика</link>"
 
 STRINGS.CREATURES.SPECIES.SEAL.DESC
 ""
-"Конусные тюлени — очаровательные создания, производящие <link=\"ETHANOL\">этанол</link>.\n"
+"Тюлени-самогонщики — очаровательные создания, производящие <link=\"ETHANOL\">этанол</link>.\n"
 "\n"
 "Они любят потягивать <link=\"SUGARWATER\">сироп</link> прямо из <link=\"SPACETREE\">конфетного дерева</link>."
 
 STRINGS.CREATURES.SPECIES.SEAL.EGG_NAME
-"<link=\"SEAL\">Яйцо конусного тюленя</link>"
+"<link=\"SEAL\">Яйцо тюленя-самогонщика</link>"
 
 STRINGS.CREATURES.SPECIES.SEAL.NAME
-"<link=\"SEAL\">Конусный тюлень</link>"
+"<link=\"SEAL\">Тюлень-самогонщик</link>"
 
 STRINGS.CREATURES.SPECIES.SEEDS.BLUE_GRASS.DESC
 ""
@@ -1103,7 +1156,9 @@ STRINGS.CREATURES.SPECIES.SPACETREE.DESC
 ""
 "Конфетные деревья адаптировались к самым разным условиям, включая <color=#C38802>вакуум</color>.\n"
 "\n"
-"Они поглощают <link=\"LIGHT\">свет</link>, чтобы произвести <link=\"SUGARWATER\">сироп</link>, а из их стеблей можно получить <link=\"WOOD\">древесину</link>."
+"Они поглощают <link=\"LIGHT\">свет</link>, чтобы произвести <link=\"SUGARWATER\">сироп</link>, а из их стеблей можно получить <link=\"WOOD\">древесину</link>.\n"
+"\n"
+"Конфетные деревья способны скидывать с себя большинство типов сыпучего космического мусора, и лишь изредка бывают погребены под ним."
 
 STRINGS.CREATURES.SPECIES.SPACETREE.DOMESTICATEDDESC
 "Это растение производит <link=\"SUGARWATER\">сироп</link> и <link=\"WOOD\">древесину</link>."
@@ -1245,6 +1300,9 @@ STRINGS.DUPLICANTS.CHORES.EXCAVATEFOSSIL.STATUS
 STRINGS.DUPLICANTS.CHORES.EXCAVATEFOSSIL.TOOLTIP
 "Этот дубликант работает на участке с <color=#C38802>ископаемыми</color>."
 
+STRINGS.DUPLICANTS.CHORES.PROCESSCRITTER.NAME
+"Забота о животном"
+
 STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.NAME
 "Остывание"
 
@@ -1337,7 +1395,7 @@ STRINGS.ELEMENTS.SUGARWATER.NAME
 "<link=\"SUGARWATER\">Сироп</link>"
 
 STRINGS.ELEMENTS.TALLOW.DESC
-"Кусок сырого сала, полученный от умершего <link=\"SEAL\">конусного тюленя</link>."
+"Кусок сырого сала, полученный от умершего <link=\"SEAL\">тюленя-самогонщика</link>."
 
 STRINGS.ELEMENTS.TALLOW.NAME
 "<link=\"TALLOW\">Сало</link>"
@@ -1374,6 +1432,9 @@ STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.BROWN.DESC
 
 STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.BROWN.NAME
 "Кожаные атмоперчатки"
+
+STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.MONDRIAN_BLUE_RED_YELLOW.DESC
+"Абстрактный геометрический узор — одновременно модный <i>И</i> квадратный."
 
 STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.MONDRIAN_BLUE_RED_YELLOW.NAME
 "Атмошлем кубиста"
@@ -1462,9 +1523,6 @@ STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.KNIT_POLKADOT_TURQ.DESC
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.KNIT_POLKADOT_TURQ.NAME
 "Спортивные штаны в горошек"
 
-STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_CHARCOAL.DESC
-"Свежая пара шорт. Они чище, чем кажутся."
-
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_CHARCOAL.NAME
 "Шорты аутсайдера"
 
@@ -1534,9 +1592,6 @@ STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_YELLOW_YELLOWCAKE.DESC
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GINCH_YELLOW_YELLOWCAKE.NAME
 "Урановые перчатки с рюшами"
 
-STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_CHARCOAL.DESC
-"Неброская полоса не отвлекает владельца и позволяет сосредоточиться на упорной работе над собой."
-
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_CHARCOAL.NAME
 "Спортивные перчатки аутсайдера"
 
@@ -1552,9 +1607,6 @@ STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SPARKLE_WHITE.DESC
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SPARKLE_WHITE.NAME
 "Блестящие белые перчатки"
 
-STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.TWOTONE_CREAM_CHARCOAL.DESC
-"Столь тонкое изящество можно и не заметить."
-
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.TWOTONE_CREAM_CHARCOAL.NAME
 "Перчатки с контрастными манжетами"
 
@@ -1563,12 +1615,6 @@ STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLUEGREY.DESC
 
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLUEGREY.NAME
 "Обычные пастельно-голубые туфли"
-
-STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.CLASSICFLATS_CREAM_CHARCOAL.DESC
-"В такой удобной обуви можно бесконечно говорить о погоде."
-
-STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.CLASSICFLATS_CREAM_CHARCOAL.NAME
-"Парадные туфли"
 
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.FLASHY.DESC
 "Кому нужна обычная походка, когда есть <i>лунная</i>?"
@@ -1741,9 +1787,6 @@ STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_HEARTS_CHILLI_STRAWBERRY.DESC
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.PJ_HEARTS_CHILLI_STRAWBERRY.NAME
 "Любимая пижама"
 
-STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_CHARCOAL.DESC
-"Для тех, кто редко выигрывает."
-
 STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_CHARCOAL.NAME
 "Футболка аутсайдера"
 
@@ -1776,6 +1819,12 @@ STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.NAME
 
 STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.RECIPEDESC
 "Сочный кусок сырого <link=\"MEAT\">мяса</link>, обжаренный в <link=\"TALLOW\">сале</link>."
+
+STRINGS.ITEMS.FOOD.DEEPFRIEDSHELLFISH.NAME
+"<link=\"DEEPFRIEDSHELLFISH\">Клешня в кляре</link>"
+
+STRINGS.ITEMS.FOOD.DEEPFRIEDSHELLFISH.RECIPEDESC
+"Нежное <link=\"SHELLFISHMEAT\">мясо клешни</link>, обжаренное в <link=\"TALLOW\">сале</link>."
 
 STRINGS.ITEMS.FOOD.FRIESCARROT.DESC
 ""
@@ -1962,6 +2011,12 @@ STRINGS.NAMEGEN.WORLD.ROOTS.CERES
 STRINGS.NAMEGEN.WORLD.UNKNOWN_WORLD
 "Безымянный"
 
+STRINGS.RESEARCH.MESSAGING.DLC.DLC_CONTENT
+""
+"Контент из DLC: \n"
+"\n"
+"<i>{0}</i>"
+
 STRINGS.ROOMS.CRITERIA.WARMINGSTATION.NAME
 "<link=\"BUILDCATEGORYREQUIREMENTCLASSWARMINGSTATION\">Согревающая постройка</link>"
 
@@ -1999,7 +2054,7 @@ STRINGS.SUBWORLDS.SUGARWOODS.NAME
 
 STRINGS.SUBWORLDS.SUGARWOODS.UTILITY
 ""
-"<link=\"SEALSPECIES\">Конусные тюлени</link> поглощают эту сладкую жидкость и производят <link=\"ETHANOL\">этанол</link>, пополняющий запасы топлива колонии. Разведение конусных тюленей также позволяет получить <link=\"TALLOW\">сало</link> — его можно употреблять в <link=\"FOOD\">пищу</link> или переработать в <link=\"CRUDEOIL\">нефть</link>, которая необходима для местных <link=\"POWER\">энергетических</link> систем.\n"
+"<link=\"SEALSPECIES\">Тюлени-самогонщики</link> поглощают эту сладкую жидкость и производят <link=\"ETHANOL\">этанол</link>, пополняющий запасы топлива колонии. Разведение тюленей-самогоншиков также позволяет получить <link=\"TALLOW\">сало</link> — его можно употреблять в <link=\"FOOD\">пищу</link> или переработать в <link=\"CRUDEOIL\">нефть</link>, которая необходима для местных <link=\"POWER\">энергетических</link> систем.\n"
 "\n"
 "Под <link=\"SNOW\">снегом</link> и <link=\"ICE\">льдом</link> скрываются богатые залежи твёрдой <link=\"MERCURY\">ртути</link>. Этот редкий металл можно разжижить и использовать в качестве промышленного охладителя.\n"
 "\n"
@@ -2013,6 +2068,30 @@ STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.KETTLE_MELT_RATE
 "Эта постройка превращает {0} <color=#C38802>льда</color> в {1} прохладной <color=#C38802>воды</color> ({0})\n"
 "\n"
 "Потребление <color=#C38802>древесины</color> зависит от изначальной температуры <color=#C38802>льда</color>"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNSTABLEENTOMBDEFENSEOFF
+"Способность этого объекта скидывать с себя <color=#C38802>сыпучие</color> элементы сейчас <b>ОТКЛЮЧЕНА</b>."
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNSTABLEENTOMBDEFENSEREACTING
+"Этот объект <b>ПЫТАЕТСЯ</b> отделить себя от <style=\"KKeyword\">сыпучих</style> элементов."
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNSTABLEENTOMBDEFENSEREADY
+"Этот объект наделён активной способносьтю сбросить с себя <style=\"KKeyword\">сыпучие</style> элементы."
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNSTABLEENTOMBDEFENSETHREATENED
+"Этот объект <b>НАКАПЛИВАЕТ</b> силы, чтобы отделить себя от <style=\"KKeyword\">сыпучих</style> элементов."
+
+STRINGS.UI.BUILDINGEFFECTS.UNSTABLEENTOMBDEFENSEOFF
+"Защита от погребения: <b>Отключена</b>"
+
+STRINGS.UI.BUILDINGEFFECTS.UNSTABLEENTOMBDEFENSEREACTING
+"Защита от погребения: <b>Реагирует</b>"
+
+STRINGS.UI.BUILDINGEFFECTS.UNSTABLEENTOMBDEFENSEREADY
+"Защита от погребения: <b>Активна</b>"
+
+STRINGS.UI.BUILDINGEFFECTS.UNSTABLEENTOMBDEFENSETHREATENED
+"Защита от погребения: <b>Готовится к сбросу</b>"
 
 STRINGS.UI.DETAILTABS.COSMETICS.NAME
 "Скин"
@@ -2060,6 +2139,11 @@ STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_CANNOT_START
 
 STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_DLC_CONTENT
 "Источник: {0}"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_DLC_MIXING
+"Контент DLC включает в себя новые постройки, посылки, космические точки интереса, животных, растения и так далее\n"
+"\n"
+"Включение этого параметра позволит добавить новые планетоиды, а также новые биомы вместо некоторых старых. Детали можно настроить в следующих секциях"
 
 STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_LOCKED_REQUIRE_DLC_NOT_ENABLED
 ""
@@ -2232,6 +2316,9 @@ STRINGS.UI.KEEPSAKES.MORB_ROVER_MAKER.DESCRIPTION
 STRINGS.UI.KEEPSAKES.MORB_ROVER_MAKER.NAME
 "Игрушечный робот"
 
+STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.PRIMOGARB
+"Шикарный костюм"
+
 STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION
 "Входит в коллекцию: {Collection}."
 
@@ -2325,8 +2412,17 @@ STRINGS.UI.OUTFITS.GINCH_PHLEGM.NAME
 STRINGS.UI.OUTFITS.HIVIS.NAME
 "Светоотражающий наряд"
 
+STRINGS.UI.OUTFITS.LUCKY.NAME
+"Удачный для сна наряд"
+
 STRINGS.UI.OUTFITS.POLKADOT_TRACKSUIT.NAME
 "Спортивный комплект в горошек"
+
+STRINGS.UI.OUTFITS.SUPERSTAR.NAME
+"Наряд суперзведы"
+
+STRINGS.UI.OUTFITS.SWEETHEART.NAME
+"Любимый наряд для сна"
 
 STRINGS.UI.OUTFITS.WATER.NAME
 "Форма сантехника цвета хаки"
@@ -2648,3 +2744,14 @@ STRINGS.WORLDS.BIGEMPTY.DESCRIPTION
 
 STRINGS.WORLDS.BIGEMPTY.NAME
 "Большой булыжник ДЛЯ РАЗРАБОТЧИКОВ"
+
+STRINGS.WORLDS.STRANGE_ASTEROID_KF23.DESCRIPTION
+""
+"Искажённый мир, такой странный и... странно знакомый. Его сингулярный рельеф одинаков во всех вселенных.\n"
+"\n"
+"Об этой устойчивости к любым временным сдвигам говорят по всему космосу. Разные колонии сравнивают записи о своих успехах и неудачах, а также о странных изменениях в расположении ресурсов.\n"
+"\n"
+"<smallcaps>Специально для Klei Fest 2023."
+
+STRINGS.WORLDS.STRANGE_ASTEROID_KF23.NAME
+"Перекошенный астероид"
