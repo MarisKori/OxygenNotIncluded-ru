@@ -1,0 +1,576 @@
+STRINGS.BLUEPRINTS.CEILINGLIGHT_CHANDELIER.NAME
+"<link=\"CEILINGLIGHT\">Роскошная люстра</link>"
+
+STRINGS.BLUEPRINTS.DININGTABLE_LOG.NAME
+"<link=\"DININGTABLE\">Сельский обеденный столик</link>"
+
+STRINGS.BLUEPRINTS.MANUALGENERATOR_ELLIPTICAL.NAME
+"<link=\"MANUALGENERATOR\">Эллиптический генератор</link>"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_01.NAME
+"Убойная хоккейная форма"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_02.NAME
+"Хоккейная форма защитника"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_03.NAME
+"Хоккейная форма нарушителя"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_04.NAME
+"Хоккейная форма \"Вброс шайбы\""
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_05.NAME
+"Хоккейная форма ключевого игрока"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_07.NAME
+"Хоккейная форма \"Хет-трик\""
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_08.NAME
+"Хоккейная форма \"Дополнительное время\""
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_09.NAME
+"Штрафная хоккейная форма"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_10.NAME
+"Хоккейная форма тафгая"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_11.NAME
+"Хоккейная форма неудачника"
+
+STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_12.NAME
+"Хоккейная форма новичка"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.NAME
+"Радикальный атмокомбез"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_80S.DESC
+"Удобное место для гигиенички, у которой вечно спадает колпачок."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_80S.NAME
+"Атмопояс с кармашком"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_80S.NAME
+"Радикальные атмоперчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_80S.NAME
+"Радикальный атмошлем"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.DESC
+"Можно ли стать танцором диско в космосе? С такими-то ботинками — точно можно!"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.NAME
+"Радикальные атмоботинки"
+
+STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.NAME
+"<link=\"BED\">Самодельная койка</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.NAME
+"<link=\"COOKINGSTATION\">Деревенский электрогриль</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.NAME
+"<link=\"GOURMETCOOKINGSTATION\">Сельская плита</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.NAME
+"<link=\"PERMITCOOKSTATIONCOTTAGE\">Сельский гриль</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.NAME
+"<link=\"PERMITCOOKSTATIONGOURMETCOTTAGE\">Сельская газовая плита</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.NAME
+"Перчатки \"Удар клюшкой\""
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.NAME
+"Перчатки защитника"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.DESC
+"Держи нос кверху, а клюшку — ещё выше."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.NAME
+"Перчатки \"Клюшкой по шее\""
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.NAME
+"Перчатки \"Вброс шайбы\""
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.DESC
+"Может носить только самый важный игрок, у которого есть ключи от научной лаборатории."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.NAME
+"Перчатки ключевого игрока"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.NAME
+"Перчатки \"Хет-трик\""
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.DESC
+"Ударение на "ы". Чтобы руки не замёрзли, когда приходится ждать."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.NAME
+"Временные перчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.NAME
+"Штрафные перчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.NAME
+"Перчатки тафгая"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.NAME
+"Перчатки неудачника"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.NAME
+"Перчатки новичка"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.NAME
+"Мглистые варежки"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.NAME
+"Азуленовые варежки"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.NAME
+"Энзимовые варежки"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.NAME
+"Тектонические варежки"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.NAME
+"Космические варежки"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.NAME
+"Астральные варежки"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.NAME
+"Белоснежные варежки"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.NAME
+"Ураново-жёлтые варежки"
+
+STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.DESC
+"Семью выбрать нельзя, а вот друзей - можно."
+
+STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.NAME
+"Серебряный лисень"
+
+STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_COTTAGE.NAME
+"<link=\"RANCHSTATION\">Сельская станция ухода</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_01.DESC
+"Не путать с фуфайкой \"Ужор плюшкой\", которая сделана из пончиков."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_01.NAME
+"Свитер \"Удар клюшкой\""
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_02.NAME
+"Свитер защитника"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_03.NAME
+"Свитер \"Клюшкой по шее\""
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_04.NAME
+"Свитер \"Вброс шайбы\""
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_05.NAME
+"Свитер ключевого игрока"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_07.NAME
+"Свитер \"Хет-трик\""
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_08.DESC
+"Такой удобный, что время летит незаметно. Для путешествий во времени за рамки стандартов."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_08.NAME
+"Временной свитер"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_09.NAME
+"Штрафной свитер"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_10.NAME
+"Свитер тафгая"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_11.DESC
+"Иногда побеждаешь, иногда учишься."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_11.NAME
+"Свитер неудачника"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.DESC
+"Надев такой, чувствуешь прилив энтузиазма и убеждаешься, что новичкам везёт."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.NAME
+"Свитер новичка"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_FOREST.NAME
+"<link=\"EXTERIORWALL\">Лесной узор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.NAME
+"<link=\"EXTERIORWALL\">Бело-кирпичный узор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.NAME
+"<link=\"EXTERIORWALL\">Юго-западный узор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WOOD_PANEL.NAME
+"<link=\"EXTERIORWALL\">Деревянно-дощечный узор</link>"
+
+STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGED.NAME
+"Полностью заряжена"
+
+STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGED.TOOLTIP
+"Эта постройка работает на пределе своих возможностей"
+
+STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGING.NAME
+"Разгорается: {0}"
+
+STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGING.TOOLTIP
+"<color=#C38802>Яркость</color> этой постройки постепенно увеличивается\n\n"
+"Если её потребности в <color=#C38802>жидкости</color> и <color=#C38802>энергии</color> будут постоянно удовлетворены, она достигнет максимальной яркости через {0}"
+
+STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.NAME
+"Отключена"
+
+STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.TOOLTIP
+"Эта постройка не функционирует из-за нехватки ресурсов\n\n"
+"Она начнёт включаться, когда будут удовлетворены её потребности в <color=#C38802>жидкости</color> и <color=#C38802>энергии</color>"
+
+STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATING.NAME
+"Остаток яркости: {0}"
+
+STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATING.TOOLTIP
+"<color=#C38802>Яркость</color> этой постройки уменьшается, потому что её потребности в <color=#C38802>жидкости</color> и <color=#C38802>энергии</color> не удовлетворены\n"
+"\n"
+"Она отключится, как только её запасы будут исчерпаны"
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.DESC
+"Результат на выходе зависит от изначальной температуры поступающего вещества."
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.EFFECT
+""
+"Использует <link=\"HEAT\">тепло</link> ядра астероида для резкого повышения температуры вливаемой <link=\"ELEMENTSLIQUID\">жидкости</link>.\n"
+"\n"
+"Нагретые материалы выходят из присоединенных <color=#C38802>экспульсивных камер</color>."
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.BLOCKED_DESC
+"Закупоренная экспульсивная камера может быть прочищена <link=\"ELEMENTSLIQUID\">жидкостями</link>, которые достаточно горчяие, чтобы расплавить <link=\"LEAD\">свинец</link>."
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.DESC
+"Принимать новые материалы экспульсивная камера сможет только после того, как выведет имеющиеся."
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.EFFECT
+"Неконтролируемо выделяет содержащиеся во внутреннем хранилище материалы высокой <link=\"HEAT\">температуры</link>, нагретые геотермальной станцией."
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT
+"Отслеживание содержимого"
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT_ACTIVE
+"Выдаёт <b><style=\"logic_on\">активный сигнал</style></b>, когда экспульсивная камера готова выпустить материалы"
+
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT_INACTIVE
+"Выдаёт <b><style=\"logic_off\">неактивный сигнал</style></b> в противном случае"
+
+STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.DESC
+"Потолочным ртутным лампам требуется некоторое время, чтобы достичь полной яркости. Но когда они всё-таки разгораются, это выглядит потрясающе!"
+
+STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.EFFECT
+"Излучает ярчайший <link=\"LIGHT\">свет</link>, при этом потребляя <link=\"MERCURY\">ртуть</link> и <link=\"POWER\">энергию</link>.\n\nСвет увеличивает декор и требуется для роста некоторых растений."
+
+STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.NAME
+"<link=\"MERCURYCEILINGLIGHT\">Потолочная ртутная лампа</link>"
+
+STRINGS.CODEX.HEADERS.EQUIPMENTEFFECTS
+"Эффекты ношения"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_EARTHQUAKE.TITLE
+"Сбой"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.CANCEL_REPAIR_CONTROLLER_TITLE
+"Отменить починку"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.CANCEL_REPAIR_CONTROLLER_TOOLTIP
+"Отменить поручение на соединение труб"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.CANCEL_UNCOVER_VENT_TITLE
+"Отменить открытие камеры"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.CANCEL_UNCOVER_VENT_TOOLTIP
+"Отменить поручение на открытие камеры"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TITLE
+"Отсоединить"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TOOLTIP
+"Отсоединить эту экспульсивную камеру от геотермального теплонасоса {Hotkey}"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.INITIATE_FIRST_VENT_FILLING_TOOLTIP
+"Не хватает материалов"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.INITIATE_FIRST_VENT_READY_TOOLTIP
+"Выпустить <style=\"KKeyword\">жидкость</style> из геотермального теплонасоса через экспульсивные камеры в первый раз"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.INITIATE_FIRST_VENT_TITLE
+"Запустить геотермальный комплес"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.INITIATE_FIRST_VENT_UNAVAILABLE_TOOLTIP
+"Ни одна из присоединенных камер не готова принимать материалы"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.RECONNECT_TITLE
+"Соединить"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.RECONNECT_TOOLTIP
+"Соедините эту экспульсивную камеру с геотермальным теплонасосом {Hotkey}"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.REPAIR_CONTROLLER_TITLE
+"Соединить трубы"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.REPAIR_CONTROLLER_TOOLTIP
+"Соединить элементы <style=\"KKeyword\">стальных</style> жидкостных труб в этой постройке, чтобы она заработала"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.MYLOGNAME
+"С тёплыми пожеланиями"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.NOTIFICATIONS.GEOTHERMAL_PLANT_FIRST_VENT_READY
+"Геотермальный энергетический комплекс: запуск"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.NOTIFICATIONS.GEOTHERMAL_PLANT_FIRST_VENT_READY_TOOLTIP
+"Геотермальный энергетический комплекс готов к запуску"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.NOTIFICATIONS.GEOTHERMAL_PLANT_RECONNECTED
+"Геотермальный теплонасос: готов"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.NOTIFICATIONS.GEOTHERMAL_PLANT_RECONNECTED_TOOLTIP
+"Геотермальный теплонасос готов принимать материалы"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOPLANT_ERRUPTED_DESC
+"Дубликантам удалось устранить засор, мешающий работе последней экспульсивной камеры!\n \n Теперь мы можем использовать весь потенциал этого удивительного источника постоянного тепла и энергии. Применения этой технологии ограничиваются только нашими навыками.\n \n Мои дубликанты хотят увековечить эту победу: они решили сохранить собранный мусор в качестве трофея."
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOPLANT_ERRUPTED_TITLE
+"Выполнено: геотермальный энергетический комплекс"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOTHERMAL_DISCOVERED_TITLE
+"Новые постройки: геотермальный энергетический комплекс"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOTHERMAL_DISOCVERED_DESC
+""
+"Мы обнаружили заброшенный геотермальный энергетический комплекс!\n"
+"\n"
+"Результаты сканирования показали, что это предприятие состоит из нескольких построек, расположенных в разных частях астероида. Они соединены трубами, которые пролегают так глубоко, что до многих из них практически невозможно добраться.\n"
+"\n"
+"Большинство частей трубопровода, к которым мы смогли получить доступ, выглядят рабочими."
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOTHERMAL_PLANT_REPAIRED_DESC
+""
+"Успех! Геотермальный теплонасос готов принимать, нагревать и выводить жидкости.\n"
+"\n"
+"Если мне удастся залить достаточно жидкости, чтобы она начала двигаться по трубам под собственным давлением, моя колония сможет получить значительное количество тепла и энергии... и, возможно, других ресурсов."
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOTHERMAL_PLANT_REPAIRED_TITLE
+"Отчет о прогрессе: геотермальный энергетический комплекс"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.ACTIVATE_PLANT_DESCRIPTION
+"Перекачайте <style=\"KKeyword\">жидкость</style> от геотермального теплонасоса к экспульсивным камерам"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.ACTIVATE_PLANT_TITLE
+"Управлять геотермальным энергетическим комплексом"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.DISCOVER_GEOTHERMAL_FACILITY_DESCRIPTION
+"Обнаружьте постройки геотермального энергетического комплекса"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.DISCOVER_GEOTHERMAL_FACILITY_TITLE
+"Обнаружить геотермальный энергетический комплекс"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.REPAIR_CONTROLLER_DESCRIPTION
+"Соедините геотермальный теплонасос с трубами"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.REPAIR_CONTROLLER_TITLE
+"Соединить геотермальный насос с трубами"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.UNBLOCK_VENT_DESCRIPTION
+"Прочистите засоренную экспульсивную камеру, чтобы повысить эффективность геотермального энергетического комплекса до максимума"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.UNBLOCK_VENT_TITLE
+"Прочистить засоренную экспульсивную камеру"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_CONTROLLER_ONLINE_TITLE
+"Включить <link=\"unused\">геотермальный теплонасос</link>"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_CONTROLLER_ONLINE_TOOLTIP
+""
+"Соедините <style=\"KKeyword\">стальные</style> трубы этой постройки, чтобы она снова заработало\n"
+"\n"
+"Щёлкните, чтобы увидеть строение"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_ONLINE_TITLE
+"Доступа к энергетическому комплексу"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_VENT_ONLINE_TITLE
+"Включить: <link=\"{Target}\">{Name}</link>"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_VENT_ONLINE_TOOLTIP
+""
+"Восстановите работу этой камеры\n"
+"\n"
+"Щёлкните, чтобы её увидеть"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.UTILIZE_GEOPLANT_DESC
+"Успешно нагрейте <style=\"KKeyword\">жидкость</style> с помощью геотермального тепловонасоса в первый раз"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.UTILIZE_GEOPLANT_TITLE
+"Завершить первый прогон"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_ENTOMBED_VENT_NAME
+"Экспульсивная камера засыпана"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_ENTOMBED_VENT_TOOLTIP
+"Одна или более экспульсивных камер сейчас под завалом\n\nВсе присоединённые камеры должны быть готовы, чтобы эта постройка продолжила работу"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_NO_CONNECTED_NAME
+"Нет подключенных экспульсивных камер"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_NO_CONNECTED_TOOLTIP
+"Для работы этой постройки нужно подключить как минимум одну экспульсивную камеру"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_UNREADY_CONNECTION_NAME
+"Экспульсивные камеры недоступны"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_UNREADY_CONNECTION_TOOLTIP
+"Один или больше экспульсивных камер сейчас недоступны\n\nВсе присоединённые камеры должны быть готовы, чтобы эта постройка заработала"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.OFFLINE_NAME
+"Отключено"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.OFFLINE_TOOLTIP
+"Внутренние трубы этой постройки нужно починить, прежде чем она сможет принимать жидкости"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.PENDING_RECONNECTION_NAME
+"Ожидается починка труб"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.PENDING_RECONNECTION_TOOLTIP
+"Ожидается дубликант, который восстановит эти трубы"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_NAME
+"Давление теплонасоса: {Amount}"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_TOOLTIP
+""
+"Когда давление достигнет {Threshold}, содержимое этой постройки нагреется и будет выпущено из присоединенных экспульсивных камер\n"
+"\n"
+"Текущее давление: {Amount}/{Threshold}"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_TEMPERATURE_NAME
+"Средняя температура жидкости: {Temp}"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_TEMPERATURE_TOOLTIP
+"Средняя температура жидкостей, хранящихся в этой постройке, составляет {Temp}\n\nНачальная <style=\"KKeyword\">температура</style> входящей жидкости влияет на выделяемые материалы"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.BLOCKED_NAME
+"Засор"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.BLOCKED_TOOLTIP
+"<style=\"KKeyword\">Труба</style> засорена, <style=\"KKeyword\">жидкость</style> или <style=\"KKeyword\">газ</style> не поступает к этой экспульсивной камере"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_NAME
+"Не соединено"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.DISCONNECTED_TOOLTIP
+"Эта экспульсивная камера не присоединена к <color=#C38802>геотермальному теплонасосу</color> и не получает от него материалы"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_NAME
+"Избыточное давление"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.OVERPRESSURE_TOOLTIP
+""
+"Высокое давление <style=\"KKeyword\">газа</style> или <style=\"KKeyword\">жидкости</style> в этой области препятствует дальнейшему выводу веществ\n"
+"\n"
+"Снизьте давление, откачав <style=\"KKeyword\">жидкость</style> и/или <style=\"KKeyword\">газ</style> вокруг камеры"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.PENDING_REVEAL_NAME
+"Ожидается открытие"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.PENDING_REVEAL_TOOLTIP
+"Скоро здесь появится дубликант, который снимет с клапана этот грязный старый брезент"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.QUEST_BLOCKED_NAME
+"Засор"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.QUEST_BLOCKED_TOOLTIP
+"Эта экспульсивная камера закупорена <style=\"KKeyword\">твёрдыми</style> материалами\n"
+"\n"
+"Если прочистить засор, камера снова заработает"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.READY_NAME
+"Готова"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.READY_TOOLTIP
+"Эта экспульсивная камера готова принимать материалы"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.VENTING_NAME
+"Продувка камеры: осталось {Quantity}"
+
+STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.VENTING_TOOLTIP
+"В данный момент эта экспульсивная камера выводит отходы\n"
+"\n"
+"Осталось вывести {Quantity}, прежде чем процесс будет завершён"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.SOCKSUIT_BEIGE.NAME
+"Старинные варежки"
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.SOCKSUIT_BEIGE.DESC
+"Носок для тела. С рукавами."
+
+STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.SOCKSUIT_BEIGE.NAME
+"Старинная телогрейка"
+
+STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.DESC
+"Хрустящее бобовое лакомство"
+
+STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.NAME
+"<link=\"DEEPFRIEDNOSH\">Бобы во фритюре</link>"
+
+STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.RECIPEDESC
+"Хрустящая горстка <link=\"BEANPLANT\">бобов</link>, обжаренная специальным образом в <link=\"TALLOW\">сале</link>."
+
+STRINGS.UI.BUILDINGEFFECTS.IMPROVED_PLANTS
+"Улучшенные растения"
+
+STRINGS.UI.BUILDINGEFFECTS.IMPROVED_PLANTS_ITEM
+"{0}"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_PLANTS
+"<style=\"KKeyword\">Настройка</style> позволит улучшить следующие растения:"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_PLANTS_ITEM
+"{0}"
+
+STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.CONFIRM
+"Включить контент из DLC в это сохранение?\n\nЭто создаст новую копию этой игры, и её больше нельзя будет загрузить без включённого DLC."
+
+STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.DLC_DISABLED_NOT_EDITABLE_TOOLTIP
+"Это сохранение не содержит контент из DLC <b>{0}</b>"
+
+STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.DLC_DISABLED_TOOLTIP
+"Это сохранение в данный момент не содержит контент из DLC <b>{0}</b> \n\n<b>Щёлкните, чтобы включить его</b>"
+
+STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.DLC_ENABLED_TOOLTIP
+"Это сохранение содержит контент из DLC <b>{0}</b>"
+
+STRINGS.UI.KEEPSAKES.GEOTHERMAL_PLANT.DESCRIPTION
+""
+"Удивительный образец органического материала, покрывшийся свинцовой коркой в результате окаменения.\n"
+"\n"
+"Какие-то вещи <i>и правда</i> с годами становятся лучше."
+
+STRINGS.UI.KEEPSAKES.GEOTHERMAL_PLANT.NAME
+"Блестящий копролит"
+
+STRINGS.WORLDS.CERESBASEGAMESHATTERED.DESCRIPTION
+""
+"Сильно поврежденные останки ледяного астероида с отрицательными температурами во всех областях.\n"
+"\n"
+"<smallcaps>Изучать морозную Цереру после взрыва особенно сложно, однако природные источники топлива того стоят.</smallcaps>"
+
+STRINGS.WORLDS.CERESBASEGAMESHATTERED.NAME
+"Церера после взрыва"
+
+STRINGS.WORLDS.CERESCLASSICSHATTERED.DESCRIPTION
+""
+"Сильно поврежденные останки ледяного астероида с отрицательными температурами во всех областях.\n"
+"\n"
+"<smallcaps>Изучать морозную Цереру после взрыва особенно сложно, однако природные источники топлива того стоят.</smallcaps>"
+
+STRINGS.WORLDS.CERESCLASSICSHATTERED.NAME
+"Церера после взрыва"
