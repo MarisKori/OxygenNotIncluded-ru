@@ -1,0 +1,233 @@
+STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.DESC
+"Крутейший прикид, чувак."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_80S.DESC
+"Пара новеньких нарядных чехлов для ладошек."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_80S.DESC
+"Шикарная защита, чтобы в космосе все было тип-топ."
+
+STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.DESC
+"Что для одного мусор, для другого — основа идеальной кровати."
+
+STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.DESC
+"С легким ароматом гари. Так задумано."
+
+STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.DESC
+"Чтобы к сложным рецептам было проще... подступиться."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.DESC
+"Бить шайбу можно, а противника — нет."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.DESC
+"Созданы, чтобы разочаровывать соперников."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.DESC
+"Держи нос кверху, а клюшку — еще выше."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.DESC
+"Когда двое учёных не могут прийти к согласию, есть только одно решение."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.DESC
+"Отмечает владельца как дубликанта, который однажды получил три "дай пять" за один день."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.DESC
+"Чтобы руки не замёрзли, когда приходится ждать."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.DESC
+"Контрастные цвета позволяют заметнее жестикулировать, сидя на скамейке штрафников."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.DESC
+"Для тех, кто не боится грязной игры."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.DESC
+"Отлично сыграли, приятель."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.DESC
+"Немного зелёные."
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.DESC
+"Чтобы пальчики были рядом друг с другом, как задумано природой."
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.DESC
+"Пригодятся, чтобы смахивать пыль со старинных энциклопедий."
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.DESC
+"В таких немного неудобно работать в лаборатории."
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.DESC
+"Если потереть о волосы, можно услышать тихий треск."
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.DESC
+"Легко найти в сугробе."
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.DESC
+"Нужно пришить к ним резинку, чтобы не улетели."
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.DESC
+"Да, они могли бы быть удобнее, зато как хорошо на них видно пятна!"
+
+STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.DESC
+"Прекрасно подходят, чтобы гладить себя по лицу."
+
+STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.DESC
+"Семью выбрать нельзя, а вот друзей можно."
+
+STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME
+"Дама с крольмонтёнком"
+
+STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC
+"Рассказ об этом улове с каждым разом становится всё невероятнее."
+
+STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.NAME
+"Улов дня"
+
+STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.DESC
+"Судя по масштабу, это существо и его друг были внушительных размеров."
+
+STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_COTTAGE.DESC
+"Некоторые животноводы считают, что дерево и сельская эстетика успокаивают животных."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_02.DESC
+"Ой, я мешаю? Вот и славненько."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_03.DESC
+"Незаметное уплотнение в районе шеи и груди защищает от ответных ударов."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_04.DESC
+"Для других членов колонии этот наряд — точно красная тряпка."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_05.DESC
+"Часто надевают с перчатками из комплекта, чтобы <i>все</i> видели, кто тут лучший игрок."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_07.DESC
+"Три гипотезы в одной работе? Ну ничего себе!"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_09.DESC
+"В каждой исследовательской команде свои хулиганы."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_10.DESC
+"Здесь всем правит сила. Сила тяготения."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.DESC
+"Надев такую, чувствуешь прилив энтузиазма и убеждаешься, что новичкам везёт."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_FOREST.DESC
+"Для постоянного единения с природой."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.DESC
+"Как снежные кирпичики, которые не тают!"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.DESC
+"Юго-запад относительно <i>чего</i> — этого дубликанты не знают. Но им нравится."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.NAME
+"<link=\"EXTERIORWALL\">Юго-запад</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WOOD_PANEL.DESC
+"Даже лабораторию можно нарядить в костюм лесной хижины!"
+
+STRINGS.CLUSTER_NAMES.CERES_BASE_SHATTERED_CLUSTER.DESCRIPTION
+"Скопление пригодных для жизни планетоидов со стартом в биоме Ледяные пещеры."
+
+STRINGS.CLUSTER_NAMES.CERES_BASE_SHATTERED_CLUSTER.NAME
+"Скопление Взорванной Цереры"
+
+STRINGS.CLUSTER_NAMES.CERES_CLASSIC_SHATTERED_CLUSTER.DESCRIPTION
+"Скопление пригодных для жизни планетоидов со стартом в биоме Ледяные пещеры."
+
+STRINGS.CLUSTER_NAMES.CERES_CLASSIC_SHATTERED_CLUSTER.NAME
+"Скопление Взорванной Цереры"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_EARTHQUAKE.BODY.CONTAINER1
+""
+"Сегодня утром произошло необычное землетрясение. Сама поверхность практически не двигалась, но воздух плескался по комнате, точно жидкий. Все закончилось так быстро, что мне даже пришла мысль о галлюцинации. Но Дуга тоже это почувствовала.\n"
+"\n"
+"До этого сейсмическая активность не оказывала на неё никакого влияния, но в последние несколько часов она стала работать заметно шумнее, а выработка снизилась на 0,19 процентов. Технику поручено изучить ситуацию. На этом этапе нам нельзя терять ни капли энергии.\n"
+"\n"
+"Кроме доктора Али, никто ничего не заметил. По его словам, поведение точки доступа к удалённым исследованиям также изменилось. Похоже, из-за помех перезапустилась вся телепортационная система. На мониторе сейчас отображается множество подтверждений отправки, хотя целевое строение по-прежнему находится в доке. Согласно отчётам, было отправлено неизвестное количество схем точек доступа. К счастью, одна посылка, похоже, действительно достигла Цереры, хотя и она всё ещё далека от точки приземления.\n"
+"\n"
+"Команда доктора Али пытается выяснить, сколько всего было отправлений, и определить их пространственные и временные координаты.\n"
+"\n"
+"Меня тревожит происходящее.\n"
+"\n"
+"Геологи утверждают, что за последние несколько дней их оборудование не зарегистрировало никакой сейсмической активности.\n"
+"\n"
+"Тогда возникает вопрос: <i>что же</i> это было, если не землетрясение? И чем это событие вызвано?\n"
+"\n"
+"Доктор Али неуверенно предположил, что Дуга могла дать сбой в другом временном измерении, но ведь этого не может быть.\n"
+"\n"
+"Верно?"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_EARTHQUAKE.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: НЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_GEOTHERMALTESTING.BODY.CONTAINER1
+""
+"<smallcaps>[Активировано распознавание голоса]\n"
+"[Опознаны субъекты: B224]</smallcaps>\n"
+"\n"
+"[НАЧАЛО ЗАПИСИ]\n"
+"\n"
+"(Прочищает горло)\n"
+"\n"
+"Запись идёт? Раз-раз?\n"
+"\n"
+"(Постукивает по микрофону)\n"
+"\n"
+"Поехали. Кхм. Тестирование идёт в соответствии с планом. Результаты превзошли все наши ожидания, в особенности в отношении температурного порога.\n"
+"\n"
+"С пылу с жару, как говорится!\n"
+"\n"
+"Кхм.\n"
+"\n"
+"Так вот.\n"
+"\n"
+"Сначала мы влили двенадцать тонн солоноватой грунтовой воды, охлажденной до шестидесяти пяти градусов.\n"
+"\n"
+"Мы получили чистый пар, а также почву, соль и микроэлементы. Как и ожидалось.\n"
+"\n"
+"Ну вот, значит. Теперь спускаем всё из системы... Повышаем температуру в водном баке и прогоняем на двухстах градусах.\n"
+"\n"
+"(Шум жидкости в трубах)\n"
+"\n"
+"Разгоняем пар, чтобы...\n"
+"\n"
+"(Негромкий металлический звон)\n"
+"\n"
+"Минутку, тут мусор какой-то попал...\n"
+"\n"
+"Нужно быть осторожными. Даже небольшие засоры в системе могут привести к катаст...\n"
+"\n"
+"Погодите, это что... <i>окисленное железо</i>?\n"
+"\n"
+"Но как же...\n"
+"\n"
+"Я ведь только температуру измен...\n"
+"\n"
+"Тащите сюда двенадцать тонн... эм-м, нефти!\n"
+"\n"
+"Сейчас же!\n"
+"\n"
+"Извините, я имею в виду \"<i>пожалуйста</i>\".\n"
+"\n"
+"[КОНЕЦ ЗАПИСИ]\n"
+"------------------\n"
+"[НАЧАЛО ЗАПИСИ]\n"
+"\n"
+"(Долгая пауза)\n"
+"\n"
+"(Звук выключающегося оборудования)\n"
+"\n"
+"...поверить не могу.\n"
+"\n"
+"[КОНЕЦ ЗАПИСИ]"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_GEOTHERMALTESTING.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: ТРЕТИЙ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC2_GEOTHERMALTESTING.TITLE
+"Заметки техника"
+
+STRINGS.UI.UISIDESCREENS.RELATEDENTITIESSIDESCREEN.TITLE
+"Связанные предметы"
