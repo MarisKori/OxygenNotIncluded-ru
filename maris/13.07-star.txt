@@ -237,11 +237,11 @@ STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATING.TOOLTIP
 "Она отключится, как только её запасы будут исчерпаны"
 
 STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.DESC
-"Результат на выходе зависит от изначальной температуры поступающего вещества."
+"Результат на выходе зависит от изначальной температуры поступающих жидкостей."
 
 STRINGS.BUILDINGS.PREFABS.GEOTHERMALCONTROLLER.EFFECT
 ""
-"Использует <link=\"HEAT\">тепло</link> ядра астероида для резкого повышения температуры вливаемой <link=\"ELEMENTSLIQUID\">жидкости</link>.\n"
+"Использует <link=\"HEAT\">тепло</link> ядра астероида для резкого повышения температуры влитой под давлением <link=\"ELEMENTSLIQUID\">жидкости</link>.\n"
 "\n"
 "Нагретые материалы выходят из присоединенных <color=#C38802>экспульсивных камер</color>."
 
@@ -282,7 +282,7 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.CANCEL_REPAIR_CONTRO
 "Отменить починку"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.CANCEL_REPAIR_CONTROLLER_TOOLTIP
-"Отменить поручение на соединение труб"
+"Отменить поручение на ремонт труб"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.CANCEL_UNCOVER_VENT_TITLE
 "Отменить открытие камеры"
@@ -294,13 +294,13 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TITLE
 "Отсоединить"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.DISCONNECT_TOOLTIP
-"Отсоединить эту экспульсивную камеру от геотермального теплонасоса {Hotkey}"
+"Отсоединить эту <color=#C38802>экспульсивную камеру</color> от <color=#C38802>геотермального теплонасоса</color> {Hotkey}"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.INITIATE_FIRST_VENT_FILLING_TOOLTIP
 "Не хватает материалов"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.INITIATE_FIRST_VENT_READY_TOOLTIP
-"Выпустить <style=\"KKeyword\">жидкость</style> из геотермального теплонасоса через экспульсивные камеры в первый раз"
+"Выпустить <style=\"KKeyword\">жидкость</style> из геотермального теплонасоса через <color=#C38802>экспульсивные камеры</color> в первый раз"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.INITIATE_FIRST_VENT_TITLE
 "Запустить геотермальный комплес"
@@ -312,13 +312,13 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.RECONNECT_TITLE
 "Соединить"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.RECONNECT_TOOLTIP
-"Соедините эту экспульсивную камеру с геотермальным теплонасосом {Hotkey}"
+"Соединить эту <color=#C38802>экспульсивную камеру</color> с <color=#C38802>геотермальным теплонасосом</color> {Hotkey}"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.REPAIR_CONTROLLER_TITLE
-"Соединить трубы"
+"Починить трубы"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.REPAIR_CONTROLLER_TOOLTIP
-"Соединить элементы <style=\"KKeyword\">стальных</style> жидкостных труб в этой постройке, чтобы она заработала"
+"Отремонтировать элементы <style=\"KKeyword\">стальных</style> жидкостных труб внутри этой постройки, чтобы она заработала"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.MYLOGNAME
 "С тёплыми пожеланиями"
@@ -336,13 +336,13 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.NOTIFICATIONS.GEOTHERMAL_PLA
 "Геотермальный теплонасос готов принимать материалы"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOPLANT_ERRUPTED_DESC
-"Дубликантам удалось устранить засор, мешающий работе последней экспульсивной камеры!\n \n Теперь мы можем использовать весь потенциал этого удивительного источника постоянного тепла и энергии. Применения этой технологии ограничиваются только нашими навыками.\n \n Мои дубликанты хотят увековечить эту победу: они решили сохранить собранный мусор в качестве трофея."
+"Дубликантам удалось устранить засор, мешающий работе последней экспульсивной камеры!\n\n Теперь мы можем использовать весь потенциал этого удивительного источника постоянной тепловой энергии. Применения этой технологии ограничиваются только нашими навыками.\n\n Мои дубликанты хотят увековечить эту победу: они решили сохранить собранный мусор в качестве трофея."
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOPLANT_ERRUPTED_TITLE
-"Выполнено: геотермальный энергетический комплекс"
+"Энергия недр: выполнено"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOTHERMAL_DISCOVERED_TITLE
-"Новые постройки: геотермальный энергетический комплекс"
+"Энергия недр: новые постройки"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOTHERMAL_DISOCVERED_DESC
 ""
@@ -356,10 +356,10 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOTHERMAL_PLANT_REPA
 ""
 "Успех! Геотермальный теплонасос готов принимать, нагревать и выводить жидкости.\n"
 "\n"
-"Если мне удастся залить достаточно жидкости, чтобы она начала двигаться по трубам под собственным давлением, моя колония сможет получить значительное количество тепла и энергии... и, возможно, других ресурсов."
+"Если мне удастся залить достаточно жидкости, чтобы она начала двигаться по трубам под собственным давлением, моя колония сможет получить значительное количество тепловой энергии... и, возможно, других ресурсов."
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.POPUPS.GEOTHERMAL_PLANT_REPAIRED_TITLE
-"Отчет о прогрессе: геотермальный энергетический комплекс"
+"Энергия недр: отчет о прогрессе"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.ACTIVATE_PLANT_DESCRIPTION
 "Перекачайте <style=\"KKeyword\">жидкость</style> от геотермального теплонасоса к экспульсивным камерам"
@@ -374,10 +374,10 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.DISCOVER_GEOTHE
 "Обнаружить геотермальный энергетический комплекс"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.REPAIR_CONTROLLER_DESCRIPTION
-"Соедините геотермальный теплонасос с трубами"
+"Стальные трубы внутри требуют серьёзной починки и правильного переподсоединения"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.REPAIR_CONTROLLER_TITLE
-"Соединить геотермальный насос с трубами"
+"Починить трубы внутри геотермального насоса"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.REQUIREMENTS.UNBLOCK_VENT_DESCRIPTION
 "Прочистите засоренную экспульсивную камеру, чтобы повысить эффективность геотермального энергетического комплекса до максимума"
@@ -390,7 +390,7 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_CONTROLLER
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_CONTROLLER_ONLINE_TOOLTIP
 ""
-"Соедините <style=\"KKeyword\">стальные</style> трубы этой постройки, чтобы она снова заработало\n"
+"Почините <style=\"KKeyword\">стальные</style> трубы этой постройки, чтобы она снова заработала\n"
 "\n"
 "Щёлкните, чтобы увидеть строение"
 
@@ -416,19 +416,19 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNO
 "Экспульсивная камера засыпана"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_ENTOMBED_VENT_TOOLTIP
-"Одна или более экспульсивных камер сейчас под завалом\n\nВсе присоединённые камеры должны быть готовы, чтобы эта постройка продолжила работу"
+"Одна или более <color=#C38802>экспульсивных камер</color> сейчас под завалом\n\nВсе присоединённые камеры должны быть готовы, чтобы эта постройка продолжила работу"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_NO_CONNECTED_NAME
 "Нет подключенных экспульсивных камер"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_NO_CONNECTED_TOOLTIP
-"Для работы этой постройки нужно подключить как минимум одну экспульсивную камеру"
+"Для работы этой постройки нужно подключить <b>как минимум одну</b> экспульсивную камеру"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_UNREADY_CONNECTION_NAME
 "Экспульсивные камеры недоступны"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.CANNOT_PUSH_UNREADY_CONNECTION_TOOLTIP
-"Один или больше экспульсивных камер сейчас недоступны\n\nВсе присоединённые камеры должны быть готовы, чтобы эта постройка заработала"
+"Одна или больше <color=#C38802>экспульсивных камер</color> сейчас недоступны\n\nВсе присоединённые камеры должны быть готовы, чтобы эта постройка заработала"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.OFFLINE_NAME
 "Отключено"
@@ -443,13 +443,14 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.PENDI
 "Ожидается дубликант, который восстановит эти трубы"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_NAME
-"Давление теплонасоса: {Amount}"
+"Давление: {Amount}"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_TOOLTIP
 ""
-"Когда давление достигнет {Threshold}, содержимое этой постройки нагреется и будет выпущено из присоединенных экспульсивных камер\n"
+"Когда давление достигнет {Threshold}, содержимое этой постройки нагреется и будет передано в присоединённые"
+"стальными трубами <color=#C38802>экспульсивные камеры</color>, через которые потом будет выпущено наружу\n"
 "\n"
-"Текущее давление: {Amount}/{Threshold}"
+"<b>Текущее давление</b>: {Amount}/{Threshold}"
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_TEMPERATURE_NAME
 "Средняя температура жидкости: {Temp}"
