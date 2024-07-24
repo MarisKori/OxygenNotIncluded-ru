@@ -70,12 +70,6 @@ STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_COTTAGE.NAME
 STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.NAME
 "<link=\"GOURMETCOOKINGSTATION\">Сельская плита</link>"
 
-STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.NAME
-"<link=\"PERMITCOOKSTATIONCOTTAGE\">Сельский гриль</link>"
-
-STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.NAME
-"<link=\"PERMITCOOKSTATIONGOURMETCOTTAGE\">Сельская газовая плита</link>"
-
 STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.NAME
 "Перчатки \"Удар клюшкой\""
 
@@ -263,6 +257,12 @@ STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT_ACTIVE
 STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.LOGIC_PORT_INACTIVE
 "Выдаёт <b><style=\"logic_off\">неактивный сигнал</style></b> в противном случае"
 
+STRINGS.BUILDINGS.PREFABS.ICEMACHINE.OPTION_TOOLTIPS.ICE
+"Заморозить <link=\"WATER\">воду</link> в <link=\"ICE\">лёд</link>"
+
+STRINGS.BUILDINGS.PREFABS.ICEMACHINE.OPTION_TOOLTIPS.SNOW
+"Заморозить <link=\"WATER\">воду</link> в <link=\"SNOW\">снег</link>"
+
 STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.DESC
 "Потолочным ртутным лампам требуется некоторое время, чтобы достичь полной яркости. Но когда они всё-таки разгораются, это выглядит потрясающе!"
 
@@ -447,7 +447,7 @@ STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORA
 
 STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_STATUS_TOOLTIP
 ""
-"Когда давление достигнет {Threshold}, содержимое этой постройки нагреется и будет передано в присоединённые"
+"Когда давление достигнет {Threshold}, содержимое этой постройки нагреется и будет передано в присоединённые\n"
 "стальными трубами <color=#C38802>экспульсивные камеры</color>, через которые потом будет выпущено наружу\n"
 "\n"
 "<b>Текущее давление</b>: {Amount}/{Threshold}"
@@ -537,6 +537,27 @@ STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_PLANTS
 STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_PLANTS_ITEM
 "{0}"
 
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_ACTIVE_TOOLTIP
+"<b>Этот DLC включён</b>\n\nНайдите его на экране выбора пункта назначения при начале новой игры или на экране загрузки для существующих сохранений с поддержкой этого DLC."
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_INSTALLED_LABEL
+"Установлено"
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_LABEL
+"Уже доступно"
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_TOOLTIP
+"Этот DLC уже доступен!\n\n<color=#ffff00ff><b>Щёлкните для просмотра страницы в магазине</b></color>"
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_OWNED_NOTINSTALLED_TOOLTIP
+"Этот DLC у вас уже куплен, но сейчас не установлен"
+
+STRINGS.UI.FRONTEND.MAINMENU.WISHLIST_AD_TOOLTIP
+"<color=#ffff00ff><b>Щёлкните для его просмотра на странице магазина</b></color>"
+
+STRINGS.UI.FRONTEND.MODESELECTSCREEN.ACTIVE_CONTENT_HEADER
+"Активные мини-паки"
+
 STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.CONFIRM
 "Включить контент из DLC в это сохранение?\n\nЭто создаст новую копию этой игры, и её больше нельзя будет загрузить без включённого DLC."
 
@@ -557,6 +578,9 @@ STRINGS.UI.KEEPSAKES.GEOTHERMAL_PLANT.DESCRIPTION
 
 STRINGS.UI.KEEPSAKES.GEOTHERMAL_PLANT.NAME
 "Блестящий копролит"
+
+STRINGS.UI.USERMENUACTIONS.MANUAL_PUMP_DELIVERY.ALLOWED.ITEM
+"\n{0}"
 
 STRINGS.WORLDS.CERESBASEGAMESHATTERED.DESCRIPTION
 ""
