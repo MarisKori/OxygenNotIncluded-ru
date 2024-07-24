@@ -162,32 +162,8 @@ db = [
 },
 {
 	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKINGSTATION_GOURMET_COTTAGE.NAME",
-	msgid: `<link=\\"GOURMETCOOKINGSTATION\\">Rustic Oven</link>`,
+	msgid: `<link=\\"GOURMETCOOKINGSTATION\\">Rustic Gas Range</link>`,
 	msgstr: ``,
-},
-{
-	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.DESC",
-	msgid: `The smoky flavor is intentional.`,
-	msgstr: ``,
-	klei: `С легким ароматом гари. Так задумано.`,
-},
-{
-	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.NAME",
-	msgid: `<link=\\"PERMITCOOKSTATIONCOTTAGE\\">Backcountry Grill</link>`,
-	msgstr: ``,
-	klei: `<link=\\"PERMITCOOKSTATIONCOTTAGE\\">Деревенский гриль</link>`,
-},
-{
-	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.DESC",
-	msgid: `It makes quality meal recipes feel more...approachable.`,
-	msgstr: ``,
-	klei: `Чтобы к сложным рецептам было проще... подступиться.`,
-},
-{
-	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.NAME",
-	msgid: `<link=\\"PERMITCOOKSTATIONGOURMETCOTTAGE\\">Rustic Gas Range</link>`,
-	msgstr: ``,
-	klei: `<link=\\"PERMITCOOKSTATIONGOURMETCOTTAGE\\">Сельская газовая плита</link>`,
 },
 {
 	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.DESC",
@@ -680,7 +656,7 @@ db = [
 },
 {
 	msgctxt: "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.TOOLTIP",
-	msgid: `This building is non-operational due to a lack of resources\\n\\nIt will begin to power up when its <style=\\"KKeyword\\">Liquid</style> and <style=\\"KKeyword\\">Power</style> are met`,
+	msgid: `This building is non-operational due to a lack of resources\\n\\nIt will begin to power up when its <style=\\"KKeyword\\">Liquid</style> and <style=\\"KKeyword\\">Power</style> requirements are met`,
 	msgstr: ``,
 	klei: `
 Это строение не функционирует из-за нехватки ресурсов\\n
@@ -753,6 +729,16 @@ db = [
 	klei: `В противном случае отправляет <b><style=\\"logic_off\\">красный сигнал</style></b>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ICEMACHINE.OPTION_TOOLTIPS.ICE",
+	msgid: `Convert <link=\\"WATER\\">Water</link> into <link=\\"ICE\\">Ice</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ICEMACHINE.OPTION_TOOLTIPS.SNOW",
+	msgid: `Convert <link=\\"WATER\\">Water</link> into <link=\\"SNOW\\">Snow</link>`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.MERCURYCEILINGLIGHT.DESC",
 	msgid: `Mercury ceiling lights take a while to reach full brightness, but once they do...zowie!`,
 	msgstr: ``,
@@ -793,19 +779,19 @@ db = [
 },
 {
 	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_BASE_SHATTERED_CLUSTER.DESCRIPTION",
-	msgid: `A cluster of visitable planetoids with an Ice Cave starting world.`,
+	msgid: `The heavily damaged remnants of a frosty location with sub-zero temperatures throughout.\\n\\n<smallcaps>Exploring the rubble of Blasted Ceres's sub-zero temperatures is particularly challenging, yet natural fuel sources provide a valuable payoff.</smallcaps>`,
 	msgstr: ``,
 	klei: `Скопление пригодных для посещения планетоидов, где можно начать с ледяного пещерного мира.`,
 },
 {
 	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_BASE_SHATTERED_CLUSTER.NAME",
-	msgid: `Blasted Ceres Cluster`,
+	msgid: `Blasted Ceres`,
 	msgstr: ``,
 	klei: `Скопление Цереры после взрыва`,
 },
 {
 	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_CLASSIC_SHATTERED_CLUSTER.DESCRIPTION",
-	msgid: `A cluster of visitable planetoids with an Ice Cave starting world.`,
+	msgid: `A cluster of visitable planetoids with an icy, exploded starting world.`,
 	msgstr: ``,
 },
 {
@@ -1386,7 +1372,7 @@ db = [
 },
 {
 	msgctxt: "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.CONTROLLER.STORAGE_TEMPERATURE_TOOLTIP",
-	msgid: `The average temperature of liquids stored in this building is {Temp}\\n\\nThe initial <style=\\"KKeyword\\">Temperature</style> of input liquid affects the materials emitted`,
+	msgid: `The average <style=\\"KKeyword\\">Temperature</style> of <style=\\"KKeyword\\">Liquids</style> stored in this building is {Temp}\\n\\nThe initial input <style=\\"KKeyword\\">Temperature</style> determines the type of materials emitted`,
 	msgstr: ``,
 	klei: `Материалы более высокой температуры могут прочистить засоренные участки. Результат на выходе будет варьироваться`,
 },
@@ -1549,7 +1535,7 @@ db = [
 },
 {
 	msgctxt: "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_PLANTS",
-	msgid: `<style=\\"KKeyword\\">Tune Ups</style> will improve these plants:`,
+	msgid: `<style=\\"KKeyword\\">Crop Tending</style> will improve growth times for these plants:`,
 	msgstr: ``,
 	klei: `<style=\\"KKeyword\\">Настройка</style> позволит улучшить следующие растения:`,
 },
@@ -1558,6 +1544,46 @@ db = [
 	msgid: `{0}`,
 	msgstr: ``,
 	klei: `{0}`,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_ACTIVE_TOOLTIP",
+	msgid: `<b>This DLC is enabled</b>\\n\\nFind it in the destination selection screen when starting a new game, or in the Load Game screen for existing DLC-enabled saves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_INSTALLED_LABEL",
+	msgid: `Installed`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_LABEL",
+	msgid: `Available Now`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_TOOLTIP",
+	msgid: `This DLC is available now!\\n\\n<color=#ffff00ff><b>Click to view store page</b></color>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_OWNED_NOTINSTALLED_LABEL",
+	msgid: ``,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_OWNED_NOTINSTALLED_TOOLTIP",
+	msgid: `This DLC is owned but not currently installed`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MAINMENU.WISHLIST_AD_TOOLTIP",
+	msgid: `<color=#ffff00ff><b>Click to view it in the store</b></color>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.FRONTEND.MODESELECTSCREEN.ACTIVE_CONTENT_HEADER",
+	msgid: `ACTIVE CONTENT PACKS`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.CONFIRM",
@@ -1875,6 +1901,11 @@ db = [
 	msgid: `Related Objects`,
 	msgstr: ``,
 	klei: `Связанные предметы`,
+},
+{
+	msgctxt: "STRINGS.UI.USERMENUACTIONS.MANUAL_PUMP_DELIVERY.ALLOWED.ITEM",
+	msgid: `\\n{0}`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.WORLDS.CERESBASEGAMESHATTERED.DESCRIPTION",
