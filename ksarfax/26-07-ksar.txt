@@ -1,0 +1,11 @@
+STRINGS.LORE.BUILDINGS.SET_OBJECT.BODY.CONTAINER1
+"<smallcaps><b>Обращение ко всему персоналу!</b>\n От кого: <b>Администратор</b><alpha=#AA><admin@gravitas.nova></color>\nКому: <b>Все</b></smallcaps>\n------------------\n<indent=5%>\n Всему персоналу;\n\nКорпорация Gravitas официально не проводит событие \"Приведи ребёнка на работу\". Мы просим всех сотрудников: пожалуйста, не приводите своих детей в зоны совершенно секретных исследований, и особенно не позволяйте им играть с мощными ускорителями частиц.\n\n Благодарю за понимание.</indent>"
+
+STRINGS.LORE.BUILDINGS.SET_OBJECT.BODY.SIGNATURE1
+"\n-Администратор\n<size=11>Корпорации Gravitas</size>\n------------------\n"
+
+STRINGS.LORE.BUILDINGS.SET_OBJECT.SUBTITLE
+"ТЕМА: ВАЖНО"
+
+STRINGS.LORE.BUILDINGS.SET_OBJECT.TITLE
+"Напоминание персоналу"
