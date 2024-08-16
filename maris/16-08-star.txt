@@ -1,0 +1,45 @@
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.BLOCKED_DESC
+"Закупоренная экспульсивная камера может быть <color=#C38802>изнутри</color> прочищена <link=\"ELEMENTSLIQUID\">жидкостями</link>, которые достаточно горячие, чтобы расплавить <link=\"LEAD\">свинец</link>."
+
+STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
+"Этот дубликант теряет тепло и мёрзнет. Возможно, толщина теплоизоляции слишком мала для этой зоны\n"
+"\n"
+"Он начнёт согреваться, после того как покинет холодную область\n"
+"\n"
+"Стресс: <b>{StressModification}</b>\n"
+"Выносливость: <b>{StaminaModification}</b>\n"
+"Атлетичность: <b>{AthleticsModification}</b>\n"
+"\n"
+"Теплообмен: <b>{currentTransferWattage}</b>\n"
+"\n"
+"Толщина изоляции: {conductivityBarrier}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP
+"Этому дубликанту жарко. Возможно, толщина теплоизоляции слишком мала для этой области\n "
+"\n"
+"Дубликант начнёт охлаждаться, когда покинет жаркую зону\n"
+"\n"
+"Стресс: <b>{StressModification}</b>\n"
+"Выносливость: <b>{StaminaModification}</b>\n"
+"Атлетичность: <b>{AthleticsModification}</b>\n"
+"\n"
+"Теплообмен: <b>{currentTransferWattage}</b>\n"
+"\n"
+"Толщина изоляции: {conductivityBarrier}"
+
+STRINGS.UI.FRONTEND.LOADSCREEN.NEWEST_SAVE
+"Последнее сохранение"
+
+STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.COOLING
+"<b>Потери тепла</b>\n"
+"Некомфортно и холодно\n"
+"\n"
+"Дубликанты теряют тепла больше, чем вырабатывают\n"
+"* Увеличение теплоизоляции (например, тёплый свитер) поможет им сохранить больше тепла"
+
+STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.HEATING
+"<b>Перегрев</b>\n"
+"Некомфортно и жарко\n"
+"\n"
+"Дубликанты поглощают тепла больше, чем могут выделить\n"
+"* Увеличение теплоизоляции (например, тёплый свитер) поможет дубликантам поглощать меньше тепла"
