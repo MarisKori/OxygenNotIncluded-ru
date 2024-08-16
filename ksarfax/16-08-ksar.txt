@@ -1,0 +1,68 @@
+STRINGS.BUILDINGS.PREFABS.GEOTHERMALVENT.BLOCKED_DESC
+"Закупоренная экспульсивная камера может быть <color=#C38802>изнутри</color> прочищена <link=\"ELEMENTSLIQUID\">жидкостями</link>, которые достаточно горячие, чтобы расплавить <link=\"LEAD\">свинец</link>."
+
+STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_ARTIFACTS_DESCRIPTION
+"Открывайте прошлое для будущей безопасности, чтобы выполнить условия цели исследования."
+
+STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_DEADLY.NAME
+"Смертельно опасная температура"
+
+STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_UNCOMFORTABLE.NAME
+"Некомфортная температура"
+
+STRINGS.DUPLICANTS.STATUSITEMS.COLD.TOOLTIP
+"Этот дубликант теряет тепло и мёрзнет. Возможно, толщина теплоизоляции слишком мала для этой зоны\n"
+"\n"
+"Он начнёт согреваться после того как покинет холодную область\n"
+"\n"
+"Стресс: <b>{StressModification}</b>\n"
+"Выносливость: <b>{StaminaModification}</b>\n"
+"Физическая форма: <b>{AthleticsModification}</b>\n"
+"\n"
+"Теплообмен: <b>{currentTransferWattage}</b>\n"
+"\n"
+"Толщина теплоизоляции: {conductivityBarrier}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP
+"Этому дубликанту жарко. Возможно, толщина теплоизоляции слишком мала для этой области\n "
+"\n"
+"Дубликант начнёт охлаждаться, когда покинет жаркую зону\n"
+"\n"
+"Изменение стресса: <b>{StressModification}</b>\n"
+"\n"
+"Выносливость: <b>{StaminaModification}</b>\n"
+"\n"
+"Атлетичность: <b>{AthleticsModification}</b>\n"
+"\n"
+"Текущий температурный обмен: <b>{currentTransferWattage}</b>\n"
+"\n"
+"Толщина изоляции: {conductivityBarrier}"
+
+STRINGS.UI.FRONTEND.LOADSCREEN.NEWEST_SAVE
+"Последнее сохранение"
+
+STRINGS.UI.OVERLAYS.HEATFLOW.COOLING_DUPE
+"Теплообмен {0}\n\nСильный холод, некомфортно"
+
+STRINGS.UI.OVERLAYS.HEATFLOW.HEATING_DUPE
+"Теплообмен {0}\n\nСильный жар, некомфортно"
+
+STRINGS.UI.OVERLAYS.HEATFLOW.NEUTRAL_DUPE
+"Комфортная область {0}"
+
+STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.COOLING
+"<b>Потери тепла</b>\n"
+"Некомфортно и холодно\n"
+"\n"
+"Дубликанты теряют больше тепла, чем вырабатывают\n"
+"* Увеличение теплоизоляции (например, тёплый свитер) поможет им сохранть больше тепла"
+
+STRINGS.UI.OVERLAYS.HEATFLOW.TOOLTIPS.HEATING
+"<b>Перегрев</b>\n"
+"Некомфортно и жарко\n"
+"\n"
+"Дубликанты поглощают больше тепла, чем могут выделить\n"
+"* Увеличение теплоизоляции (например, тёплый свитер) поможет дубликантам поглощать меньше тепла"
+
+STRINGS.UI.SPACEDESTINATIONS.COMETS.MINICOMET.NAME
+"Мусорный метеорит"
