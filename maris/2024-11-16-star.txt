@@ -1,0 +1,1221 @@
+STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.DESC
+"Пока кто-то внутри, эта кровать точно не закроется. Скорее всего."
+
+STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.NAME
+"<color=#999999><link=\"LUXURYBED\">Кровать-копатель</link></color>"
+
+STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.DESC
+"Идеально для тех, кто спит на боку и любит, чтобы его обнимали."
+
+STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.NAME
+"<color=#C38802><link=\"LUXURYBED\">Кровать — детёныш пипа</link></color>"
+
+STRINGS.BUILDING.STATUSITEMS.DATAMINER.PRODUCTIONRATE.NAME
+"Продуктивность: {RATE}"
+
+STRINGS.BUILDING.STATUSITEMS.DATAMINER.PRODUCTIONRATE.TOOLTIP
+""
+"Это строение работает на {RATE} от <color=#999999>максимальной скорости</color>\n"
+"\n"
+"При высоких температурах скорость производства снижается\n"
+"\n"
+"Текущая температура среды: {TEMP}"
+
+STRINGS.BUILDING.STATUSITEMS.ELECTROBANKJOULESAVAILABLE.NAME
+"<color=#999999>Осталось энергии</color>: {JoulesAvailable}/{JoulesCapacity}"
+
+STRINGS.BUILDING.STATUSITEMS.ELECTROBANKJOULESAVAILABLE.TOOLTIP
+""
+"<b>{JoulesAvailable}</b> накопленной <style=\"KKeyword\">энергии</style> доступно для использования\n"
+"\n"
+"<color=#999999>Максимальная емкость</color>: {JoulesCapacity}"
+
+STRINGS.BUILDING.STATUSITEMS.GUNKEMPTIERFULL.NAME
+"Хранилище заполнено"
+
+STRINGS.BUILDING.STATUSITEMS.GUNKEMPTIERFULL.TOOLTIP
+""
+"Внутреннее хранилище этой постройки полностью заполнено\n"
+"\n"
+"Нужно освободить место перед следующим использованием"
+
+STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.NAME
+"Собирает дрона"
+
+STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.TOOLTIP
+"Эта постройка собирает дрона для удалённой работы"
+
+STRINGS.BUILDING.STATUSITEMS.REMOTEWORKTERMINAL.NODOCK.NAME
+"Нет назначенных док-станций"
+
+STRINGS.BUILDING.STATUSITEMS.REMOTEWORKTERMINAL.NODOCK.TOOLTIP
+"Для функционирования этой постройке <color=#999999>нужно назначить</color> <style=\"KKeyword\">док-станцию дрона</style>"
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.BIONIC_COMPONENT_RECIPE_DESC
+"<color=#999999>Перерабатывает</color>: {0} в {1}"
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.DESC
+"<color=#999999>Паяльные станции</color> помогают дубликантам создавать <color=#999999>ботов-доставщиков \"Помвзлёт\"</color>."
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.EFFECT
+""
+"Производит продвинутую электронику и бионические <color=#999999><link=\"BIONICUPGRADE\">бустеры</link></color>.\n"
+"\n"
+"Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь."
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.NAME
+"<color=#999999><link=\"ADVANCEDCRAFTINGTABLE\">Паяльная станция</link></color>"
+
+STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITGAS.DESC
+"С помощью встроенного фильтра можно указывать, какие типы баллонов газа сюда разрешено вставлять."
+
+STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITGAS.EFFECT
+"Выпускает <link=\"ELEMENTSGAS\">газ</link> из баллонов в <link=\"GASCONDUIT\">газовые трубы</link>."
+
+STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITGAS.NAME
+"<link=\"BOTTLEEMPTIERCONDUITGAS\">Газонаполнитель труб</link>"
+
+STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITLIQUID.DESC
+"С помощью встроенного фильтра можно указывать, какие типы бутылок с жидкостью сюда разрешено вставлять."
+
+STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITLIQUID.EFFECT
+"Сливает <link=\"ELEMENTSLIQUID\">жидкости</link> из бутылок в <link=\"LIQUIDCONDUIT\">жидкостные трубы</link>."
+
+STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITLIQUID.NAME
+"<link=\"BOTTLEEMPTIERCONDUITLIQUID\">Гидронаполнитель труб</link>"
+
+STRINGS.BUILDINGS.PREFABS.DATAMINER.DESC
+"С помощью банков данных также можно программировать <color=#999999>робопилотов и бионические бустеры</color>."
+
+STRINGS.BUILDINGS.PREFABS.DATAMINER.EFFECT
+""
+"Массово производит <link=\"ORBITALRESESARCHDATABANK\">банки данных</link>, которые можно переработать в очки <link=\"RESEARCH\">анализа данных</link>.\n"
+"\n"
+"Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь."
+
+STRINGS.BUILDINGS.PREFABS.DATAMINER.NAME
+"<color=#999999><link=\"DATAMINER\">Добыватель данных</link></color>"
+
+STRINGS.BUILDINGS.PREFABS.DATAMINER.RECIPE_DESCRIPTION
+"{0} переделывается в {1}."
+
+STRINGS.BUILDINGS.PREFABS.ELECTROBANKCHARGER.DESC
+"Бионическим дубликантам для работы требуется стабильный источник энергии."
+
+STRINGS.BUILDINGS.PREFABS.ELECTROBANKCHARGER.EFFECT
+"Полностью заряжает пустые <link=\"ELECTROBANK\">экоячейки</link>, чтобы их можно было использовать повторно."
+
+STRINGS.BUILDINGS.PREFABS.ELECTROBANKCHARGER.NAME
+"<link=\"ELECTROBANKCHARGER\">Заряжатель энергоячеек</link>"
+
+STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.DESC
+"Наполнители бутылок позволяют дубликантам транспортировать жидкости с места на место."
+
+STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.EFFECT
+"Автоматически заполняет бутылки <link=\"ELEMENTSLIQUID\">жидкостями</link> из подключённой трубы для ручной транспортировки."
+
+STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.NAME
+"<link=\"LIQUIDBOTTLER\">Наполнитель бутылок</link>"
+
+STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.EFFECT
+""
+"Производит микрочипы для увеличения <link=\"POWER\">мощности</link> генераторов.\n"
+"\n"
+"Назначенные дубликанты должны обладать чертой <link=\"TECHNICALS2\">Электротехника</link>.\n"
+"\n"
+"Эта постройка необходима для электростанции."
+
+STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.DESC
+"Это дубликат дубликанта."
+
+STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.EFFECT
+""
+"Выполняет инструкции по управлению техникой, которые передаются по подключённому <link=\"REMOTEWORKTERMINAL\">терминалу дистанционного управления</link>.\n"
+"\n"
+"Необходимо разместить в зоне досягаемости выбранной постройки."
+
+STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.NAME
+"<link=\"REMOTEWORKERDOCK\">Док-станция дрона</link>"
+
+STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2
+""
+"Многие вещи влияют на значение декора в клетке. Эффект постройки выражается в значении декора и радиусе воздействия. Часто значения декора положительные, однако многие постройки немного снижают это число. <link=\"PLANTS\">Растения</link>, <link=\"CREATURES\">существа</link> и <link=\"BUILDCATEGORYFURNITURE\">мебель</link> зачастую повышают декор, в то время как промышленные постройки и мусор снижают его. Дубликанты воспринимают совокупное значение декора всех объектов, влияющих на клетку.\n"
+"\n"
+"Пример:\n"
+"\n"
+" • У <link=\"PRICKLEGRASS\">ложного шиповника</link> значение декора 25 и радиус воздействия 4 клетки.\n"
+" • У <link=\"MICROBEMUSHER\">микробного преобразователя</link> декор -15 и радиус воздействия 3 клетки.\n"
+"\n"
+"Результат размещения <link=\"MICROBEMUSHER\">микробного преобразователя</link> рядом с <link=\"PRICKLEGRASS\">ложным шиповником</link> станет равным 10."
+
+STRINGS.CODEX.POWER.PARAGRAPH_2
+""
+"Некоторые постройки способны генерировать энергию. Дубликанты могут бегать в <link=\"MANUALGENERATOR\">ручном генераторе</link> для производства чистой энергии. Сгенерированная энергия может быть сразу израсходована на потребителей, либо сохранена в <link=\"BATTERY\">аккумуляторах</link> для предотвращения её перерасхода. Любая энергия, которая сгенерирована, но не потреблена и не сохранена, будет потеряна. Аккумуляторы и генераторы производят значительное количество <link=\"HEAT\">тепла</link>, когда активны.\n\nЭнергию также можно хранить в переносных <link=\"ELECTROBANK\">блоках энергии</link>.\n\n"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.TITLE
+"Станции бионического обслуживания"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.DESCRIPTION
+"Постройки, который производят <link=\"POWER\">энергию</link>, так необходимую для работы различного оборудования в колонии.\n"
+"\n"
+"Базовые требования можно удовлетворить и с помощью простых генераторов, но для развития нужны более мощные постройки."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.ROOMSREQUIRING
+"    • <link=\"POWERPLANT\">Электростанция</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.TITLE
+"Генераторы"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.DESCRIPTION
+"Постройки, генерирующие, управляющие или хранящие электроэнергию, необходимую колонии для процветания и расширения."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.ROOMSREQUIRING
+"    • <link=\"POWERPLANT\">Электростанция</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.TITLE
+"Энергетические постройки"
+
+STRINGS.CREATURES.MODIFIERS.GOLDBELLYWELLFED.NAME
+"По-царски поел"
+
+STRINGS.CREATURES.MODIFIERS.GOLDBELLYWELLFED.TOOLTIP
+"Существо недавно поело, и это ускоряет рост его гребня"
+
+STRINGS.CREATURES.SPECIES.BEAN_PLANT.DESC
+"Съедобные ростки процветают в холодном климате и дают плоды в виде <link=\"BEANPLANTSEED\">съедобных бобов</link>."
+
+STRINGS.CREATURES.SPECIES.BEAN_PLANT.DOMESTICATEDDESC
+"На этом растении вызревают <link=\"BEANPLANTSEED\">съедобные бобы</link>."
+
+STRINGS.CREATURES.SPECIES.ICEBELLY.DESC
+""
+"Крольмонты — это неловкие миролюбивые создания, которые питаются <link=\"CARROT\">перистой свёклой</link>, <link=\"BEANPLANTSEED\">съедобными бобами</link> и <link=\"FRIESCARROT\">свёклой фри</link>.\n"
+"\n"
+"Их толстую шкуру можно состричь и получить <link=\"BASICFABRIC\">волокна камыша</link>."
+
+STRINGS.CREATURES.SPECIES.ICEBELLY.VARIANT_GOLD.BABY.DESC
+""
+"Маленький напыщенный королевский крольмонтёнок.\n"
+"\n"
+"Со временем вырастет во взрослого <link=\"GOLDBELLY\">королевского крольмонта</link>."
+
+STRINGS.CREATURES.SPECIES.ICEBELLY.VARIANT_GOLD.BABY.NAME
+"<link=\"GOLDBELLY\">Королевский крольмонтёнок</link>"
+
+STRINGS.CREATURES.SPECIES.ICEBELLY.VARIANT_GOLD.DESC
+""
+"Королевские крольмонты — это величественные миролюбивые создания, которые питаются <link=\"CARROT\">перистыми свёклами</link>, <link=\"BEANPLANTSEED\">съедобными бобами</link> и <link=\"FRIESCARROT\">свёклой фри</link>."
+
+STRINGS.CREATURES.SPECIES.ICEBELLY.VARIANT_GOLD.EGG_NAME
+"<link=\"GOLDBELLY\">Яйцо королевского крольмонта</link>"
+
+STRINGS.CREATURES.SPECIES.ICEBELLY.VARIANT_GOLD.NAME
+"<link=\"GOLDBELLY\">Королевский крольмонт</link>"
+
+STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC
+"Это растение повышает окружающий <link=\"DECOR\">декор</link>."
+
+STRINGS.CREATURES.SPECIES.SEAL.DESC
+""
+"Тюлени-самогонщики — очаровательные создания, производящие <link=\"ETHANOL\">этанол</link>.\n"
+"\n"
+"Они любят есть <link=\"SUCROSE\">сахарозу</link>, а также потягивать <link=\"SUGARWATER\">сироп</link> прямо из <link=\"SPACETREE\">сиропного дерева</link>."
+
+STRINGS.CREATURES.SPECIES.WOODDEER.DESC
+""
+"Лисени — миролюбивые существа, которые питаются <link=\"PRICKLEFLOWER\">щетинкоцветами</link> и <link=\"HARDSKINBERRY\">дуринасами</link>, как опавшими, так и с куста.\n"
+"\n"
+"Рога лисеня лёгкие. Когда они полностью вырастают, их можно срезать в качестве <link=\"WOOD\">древесины</link>."
+
+STRINGS.CREATURES.STATS.CRITTERTEMPERATURE.TOOLTIP
+"Комфортная <color=#C38802>температура тела</color> для этого животного: от <b>{0}</b> до <b>{1}</b>\n\nТемпература <color=#C38802>выживания</color>, соответственно: от <b>{2}</b> до <b>{3}</b>"
+
+STRINGS.DUPLICANTS.MODEL.BIONIC.NAME
+"Бионический дубликант"
+
+STRINGS.DUPLICANTS.MODEL.BIONIC.NAME_TOOLTIP
+"В этом дубликанте любопытно совмещаются органические и неорганические части"
+
+STRINGS.DUPLICANTS.MODEL.REMOTEWORKER.DESC
+""
+"Робот на удалённом управлении.\n"
+"\n"
+"Выполняет задачи по командам с <link=\"REMOTEWORKTERMINAL\">дистанционного пульта управления</link>, размещённого на этом же планетоиде."
+
+STRINGS.DUPLICANTS.MODEL.REMOTEWORKER.NAME
+"Дрон"
+
+STRINGS.DUPLICANTS.MODEL.STANDARD.NAME
+"Обычный дубликант"
+
+STRINGS.DUPLICANTS.MODELTITLE
+"Вид: "
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICAGRICULTUREBOOST.NAME
+"Агрономическое усиление"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICAGRICULTUREBOOST.TOOLTIP
+"Навыки земледелия этого дубликанта улучшились благодаря <style=\"KKeyword\">бустеру земледелия</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICATHLETICSBOOST.NAME
+"Атлетическое усиление"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICATHLETICSBOOST.TOOLTIP
+"Этот дубликант отличается особой прытью благодаря <style=\"KKeyword\">атлетическому бустеру</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICBATTERYSAVEMODE.NAME
+"Медитативная обработка данных"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICBATTERYSAVEMODE.TOOLTIP
+""
+"Этот дубликант наслаждается перерывом от сложных энергозатратных задач\n"
+"\n"
+"В режиме простоя снижается уровень <style=\"KKeyword\">стресса</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICCONSTRUCTIONBOOST.NAME
+"Строительное усиление"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICCONSTRUCTIONBOOST.TOOLTIP
+"Строительные навыки этого дубликанта улучшились благодаря <style=\"KKeyword\">строительному бустеру</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICCOOKINGBOOST.NAME
+"Поварское усиление"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICCOOKINGBOOST.TOOLTIP
+"Кулинарные навыки этого дубликанта улучшились благодаря <style=\"KKeyword\">поварскому бустеру</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICCREATIVITYBOOST.NAME
+"Творческое усиление"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICCREATIVITYBOOST.TOOLTIP
+"Навыки декорирования этого дубликанта улучшились благодаря <style=\"KKeyword\">творческому бустеру</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICEXCAVATIONBOOST.NAME
+"Буровое усиление"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONICEXCAVATIONBOOST.TOOLTIP
+"Навыки рытья этого дубликанта улучшились благодаря <style=\"KKeyword\">раскопочному бустеру</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.SLIPPED.NAME
+"Падение"
+
+STRINGS.DUPLICANTS.MODIFIERS.SLIPPED.TOOLTIP
+"Недавно этот дубликант оступился на скользком полу и теперь чувствует себя неловко"
+
+STRINGS.DUPLICANTS.PERSONALITIES.CHIP.DESC
+"{0} прекрасно угадывает пароли друзей."
+
+STRINGS.DUPLICANTS.PERSONALITIES.CHIP.NAME
+"Чип"
+
+STRINGS.DUPLICANTS.PERSONALITIES.EDWIREDO.DESC
+"{0} однажды так сильно закатил глаза, что отключился, а потом снова включился."
+
+STRINGS.DUPLICANTS.PERSONALITIES.EDWIREDO.NAME
+"Электроник"
+
+STRINGS.DUPLICANTS.PERSONALITIES.GIZMO.DESC
+"Дубликанты типа "{0}" больше всего обожают, когда на них выливают кучу информации."
+
+STRINGS.DUPLICANTS.PERSONALITIES.GIZMO.NAME
+"Гизмо"
+
+STRINGS.DUPLICANTS.PERSONALITIES.SONYAR.DESC
+"{0}ы спалят всю колонию, но инструкции читать не будут."
+
+STRINGS.DUPLICANTS.PERSONALITIES.SONYAR.NAME
+"Соньяр"
+
+STRINGS.DUPLICANTS.PERSONALITIES.STEELA.DESC
+"Дубликанты типа "{0}" не запрограммированы для всякой ерунды, но иногда могут и пошалить."
+
+STRINGS.DUPLICANTS.PERSONALITIES.STEELA.NAME
+"Стилла"
+
+STRINGS.DUPLICANTS.PERSONALITIES.ULTI.DESC
+"{0} знает только один танец — танец робота."
+
+STRINGS.DUPLICANTS.PERSONALITIES.ULTI.NAME
+"<color=#999999>Ультра</color>"
+
+STRINGS.DUPLICANTS.STATS.BIONICGUNK.NAME
+"Отходы"
+
+STRINGS.DUPLICANTS.STATS.BIONICGUNK.TOOLTIP
+""
+"Бионические дубликанты подвергаются <style=\"KKeyword\">стрессу</style>, если в их деталях скапливается слишком много <style=\"KKeyword\">жидких отходов</style>\n"
+"\n"
+"Им требуется регулярно посещать <style=\"KKeyword\">извлекатель отходов</style>"
+
+STRINGS.DUPLICANTS.STATS.BIONICINTERNALBATTERY.NAME
+"Энергоячейки"
+
+STRINGS.DUPLICANTS.STATS.BIONICINTERNALBATTERY.TOOLTIP
+"Если у бионического дубликанта не осталось <style=\"KKeyword\">энергии</style>, он выходит из строя до тех пор, пока не будут установлены сменные <style=\"KKeyword\">энергоячейки</style>"
+
+STRINGS.DUPLICANTS.STATS.BIONICOIL.NAME
+"Масло"
+
+STRINGS.DUPLICANTS.STATS.BIONICOIL.TOOLTIP
+""
+"Бионические дубликанты сильно замедляются, когда у них кончается <style=\"KKeyword\">масло</style>\n"
+"\n"
+"В качестве машинного масла дубликанты могут использовать <style=\"KKeyword\">растительное масло</style> или <style=\"KKeyword\">нефть</style>: они доступны на <style=\"KKeyword\">смазывательной станции</style>"
+
+STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.NAME
+"Кислородный баллон"
+
+STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP
+"У бионических дубликантов есть внутренние <style=\"KKeyword\">кислородные</style> баллоны, которые позволяют им работать в зонах, непригодных для дыхания"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICBEINGREBOOTED.NAME
+"Перезагрузка активирована"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICBEINGREBOOTED.TOOLTIP
+"Бионические системы этого дубликанта перезагружаются"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICCRITICALBATTERY.NAME
+"Критически мало энергии"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICCRITICALBATTERY.NOTIFICATION_NAME
+"Критически мало энергии"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICCRITICALBATTERY.NOTIFICATION_TOOLTIP
+"Эти дубликанты выйдут из строя, если не найдут <style=\"KKeyword\">энергоячейки</style>:"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICCRITICALBATTERY.TOOLTIP
+""
+"У этого дубликанта критически мало <style=\"KKeyword\">энергии</style>\n"
+"\n"
+"Если не доставить новые <style=\"KKeyword\">энергоячейки</style>, он выйдет из строя"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICEXPLORERBOOSTER.NAME
+"Сканирование грунта: {0}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICEXPLORERBOOSTER.NOTIFICATION_NAME
+"Сканирование завершено: обнаружен гейзер"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICEXPLORERBOOSTER.NOTIFICATION_TOOLTIP
+"Нажмите, чтобы увидеть гейзер, который обнаружил бионический дубликант"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICEXPLORERBOOSTER.TOOLTIP
+""
+"Этот дубликант всегда собирает информацию о грунте\n"
+"\n"
+"Когда завершится сканирование, он обнаружит новый гейзер"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICOFFLINEINCAPACITATED.NAME
+"Выведен из строя: нет энергии"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICOFFLINEINCAPACITATED.NOTIFICATION_NAME
+"Бионический дубликант выведен из строя"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICOFFLINEINCAPACITATED.NOTIFICATION_TOOLTIP
+""
+"Эти бионические дубликанты выведены из строя.\n"
+"\n"
+"Им нужна заряженная <style=\"KKeyword\">энергоячейка</style> и полная перезагрузка, выполненная умелым дубликантом:"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICOFFLINEINCAPACITATED.TOOLTIP
+""
+"Этот дубликант выведен из строя!\n"
+"\n"
+"Его можно оживить с помощью заряженной <style=\"KKeyword\">энергоячейки</style> и перезагрузки систем"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICREQUIRESSKILLPERK.NAME
+"Требуется навык управления"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICREQUIRESSKILLPERK.TOOLTIP
+""
+"Перезагружать бионические системы этого дубликанта могут только дубликанты со следующими <style=\"KKeyword\">навыками</style>:\n"
+"\n"
+"{Skills}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICWAITINGFORREBOOT.NAME
+"Требуется перезагрузка"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICWAITINGFORREBOOT.TOOLTIP
+"Чтобы этот дубликант вернулся к работе, кто-то должен перезагрузить его бионические системы"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICWANTSOILCHANGE.NAME
+"Низкий уровень <color=#999999>масла</color>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICWANTSOILCHANGE.TOOLTIP
+"У этого дубликанта почти закончилось <color=#999999><style=\"KKeyword\">масло</style></color>. Ему нужно посетить <style=\"KKeyword\">смазывательную станцию</style>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.DATARAINERPLANNING.NAME
+"Главный по чипам"
+
+STRINGS.DUPLICANTS.STATUSITEMS.DATARAINERPLANNING.TOOLTIP
+"Этот дубликант планирует в свободное время раздавать микрочипы"
+
+STRINGS.DUPLICANTS.STATUSITEMS.DATARAINERRAINING.NAME
+"Главный по чипам"
+
+STRINGS.DUPLICANTS.STATUSITEMS.DATARAINERRAINING.TOOLTIP
+"Этому дубликанту микрочипов не жалко"
+
+STRINGS.DUPLICANTS.STATUSITEMS.INSTALLINGELECTROBANK.NAME
+"Спасение бионического друга"
+
+STRINGS.DUPLICANTS.STATUSITEMS.INSTALLINGELECTROBANK.TOOLTIP
+"Этот дубликант перезагружает обесточенного бионического дубликанта"
+
+STRINGS.DUPLICANTS.STATUSITEMS.LOADINGELECTROBANK.NAME
+"Загрузка: {Item}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.LOADINGELECTROBANK.TOOLTIP
+"Этот дубликант загружает: <b>{Item}</b>. Получает: <b>{Target}</b>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.DRAINING.NAME
+"Сливает отходы"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.DRAINING.TOOLTIP
+"Этот дрон прочищает свои шестерёнки"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.ENTERINGDOCK.NAME
+"Подключается к док-станции"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.ENTERINGDOCK.TOOLTIP
+"Этот дрон заходит на док-станцию"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.FULLGUNK.NAME
+"Слишком много отходов"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.FULLGUNK.TOOLTIP
+""
+"Этот дрон не может функционировать из-за избыточного количества накопленных <style=\"KKeyword\">отходов</style>\n"
+"\n"
+"Его нужно вернуть на док-станцию"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.HIGHGUNK.NAME
+"Застоявшиеся отходы"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.HIGHGUNK.TOOLTIP
+"Прежде чем принимать новые задачи, этот дрон должен вернуться на док-станцию и избавиться от накопленных <style=\"KKeyword\">отходов</style>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWOIL.NAME
+"Низкий уровень масла"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWOIL.TOOLTIP
+""
+"У этого дрона мало масла\n"
+"\n"
+"Прежде чем принимать новые задачи, он должен вернуться на док-станцию и восполнить уровень смазки"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWPOWER.NAME
+"Мало энергии"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWPOWER.TOOLTIP
+""
+"У этого дрона мало <style=\"KKeyword\">энергии</style>\n"
+"\n"
+"Прежде чем принимать новые задачи, он должен вернуться на док-станцию и зарядиться"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.NOHOMEDOCK.NAME
+"Нет док-станции"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.NOHOMEDOCK.TOOLTIP
+"У этого дрона нет домашней док-станции, поэтому он самоуничтожится"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OILING.NAME
+"Заливает масло"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OILING.TOOLTIP
+"Этот дрон смазывает сочленения"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OUTOFOIL.NAME
+"Нет масла"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OUTOFOIL.TOOLTIP
+""
+"Этот дрон не может функционировать без <style=\"KKeyword\">масла</style>\n"
+"\n"
+"Его нужно вернуть на док-станцию"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OUTOFPOWER.NAME
+"Нет энергии"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OUTOFPOWER.TOOLTIP
+""
+"Этот дрон не может функционировать без <style=\"KKeyword\">энергии</style>\n"
+"\n"
+"Его нужно вернуть на док-станцию"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.POWERSTATUS.NAME
+"[Осталось энергии: {CHARGE} ({RATIO})]"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.POWERSTATUS.TOOLTIP
+""
+"Оставшаяся энергия этого дрона составляет {CHARGE}\n"
+"\n"
+"Когда <style=\"KKeyword\">энергии</style> станет мало, дрон вернётся на док-станцию для зарядки"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.RECHARGING.NAME
+"Заряжается"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.RECHARGING.TOOLTIP
+"Этот дрон заряжает свой конденсатор"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.UNREACHABLEDOCK.NAME
+"Док-станция вне досягаемости"
+
+STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.UNREACHABLEDOCK.TOOLTIP
+"Этот дрон не может попасть на свою док-станцию"
+
+STRINGS.DUPLICANTS.STATUSITEMS.ROBODANCERDANCING.NAME
+"<color=#999999>Звезда флешмоба</color>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.ROBODANCERDANCING.TOOLTIP
+"Этот дубликант показывает другим дубликантам, как надо танцевать"
+
+STRINGS.DUPLICANTS.STATUSITEMS.ROBODANCERPLANNING.NAME
+"Звезда флешмоба"
+
+STRINGS.DUPLICANTS.STATUSITEMS.ROBODANCERPLANNING.TOOLTIP
+"Этот дубликант планирует в свободное время танцевать так, чтобы все смотрели"
+
+STRINGS.DUPLICANTS.STATUSITEMS.SLIPPERING.NAME
+"Распластался"
+
+STRINGS.DUPLICANTS.STATUSITEMS.SLIPPERING.TOOLTIP
+"Этот дубликант потерял равновесие на скользкой поверхности.\n\nЭто не смешно."
+
+STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGOIL.NAME
+"Вывод отходов"
+
+STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGOIL.NOTIFICATION_NAME
+"Вывод отходов"
+
+STRINGS.DUPLICANTS.TRAITS.DATARAINER.DESC
+"Этот дубликант раздает микрочипы, когда испытывает <style=\"KKeyword\">сверхрадостную реакцию</style>"
+
+STRINGS.DUPLICANTS.TRAITS.DATARAINER.NAME
+"Главный по чипам"
+
+STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTART.DESC
+"Этот дубликант начинает с предустановленным <b>бустером декорирования</b>"
+
+STRINGS.ELEMENTS.CRUDEOIL.DESC
+"Сырая нефть – потенциальный источник <link=\"POWER\">энергии</link>, состоящий из миллиардов умерших простейших организмов.\n\nТакже служит смазкой для некоторых видов оборудования."
+
+STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.RECIPEDESC
+"Хрустящая горстка <link=\"BEANPLANTSEED\">бобов</link>, обжаренная специальным образом в <link=\"TALLOW\">сале</link>."
+
+STRINGS.ITEMS.FOOD.TOFU.DESC
+""
+"Мягкий творог из <link=\"BEANPLANTSEED\">съедобных бобов</link>.\n"
+"\n"
+"У него необычная, но приятная консистенция."
+
+STRINGS.ITEMS.FOOD.TOFU.RECIPEDESC
+"Мягкий творог из <link=\"BEANPLANTSEED\">съедобных бобов</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK.DESC
+""
+"Экоячейка <color=#999999>-</color> это экологическая <link=\"ELECTROBANK\">энергоячейка</link>, которую можно заряжать повторно.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">экоячейки</link> на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK.NAME
+"<link=\"ELECTROBANK\">Экоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_CARROT.DESC
+""
+"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"CARROT\">перистой свёклы</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">тыквенные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_CARROT.NAME
+"<link=\"ELECTROBANK\">Тыквенная энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_EMPTY.DESC
+""
+"Пустая <link=\"ELECTROBANK\">энергоячейка</link>.\n"
+"\n"
+"Перед повторным использованием нужно воспользоваться <link=\"ELECTROBANKCHARGER\">заряжателем энергоячеек</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_EMPTY.NAME
+"<link=\"ELECTROBANK\">Пустая экоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_GARBAGE.DESC
+""
+"<link=\"ELECTROBANK\">Энергоячейка</link>, которая своё отработала.\n"
+"\n"
+"Можно переработать в металлическую руду."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_GARBAGE.NAME
+"<link=\"ELECTROBANK\">Нерабочая энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_LIGHTBUGEGG.DESC
+""
+"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"LIGHTBUG\">яйца светлячка</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">светлячковые энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_LIGHTBUGEGG.NAME
+"<link=\"ELECTROBANK\">Светлячковая энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_METAL_ORE.DESC
+""
+"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"METAL\">металлической руды</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">металлические энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_METAL_ORE.NAME
+"<link=\"ELECTROBANK\">Металлическая энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_MUCKROOT.DESC
+""
+"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"BASICFORAGEPLANT\">гнилостного корня</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">гнилостные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_MUCKROOT.NAME
+"<link=\"ELECTROBANK\">Гнилостная энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_STATERPILLAR.DESC
+""
+"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"STATERPILLAR\">яйца энергослизня</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">слизневые энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_STATERPILLAR.NAME
+"<link=\"ELECTROBANK\">Слизневая энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SUCROSE.DESC
+""
+"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"SUCROSE\">сахарозы</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">сахарозные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SUCROSE.NAME
+"<link=\"ELECTROBANK\">Сахарозная энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_URANIUM_ORE.DESC
+""
+"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"URANIUMORE\">урановой руды</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">ядерные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_URANIUM_ORE.NAME
+"<link=\"ELECTROBANK\">Ядерная энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.GOLD_BELLY_CROWN.DESC
+"Был срезан с <color=#C38802>королевского крольмонта</color>. Может быть раздроблен для извлечения <link=\"GOLDAMALGAM\">амальгамы золота</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.GOLD_BELLY_CROWN.NAME
+"Гребень крольмонта"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.RECIPE_DESC
+""
+"Банки данных с сырой информацией могут быть получены при исследовании новых объектов дубликантами или в <link=\"ORBITALRESEARCHCENTER\">орбитальной лаборатории</link>.\n"
+"\n"
+"Используются в <link=\"DLC1COSMICRESEARCHCENTER\">виртуальном планетарии</link> для производства очков исследования."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.RECIPE_DESCRIPTION
+"Позволяет изготавливать микрочипы (требуется: {0})"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.MESSAGEBODY
+""
+"Для работы бионическим дубликантам нужны <link=\"ELECTROBANK\">блоки энергии</link>. Когда у бионического дубликанта заканчивается <link=\"POWER\">энергия</link>, он выходит из строя — другому дубликанту нужно его перезагрузить.\n"
+"\n"
+"Простые блоки энергии можно создавать на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.NAME
+"Точка назначения"
+
+STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.PLACER_STATUS_TOOLTIP
+"Нажмите, чтобы увидеть, куда перенесётся этот предмет"
+
+STRINGS.MISC.TAGS.BED
+"Кровати"
+
+STRINGS.MISC.TAGS.COMBUSTIBLEGAS
+"<link=\"COMBUSTIBLEGAS\">Горючий газ</link>"
+
+STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC
+"Горючие жидкости можно сжечь для производства электроэнергии, например, в <link=\"PETROLEUMGENERATOR\">керосиновом генераторе</link> или использовать в качестве топлива для <link=\"KEROSENEENGINE\">керосинового двигателя</link>.\n\nЭти жидкости можно использовать иначе, например, в качестве удобрения для <link=\"BEANPLANTSEED\">съедобных бобов</link>, однако их основная ценность именно в том, что можно получить <link=\"POWER\">энергию</link> путём сжигания."
+
+STRINGS.MISC.TAGS.COMBUSTIBLESOLID
+"<link=\"COMBUSTIBLESOLID\">Горючее твёрдое вещество</link>"
+
+STRINGS.MISC.TAGS.MASSAGE_TABLE
+"Массажные столы"
+
+STRINGS.MISC.TAGS.PLASTIFIABLELIQUID_DESC
+"Мономеры пластика - это органические соединения, которые могут быть переработаны в <link=\"PLASTIC\">пластик</link>, обладающий ценными свойствами в качестве строительного материала.\n\nПластик, полученный из этих мономеров, также может использоваться как упаковочный материал для сохранения <link=\"FOOD\">пищевых продуктов</link>."
+
+STRINGS.MISC.TAGS.SUIT
+"Костюмы"
+
+STRINGS.MISC.TAGS.TOILET
+"Туалеты"
+
+STRINGS.NAMEGEN.WORLD.ROOTS.CERES
+""
+"Зимн\n"
+"Поляр\n"
+"Мороз\n"
+"Мерзл\n"
+"Ледн\n"
+"Шторм\n"
+"Холод\n"
+"Стуж\n"
+"Вьюг\n"
+"Хлад\n"
+"Крио\n"
+"Снеж\n"
+"Снежн\n"
+"Лёд\n"
+"Чих\n"
+
+STRINGS.NAMEGEN.WORLD.ROOTS.GENERIC
+""
+"Солнц\n"
+"Лун\n"
+"Орб\n"
+"Косм\n"
+"Звездо\n"
+"Зольт\n"
+"Такар\n"
+"Бип\n"
+"Буп\n"
+"Зап\n"
+"Зов\n"
+"Грав\n"
+"Эй\n"
+"Ад\n"
+"Ар\n"
+"Ашк\n"
+"Баббл\n"
+"Бер\n"
+"Бав\n"
+"Бурт\n"
+"Камил\n"
+"Катал\n"
+"Девон\n"
+"Элл\n"
+"Фрэнк\n"
+"Госс\n"
+"Гар\n"
+"Хасс\n"
+"Жан\n"
+"Джош\n"
+"Лейр\n"
+"Лиам\n"
+"Линд\n"
+"Мэй\n"
+"Мэр\n"
+"Макс\n"
+"Мип\n"
+"Мим\n"
+"Неил\n"
+"Ник\n"
+"Нис\n"
+"Отт\n"
+"Рен\n"
+"Ров\n"
+"Руб\n"
+"Стинк\n"
+"Трав\n"
+"Тёрн\n"
+
+STRINGS.NAMEGEN.WORLD.ROOTS.MAGMA
+""
+"Огн\n"
+"Магм\n"
+"Лав\n"
+"Жар\n"
+"Плам\n"
+"Сгор\n"
+
+STRINGS.NAMEGEN.WORLD.ROOTS.RADIOACTIVE
+""
+"Рад\n"
+"Зараз\n"
+"Опасн\n"
+"Токсик\n"
+"Радиац\n"
+"Атом\n"
+"Ядр\n"
+
+STRINGS.NAMEGEN.WORLD.ROOTS.WATER
+""
+"Вод\n"
+"Влаж\n"
+"Мокр\n"
+"Гидр\n"
+"Затоп\n"
+"Ирриг\n"
+"Акв\n"
+
+STRINGS.RESEARCH.MESSAGING.DLC.DLC_CONTENT
+""
+"\n"
+"Контент из DLC: <i>{0}</i>"
+
+STRINGS.RESEARCH.TECHS.FLOWREDIRECTION.DESC
+"Балансируйте на <link=\"ELEMENTSLIQUID\">мокрых</link> вогнутых платформах для улучшения <link=\"MORALE\">морального духа</link>."
+
+STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC
+"Внутренние ракетные подключения для <link=\"ELEMENTSGAS\">газообразных</link> ресурсов."
+
+STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC
+"Внутренние ракетные подключения для <link=\"ELEMENTSLIQUID\">жидких</link> ресурсов."
+
+STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.TOOLTIP
+""
+"{0}: запас энергии исчерпан\n"
+"\n"
+"{0} снова заработает, когда получит новую батарею"
+
+STRINGS.ROOMS.CATEGORY.BIONIC.NAME
+"Бионика"
+
+STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSWASHSTATION\">Средство гигиены</link>, подключённое к водопроводу"
+
+STRINGS.ROOMS.CRITERIA.BEDTYPE.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSBEDTYPE\">Кровати</link>"
+
+STRINGS.ROOMS.CRITERIA.BED_SINGLE.CONFLICT_DESCRIPTION
+"Одна <link=\"BUILDCATEGORYREQUIREMENTCLASSBEDTYPE\">кровать</link>"
+
+STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSBIONICUPKEEP\">Станция бионического обслуживания</link>"
+
+STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.DESCRIPTION
+"Требуется хотя бы одна смазывательная станция и один извлекатель отходов"
+
+STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSBIONICUPKEEP\">Станция бионического обслуживания</link>"
+
+STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSBIONICGUNKEMPTIER\">Извлекатель отходов</link>"
+
+STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.DESCRIPTION
+"Требуется минимум один извлекатель отходов"
+
+STRINGS.ROOMS.CRITERIA.BIONIC_GUNKEMPTIER.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSBIONICGUNKEMPTIER\">Извлекатель отходов</link>"
+
+STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSBIONICLUBRICATION\">Смазывательная станция</link>"
+
+STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.DESCRIPTION
+"Требуется минимум одна <color=#C38802>смазывательная станция</color>"
+
+STRINGS.ROOMS.CRITERIA.BIONIC_LUBRICATION.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSBIONICLUBRICATION\">Смазывательная станция</link>"
+
+STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.CONFLICT_DESCRIPTION
+"Положительный <link=\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\">декор</link>"
+
+STRINGS.ROOMS.CRITERIA.CEILING_HEIGHT.CONFLICT_DESCRIPTION
+"Минимальная высота: {0} кл"
+
+STRINGS.ROOMS.CRITERIA.CLINIC.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSCLINIC\">Медицинское оборудование</link>"
+
+STRINGS.ROOMS.CRITERIA.COOKTOP.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSCOOKTOP\">Кухонное оборудование</link>"
+
+STRINGS.ROOMS.CRITERIA.CREATURERELOCATOR.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSCREATURERELOCATOR\">Пункт доставки</link>"
+
+STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.CONFLICT_DESCRIPTION
+"<link=\"CREATUREFEEDER\">Кормушка</link>"
+
+STRINGS.ROOMS.CRITERIA.DECOR20.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\">Модное украшение</link> (минимум +20)"
+
+STRINGS.ROOMS.CRITERIA.DECORATION.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\">Украшение</link>"
+
+STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\">Украшение</link> ({0} шт.)"
+
+STRINGS.ROOMS.CRITERIA.DESTRESSINGBUILDING.CONFLICT_DESCRIPTION
+"<link=\"MASSAGETABLE\">Массажный стол</link>"
+
+STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.CONFLICT_DESCRIPTION
+"<link=\"FARMSTATION\">Фермерская станция</link>"
+
+STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSFLUSHTOILETTYPE\">Унитаз со смывом</link>"
+
+STRINGS.ROOMS.CRITERIA.FOOD_BOX.CONFLICT_DESCRIPTION
+"Хранение еды"
+
+STRINGS.ROOMS.CRITERIA.GENERATORTYPE.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">Генератор</link>"
+
+STRINGS.ROOMS.CRITERIA.GENERATORTYPE.DESCRIPTION
+"Производит электрическую энергию"
+
+STRINGS.ROOMS.CRITERIA.GENERATORTYPE.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">Генератор</link>"
+
+STRINGS.ROOMS.CRITERIA.HAS_BED.CONFLICT_DESCRIPTION
+"Одна или несколько <link=\"BUILDCATEGORYREQUIREMENTCLASSBEDTYPE\">кроватей</link>"
+
+STRINGS.ROOMS.CRITERIA.HAS_LUXURY_BED.CONFLICT_DESCRIPTION
+"Одна или несколько <link=\"LUXURYBED\">удобных кроватей</link>"
+
+STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">Мощный генератор</link>"
+
+STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.DESCRIPTION
+"Для больших нужд в электроэнергии"
+
+STRINGS.ROOMS.CRITERIA.HEAVYDUTYGENERATORTYPE.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">Мощный генератор</link>"
+
+STRINGS.ROOMS.CRITERIA.INDUSTRIALMACHINERY.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSINDUSTRIALMACHINERY\">Промышленная постройка</link>"
+
+STRINGS.ROOMS.CRITERIA.IS_BACKWALLED.CONFLICT_DESCRIPTION
+"Есть изолированные стены сзади"
+
+STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">Простой генератор</link>"
+
+STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.DESCRIPTION
+"Для обычных нужд в электроэнергии"
+
+STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">Простой генератор</link>"
+
+STRINGS.ROOMS.CRITERIA.LIGHTSOURCE.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSLIGHTSOURCE\">Источник света</link>"
+
+STRINGS.ROOMS.CRITERIA.LUXURYBEDTYPE.CONFLICT_DESCRIPTION
+"Одиночная <link=\"LUXURYBED\">удобная кровать</link>"
+
+STRINGS.ROOMS.CRITERIA.MACHINESHOPTYPE.CONFLICT_DESCRIPTION
+"Механическая станция"
+
+STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.CONFLICT_DESCRIPTION
+"<link=\"MASSAGETABLE\">Массажный стол</link>"
+
+STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.CONFLICT_DESCRIPTION
+"Максимальный размер: {0} кл"
+
+STRINGS.ROOMS.CRITERIA.MESSTABLE.CONFLICT_DESCRIPTION
+"<link=\"DININGTABLE\">Обеденный стол</link>"
+
+STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.CONFLICT_DESCRIPTION
+"<link=\"DININGTABLE\">Обеденные столы</link>"
+
+STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.CONFLICT_DESCRIPTION
+"Минимальный размер: {0} кл"
+
+STRINGS.ROOMS.CRITERIA.NO_COTS.CONFLICT_DESCRIPTION
+"Нет <link=\"BED\">коек</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.CONFLICT_DESCRIPTION
+"Нет <link=\"BUILDCATEGORYREQUIREMENTCLASSINDUSTRIALMACHINERY\">промышленных построек</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_LUXURY_BEDS.CONFLICT_DESCRIPTION
+"Нет <link=\"LUXURYBED\">удобных кроватей</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_MESS_STATION.CONFLICT_DESCRIPTION
+"Нет <link=\"DININGTABLE\">обеденных столов</link>"
+
+STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.CONFLICT_DESCRIPTION
+"Нет <link=\"OUTHOUSE\">сортиров</link>"
+
+STRINGS.ROOMS.CRITERIA.PARK.CONFLICT_DESCRIPTION
+"<link=\"PARKSIGN\">Парковая табличка</link>"
+
+STRINGS.ROOMS.CRITERIA.POWERBUILDING.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSPOWERBUILDING\">Энергетическая постройка</link>"
+
+STRINGS.ROOMS.CRITERIA.POWERBUILDING.DESCRIPTION
+"Энергетические постройки"
+
+STRINGS.ROOMS.CRITERIA.POWERBUILDING.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSPOWERBUILDING\">Энергетическая постройка</link>"
+
+STRINGS.ROOMS.CRITERIA.POWERPLANT.CONFLICT_DESCRIPTION
+"Мощный генератор и минимум две энергетические постройки"
+
+STRINGS.ROOMS.CRITERIA.POWERPLANT.DESCRIPTION
+"Требуется мощный генератор и минимум две энергетические постройки"
+
+STRINGS.ROOMS.CRITERIA.POWERPLANT.NAME
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">Мощный генератор</link>\n"
+"    • Одна или две <link=\"BUILDCATEGORYREQUIREMENTCLASSPOWERBUILDING\">энергетические постройки</link>"
+
+STRINGS.ROOMS.CRITERIA.RANCHSTATIONTYPE.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSRANCHSTATIONTYPE\">Скотоводческая станция</link>"
+
+STRINGS.ROOMS.CRITERIA.RECBUILDING.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSRECBUILDING\">Постройка для отдыха</link>"
+
+STRINGS.ROOMS.CRITERIA.REFRIGERATOR.CONFLICT_DESCRIPTION
+"<link=\"REFRIGERATOR\">Холодильник</link>"
+
+STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSRESEARCHSTATION\">Исследовательская станци</link>"
+
+STRINGS.ROOMS.CRITERIA.ROCKETINTERIOR.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSROCKETINTERIOR\">Оборудование ракеты</link>"
+
+STRINGS.ROOMS.CRITERIA.SCIENCEBUILDING.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSSCIENCEBUILDING\">Научная постройка</link>"
+
+STRINGS.ROOMS.CRITERIA.SCIENCE_BUILDINGS.CONFLICT_DESCRIPTION
+"Две <link=\"BUILDCATEGORYREQUIREMENTCLASSSCIENCEBUILDING\">научные постройки</link>"
+
+STRINGS.ROOMS.CRITERIA.SPICESTATION.CONFLICT_DESCRIPTION
+"<link=\"SPICEGRINDER\">Мельница для специй</link>"
+
+STRINGS.ROOMS.CRITERIA.TOILETTYPE.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\">Унитаз</link>"
+
+STRINGS.ROOMS.CRITERIA.WARMINGSTATION.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSWARMINGSTATION\">Согревающая постройка</link>"
+
+STRINGS.ROOMS.CRITERIA.WASHSTATION.CONFLICT_DESCRIPTION
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSWASHSTATION\">Средство гигиены</link>"
+
+STRINGS.ROOMS.CRITERIA.WILDANIMAL.CONFLICT_DESCRIPTION
+"Дикие животные"
+
+STRINGS.ROOMS.CRITERIA.WILDANIMALS.CONFLICT_DESCRIPTION
+"Больше диких животных"
+
+STRINGS.ROOMS.CRITERIA.WILDPLANT.CONFLICT_DESCRIPTION
+"Два диких растения"
+
+STRINGS.ROOMS.CRITERIA.WILDPLANTS.CONFLICT_DESCRIPTION
+"Четыре диких растения"
+
+STRINGS.ROOMS.TYPES.POWER_PLANT.DESCRIPTION
+""
+"Отличное место для применения дубликантами навыков электроинженера.\n"
+"\n"
+"<color=#C38802>Мощные генераторы</color>, построенные в электростанции, могут быть улучшены <color=#C38802>микрочипами</color> для увеличения производства <link=\"POWER\">энергии</link>."
+
+STRINGS.ROOMS.TYPES.POWER_PLANT.EFFECT
+"- Активирует станцию энергоконтроля и позволяет усиливать <color=#C38802>мощные генераторы</color> микрочипами"
+
+STRINGS.ROOMS.TYPES.POWER_PLANT.TOOLTIP
+"Мощные генераторы, построенные в электростанции, могут быть улучшены микрочипами для увеличения производства энергии"
+
+STRINGS.UI.CHARACTERCONTAINER_APTITUDES_TITLE_TOOLTIP
+""
+"Начальные атрибуты дубликанта определяются их интересами\n"
+"\n"
+"Изученные навыки, связанные с их интересами, дадут дубликантам бонус к моральному духу"
+
+STRINGS.UI.CHARACTERCONTAINER_ARCHETYPESELECT_TOOLTIP
+"Меняет тип дубликанта, который появится при перевыборе"
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_NO_OPTIONS
+"В данный момент нет DLC, которые доступны для смешивания с вашей игрой. Не волнуйтесь, здесь и так много всякой всячины."
+
+STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_DLC_MIXING
+""
+"Контент DLC включает в себя новые постройки, посылки, космические точки интереса, животных, растения и так далее\n"
+"\n"
+"Включение этого параметра позволит добавить новые планетоиды, а также новые биомы вместо некоторых старых. Детали можно настроить в следующих секциях"
+
+STRINGS.UI.FRONTEND.MODESELECTSCREEN.ACTIVE_CONTENT_HEADER
+"Активный контент"
+
+STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.CONFIRM
+"Подтвердить"
+
+STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.ENABLE_QUESTION
+""
+"Включить контент из DLC в это сохранение?\n"
+"\n"
+"Это создаст новую копию этой игры, и её больше нельзя будет загрузить без включённого DLC."
+
+STRINGS.UI.FRONTEND.PAUSE_SCREEN.ALREADY_SAVED
+"<i><color=#CAC8C8>Уже сохранено</color></i>"
+
+STRINGS.UI.SCHEDULESCREEN.SCHEDULE_EDITOR
+"Редактор графиков"
+
+STRINGS.UI.SCHEDULESCREEN.SHIFT_SCHEDULE_LEFT_TOOLTIP
+"Сдвинуть график расписания влево"
+
+STRINGS.UI.SCHEDULESCREEN.SHIFT_SCHEDULE_RIGHT_TOOLTIP
+"Сдвинуть график расписания расписания вправо"
+
+STRINGS.UI.SPACEDESTINATIONS.COMETS.MINICOMET.NAME
+"Мусорный метеорит"
+
+STRINGS.UI.TOOLS.MOVETOLOCATION.NAME
+"Идти"
+
+STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLNAME
+"Идти сюда"
+
+STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY
+"Калорий доступно: <color=#C38802>{0}</color>\nКаждый дубликант потребляет\nза цикл не менее {1}\n"
+
+STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.LIST_TITLE
+"Список дел"
+
+STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANT_TOGGLE_TOOLTIP
+"{0}\n\n{1}\n\nДоступно семян: <b>{2}</b>"
+
+STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME
+"Переместить к"
+
+STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME_OFF
+"Отменить перемещение"
+
+STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP
+"Переместить этот объект в указанное место"
+
+STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP_OFF
+"Отменить перемещение этого объекта"
+
+STRINGS.WORLDS.MINISHATTEREDGEO.DESCRIPTION
+""
+"Расплавленный малый астероид, под поверхностью которого погребён неудачный эксперимент.\n"
+"\n"
+"<smallcaps>Невыносимо высокие температуры ставят безопасность колонии под угрозу, однако здесь можно получить удивительные ресурсы.</smallcaps>"
+
+STRINGS.WORLDS.MINISHATTEREDGEO.NAME
+"Астероид Ядро Цереры"
+
+STRINGS.WORLDS.MINISHATTEREDSTART.DESCRIPTION
+""
+"Побитый осколок небольшого ледяного стартового мира с отрицательными температурами во всех областях.\n"
+"\n"
+"<smallcaps>Выжить на морозных просторах Мантии Цереры — задача не из легких, однако природные источники топлива того стоят.</smallcaps>"
+
+STRINGS.WORLDS.MINISHATTEREDSTART.NAME
+"Астероид Мантия Цереры"
+
+STRINGS.WORLDS.MINISHATTEREDWARP.DESCRIPTION
+""
+"Небольшой заснеженный мир, богатый нефтью и сиропом.\n"
+"\n"
+"<smallcaps>Отрицательные температуры представляют новые трудности, но потенциал для выработки энергии здесь крайне высок.</smallcaps>"
+
+STRINGS.WORLDS.MINISHATTEREDWARP.NAME
+"Астероид Сладкая Церера"
