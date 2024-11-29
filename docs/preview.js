@@ -1,5 +1,95 @@
 db = [
 {
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_BASIC_PURPLE_WILDBERRY.DESC",
+	msgid: `The shoulders are as purple as a paleontologist's prose.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_BASIC_PURPLE_WILDBERRY.NAME",
+	msgid: `Crisp Violet Atmo Suit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_3TONE_PURPLE.DESC",
+	msgid: `Complementary colors garner countless compliments.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_3TONE_PURPLE.NAME",
+	msgid: `Tricolor Atmo Belt`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_CIRCUIT.DESC",
+	msgid: `The buttons almost look like another set of bionic eyes. They're not.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_CIRCUIT.NAME",
+	msgid: `Bionic Atmo Belt`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_BIOCIRCUIT.DESC",
+	msgid: `Eye-catching accents ensure that the wearer knows where their hands are at all times.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_BIOCIRCUIT.NAME",
+	msgid: `Bionic Atmo Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PLUM.DESC",
+	msgid: `Purpley-reddish gloves for hostile environments.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PLUM.NAME",
+	msgid: `Plum Atmo Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_BIOCIRCUIT.DESC",
+	msgid: `Featuring 360-degree panoramic views and cool non-functional neck buttons.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_BIOCIRCUIT.NAME",
+	msgid: `Bionic Atmo Helmet`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_GAUDYSWEATER_PURPLE.DESC",
+	msgid: `Makes facial features appear farther away.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_GAUDYSWEATER_PURPLE.NAME",
+	msgid: `Deepset Atmo Helmet`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BIOCIRCUIT.DESC",
+	msgid: `Standard-issue footwear for...augmented...employees.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BIOCIRCUIT.NAME",
+	msgid: `Bionic Atmo Boots`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.DESC",
+	msgid: `Handcrafted from decommissioned rockets.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.NAME",
+	msgid: `Sculpted Steel Dress`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.DESC",
 	msgid: `It is extremely unlikely to close while someone is inside.`,
 	msgstr: ``,
@@ -22,6 +112,696 @@ db = [
 	msgid: `<link=\\"LUXURYBED\\">Pipsqueak Bed</link>`,
 	msgstr: ``,
 	klei: `<link=\\"LUXURYBED\\">Кровать — детеныш цвирка</link>`,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_WHEEZEWORT.DESC",
+	msgid: `A good, solid pair of blue gloves that go with everything.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_WHEEZEWORT.NAME",
+	msgid: `Basic Wheezy Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_FUTURESPACE_BLUE.DESC",
+	msgid: `One metallic wrist ruffle is fancy. These gloves have two.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_FUTURESPACE_BLUE.NAME",
+	msgid: `Future Chic Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_METAL_GREY.DESC",
+	msgid: `They're constantly covered in fingerprints.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_METAL_GREY.NAME",
+	msgid: `Steel Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_PUFFER_ORANGE.DESC",
+	msgid: `A cozy little orange puffer jacket for every finger.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_PUFFER_ORANGE.NAME",
+	msgid: `Cadmium Jelly Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SNAPJACKET_BRINE.DESC",
+	msgid: `Some adventurers are a little salty, which is to be expected.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_SNAPJACKET_BRINE.NAME",
+	msgid: `Brine Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_VSUIT_STELLAR.DESC",
+	msgid: `Interstellar flights call for truly stellar gloves.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_GLOVES_VSUIT_STELLAR.NAME",
+	msgid: `Stellar Flight Gloves`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_HQBASE_CYBERPUNK.DESC",
+	msgid: `There's something profoundly hopeful about it.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_HQBASE_CYBERPUNK.NAME",
+	msgid: `<link=\\"HEADQUARTERS\\">Retro LED Printing Pod</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_VSUIT_STELLAR.DESC",
+	msgid: `Flatlock seams on the double V accents reduce drag. They also look nice.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_VSUIT_STELLAR.NAME",
+	msgid: `Aerodynamic Flightsuit`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICGATEAND\\">Petal AND Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LEMON.NAME",
+	msgid: `<link=\\"LOGICGATEAND\\">Brightslug AND Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICGATEAND\\">Cobalt AND Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_BOGEY.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_BOGEY.NAME",
+	msgid: `<link=\\"LOGICWIREBRIDGE\\">Mulch Automation Wire Bridge</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICWIREBRIDGE\\">Petal Automation Wire Bridge</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_LEMON.NAME",
+	msgid: `<link=\\"LOGICWIREBRIDGE\\">Brightslug Automation Wire Bridge</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICGATEBUFFER\\">Petal BUFFER Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LEMON.NAME",
+	msgid: `<link=\\"LOGICGATEBUFFER\\">Brightslug BUFFER Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICGATEBUFFER\\">Cobalt BUFFER Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICCOUNTER\\">Petal Signal Counter</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LEMON.NAME",
+	msgid: `<link=\\"LOGICCOUNTER\\">Brightslug Signal Counter</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICCOUNTER\\">Cobalt Signal Counter</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICGATEDEMULTIPLEXER\\">Petal Signal Distributor</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LEMON.NAME",
+	msgid: `<link=\\"LOGICGATEDEMULTIPLEXER\\">Brightslug Signal Distributor</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICGATEDEMULTIPLEXER\\">Cobalt Signal Distributor</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICGATEFILTER\\">Petal FILTER Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LEMON.NAME",
+	msgid: `<link=\\"LOGICGATEFILTER\\">Brightslug FILTER Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICGATEFILTER\\">Cobalt FILTER Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICMEMORY\\">Petal Memory Toggle</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LEMON.NAME",
+	msgid: `<link=\\"LOGICMEMORY\\">Brightslug Memory Toggle</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICMEMORY\\">Cobalt Memory Toggle</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICGATEMULTIPLEXER\\">Petal Signal Selector</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LEMON.NAME",
+	msgid: `<link=\\"LOGICGATEMULTIPLEXER\\">Brightslug Signal Selector</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICGATEMULTIPLEXER\\">Cobalt Signal Selector</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICGATENOT\\">Petal NOT Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LEMON.NAME",
+	msgid: `<link=\\"LOGICGATENOT\\">Brightslug NOT Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICGATENOT\\">Cobalt NOT Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICGATEOR\\">Petal OR Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LEMON.NAME",
+	msgid: `<link=\\"LOGICGATEOR\\">Brightslug OR Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICGATEOR\\">Cobalt OR Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BOGEY.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BOGEY.NAME",
+	msgid: `<link=\\"LOGICRIBBON\\">Mulch Automation Ribbon</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_BOGEY.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_BOGEY.NAME",
+	msgid: `<link=\\"LOGICRIBBONBRIDGE\\">Mulch Automation Ribbon Bridge</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICRIBBONBRIDGE\\">Petal Automation Ribbon Bridge</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_LEMON.NAME",
+	msgid: `<link=\\"LOGICRIBBONBRIDGE\\">Brightslug Automation Ribbon Bridge</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICRIBBON\\">Petal Automation Ribbon</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_LEMON.NAME",
+	msgid: `<link=\\"LOGICRIBBON\\">Brightslug Automation Ribbon</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_BOGEY.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_BOGEY.NAME",
+	msgid: `<link=\\"LOGICWIRE\\">Mulch Automation Wire</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICWIRE\\">Petal Automation Wire</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_LEMON.NAME",
+	msgid: `<link=\\"LOGICWIRE\\">Brightslug Automation Wire</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_FLAMINGO.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_FLAMINGO.NAME",
+	msgid: `<link=\\"LOGICGATEXOR\\">Petal XOR Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LEMON.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LEMON.NAME",
+	msgid: `<link=\\"LOGICGATEXOR\\">Brightslug XOR Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LIGHTCOBALT.DESC",
+	msgid: `Color-coded automation buildings are automatically more interesting.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LIGHTCOBALT.NAME",
+	msgid: `<link=\\"LOGICGATEXOR\\">Cobalt XOR Gate</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PANTS_EXTENDEDWAIST_BLUE_WHEEZEWORT.DESC",
+	msgid: `The built-in invisible elastic waistband supports deep belly breathing.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PANTS_EXTENDEDWAIST_BLUE_WHEEZEWORT.NAME",
+	msgid: `High-Waisted Wheezy Pants`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PANTS_SNAPJACKET_BRINE.DESC",
+	msgid: `Most wearers consider these single-use.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PANTS_SNAPJACKET_BRINE.NAME",
+	msgid: `Tear-Away Pants`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_ARCADE.DESC",
+	msgid: `It's playful, though it can't actually <i>be</i> played.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_ARCADE.NAME",
+	msgid: `<link=\\"ITEMPEDESTAL\\">Arcade Pedestal</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_BATTERY.DESC",
+	msgid: `Items displayed on this pedestal make a really \\"power-full\\" statement.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_BATTERY.NAME",
+	msgid: `<link=\\"ITEMPEDESTAL\\">Power Bank Pedestal</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_BRASS.DESC",
+	msgid: `A display stand with a warm, brassy industrial aesthetic.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_BRASS.NAME",
+	msgid: `<link=\\"ITEMPEDESTAL\\">Brass Pedestal</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_CHROME.DESC",
+	msgid: `A display stand with a cool, steely industrial aesthetic.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_CHROME.NAME",
+	msgid: `<link=\\"ITEMPEDESTAL\\">Chrome Pedestal</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PJ_BIOCIRCUIT_WILDBERRY.DESC",
+	msgid: `This plush onesie soothes workers who feel really wired.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_PJ_BIOCIRCUIT_WILDBERRY.NAME",
+	msgid: `Bionic Jammies`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_RESEARCH_CENTER2_CYBERPUNK.DESC",
+	msgid: `Old-school cool, newfangled fact-finding.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_RESEARCH_CENTER2_CYBERPUNK.NAME",
+	msgid: `<link=\\"ADVANCEDRESEARCHCENTER\\">Retro LED Super Computer</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_RESEARCH_CENTER_CYBERPUNK.DESC",
+	msgid: `Doin' research for the future, while diggin' the vibes of the past.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_RESEARCH_CENTER_CYBERPUNK.NAME",
+	msgid: `<link=\\"RESEARCHCENTER\\">Retro LED Research Station</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SHOES_BASIC_BLUE_WHEEZY.DESC",
+	msgid: `A fresh pair of Wheezewort-blue shoes that go with everything.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SHOES_BASIC_BLUE_WHEEZY.NAME",
+	msgid: `Basic Wheezy Shoes`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SHOES_FUTURESPACE_BLUE.DESC",
+	msgid: `If they're not stylish yet, they will be someday.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SHOES_FUTURESPACE_BLUE.NAME",
+	msgid: `Future Chic Booties`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SHOES_VSUIT_STELLAR.DESC",
+	msgid: `Now with built-in arch support!`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_SHOES_VSUIT_STELLAR.NAME",
+	msgid: `Stellar Flight Boots`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_METAL_GREY.DESC",
+	msgid: `Can also be used as a posture corrector.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_METAL_GREY.NAME",
+	msgid: `All-Metal Jacket`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_SNAPJACKET_BRINE.DESC",
+	msgid: `It's very, <i>very</i> structured.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_SNAPJACKET_BRINE.NAME",
+	msgid: `Starched Blazer`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_SPACETOP_WHITE.DESC",
+	msgid: `Swag from a convention that no one remembers attending.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_SPACETOP_WHITE.NAME",
+	msgid: `Space Expo Shirt`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_VEST_PUFFER_ORANGE.DESC",
+	msgid: `Keeps the core warm, lets the pits breathe.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_TOP_VEST_PUFFER_ORANGE.NAME",
+	msgid: `Cadmium Vest`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_DIAMOND_ORCHID.DESC",
+	msgid: `Color-coded wires make it easy to see which ones to cut...or not cut.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_DIAMOND_ORCHID.NAME",
+	msgid: `<link=\\"WIREREFINEDHIGHWATTAGE\\">Bubblegum Conductive Wire</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_NET_PINK.DESC",
+	msgid: `Color-coded wires make it easy to see which ones to cut...or not cut.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_NET_PINK.NAME",
+	msgid: `<link=\\"WIREREFINEDHIGHWATTAGE\\">Gamma Conductive Wire</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_SCALE_LIME.DESC",
+	msgid: `Color-coded wires make it easy to see which ones to cut...or not cut.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_SCALE_LIME.NAME",
+	msgid: `<link=\\"WIREREFINEDHIGHWATTAGE\\">Leach Conductive Wire</link>`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BUILDING.STATUSITEMS.DATAMINER.PRODUCTIONRATE.NAME",
@@ -71,6 +851,56 @@ db = [
 Требуется освободить место перед следующим использованием`,
 },
 {
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTAUTOPILOTED.NAME",
+	msgid: `Autopilot Engaged`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTAUTOPILOTED.TOOLTIP",
+	msgid: `This rocket's {modules} is inactive\\n\\nThis rocket has entered autopilot mode and will fly at reduced speed\\n    •  -{penalty} speed`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTPILOTED.DUPE_TOOLTIP",
+	msgid: `Piloted by a Duplicant: +{0} speed boost`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTPILOTED.NAME",
+	msgid: `Piloted`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTPILOTED.ROBO_TOOLTIP",
+	msgid: `Piloted by a <style=\\"KKeyword\\">Robo-Pilot</style>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTSUPERPILOT.NAME",
+	msgid: `Multi-Piloted`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTSUPERPILOT.TOOLTIP",
+	msgid: `This rocket is being piloted by a Duplicant and a <style=\\"KKeyword\\">Robo-Pilot</style>\\n    • Multi-Piloted: +{1} speed boost\\n    • Duplicant pilot skill: +{0} speed boost`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTUNPILOTED.NAME",
+	msgid: `Unpiloted`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTUNPILOTED.ROBO_PILOT_ONLY_TOOLTIP",
+	msgid: `<style=\\"KKeyword\\">Robo-Pilot</style> has run out of <style=\\"KKeyword\\">Data Banks</style>\\n\\nRocket is stranded`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.INFLIGHTUNPILOTED.TOOLTIP",
+	msgid: `Inactive rocket module: -{penalty} speed {modules}`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.NAME",
 	msgid: `Assembling Remote Worker`,
 	msgstr: ``,
@@ -95,10 +925,40 @@ db = [
 	klei: `Для функционирования этому строению нужно назначить <style=\\"KKeyword\\">док-станцию удаленного работника</style>`,
 },
 {
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYINGGUNK.NAME",
+	msgid: `Requires Emptying`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYINGGUNK.TOOLTIP",
+	msgid: `This amenity cannot be used while full\\n\\nEmptying it will produce <link=\\"LIQUIDGUNK\\">Gunk</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.UNUSABLEGUNKED.NAME",
+	msgid: `Out of Order: Gunk`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDING.STATUSITEMS.UNUSABLEGUNKED.TOOLTIP",
+	msgid: `Someone dumped <link=\\"LIQUIDGUNK\\">Gunk</link> here instead of in a <link=\\"GUNKEMPTIER\\">Gunk Extractor</link>\\n\\nThis amenity requires maintenance`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.BIONIC_COMPONENT_RECIPE_DESC",
 	msgid: `Converts {0} to {1}`,
 	msgstr: ``,
 	klei: `Перерабатывает: {0} в {1}`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.COLONY_HAS_BOOSTER_ASSIGNED_COUNT",
+	msgid: `<b>My colony already has {0} Duplicant(s) with this booster assigned</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.COLONY_HAS_BOOSTER_ASSIGNED_NONE",
+	msgid: `<b>My colony has no Duplicants with this booster assigned</b>`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.DESC",
@@ -114,6 +974,11 @@ db = [
 Производит продвинутую электронику и бионические <link=\\"BIONICUPGRADE\\">бустеры</link>.\\n
 \\n
 Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь.`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.GENERIC_RECIPE_DESCRIPTION",
+	msgid: `Converts {0} to {1}`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.NAME",
@@ -158,14 +1023,19 @@ db = [
 	klei: `<link=\\"BOTTLEEMPTIERCONDUITLIQUID\\">Откачиватель для бутылок</link>`,
 },
 {
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.RECIPE_DESCRIPTION",
+	msgid: `Converts {0} to {1}`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.DATAMINER.DESC",
-	msgid: `Data banks can also be used to program robo-pilots and bionic boosters.`,
+	msgid: `Data banks can also be used to program robo-pilot rocket modules and bionic boosters.`,
 	msgstr: ``,
 	klei: `С помощью банков данных также можно программировать робопилотов и бионические бустеры.`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.DATAMINER.EFFECT",
-	msgid: `Mass-produces <link=\\"ORBITALRESESARCHDATABANK\\">Data Banks</link> that can be processed into <link=\\"RESEARCH\\">Data Analysis Research</link> points.\\n\\nDuplicants will not fabricate items unless recipes are queued.`,
+	msgid: `Mass-produces <link=\\"DATABANK\\">Data Banks</link> that can be processed into <link=\\"RESEARCH\\">Data Analysis Research</link> points.\\n\\nDuplicants will not fabricate items unless recipes are queued.`,
 	msgstr: ``,
 	klei: `
 Массово производит <link=\\"ORBITALRESESARCHDATABANK\\">банки данных</link>, которые можно переработать в очки <link=\\"RESEARCH\\">исследования анализа данных</link>.\\n
@@ -222,7 +1092,7 @@ db = [
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.LARGEELECTROBANKDISCHARGER.DESC",
-	msgid: `It's a real powerhouse.`,
+	msgid: `It's basically its own power grid.`,
 	msgstr: ``,
 	klei: `Настоящая электростанция.`,
 },
@@ -234,7 +1104,7 @@ db = [
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.LARGEELECTROBANKDISCHARGER.NAME",
-	msgid: `<link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Station</link>`,
+	msgid: `<link=\\"LARGEELECTROBANKDISCHARGER\\">Large Discharger</link>`,
 	msgstr: ``,
 	klei: `<link=\\"LARGEELECTROBANKDISCHARGER\\">Розеточная станция</link>`,
 },
@@ -286,7 +1156,7 @@ db = [
 	msgstr: `
 Производит <link=\\"POWERSTATIONTOOLS\\">микрочипы</link> для увеличения <link=\\"POWER\\">мощности</link> генераторов.\\n
 \\n
-Назначенные дубликанты должны обладать чертой <link=\\"TECHNICALS2\\">Настройка</link>.\\n
+Назначенные дубликанты должны обладать чертой <link=\\"TECHNICALS2\\">Электротехника</link>.\\n
 \\n
 Эта постройка необходима для электростанции.`,
 	klei: `
@@ -315,7 +1185,7 @@ This building is a necessary component of the Power Plant room.`,
 			msgstr: `
 Производит <link=\\"POWERSTATIONTOOLS\\">микрочипы</link> для увеличения <link=\\"POWER\\">мощности</link> генераторов.\\n
 \\n
-Назначенные дубликанты должны обладать чертой <link=\\"TECHNICALS2\\">Настройка</link>.\\n
+Назначенные дубликанты должны обладать чертой <link=\\"TECHNICALS2\\">Электротехника</link>.\\n
 \\n
 Эта постройка необходима для электростанции.`,
 		},
@@ -323,13 +1193,13 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.DESC",
-	msgid: `It's a Duplicant's duplicate.`,
+	msgid: `It's a Duplicant's duplicate's dock.`,
 	msgstr: ``,
 	klei: `Это дубликат дубликанта.`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.EFFECT",
-	msgid: `Carries out machine operation instructions received from a connected <link=\\"REMOTEWORKTERMINAL\\">Remote Controller</link>.\\n\\nMust be placed within range of its target building.`,
+	msgid: `<link=\\"REMOTEWORKERDOCK\\">Remote Worker Docks</link> deploy automatons that operate machinery based on instructions received from a connected <link=\\"REMOTEWORKTERMINAL\\">Remote Controller</link>.\\n\\nMust be placed within range of its target building.`,
 	msgstr: ``,
 	klei: `
 Выполняет инструкции по управлению техникой, которые передаются по подключенному <link=\\"REMOTEWORKTERMINAL\\">пульту удаленного управления</link>.\\n
@@ -341,6 +1211,11 @@ This building is a necessary component of the Power Plant room.`,
 	msgid: `<link=\\"REMOTEWORKERDOCK\\">Remote Worker Dock</link>`,
 	msgstr: ``,
 	klei: `<link=\\"REMOTEWORKERDOCK\\">Док-станция удаленного работника</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.NAME_FMT",
+	msgid: `Dock {ID}`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.REMOTEWORKTERMINAL.DESC",
@@ -404,21 +1279,42 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.SMALLELECTROBANKDISCHARGER.DESC",
-	msgid: `It can also be placed on the ceiling.`,
+	msgid: `A small standalone power center that can be mounted on the floor or wall.`,
 	msgstr: ``,
 	klei: `Можно также разместить на потолке.`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.SMALLELECTROBANKDISCHARGER.EFFECT",
-	msgid: `Converts stored energy from <link=\\"ELECTROBANK\\">Eco Power Banks</link> into power for connected buildings.`,
+	msgid: `Converts stored energy from <link=\\"ELECTROBANK\\">Power Banks</link> into power for connected buildings.`,
 	msgstr: ``,
 	klei: `Перерабатывает энергию, хранящуюся в <link=\\"ELECTROBANK\\">экоблоках энергии</link>, чтобы снабжать подключенные строения.`,
 },
 {
 	msgctxt: "STRINGS.BUILDINGS.PREFABS.SMALLELECTROBANKDISCHARGER.NAME",
-	msgid: `<link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Socket</link>`,
+	msgid: `<link=\\"SMALLELECTROBANKDISCHARGER\\">Compact Discharger</link>`,
 	msgstr: ``,
 	klei: `<link=\\"SMALLELECTROBANKDISCHARGER\\">Настенная розетка</link>`,
+},
+{
+	msgctxt: "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT",
+	msgid: `Forges protective <link=\\"EQUIPMENT\\">Exosuits</link> for Duplicants to wear.\\n\\nDuplicants will not fabricate items unless recipes are queued.`,
+	msgstr: `
+Фабрики производят <link=\\"EXOSUIT\\">экзокостюмы</link> для дубликантов.\\n
+\\n
+Дубликанты не будут производить вещи, если рецепт не выбран.`,
+	klei: `
+Производит защитные <link=\\"EXOSUIT\\">экзокостюмы</link> для дубликантов.\\n
+\\n
+Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь.`,
+	mem: [
+		{
+			msgid: `Forges protective <link=\\"EXOSUIT\\">Exosuits</link> for Duplicants to wear.\\n\\nDuplicants will not fabricate items unless recipes are queued.`,
+			msgstr: `
+Фабрики производят <link=\\"EXOSUIT\\">экзокостюмы</link> для дубликантов.\\n
+\\n
+Дубликанты не будут производить вещи, если рецепт не выбран.`,
+		},
+	],
 },
 {
 	msgctxt: "STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_SHATTERED_CLUSTER.DESCRIPTION",
@@ -431,6 +1327,51 @@ This building is a necessary component of the Power Plant room.`,
 	msgid: `Mini Cluster - Ceres Mantle`,
 	msgstr: ``,
 	klei: `Малое скопление: Мантия Цереры`,
+},
+{
+	msgctxt: "STRINGS.CODEX.BIONICBOOSTER.BODY.CONTAINER1",
+	msgid: `Boosters are programming modules designed to improve and expand Bionic Duplicants' abilities.\\n\\nBoosters consume a significant amount of processing power during access and implementation. Bionic Duplicants can expand their capacity for booster installation by accumulating skill points.\\n\\nBoosters can be combined to grant a broader range of skills, as well as to counteract bionic bugs that may have exist in the worker's original programming.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.BIONICBOOSTER.SUBTITLE",
+	msgid: `Bionic Systems`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.BIONICBOOSTER.TITLE",
+	msgid: `Boosters`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.CONTAINER1",
+	msgid: `An adorable little exoskeleton discarded by a baby aquatic critter.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.SUBTITLE",
+	msgid: `Critter Byproduct`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.TITLE",
+	msgid: `Small Pokeshell Molt`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.CRAB_SHELL.CONTAINER1",
+	msgid: `An exoskeleton discarded by an aquatic critter.\\n\\n`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.CRAB_SHELL.SUBTITLE",
+	msgid: `Critter Byproduct`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.CRAB_SHELL.TITLE",
+	msgid: `Pokeshell Molt`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CODEX.DATABANK.BODY.CONTAINER1",
@@ -479,6 +1420,21 @@ This building is a necessary component of the Power Plant room.`,
 Результирующее значение после размещения <link=\\"MICROBEMUSHER\\">микробного преобразователя</link> рядом с <link=\\"PRICKLEGRASS\\">ложным шиповником</link> станет равным 10`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.CODEX.EGG_SHELL.BODY.CONTAINER1",
+	msgid: `The shards left over from the protective walls of a baby critter's first home.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.EGG_SHELL.SUBTITLE",
+	msgid: `Critter Byproduct`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.EGG_SHELL.TITLE",
+	msgid: `Egg Shell`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CODEX.ELECTROBANK.BODY.CONTAINER1",
@@ -766,6 +1722,21 @@ This building is a necessary component of the Power Plant room.`,
 	],
 },
 {
+	msgctxt: "STRINGS.CODEX.POWER_STATION_TOOLS.BODY.CONTAINER1",
+	msgid: `Microchips are engineered tools containing countless lines of proprietary code. New applications are still being discovered.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.POWER_STATION_TOOLS.SUBTITLE",
+	msgid: `Specialized Equipment`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.POWER_STATION_TOOLS.TITLE",
+	msgid: `Microchips`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.DESCRIPTION",
 	msgid: `Buildings that keep Bionic Duplicants' complex inner machinery operating smoothly.`,
 	msgstr: ``,
@@ -773,7 +1744,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.ROOMSREQUIRING",
-	msgid: `    • <link=\\"BIONIC\\">Workshop</link>`,
+	msgid: `    • <link=\\"ROOMBIONICUPKEEP\\">Bionics Depot</link>`,
 	msgstr: ``,
 	klei: `    • <link=\\"BIONIC\\">Мастерская</link>`,
 },
@@ -814,13 +1785,58 @@ This building is a necessary component of the Power Plant room.`,
 	msgstr: ``,
 },
 {
+	msgctxt: "STRINGS.CODEX.VARIANT_GOLD.BODY.CONTAINER1",
+	msgid: `Heavy was the head that wore this crest, until it was relieved of its burden by a helpful Duplicant.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.VARIANT_GOLD.SUBTITLE",
+	msgid: `Critter Byproduct`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.VARIANT_GOLD.TITLE",
+	msgid: `Regal Bammoth Crest`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.VARIANT_WOOD_SHELL.BABY_VARIANT_WOOD_SHELL.CONTAINER1",
+	msgid: `A cute little splintery exoskeleton discarded by a baby aquatic critter.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.VARIANT_WOOD_SHELL.BABY_VARIANT_WOOD_SHELL.SUBTITLE",
+	msgid: `Critter Byproduct`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.VARIANT_WOOD_SHELL.BABY_VARIANT_WOOD_SHELL.TITLE",
+	msgid: `Small Oakshell Molt`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.VARIANT_WOOD_SHELL.CONTAINER1",
+	msgid: `A splintery exoskeleton discarded by an aquatic critter.\\n\\n`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.VARIANT_WOOD_SHELL.SUBTITLE",
+	msgid: `Critter Byproduct`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.CODEX.VARIANT_WOOD_SHELL.TITLE",
+	msgid: `Oakshell Molt`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.CREATURES.MODIFIERS.GOLDBELLYWELLFED.NAME",
 	msgid: `Regal Meal`,
 	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.CREATURES.MODIFIERS.GOLDBELLYWELLFED.TOOLTIP",
-	msgid: `This critter's recent meal is boosting their crest growth`,
+	msgid: `This critter's recent meal is boosting their <style=\\"KKeyword\\">Regal Bammoth Crest</style> growth`,
 	msgstr: ``,
 },
 {
@@ -971,37 +1987,57 @@ This building is a necessary component of the Power Plant room.`,
 	],
 },
 {
+	msgctxt: "STRINGS.CREATURES.STATS.VIABILITY.TOOLTIP",
+	msgid: `Eggs will lose <style=\\"KKeyword\\">Viability</style> over time when exposed to poor environmental conditions\\n\\nAt 0% <style=\\"KKeyword\\">Viability</style> a critter egg will crack and produce a <link=\\"RAWEGG\\">Raw Egg</link> and <link=\\"EGGSHELL\\">Egg Shell</link>`,
+	msgstr: `
+Яйца теряют <color=#C38802>жизнеспособность</color> в плохих условиях окружающей среды\\n
+\\n
+При 0% <color=#C38802>жизнеспособности</color> яйцо станет «расколотым», из него никто не вылупится, и выпадет <link=\\"RAWEGG\\">сырое яйцо</link> и яичная скорлупа`,
+	klei: `
+В плохих условиях окружающей среды яйца будут терять <style=\\"KKeyword\\">жизнеспособность</style>\\n
+\\n
+Когда <style=\\"KKeyword\\">жизнеспособность</style> достигает 0%, яйцо трескается. Побочные продукты: <link=\\"RAWEGG\\">сырое яйцо</link> и яичная скорлупа`,
+	mem: [
+		{
+			msgid: `Eggs will lose <style=\\"KKeyword\\">Viability</style> over time when exposed to poor environmental conditions\\n\\nAt 0% <style=\\"KKeyword\\">Viability</style> a critter egg will crack and produce a <link=\\"RAWEGG\\">Raw Egg</link> and Egg Shell`,
+			msgstr: `
+Яйца теряют <color=#C38802>жизнеспособность</color> в плохих условиях окружающей среды\\n
+\\n
+При 0% <color=#C38802>жизнеспособности</color> яйцо станет «расколотым», из него никто не вылупится, и выпадет <link=\\"RAWEGG\\">сырое яйцо</link> и яичная скорлупа`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBATTERYCOUNTCAPACITY.DESC",
+	msgid: `Increases the number of power banks a Bionic duplicant has.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBATTERYCOUNTCAPACITY.NAME",
+	msgid: `Power Banks`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBOOSTERSLOTS.DESC",
+	msgid: `Increases the number of boosters that can be installed.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBOOSTERSLOTS.NAME",
+	msgid: `Booster Slot`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.BIONICOILDELTA.DESC",
-	msgid: `Determines how quickly a Duplicant's bionic parts gains or reduces <style=\\"KKeyword\\">Oil</style>`,
+	msgid: `Determines how quickly a Duplicant's bionic parts lose <style=\\"KKeyword\\">Gear Oil</style>`,
 	msgstr: ``,
 	klei: `Скорость, с которой бионические детали дубликанта восполняют и расходуют <style=\\"KKeyword\\">масло</style>.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.ATTRIBUTES.BIONICOILDELTA.NAME",
-	msgid: `Oil`,
+	msgid: `Gear Oil`,
 	msgstr: ``,
 	klei: `Масло`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.CHORES.BEBATTERYSAVEMODE.NAME",
-	msgid: `Standby Mode`,
-	msgstr: ``,
-	klei: `Режим простоя`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.CHORES.BEBATTERYSAVEMODE.STATUS",
-	msgid: `Standby Mode`,
-	msgstr: ``,
-	klei: `Режим простоя`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.CHORES.BEBATTERYSAVEMODE.TOOLTIP",
-	msgid: `This Duplicant is resting\\n\\nTheir <style=\\"KKeyword\\">Power</style> consumption is at a minimum`,
-	msgstr: ``,
-	klei: `
-Этот дубликант отдыхает\\n
-\\n
-Его потребление <style=\\"KKeyword\\">энергии</style> минимально`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.CHORES.BEOFFLINE.NAME",
@@ -1029,7 +2065,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.CHORES.BIONICABSORBOXYGEN.STATUS",
-	msgid: `Refilling oxygen tank`,
+	msgid: `Refilling oxygen tank: {0} O<sub>2</sub>`,
 	msgstr: ``,
 	klei: `Пополняет кислородный баллон`,
 },
@@ -1040,14 +2076,29 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `Бионические дубликанты автоматически восполняют <style=\\"KKeyword\\">кислород</style> во встроенных баллонах, когда его уровень опускается`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.BIONICBEDTIMEMODE.NAME",
+	msgid: `Defragment`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.BIONICBEDTIMEMODE.STATUS",
+	msgid: `Defragmenting`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.BIONICBEDTIMEMODE.TOOLTIP",
+	msgid: `This Duplicant is reorganizing their data cache during bedtime`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.CHORES.EXPELLGUNK.NAME",
-	msgid: `Expel Liquid Gunk`,
+	msgid: `Expel Gunk`,
 	msgstr: ``,
 	klei: `Вывод жидких отходов`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.CHORES.EXPELLGUNK.STATUS",
-	msgid: `Expelling liquid gunk`,
+	msgid: `Expelling gunk`,
 	msgstr: ``,
 	klei: `Выводит жидкие отходы`,
 },
@@ -1092,6 +2143,11 @@ This building is a necessary component of the Power Plant room.`,
 	msgid: `This Duplicant is making sure their internal mechanisms stay lubricated`,
 	msgstr: ``,
 	klei: `Этот дубликант заботится о своих механизмах`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_FETCH_DRONE_COMPLETE_FETCH",
+	msgid: `Flydo cannot complete chore`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_A_BIONIC",
@@ -1295,127 +2351,14 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `Вид: `,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICAGRICULTUREBOOST.NAME",
-	msgid: `Agriculture Boost`,
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICBEDTIMEEFFECT.NAME",
+	msgid: `Defragmenting`,
 	msgstr: ``,
-	klei: `Агрономическое усиление`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICAGRICULTUREBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased agricultural skills thanks to the <style=\\"KKeyword\\">Farming Booster</style> they have installed`,
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICBEDTIMEEFFECT.TOOLTIP",
+	msgid: `This Duplicant is decluttering their internal data cache\\n\\nIt's helping them relax`,
 	msgstr: ``,
-	klei: `Навыки земледелия этого дубликанта улучшились благодаря <style=\\"KKeyword\\">бустеру земледелия</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICATHLETICSBOOST.NAME",
-	msgid: `Athletics Boost`,
-	msgstr: ``,
-	klei: `Спортивное усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICATHLETICSBOOST.TOOLTIP",
-	msgid: `This Duplicant has extra zip in their step thanks to the <style=\\"KKeyword\\">Athletics Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Этот дубликант отличается особой прытью благодаря <style=\\"KKeyword\\">спортивному бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICBATTERYSAVEMODE.NAME",
-	msgid: `Peaceful Processing`,
-	msgstr: ``,
-	klei: `Медитативная обработка данных`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICBATTERYSAVEMODE.TOOLTIP",
-	msgid: `This Duplicant is enjoying a reprieve from the demands of high-wattage life\\n\\n<style=\\"KKeyword\\">Stress</style> is reduced while in Standby Mode`,
-	msgstr: ``,
-	klei: `
-Этот дубликант наслаждается перерывом от сложных энергозатратных задач\\n
-\\n
-В режиме простоя снижается уровень <style=\\"KKeyword\\">стресса</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICCONSTRUCTIONBOOST.NAME",
-	msgid: `Construction Boost`,
-	msgstr: ``,
-	klei: `Строительное усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICCONSTRUCTIONBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased construction skills thanks to the <style=\\"KKeyword\\">Building Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Строительные навыки этого дубликанта улучшились благодаря <style=\\"KKeyword\\">строительному бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICCOOKINGBOOST.NAME",
-	msgid: `Cuisine Boost`,
-	msgstr: ``,
-	klei: `Поварское усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICCOOKINGBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased culinary skills thanks to the <style=\\"KKeyword\\">Cooking Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Кулинарные навыки этого дубликанта улучшились благодаря <style=\\"KKeyword\\">поварскому бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICCREATIVITYBOOST.NAME",
-	msgid: `Creativity Boost`,
-	msgstr: ``,
-	klei: `Творческое усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICCREATIVITYBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased decorating skills thanks to the <style=\\"KKeyword\\">Creativity Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Навыки декорирования этого дубликанта улучшились благодаря <style=\\"KKeyword\\">творческому бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICEXCAVATIONBOOST.NAME",
-	msgid: `Excavation Boost`,
-	msgstr: ``,
-	klei: `Раскопочное усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICEXCAVATIONBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased excavation skills thanks to the <style=\\"KKeyword\\">Digging Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Навыки рытья этого дубликанта улучшились благодаря <style=\\"KKeyword\\">раскопочному бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICHUSBANDRYBOOST.NAME",
-	msgid: `Husbandry Boost`,
-	msgstr: ``,
-	klei: `Животноводческое усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICHUSBANDRYBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased critter husbandry skills thanks to the <style=\\"KKeyword\\">Ranching Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Навыки животноводства этого дубликанта улучшились благодаря <style=\\"KKeyword\\">животноводческому бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICMACHINERYBOOST.NAME",
-	msgid: `Machinery Boost`,
-	msgstr: ``,
-	klei: `Техническое усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICMACHINERYBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased machine operating skills thanks to the <style=\\"KKeyword\\">Operating Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Технические навыки этого дубликанта улучшились благодаря <style=\\"KKeyword\\">техническому бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICMEDICINEBOOST.NAME",
-	msgid: `Medicine Boost`,
-	msgstr: ``,
-	klei: `Медицинское усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICMEDICINEBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased medical skills thanks to the <style=\\"KKeyword\\">Doctoring Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Медицинские навыки этого дубликанта улучшились благодаря <style=\\"KKeyword\\">бустеру врачевания</style>`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICOFFLINE.NAME",
@@ -1433,40 +2376,14 @@ This building is a necessary component of the Power Plant room.`,
 Его можно оживить с помощью заряженного <style=\\"KKeyword\\">блока энергии</style> и перезагрузки систем`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICPILOTINGBOOST.NAME",
-	msgid: `Piloting Boost`,
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICWATERSTRESS.NAME",
+	msgid: `Liquid Exposure`,
 	msgstr: ``,
-	klei: `Усиление пилотирования`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICPILOTINGBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased rocket piloting skills thanks to the <style=\\"KKeyword\\">Rocketry Booster</style> they have installed`,
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICWATERSTRESS.TOOLTIP",
+	msgid: `This Duplicant's bionic parts are currently in contact with incompatible <style=\\"KKeyword\\">Liquids</style>\\n\\nProlonged exposure could have serious <style=\\"KKeyword\\">Stress</style> consequences`,
 	msgstr: ``,
-	klei: `Навыки пилотирования ракеты этого дубликанта улучшились благодаря <style=\\"KKeyword\\">ракетному бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICSCIENCEBOOST.NAME",
-	msgid: `Science Boost`,
-	msgstr: ``,
-	klei: `Научное усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICSCIENCEBOOST.TOOLTIP",
-	msgid: `This Duplicant has increased scientific research skills thanks to the <style=\\"KKeyword\\">Researching Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Исследовательские навыки этого дубликанта улучшились благодаря <style=\\"KKeyword\\">научному бустеру</style>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICSTRENGTHBOOST.NAME",
-	msgid: `Strength Boost`,
-	msgstr: ``,
-	klei: `Физическое усиление`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONICSTRENGTHBOOST.TOOLTIP",
-	msgid: `This Duplicant is extra strong thanks to the <style=\\"KKeyword\\">Strength Booster</style> they have installed`,
-	msgstr: ``,
-	klei: `Этот дубликант отличается особой силой благодаря <style=\\"KKeyword\\">физическому бустеру</style>`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.BASE_NAME",
@@ -1475,28 +2392,10 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `Базовая мощность`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.CURRENT_WATTAGE_TOOLTIP_LABEL",
-	msgid: `Current Wattage: {0}`,
-	msgstr: ``,
-	klei: `Текущая мощность: {0}`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.ESTIMATED_LIFE_TIME_REMAINING",
-	msgid: `Estimated <style=\\"KKeyword\\">Power Bank</style> lifetime remaining: {0}`,
-	msgstr: ``,
-	klei: `Предположительно, этот <style=\\"KKeyword\\">блок энергии</style> прослужит еще {0}`,
-},
-{
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.NAME",
 	msgid: `Wattage`,
 	msgstr: ``,
 	klei: `Мощность`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.POTENTIAL_EXTRA_WATTAGE_TOOLTIP_LABEL",
-	msgid: `Potential Wattage: {0}`,
-	msgstr: ``,
-	klei: `Потенциальная мощность: {0}`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.SAVING_MODE_NAME",
@@ -1505,37 +2404,64 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `Режим простоя`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.SAVING_MODE_TEMPLATE",
-	msgid: `{0} ({1}): {2}`,
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.CURRENT_WATTAGE_LABEL",
+	msgid: `Current Wattage: {0}`,
 	msgstr: ``,
-	klei: `{0} ({1}): {2}`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.STANDARD_ACTIVE_TEMPLATE",
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ELECTROBANK_DETAILS_LABEL",
+	msgid: `Total Electrobanks {0} / {1}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ELECTROBANK_EMPTY_ROW",
+	msgid: `{0} Empty`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ELECTROBANK_ROW",
+	msgid: `{0} {1}: {2}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ESTIMATED_LIFE_TIME_REMAINING",
+	msgid: `Estimated <style=\\"KKeyword\\">Power Bank</style> charge remaining: {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.POTENTIAL_EXTRA_WATTAGE_LABEL",
+	msgid: `Potential Wattage: {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.STANDARD_ACTIVE_TEMPLATE",
 	msgid: `{0}: {1}`,
 	msgstr: ``,
-	klei: `{0}: {1}`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.STANDARD_INACTIVE_TEMPLATE",
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.STANDARD_INACTIVE_TEMPLATE",
 	msgid: `{0}: {1}`,
 	msgstr: ``,
-	klei: `{0}: {1}`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.CLOGGINGTOILET.NAME",
-	msgid: `Clogging a toilet`,
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BREAKX.NAME",
+	msgid: `{0} Shift Break`,
 	msgstr: ``,
-	klei: `Создает засор в туалете`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.CLOGGINGTOILET.TOOLTIP",
-	msgid: `This Duplicant is clogging a toilet with <style=\\"KKeyword\\">Liquid Gunk</style>\\n\\nThey really should have used a <style=\\"KKeyword\\">Gunk Extractor</style>`,
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BREAKX_BIONIC.NAME",
+	msgid: `{0} Shift Break (Bionic)`,
 	msgstr: ``,
-	klei: `
-Этот дубликант забивает слив <style=\\"KKeyword\\">жидкими отходами</style>\\n
-\\n
-Следовало раньше воспользоваться <style=\\"KKeyword\\">извлекателем отходов</style>`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BREAK_BONUS.MAX_NAME",
+	msgid: `Max Downtime Bonus`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.BREAK_BONUS.NAME",
+	msgid: `Downtime Bonus`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.EXPELLINGGUNK.NAME",
@@ -1569,7 +2495,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.GUNKHUNGOVER.TOOLTIP",
-	msgid: `This Duplicant recently expelled built-up <style=\\"KKeyword\\">Liquid Gunk</style> and can still taste it`,
+	msgid: `This Duplicant recently expelled built-up <style=\\"KKeyword\\">Gunk</style> and can still taste it`,
 	msgstr: ``,
 	klei: `Этот дубликант недавно избавился от накопившихся <style=\\"KKeyword\\">жидких отходов</style> и до сих пор чувствует их вкус`,
 },
@@ -1604,29 +2530,34 @@ This building is a necessary component of the Power Plant room.`,
 Настоящий флешмоб из одного участника!`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATION.NAME",
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATIONMAJOR.NAME",
 	msgid: `Grinding Gears`,
 	msgstr: ``,
-	klei: `Скрип шестерней`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATION.TOOLTIP",
-	msgid: `This Duplicant's out of <style=\\"KKeyword\\">Oil</style> and cannot function properly\\n\\nThey need to visit a <style=\\"KKeyword\\">Lubrication Station</style> as soon as possible`,
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATIONMAJOR.TOOLTIP",
+	msgid: `This Duplicant's out of <style=\\"KKeyword\\">Gear Oil</style> and cannot function properly\\n\\nThey need to find <style=\\"KKeyword\\">Gear Balm</style> or visit a <style=\\"KKeyword\\">Lubrication Station</style> as soon as possible`,
 	msgstr: ``,
-	klei: `
-У этого дубликанта закончилось <style=\\"KKeyword\\">масло</style>, и он не может работать\\n
-\\n
-Ему нужно как можно скорее посетить <style=\\"KKeyword\\">смазывательную станцию</style>`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATIONMINOR.NAME",
+	msgid: `Grinding Gears (Reduced)`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATIONMINOR.TOOLTIP",
+	msgid: `This Duplicant's out of <style=\\"KKeyword\\">Gear Oil</style> and cannot function properly\\n\\nThey need to find <style=\\"KKeyword\\">Gear Balm</style> or visit a <style=\\"KKeyword\\">Lubrication Station</style> as soon as possible`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.ROOMBIONICUPKEEP.NAME",
-	msgid: `Workshop`,
+	msgid: `Bionics Depot`,
 	msgstr: ``,
 	klei: `Мастерская`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.ROOMBIONICUPKEEP.TOOLTIP",
-	msgid: `This Duplicant used a <link=\\"GUNKEMPTIER\\">Gunk Extractor</link> in a <style=\\"KKeyword\\">Workshop</style>`,
+	msgid: `This Duplicant used a <link=\\"GUNKEMPTIER\\">Gunk Extractor</link> in a <style=\\"KKeyword\\">Bionics Depot</style>`,
 	msgstr: ``,
 	klei: `Этот дубликант воспользовался <link=\\"GUNKEMPTIER\\">извлекателем отходов</link> в <style=\\"KKeyword\\">мастерской</style>`,
 },
@@ -1680,21 +2611,6 @@ This building is a necessary component of the Power Plant room.`,
 	msgid: `This Duplicant is wailing at the top of their lungs as a result of <style=\\"KKeyword\\">Stress</style>`,
 	msgstr: ``,
 	klei: `Из-за <style=\\"KKeyword\\">стресса</style> этот дубликант вопит что есть мочи`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WATERDAMAGE.NAME",
-	msgid: `Liquid Damage`,
-	msgstr: ``,
-	klei: `Повреждение от жидкости`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.MODIFIERS.WATERDAMAGE.TOOLTIP",
-	msgid: `This Duplicant's bionic parts recently came into contact with incompatible <style=\\"KKeyword\\">Liquids</style>\\n\\nProlonged exposure could have serious <style=\\"KKeyword\\">Health</style> consequences`,
-	msgstr: ``,
-	klei: `
-Бионические детали этого дубликанта пострадали от контакта с несовместимыми <style=\\"KKeyword\\">жидкостями</style>\\n
-\\n
-Их длительное воздействие может серьезно сказаться на <style=\\"KKeyword\\">здоровье</style> дубликанта`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.PERSONALITIES.CHIP.DESC",
@@ -1758,7 +2674,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.PERSONALITIES.ULTI.DESC",
-	msgid: `The only dance move this {0} knows is The Robot.`,
+	msgid: `This {0}'s favorite dance move is The Robot. They don't get why others think that's funny.`,
 	msgstr: ``,
 	klei: `{0} знает только один танец — танец робота.`,
 },
@@ -1769,6 +2685,96 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `Ульти`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_A1.DESCRIPTION",
+	msgid: `Allows Bionic Duplicants to install an additional booster.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_A1.NAME",
+	msgid: `<link=\\"BIONICSA1\\">Booster Processing I</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_A2.DESCRIPTION",
+	msgid: `Allows Bionic Duplicants to install an additional booster, and increases runspeed.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_A2.NAME",
+	msgid: `<link=\\"BIONICSA2\\">Booster Processing II</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_A3.DESCRIPTION",
+	msgid: `Allows Bionic Duplicants to install an additional booster, and reduces the runspeed loss experienced while wearing exosuits.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_A3.NAME",
+	msgid: `<link=\\"BIONICSA3\\">Complex Processing</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_B1.DESCRIPTION",
+	msgid: `Significantly reduces the negative impacts of low <link=\\"GEAROIL\\">Gear Oil</link>.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_B1.NAME",
+	msgid: `<link=\\"BIONICSB1\\">Improved Gears I</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_B2.DESCRIPTION",
+	msgid: `Allows Bionic Duplicants to install an additional booster.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_B2.NAME",
+	msgid: `<link=\\"BIONICSB2\\">Improved Gears II</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_B3.DESCRIPTION",
+	msgid: `Allows Bionic Duplicants to install an additional booster, and eliminates the runspeed loss experienced while wearing exosuits.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_B3.NAME",
+	msgid: `<link=\\"BIONICSB3\\">Top Gear</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_C1.DESCRIPTION",
+	msgid: `Allows Bionic Duplicants to perform research using a <link=\\"ADVANCEDRESEARCHCENTER\\">Super Computer</link>, and craft items at the <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_C1.NAME",
+	msgid: `<link=\\"BIONICSC1\\">Schematics</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_C2.DESCRIPTION",
+	msgid: `Allows Bionic Duplicants to install an additional booster and increase their runspeed.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_C2.NAME",
+	msgid: `<link=\\"BIONICSC2\\">Advanced Schematics</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_C3.DESCRIPTION",
+	msgid: `Increases <link=\\"ELECTROBANK\\">Power Bank</link> storage capacity to maximize work time between replacements.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.ROLES.BIONICS_C3.NAME",
+	msgid: `<link=\\"BIONICSC3\\">Power Banking</link>`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.STATS.BIONICGUNK.NAME",
 	msgid: `Gunk`,
 	msgstr: ``,
@@ -1776,7 +2782,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATS.BIONICGUNK.TOOLTIP",
-	msgid: `Bionic Duplicants become <style=\\"KKeyword\\">Stressed</style> when too much <style=\\"KKeyword\\">Liquid Gunk</style> builds up in their bionic parts\\n\\nRegular visits to the <style=\\"KKeyword\\">Gunk Extractor</style> are required`,
+	msgid: `Bionic Duplicants become <style=\\"KKeyword\\">Stressed</style> when too much <style=\\"KKeyword\\">Gunk</style> builds up in their bionic parts\\n\\nRegular visits to the <style=\\"KKeyword\\">Gunk Extractor</style> are required`,
 	msgstr: ``,
 	klei: `
 Бионические дубликанты подвергаются <style=\\"KKeyword\\">стрессу</style>, если в их деталях скапливается слишком много <style=\\"KKeyword\\">жидких отходов</style>\\n
@@ -1797,13 +2803,13 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATS.BIONICOIL.NAME",
-	msgid: `Oil`,
+	msgid: `Gear Oil`,
 	msgstr: ``,
 	klei: `Масло`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATS.BIONICOIL.TOOLTIP",
-	msgid: `Bionic Duplicants will slow down significantly when <style=\\"KKeyword\\">Oil</style> levels reach zero\\n\\nDuplicants can obtain <style=\\"KKeyword\\">Phyto Oil</style> or <style=\\"KKeyword\\">Crude Oil</style> at the <style=\\"KKeyword\\">Lubrication Station</style>`,
+	msgid: `Bionic Duplicants will slow down significantly when <style=\\"KKeyword\\">Gear Oil</style> levels reach zero\\n\\nThey can oil their joints by visiting a <style=\\"KKeyword\\">Lubrication Station</style> or using <style=\\"KKeyword\\">Gear Balm</style> `,
 	msgstr: ``,
 	klei: `
 Бионические дубликанты сильно замедляются, когда у них кончается <style=\\"KKeyword\\">масло</style>\\n
@@ -1821,6 +2827,21 @@ This building is a necessary component of the Power Plant room.`,
 	msgid: `Bionic Duplicants have internal <style=\\"KKeyword\\">Oxygen</style> tanks that enable them to work in low breathability areas`,
 	msgstr: ``,
 	klei: `У бионических дубликантов есть внутренние <style=\\"KKeyword\\">кислородные</style> баллоны, которые позволяют им работать в зонах, непригодных для дыхания`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP_GERM_DETAIL",
+	msgid: ` - {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP_MASS_LINE",
+	msgid: `Current mass: {0} / {1}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP_MASS_ROW_DETAIL",
+	msgid: `    • {0}: {1}{2}`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.BIONICBEINGREBOOTED.NAME",
@@ -1889,6 +2910,16 @@ This building is a necessary component of the Power Plant room.`,
 Когда завершится сканирование, он обнаружит новый гейзер`,
 },
 {
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.BIONICMICROCHIPGENERATION.NAME",
+	msgid: `Programming Microchip {0}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.BIONICMICROCHIPGENERATION.TOOLTIP",
+	msgid: `This Duplicant is programming a microchip for use in <style=\\"KKeyword\\">Booster</style> production\\n\\nBionic Duplicants will program microchips while defragmenting\\n\\nThey will produce 1 microchip every {0}`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.BIONICOFFLINEINCAPACITATED.NAME",
 	msgid: `Incapacitated: Powerless`,
 	msgstr: ``,
@@ -1947,15 +2978,35 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.BIONICWANTSOILCHANGE.NAME",
-	msgid: `Low Oil`,
+	msgid: `Low Gear Oil`,
 	msgstr: ``,
 	klei: `Низкий уровень масла`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.BIONICWANTSOILCHANGE.TOOLTIP",
-	msgid: `This Duplicant is almost out of <style=\\"KKeyword\\">Oil</style> and needs to visit a <style=\\"KKeyword\\">Lubrication Station</style>`,
+	msgid: `This Duplicant is almost out of <style=\\"KKeyword\\">Gear Oil</style>\\n\\nThey need to find <style=\\"KKeyword\\">Gear Balm</style> or visit a <style=\\"KKeyword\\">Lubrication Station</style>`,
 	msgstr: ``,
 	klei: `У этого дубликанта почти закончилось <style=\\"KKeyword\\">масло</style>. Ему нужно посетить <style=\\"KKeyword\\">смазывательную станцию</style>`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2BIONIC.NAME",
+	msgid: `Oxygen Tank: {ConsumptionRate} O<sub>2</sub>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2BIONIC.TOOLTIP",
+	msgid: `Bionic Duplicants are fitted with internal <link=\\"OXYGEN\\">Oxygen</link> tanks`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.CLOGGINGTOILET.NAME",
+	msgid: `Clogging a toilet`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.CLOGGINGTOILET.TOOLTIP",
+	msgid: `This Duplicant is clogging a toilet with <style=\\"KKeyword\\">Gunk</style>\\n\\nThey couldn't get to a <style=\\"KKeyword\\">Gunk Extractor</style> in time`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.DATARAINERPLANNING.NAME",
@@ -2031,7 +3082,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.FULLGUNK.NAME",
-	msgid: `Full of Gunk`,
+	msgid: `Gunk Clogged`,
 	msgstr: ``,
 	klei: `Слишком много отходов`,
 },
@@ -2046,25 +3097,25 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.HIGHGUNK.NAME",
-	msgid: `Gunk Clogged`,
+	msgid: `Gunk Buildup`,
 	msgstr: ``,
 	klei: `Застоявшиеся отходы`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.HIGHGUNK.TOOLTIP",
-	msgid: `This remote worker will dock to remove <style=\\"KKeyword\\">Gunk</style> buildup before accepting new chores`,
+	msgid: `This remote worker will return to its dock to remove <style=\\"KKeyword\\">Gunk</style> buildup before accepting new chores`,
 	msgstr: ``,
 	klei: `Прежде чем принимать новые задачи, этот удаленный работник должен вернуться на док-станцию и избавиться от накопленных <style=\\"KKeyword\\">отходов</style>`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWOIL.NAME",
-	msgid: `Low Oil`,
+	msgid: `Low Gear Oil`,
 	msgstr: ``,
 	klei: `Низкий уровень масла`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWOIL.TOOLTIP",
-	msgid: `This remote worker is low on oil\\n\\nIt will dock to refuel before accepting new chores`,
+	msgid: `This remote worker is low on gear oil\\n\\nIt will dock to replenish its stores before accepting new chores`,
 	msgstr: ``,
 	klei: `
 У этого удаленного работника мало масла\\n
@@ -2100,7 +3151,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OILING.NAME",
-	msgid: `Refilling Oil`,
+	msgid: `Refilling Gear Oil`,
 	msgstr: ``,
 	klei: `Заливает масло`,
 },
@@ -2112,13 +3163,13 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OUTOFOIL.NAME",
-	msgid: `No Oil`,
+	msgid: `No Gear Oil`,
 	msgstr: ``,
 	klei: `Нет масла`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OUTOFOIL.TOOLTIP",
-	msgid: `This remote worker cannot function without <style=\\"KKeyword\\">Oil</style>\\n\\nIt must be returned to its dock`,
+	msgid: `This remote worker cannot function without <style=\\"KKeyword\\">Gear Oil</style>\\n\\nIt must be returned to its dock`,
 	msgstr: ``,
 	klei: `
 Этот удаленный работник не может функционировать без <style=\\"KKeyword\\">масла</style>\\n
@@ -2142,13 +3193,13 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.POWERSTATUS.NAME",
-	msgid: `[{CHARGE} Power Remaining ({RATIO})]`,
+	msgid: `Power Remaining: {CHARGE} ({RATIO})`,
 	msgstr: ``,
 	klei: `[Осталось энергии: {CHARGE} ({RATIO})]`,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.POWERSTATUS.TOOLTIP",
-	msgid: `This remote worker has {CHARGE} remaining power\\n\\nWhen <style=\\"KKeyword\\">Power</style> gets low, it will return to its dock to recharge`,
+	msgid: `This remote worker has {CHARGE} remaining power\\n\\nWhen <style=\\"KKeyword\\">Power</style> gets low, the remote worker will return to its dock to recharge`,
 	msgstr: ``,
 	klei: `
 Оставшаяся энергия этого удаленного работника составляет {CHARGE}\\n
@@ -2271,22 +3322,109 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `Разлив масла`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBASELINE.DESC",
-	msgid: `This Duplicant has built-in limitations that cannot be changed`,
+	msgctxt: "STRINGS.DUPLICANTS.THOUGHTS.REFILLOILDESIRE.TOOLTIP",
+	msgid: `Low Gear Oil`,
 	msgstr: ``,
-	klei: `У этого дубликанта есть встроенные ограничения, с которыми он ничего не может поделать`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBASELINE.NAME",
-	msgid: `Bionic Bug: Gormless`,
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG1.DESC",
+	msgid: `This Duplicant's bionic systems are quite inflexible`,
 	msgstr: ``,
-	klei: `Бионическая ошибка: глупыш`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBASELINE.SHORT_DESC_TOOLTIP",
-	msgid: `Intelligence is one thing, instinct is another. This Duplicant struggles with both`,
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG1.NAME",
+	msgid: `Bionic Bug: Rigid Thinking`,
 	msgstr: ``,
-	klei: `Интеллект и интуиция — не одно и то же. У этого дубликанта проблемы и тем, и с другим`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG1.SHORT_DESC",
+	msgid: `No passive attribute leveling`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG1.SHORT_DESC_TOOLTIP",
+	msgid: `Does not level up attributes while performing errands\\n\\nRequires boosters to improve skills`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG2.DESC",
+	msgid: `This Duplicant's bionic systems are built without \\"connector\\" parts`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG2.NAME",
+	msgid: `Bionic Bug: Dissociative`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG2.SHORT_DESC",
+	msgid: `No passive attribute leveling`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG2.SHORT_DESC_TOOLTIP",
+	msgid: `Does not level up attributes while performing errands\\n\\nRequires boosters to improve skills`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG3.DESC",
+	msgid: `This Duplicant's bionic systems aren't designed to operate other systems`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG3.NAME",
+	msgid: `Bionic Bug: All Thumbs`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG3.SHORT_DESC",
+	msgid: `No passive attribute leveling`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG3.SHORT_DESC_TOOLTIP",
+	msgid: `Does not level up attributes while performing errands\\n\\nRequires boosters to improve skills`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG4.DESC",
+	msgid: `This Duplicant's bionic systems rarely get past the processing stage`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG4.NAME",
+	msgid: `Bionic Bug: Overengineered`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG4.SHORT_DESC",
+	msgid: `No passive attribute leveling`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG4.SHORT_DESC_TOOLTIP",
+	msgid: `Does not level up attributes while performing errands\\n\\nRequires boosters to improve skills`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG5.DESC",
+	msgid: `This Duplicant's bionic systems weren't built for speed`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG5.NAME",
+	msgid: `Bionic Bug: Late Bloomer`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG5.SHORT_DESC",
+	msgid: `No passive attribute leveling`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.BIONICBUG5.SHORT_DESC_TOOLTIP",
+	msgid: `Does not level up attributes while performing errands\\n\\nRequires boosters to improve skills`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DATARAINER.DESC",
@@ -2301,222 +3439,6 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `Главный по чипам`,
 },
 {
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTART.DESC",
-	msgid: `This Duplicant begins with a pre-installed <b>Decorating Booster</b>`,
-	msgstr: ``,
-	klei: `Этот дубликант начинает с предустановленным <b>бустером декорирования</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTART.NAME",
-	msgid: `Bionic Booster: Decorating`,
-	msgstr: ``,
-	klei: `Бионический бустер: декорирование`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTART.SHORT_DESC",
-	msgid: `Increased <b>Creativity</b>`,
-	msgstr: ``,
-	klei: `Улучшение <b>креативности</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTART.SHORT_DESC_TOOLTIP",
-	msgid: `Bionic Duplicants can install boosters that provide an immediate increase to specific skills\\n\\nThis Duplicant's pre-installed Decorating Booster gives them increased <b>Creativity</b>`,
-	msgstr: ``,
-	klei: `
-Бионическим дубликантам можно устанавливать бустеры, которые мгновенно улучшают определенные навыки\\n
-\\n
-Предустановленный бустер декорирования этого дубликанта повышает его <b>креативность</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTBUILDING.DESC",
-	msgid: `This Duplicant begins with a pre-installed <b>Building Booster</b>`,
-	msgstr: ``,
-	klei: `Этот дубликант начинает с предустановленным <b>строительным бустером</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTBUILDING.NAME",
-	msgid: `Bionic Booster: Building`,
-	msgstr: ``,
-	klei: `Бионический бустер: строительство`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTBUILDING.SHORT_DESC",
-	msgid: `Increased <b>Construction</b>`,
-	msgstr: ``,
-	klei: `Улучшение <b>строительства</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTBUILDING.SHORT_DESC_TOOLTIP",
-	msgid: `Bionic Duplicants can install boosters that provide an immediate increase to specific skills\\n\\nThis Duplicant's pre-installed Building Booster gives them increased <b>Construction</b>`,
-	msgstr: ``,
-	klei: `
-Бионическим дубликантам можно устанавливать бустеры, которые мгновенно улучшают определенные навыки\\n
-\\n
-Предустановленный строительный бустер этого дубликанта повышает его навыки <b>строительства</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTCOOKING.DESC",
-	msgid: `This Duplicant begins with a pre-installed <b>Cooking Booster</b>`,
-	msgstr: ``,
-	klei: `Этот дубликант начинает с предустановленным <b>поварским бустером</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTCOOKING.NAME",
-	msgid: `Bionic Booster: Cooking`,
-	msgstr: ``,
-	klei: `Бионический бустер: кулинария`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTCOOKING.SHORT_DESC",
-	msgid: `Increased <b>Cuisine</b>`,
-	msgstr: ``,
-	klei: `Улучшение <b>кулинарии</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTCOOKING.SHORT_DESC_TOOLTIP",
-	msgid: `Bionic Duplicants can install boosters that provide an immediate increase to specific skills\\n\\nThis Duplicant's pre-installed Cooking Booster gives them increased <b>Cuisine</b>`,
-	msgstr: ``,
-	klei: `
-Бионическим дубликантам можно устанавливать бустеры, которые мгновенно улучшают определенные навыки\\n
-\\n
-Предустановленный поварской бустер этого дубликанта повышает его навыки <b>кулинарии</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTDIGGING.DESC",
-	msgid: `This Duplicant begins with a pre-installed <b>Excavation Booster</b>`,
-	msgstr: ``,
-	klei: `Этот дубликант начинает с предустановленным <b>раскопочным бустером</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTDIGGING.NAME",
-	msgid: `Bionic Booster: Excavation`,
-	msgstr: ``,
-	klei: `Бионический бустер: копание`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTDIGGING.SHORT_DESC",
-	msgid: `Increased <b>Digging</b>`,
-	msgstr: ``,
-	klei: `Улучшение <b>рытья</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTDIGGING.SHORT_DESC_TOOLTIP",
-	msgid: `Bionic Duplicants can install boosters that provide an immediate increase to specific skills\\n\\nThis Duplicant's pre-installed Excavation Booster gives them increased <b>Digging</b>`,
-	msgstr: ``,
-	klei: `
-Бионическим дубликантам можно устанавливать бустеры, которые мгновенно улучшают определенные навыки\\n
-\\n
-Предустановленный раскопочный бустер этого дубликанта улучшает его навыки <b>рытья</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTEXPLORER.DESC",
-	msgid: `This Duplicant begins with a pre-installed <b>Dowsing Booster</b>`,
-	msgstr: ``,
-	klei: `Этот дубликант начинает с предустановленным <b>сканировочным бустером</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTEXPLORER.NAME",
-	msgid: `Bionic Booster: Dowsing`,
-	msgstr: ``,
-	klei: `Бионический бустер: сканирование грунта`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTEXPLORER.SHORT_DESC",
-	msgid: `Locates undiscovered geysers`,
-	msgstr: ``,
-	klei: `Обнаруживает новые гейзеры`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTEXPLORER.SHORT_DESC_TOOLTIP",
-	msgid: `Bionic Duplicants can install boosters that provide an immediate increase to specific skills\\n\\nThis Duplicant's pre-installed Dowsing Booster allows them to locate undiscovered geysers`,
-	msgstr: ``,
-	klei: `
-Бионическим дубликантам можно устанавливать бустеры, которые мгновенно улучшают определенные навыки\\n
-\\n
-Предустановленный сканировочный бустер этого дубликанта позволяет ему находить новые гейзеры`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTFARMING.DESC",
-	msgid: `This Duplicant begins with a pre-installed <b>Farming Booster</b>`,
-	msgstr: ``,
-	klei: `Этот дубликант начинает с предустановленным <b>бустером земледелия</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTFARMING.NAME",
-	msgid: `Bionic Booster: Farming`,
-	msgstr: ``,
-	klei: `Бионический бустер: земледелие`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTFARMING.SHORT_DESC",
-	msgid: `Increased <b>Agriculture</b>`,
-	msgstr: ``,
-	klei: `Улучшение <b>земледелия</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTFARMING.SHORT_DESC_TOOLTIP",
-	msgid: `Bionic Duplicants can install boosters that provide an immediate increase to specific skills\\n\\nThis Duplicant's pre-installed Farming Booster gives them increased <b>Agriculture</b>`,
-	msgstr: ``,
-	klei: `
-Бионическим дубликантам можно устанавливать бустеры, которые мгновенно улучшают определенные навыки\\n
-\\n
-Предустановленный бустер земледелия этого дубликанта улучшает его навыки <b>земледелия</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTMEDICINE.DESC",
-	msgid: `This Duplicant begins with a pre-installed <b>Doctoring Booster</b>`,
-	msgstr: ``,
-	klei: `Этот дубликант начинает с предустановленным <b>бустером врачевания</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTMEDICINE.NAME",
-	msgid: `Bionic Booster: Doctoring`,
-	msgstr: ``,
-	klei: `Бионический бустер: врачевание`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTMEDICINE.SHORT_DESC",
-	msgid: `Increased <b>Medicine</b>`,
-	msgstr: ``,
-	klei: `Улучшение <b>медицины</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTMEDICINE.SHORT_DESC_TOOLTIP",
-	msgid: `Bionic Duplicants can install boosters that provide an immediate increase to specific skills\\n\\nThis Duplicant's pre-installed Doctoring Booster gives them increased <b>Medicine</b>`,
-	msgstr: ``,
-	klei: `
-Бионическим дубликантам можно устанавливать бустеры, которые мгновенно улучшают определенные навыки\\n
-\\n
-Предустановленный бустер врачевания этого дубликанта улучшает его <b>медицинские</b> навыки`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTRANCHING.DESC",
-	msgid: `This Duplicant begins with a pre-installed <b>Ranching Booster</b>`,
-	msgstr: ``,
-	klei: `Этот дубликант начинает с предустановленным <b>животноводческим бустером</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTRANCHING.NAME",
-	msgid: `Bionic Booster: Ranching`,
-	msgstr: ``,
-	klei: `Бионический бустер: животноводство`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTRANCHING.SHORT_DESC",
-	msgid: `Increased <b>Husbandry</b>`,
-	msgstr: ``,
-	klei: `Улучшение <b>животноводства</b>`,
-},
-{
-	msgctxt: "STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTRANCHING.SHORT_DESC_TOOLTIP",
-	msgid: `Bionic Duplicants can install boosters that provide an immediate increase to specific skills\\n\\nThis Duplicant's pre-installed Ranching Booster gives them increased <b>Husbandry</b>`,
-	msgstr: ``,
-	klei: `
-Бионическим дубликантам можно устанавливать бустеры, которые мгновенно улучшают определенные навыки\\n
-\\n
-Предустановленный животноводческий бустер этого дубликанта улучшает его навыки <b>животноводства</b>`,
-},
-{
 	msgctxt: "STRINGS.DUPLICANTS.TRAITS.ROBODANCER.DESC",
 	msgid: `This Duplicant breaks into dance when they are <style=\\"KKeyword\\">Overjoyed</style>`,
 	msgstr: ``,
@@ -2527,6 +3449,231 @@ This building is a necessary component of the Power Plant room.`,
 	msgid: `Flash Mobber`,
 	msgstr: ``,
 	klei: `Звезда флешмоба`,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTING_BIONIC_BOOSTER_SHARED_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.DESC",
+	msgid: `Grants a Bionic Duplicant flawless decorating skills.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.NAME",
+	msgid: `Masterworks Art Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Masterworks Art Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.DESC",
+	msgid: `Grants a Bionic Duplicant increased carrying capacity and athletic prowess.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.NAME",
+	msgid: `Strength Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Strength Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.DESC",
+	msgid: `Grants a Bionic Duplicant the ability to build fast, and demolish buildings that others cannot.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.NAME",
+	msgid: `Construction Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Construction Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.DESC",
+	msgid: `Grants a Bionic Duplicant deliciously professional culinary skills.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.NAME",
+	msgid: `Grilling Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Grilling Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.DESC",
+	msgid: `Grants a Bionic Duplicant the skill required to dig hard things.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.NAME",
+	msgid: `Digging Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Digging Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.DESC",
+	msgid: `Grants a Bionic Duplicant the digging skill required to get through anything.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.NAME",
+	msgid: `Extreme Digging Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Extreme Digging Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.DESC",
+	msgid: `Grants a Bionic Duplicant unparalleled farming and botanical analysis skills.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.NAME",
+	msgid: `Crop Tending Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Crop Tending Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.DESC",
+	msgid: `Grants a Bionic Duplicant the ability to perform all doctoring errands.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.NAME",
+	msgid: `Advanced Medical Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Advanced Medical Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.DESC",
+	msgid: `Grants a Bionic Duplicant the skills requried to tinker and solder to their heart's content.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.NAME",
+	msgid: `Electrical Engineering Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Electrical Engineering Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.DESC",
+	msgid: `Grants a Bionic Duplicant the skills required to care for <link=\\"CREATURES\\">Critters</link>  in every way.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.NAME",
+	msgid: `Ranching Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Ranching Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.DESC",
+	msgid: `Enables a Bionic Duplicant to maximize durability of equipped <link=\\"SUITS\\">Exosuits</link> and maintain their runspeed.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.NAME",
+	msgid: `Suit Training Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.SHORT_DESC",
+	msgid: `Starts with a preinstalled <b>Suit Training Booster</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.SHORT_DESC_TOOLTIP",
+	msgid: `Bionic Duplicants use boosters to increase their skills and attributes\\n\\nBoosters can be crafted at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link> and <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>\\n\\nPreinstalled booster effects:`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.DUPLICANTS.TRAITS.STRESSSHOCKER.DESC",
@@ -2575,19 +3722,19 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ELEMENTS.GUNK.DESC",
-	msgid: `Gunk is the built-up grime and grit produced by Duplicants' bionic mechanisms that has been frozen into a a <link=\\"ELEMENTSSOLID\\">Solid</link> state.`,
+	msgid: `Solid Gunk is the built-up grime and grit produced by Duplicants' bionic mechanisms that has been frozen into a <link=\\"ELEMENTSSOLID\\">Solid</link> state.`,
 	msgstr: ``,
 	klei: `Отходы — это замерзшие до <link=\\"ELEMENTSSOLID\\">твердого</link> состояния грязь и пыль, которые производят бионические механизмы дубликантов.`,
 },
 {
 	msgctxt: "STRINGS.ELEMENTS.GUNK.NAME",
-	msgid: `<link=\\"GUNK\\">Gunk</link>`,
+	msgid: `<link=\\"GUNK\\">Solid Gunk</link>`,
 	msgstr: ``,
 	klei: `<link=\\"GUNK\\">Отходы</link>`,
 },
 {
 	msgctxt: "STRINGS.ELEMENTS.LIQUIDGUNK.DESC",
-	msgid: `Liquid Gunk is the built-up grime and grit produced by Duplicants' bionic mechanisms.\\n\\nIt is unpleasantly viscous.`,
+	msgid: `Gunk is the built-up grime and grit produced by Duplicants' bionic mechanisms.\\n\\nIt is unpleasantly viscous.`,
 	msgstr: ``,
 	klei: `
 Жидкие отходы — это грязь и пыль, которые производят бионические механизмы дубликантов.\\n
@@ -2596,7 +3743,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ELEMENTS.LIQUIDGUNK.NAME",
-	msgid: `<link=\\"LIQUIDGUNK\\">Liquid Gunk</link>`,
+	msgid: `<link=\\"LIQUIDGUNK\\">Gunk</link>`,
 	msgstr: ``,
 	klei: `<link=\\"LIQUIDGUNK\\">Жидкие отходы</link>`,
 },
@@ -2613,160 +3760,184 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `<link=\\"PHYTOOIL\\">Фитомасло</link>`,
 },
 {
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.AGRICULTURE_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's agricultural skills.`,
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_ART1.DESC",
+	msgid: `Grants a Bionic Duplicant flawless decorating skills.`,
 	msgstr: ``,
-	klei: `Улучшает навыки земледелия бионического дубликанта.`,
 },
 {
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.AGRICULTURE_BOOSTER.NAME",
-	msgid: `Farming Booster`,
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_ART1.NAME",
+	msgid: `Masterworks Art Booster`,
 	msgstr: ``,
-	klei: `Бустер земледелия`,
 },
 {
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.ATHLETICS_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's runspeed.`,
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CARRY1.DESC",
+	msgid: `Grants a Bionic Duplicant increased carrying capacity and athletic prowess.`,
 	msgstr: ``,
-	klei: `Повышает скорость бега бионического дубликанта.`,
 },
 {
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.ATHLETICS_BOOSTER.NAME",
-	msgid: `Athletics Booster`,
-	msgstr: ``,
-	klei: `Спортивный бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.CONSTRUCTION_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's construction skills.`,
-	msgstr: ``,
-	klei: `Улучшает строительные навыки бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.CONSTRUCTION_BOOSTER.NAME",
-	msgid: `Building Booster`,
-	msgstr: ``,
-	klei: `Строительный бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.COOKING_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's culinary skills.`,
-	msgstr: ``,
-	klei: `Улучшает кулинарные навыки бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.COOKING_BOOSTER.NAME",
-	msgid: `Cooking Booster`,
-	msgstr: ``,
-	klei: `Поварской бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.CREATIVITY_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's creativity.`,
-	msgstr: ``,
-	klei: `Повышает креативность бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.CREATIVITY_BOOSTER.NAME",
-	msgid: `Decorating Booster`,
-	msgstr: ``,
-	klei: `Бустер декорирования`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.EXCAVATION_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's digging skills.`,
-	msgstr: ``,
-	klei: `Улучшает навыки рытья бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.EXCAVATION_BOOSTER.NAME",
-	msgid: `Excavation Booster`,
-	msgstr: ``,
-	klei: `Раскопочный бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.EXPLORER_BOOSTER.DESC",
-	msgid: `Enables a Bionic Duplicant to regularly uncover hidden geysers.`,
-	msgstr: ``,
-	klei: `Позволяет бионическому дубликанту регулярно находить новые скрытые гейзеры.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.EXPLORER_BOOSTER.NAME",
-	msgid: `Dowsing Booster`,
-	msgstr: ``,
-	klei: `Сканировочный бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.HUSBANDRY_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's husbandry skills.`,
-	msgstr: ``,
-	klei: `Улучшает навыки животноводства бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.HUSBANDRY_BOOSTER.NAME",
-	msgid: `Ranching Booster`,
-	msgstr: ``,
-	klei: `Животноводческий бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.MACHINERY_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's machinery skills.`,
-	msgstr: ``,
-	klei: `Улучшает технические навыки бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.MACHINERY_BOOSTER.NAME",
-	msgid: `Operating Booster`,
-	msgstr: ``,
-	klei: `Технический бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.MEDICINE_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's doctoring skills.`,
-	msgstr: ``,
-	klei: `Улучшает навыки врачевания бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.MEDICINE_BOOSTER.NAME",
-	msgid: `Doctoring Booster`,
-	msgstr: ``,
-	klei: `Бустер врачевания`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.PILOTING_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's rocket piloting skills.`,
-	msgstr: ``,
-	klei: `Улучшает навыки пилотирования ракеты бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.PILOTING_BOOSTER.NAME",
-	msgid: `Rocketry Booster`,
-	msgstr: ``,
-	klei: `Ракетный бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.SCIENCE_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's science researching skills.`,
-	msgstr: ``,
-	klei: `Улучшает исследовательские навыки бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.SCIENCE_BOOSTER.NAME",
-	msgid: `Researching Booster`,
-	msgstr: ``,
-	klei: `Научный бустер`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.STRENGTH_BOOSTER.DESC",
-	msgid: `Increases a Bionic Duplicant's carrying capacity and tidying speed.`,
-	msgstr: ``,
-	klei: `Увеличивает максимальную нагрузку и скорость уборки бионического дубликанта.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.STRENGTH_BOOSTER.NAME",
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CARRY1.NAME",
 	msgid: `Strength Booster`,
 	msgstr: ``,
-	klei: `Физический бустер`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CONSTRUCT1.DESC",
+	msgid: `Grants a Bionic Duplicant the ability to build fast, and demolish buildings that others cannot.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CONSTRUCT1.NAME",
+	msgid: `Construction Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_COOK1.DESC",
+	msgid: `Grants a Bionic Duplicant deliciously professional culinary skills.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_COOK1.NAME",
+	msgid: `Grilling Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG1.DESC",
+	msgid: `Grants a Bionic Duplicant the skill required to dig hard things.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG1.NAME",
+	msgid: `Digging Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG2.DESC",
+	msgid: `Grants a Bionic Duplicant the digging skill required to get through anything.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG2.NAME",
+	msgid: `Extreme Digging Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_FARM1.DESC",
+	msgid: `Grants a Bionic Duplicant unparalleled farming and botanical analysis skills.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_FARM1.NAME",
+	msgid: `Crop Tending Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_MEDICINE1.DESC",
+	msgid: `Grants a Bionic Duplicant the ability to perform all doctoring errands.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_MEDICINE1.NAME",
+	msgid: `Advanced Medical Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP1.DESC",
+	msgid: `Grants a Bionic Duplicant the skills requried to tinker and solder to their heart's content.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP1.NAME",
+	msgid: `Electrical Engineering Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP2.DESC",
+	msgid: `Grants a Bionic Duplicant complete mastery of engineering skills.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP2.NAME",
+	msgid: `Mechatronics Engineering Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOT1.DESC",
+	msgid: `Grants a Bionic Duplicant the expertise required to explore the skies in person.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOT1.NAME",
+	msgid: `Piloting Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOTVANILLA1.DESC",
+	msgid: `Grants a Bionic Duplicant the expertise required to command a rocket.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOTVANILLA1.NAME",
+	msgid: `Rocketry Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RANCH1.DESC",
+	msgid: `Grants a Bionic Duplicant the skills required to care for <link=\\"CREATURES\\">Critters</link>  in every way.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RANCH1.NAME",
+	msgid: `Ranching Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH1.DESC",
+	msgid: `Grants a Bionic Duplicant the expertise required to study <link=\\"GEYSERS\\">geysers</link> and other advanced topics.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH1.NAME",
+	msgid: `Research Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH2.DESC",
+	msgid: `Grants a Bionic Duplicant a keen grasp of science and usage of space-research buildings.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH2.NAME",
+	msgid: `Astronomy Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH3.DESC",
+	msgid: `Grants a Bionic Duplicant a deeply pragmatic approach to scientific research.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH3.NAME",
+	msgid: `Applied Sciences Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_SUITS1.DESC",
+	msgid: `Enables a Bionic Duplicant to maximize durability of equipped <link=\\"SUITS\\">Exosuits</link> and maintain their runspeed.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_SUITS1.NAME",
+	msgid: `Suit Training Booster`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_TIDY1.DESC",
+	msgid: `Grants a Bionic Duplicant the full range of tidying skills, including blasting unwanted meteors out of the sky.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_TIDY1.NAME",
+	msgid: `Tidying Booster`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.RECIPEDESC",
@@ -2814,8 +3985,68 @@ This building is a necessary component of the Power Plant room.`,
 	],
 },
 {
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.NAME",
+	msgid: `<link=\\"CRABSHELL\\">Small Pokeshell Molt</link>`,
+	msgstr: `Панцирь детёныша краба`,
+	klei: `Линька маленького крабушка`,
+	mem: [
+		{
+			msgid: `Small Pokeshell Molt`,
+			msgstr: `Панцирь детёныша краба`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_WOOD.NAME",
+	msgid: `<link=\\"VARIANTWOODSHELL\\">Small Oakshell Molt</link>`,
+	msgstr: `Малый панцирь древесного краба`,
+	klei: `Маленький панцирь древесного крабушка`,
+	mem: [
+		{
+			msgid: `Small Oakshell Molt`,
+			msgstr: `Малый панцирь древесного краба`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.NAME",
+	msgid: `<link=\\"CRABSHELL\\">Pokeshell Molt</link>`,
+	msgstr: `Панцирь краба-щипача`,
+	klei: `Линька крабушка`,
+	mem: [
+		{
+			msgid: `Pokeshell Molt`,
+			msgstr: `Панцирь краба-щипача`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_WOOD.NAME",
+	msgid: `<link=\\"VARIANTWOODSHELL\\">Oakshell Molt</link>`,
+	msgstr: `Панцирь древесного краба`,
+	klei: `Панцирь древесного крабушка`,
+	mem: [
+		{
+			msgid: `Oakshell Molt`,
+			msgstr: `Панцирь древесного краба`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.EGG_SHELL.NAME",
+	msgid: `<link=\\"EGGSHELL\\">Egg Shell</link>`,
+	msgstr: `Яичная скорлупа`,
+	klei: `Яичная скорлупа`,
+	mem: [
+		{
+			msgid: `Egg Shell`,
+			msgstr: `Яичная скорлупа`,
+		},
+	],
+},
+{
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK.DESC",
-	msgid: `A rechargeable <link=\\"ELECTROBANK\\">Power Bank</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Eco Power Banks</link> at the <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>.`,
+	msgid: `A rechargeable <link=\\"ELECTROBANK\\">Power Bank</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Eco Power Banks</link> at the <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>.\\n\\nMust be kept dry.`,
 	msgstr: ``,
 	klei: `
 <link=\\"ELECTROBANK\\">Блок энергии</link>, который можно заряжать повторно.\\n
@@ -2832,7 +4063,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_CARROT.DESC",
-	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"CARROT\\">Plume Squash</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Squash Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.`,
+	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"CARROT\\">Plume Squash</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Squash Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.\\n\\nMust be kept dry.`,
 	msgstr: ``,
 	klei: `
 Одноразовый органический <link=\\"ELECTROBANK\\">блок энергии</link> из <link=\\"CARROT\\">перьевой тыквы</link>.\\n
@@ -2864,7 +4095,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_GARBAGE.DESC",
-	msgid: `A <link=\\"ELECTROBANK\\">Power Bank</link> that has reached the end of its life cycle.\\n\\nIt can be salvaged for metal ore.`,
+	msgid: `A <link=\\"ELECTROBANK\\">Power Bank</link> that has reached the end of its life cycle.\\n\\nIt can be salvaged for <link=\\"KATAIRITE\\">Abyssalite</link> at the <link=\\"ROCKCRUSHER\\">Rock Crusher</link>.`,
 	msgstr: ``,
 	klei: `
 <link=\\"ELECTROBANK\\">Блок энергии</link>, который свое отработал.\\n
@@ -2879,7 +4110,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_LIGHTBUGEGG.DESC",
-	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"LIGHTBUG\\">Shine Nymph Egg</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Shine Egg Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.`,
+	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"LIGHTBUG\\">Shine Nymph Egg</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Shine Egg Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.\\n\\nMust be kept dry.`,
 	msgstr: ``,
 	klei: `
 Одноразовый органический <link=\\"ELECTROBANK\\">блок энергии</link> из <link=\\"LIGHTBUG\\">яйца блестячка</link>.\\n
@@ -2896,7 +4127,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_METAL_ORE.DESC",
-	msgid: `A disposable <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"METAL\\">Metal Ore</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Metal Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.`,
+	msgid: `A disposable <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"METAL\\">Metal Ore</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Metal Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.\\n\\nMust be kept dry.`,
 	msgstr: ``,
 	klei: `
 Одноразовый <link=\\"ELECTROBANK\\">блок энергии</link> из <link=\\"METAL\\">металлической руды</link>.\\n
@@ -2912,25 +4143,8 @@ This building is a necessary component of the Power Plant room.`,
 	klei: `<link=\\"ELECTROBANK\\">Металлический блок энергии</link>`,
 },
 {
-	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_MUCKROOT.DESC",
-	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"BASICFORAGEPLANT\\">Muckroot</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Muckroot Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.`,
-	msgstr: ``,
-	klei: `
-Одноразовый органический <link=\\"ELECTROBANK\\">блок энергии</link> из <link=\\"BASICFORAGEPLANT\\">грязекорня</link>.\\n
-\\n
-Снабжает строения энергией, если подключен к <link=\\"LARGEELECTROBANKDISCHARGER\\">розеточной станции</link> или к <link=\\"SMALLELECTROBANKDISCHARGER\\">настенной розетке</link>.\\n
-\\n
-Дубликанты могут создавать <link=\\"ELECTROBANK\\">грязекорневые блоки энергии</link> на <link=\\"CRAFTINGTABLE\\">мастерской станции</link>.`,
-},
-{
-	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_MUCKROOT.NAME",
-	msgid: `<link=\\"ELECTROBANK\\">Muckroot Power Bank</link>`,
-	msgstr: ``,
-	klei: `<link=\\"ELECTROBANK\\">Грязекорневый блок энергии</link>`,
-},
-{
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_STATERPILLAR.DESC",
-	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"STATERPILLAR\\">Plug Slug Egg</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Slug Egg Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.`,
+	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"STATERPILLAR\\">Plug Slug Egg</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Slug Egg Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.\\n\\nMust be kept dry.`,
 	msgstr: ``,
 	klei: `
 Одноразовый органический <link=\\"ELECTROBANK\\">блок энергии</link> из <link=\\"STATERPILLAR\\">яйца розеточного слизня</link>.\\n
@@ -2947,7 +4161,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SUCROSE.DESC",
-	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"SUCROSE\\">Sucrose</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Sucrose Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.`,
+	msgid: `A disposable organic <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"SUCROSE\\">Sucrose</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Sucrose Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.\\n\\nMust be kept dry.`,
 	msgstr: ``,
 	klei: `
 Одноразовый органический <link=\\"ELECTROBANK\\">блок энергии</link> из <link=\\"SUCROSE\\">сахарозы</link>.\\n
@@ -2964,7 +4178,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_URANIUM_ORE.DESC",
-	msgid: `A disposable <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"URANIUMORE\\">Uranium Ore</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Nuclear Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.`,
+	msgid: `A disposable <link=\\"ELECTROBANK\\">Power Bank</link> made with <link=\\"URANIUMORE\\">Uranium Ore</link>.\\n\\nIt can power buildings via <link=\\"LARGEELECTROBANKDISCHARGER\\">Socket Stations</link> or <link=\\"SMALLELECTROBANKDISCHARGER\\">Wall Sockets</link>.\\n\\nDuplicants can produce new <link=\\"ELECTROBANK\\">Nuclear Power Banks</link> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>.\\n\\nMust be kept dry.`,
 	msgstr: ``,
 	klei: `
 Одноразовый <link=\\"ELECTROBANK\\">блок энергии</link> из <link=\\"URANIUMORE\\">урановой руды</link>.\\n
@@ -2986,7 +4200,24 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.GOLD_BELLY_CROWN.NAME",
-	msgid: `Regal Bammoth Crest`,
+	msgid: `<link=\\"GOLDBELLYCROWN\\">Regal Bammoth Crest</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.NAME",
+	msgid: `<link=\\"ORBITALRESEARCHDATABANK\\">Data Bank</link>`,
+	msgstr: `Банк данных`,
+	klei: `Банк данных`,
+	mem: [
+		{
+			msgid: `Data Bank`,
+			msgstr: `Банк данных`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.NAME_PLURAL",
+	msgid: `<link=\\"ORBITALRESEARCHDATABANK\\">Data Banks</link>`,
 	msgstr: ``,
 },
 {
@@ -3011,10 +4242,68 @@ This building is a necessary component of the Power Plant room.`,
 	],
 },
 {
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.DESC",
+	msgid: `A specialized Microchip created by a professional engineer.\\n\\nTunes up <link=\\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\\">Generators</link> to increase their <link=\\"POWER\\">Power</link> output.\\n\\nAlso used in the production of boosters for Bionic Duplicants.`,
+	msgstr: `
+Специальный микрочип, сделанный профессиональным инженером.\\n
+\\n
+Настраивает <color=#C38802>генераторы</color>, увеличивая выработку <link=\\"POWER\\">энергии</link>.`,
+	klei: `
+Специальный микропроцессор, созданный профессиональным инженером.\\n
+\\n
+Помогает налаживать <style=\\"KKeyword\\">генераторы</style> и увеличивать объем вырабатываемой <link=\\"POWER\\">энергии</link>.`,
+	mem: [
+		{
+			msgid: `A specialized Microchip created by a professional engineer.\\n\\nTunes up <style=\\"KKeyword\\">Generators</style> to increase their <link=\\"POWER\\">Power</link> output.`,
+			msgstr: `
+Специальный микрочип, сделанный профессиональным инженером.\\n
+\\n
+Настраивает <color=#C38802>генераторы</color>, увеличивая выработку <link=\\"POWER\\">энергии</link>.`,
+		},
+	],
+},
+{
 	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.RECIPE_DESCRIPTION",
 	msgid: `Make Microchip from {0}`,
 	msgstr: ``,
 	klei: `Позволяет изготавливать микропроцессоры (требуется: {0})`,
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RESEARCH_DATABANK.NAME",
+	msgid: `<link=\\"RESEARCHDATABANK\\">Data Bank</link>`,
+	msgstr: `Банк данных`,
+	klei: `Банк данных`,
+	mem: [
+		{
+			msgid: `Data Bank`,
+			msgstr: `Банк данных`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RESEARCH_DATABANK.NAME_PLURAL",
+	msgid: `<link=\\"RESEARCHDATABANK\\">Data Banks</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.LUBRICATIONSTICK.DESC",
+	msgid: `Provides a small amount of lubricating <link=\\"LUBRICATINGOIL\\">Gear Oil</link>.\\n\\nCan be produced at the <link=\\"APOTHECARY\\">Apothecary</link>.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.LUBRICATIONSTICK.NAME",
+	msgid: `<link=\\"LUBRICATIONSTICK\\">Gear Balm</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.LUBRICATIONSTICK.RECIPEDESC",
+	msgid: `A self-administered mechanical lubricant for Duplicants with bionic parts.`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.ITEMS.LUBRICATIONSTICK.SUBHEADER",
+	msgid: `Mechanical Lubricant`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.MESSAGEBODY",
@@ -3051,7 +4340,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.MISC.NOTIFICATIONS.BIONICOIL.MESSAGEBODY",
-	msgid: `Bionic Duplicants with insufficient <link=\\"LUBRICATINGOIL\\">Gear Oil</link> will slow down significantly to avoid grinding their gears.\\n\\nI can keep them running smoothly by producing <link=\\"PHYTOOIL\\">Phyto Oil</link> out of <link=\\"SLIME\\">Slime</link> and building a <link=\\"OILCHANGER\\">Lubrication Station</link> from the <b>Medicine Tab</b> {Hotkey/Plan8}.`,
+	msgid: `Bionic Duplicants with insufficient <link=\\"LUBRICATINGOIL\\">Gear Oil</link> will slow down significantly to avoid grinding their gears.\\n\\nI can keep them running smoothly by supplying <link=\\"LUBRICATIONSTICK\\">Gear Balm</link>, or by building a <link=\\"OILCHANGER\\">Lubrication Station</link> from the <b>Medicine Tab</b> {Hotkey/Plan8}.`,
 	msgstr: ``,
 	klei: `
 Бионические дубликанты, которым не хватает <link=\\"LUBRICATINGOIL\\">масла</link>, значительно замедляются, чтобы не повредить шестеренки.\\n
@@ -3084,7 +4373,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.MESSAGEBODY",
-	msgid: `Bionic Duplicants can dump built-up <link=\\"LIQUIDGUNK\\">Liquid Gunk</link> into <link=\\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\\">Toilets</link> if no other options are available. This invariably clogs the plumbing, however, and must be removed before facilities can be used by other Duplicants.\\n\\nBuilding a <link=\\"GUNKEMPTIER\\">Gunk Extractor</link> from the <b>Plumbing Tab</b> {Hotkey/Plan5} will ensure that Bionic Duplicants can dispose of their waste appropriately.`,
+	msgid: `Bionic Duplicants can dump built-up <link=\\"LIQUIDGUNK\\">Gunk</link> into <link=\\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\\">Toilets</link> if no other options are available. This invariably clogs the plumbing, however, and must be removed before facilities can be used by other Duplicants.\\n\\nBuilding a <link=\\"GUNKEMPTIER\\">Gunk Extractor</link> from the <b>Plumbing Tab</b> {Hotkey/Plan5} will ensure that Bionic Duplicants can dispose of their waste appropriately.`,
 	msgstr: ``,
 	klei: `
 Если у бионического дубликанта нет другого выхода, он может избавиться от <link=\\"LIQUIDGUNK\\">жидких отходов</link> в <link=\\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\\">туалете</link>. Увы, это забивает канализацию: прежде чем другие дубликанты смогут использовать такой туалет, придется прочистить засор.\\n
@@ -3093,7 +4382,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.NAME",
-	msgid: `Tutorial: Clogged Toilets`,
+	msgid: `Tutorial: Gunked Toilets`,
 	msgstr: ``,
 	klei: `Руководство: Засор в туалете`,
 },
@@ -3105,7 +4394,7 @@ This building is a necessary component of the Power Plant room.`,
 },
 {
 	msgctxt: "STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.MESSAGEBODY",
-	msgid: `My Duplicants may slip and fall on wet surfaces. I can help them avoid undue <link=\\"STRESS\\">Stress</link> and potential injury by using the <b>Mop Tool</b> {Hotkey/Mop} to clean up spills. Building <link=\\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\\">Toilets</link> can help minimize the incidence of spills.`,
+	msgid: `My Duplicants may slip and fall on wet surfaces, and Duplicants with bionic systems can experience disruptive glitching.\\n\\nI can help my colony avoid undue <link=\\"STRESS\\">Stress</link> and potential injury by using the <b>Mop Tool</b> {Hotkey/Mop} to clean up spills. Building <link=\\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\\">Toilets</link> and <link=\\"GUNKEMPTIER\\">Gunk Extractors</link> can help minimize the incidence of spills.`,
 	msgstr: ``,
 	klei: `
 На мокрых поверхностях мои дубликанты могут поскользнуться и упасть. В дубликантах с бионическими системами это может привести к серьезным сбоям.\\n
@@ -3185,6 +4474,16 @@ This building is a necessary component of the Power Plant room.`,
 Для работы бустер необходимо установить на бионического дубликанта`,
 },
 {
+	msgctxt: "STRINGS.MISC.STATUSITEMS.UNASSIGNEDBIONICBOOSTER.NAME",
+	msgid: `Unassigned`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.MISC.STATUSITEMS.UNASSIGNEDBIONICBOOSTER.TOOLTIP",
+	msgid: `This booster has not yet been assigned to a Bionic Duplicant`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.MISC.TAGS.BED",
 	msgid: `Beds`,
 	msgstr: `Кровать`,
@@ -3197,10 +4496,9 @@ This building is a necessary component of the Power Plant room.`,
 	],
 },
 {
-	msgctxt: "STRINGS.MISC.TAGS.BIONIC_UPGRADE",
+	msgctxt: "STRINGS.MISC.TAGS.BIONICUPGRADE",
 	msgid: `Boosters`,
 	msgstr: ``,
-	klei: `Бустеры`,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.CHARGEDPORTABLEBATTERY",
@@ -3277,7 +4575,7 @@ Though these liquids have other uses, such as fertilizer for growing a <link=\\"
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.LUBRICATINGOIL",
-	msgid: `Gear Oil`,
+	msgid: `<link=\\"LUBRICATINGOIL\\">Gear Oil</link>`,
 	msgstr: ``,
 	klei: `Машинное масло`,
 },
@@ -3298,6 +4596,11 @@ Though these liquids have other uses, such as fertilizer for growing a <link=\\"
 			msgstr: `Массажный стол`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.MISC.TAGS.OXYGENCANISTER",
+	msgid: `Oxygen Canister`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.MISC.TAGS.PLASTIFIABLELIQUID_DESC",
@@ -3764,16 +5067,14 @@ LEDв\\n
 	klei: `Схема <style=\\"KKeyword\\">бустеров декорирования</style>`,
 },
 {
-	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_ORGANIC.DESC",
-	msgid: `Enables fabrication of <style=\\"KKeyword\\">Organic Power Banks</style> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>`,
+	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_METAL_ORE.DESC",
+	msgid: `Enables fabrication of <style=\\"KKeyword\\">Metal Power Banks</style> at the <link=\\"CRAFTINGTABLE\\">Crafting Station</link>`,
 	msgstr: ``,
-	klei: `Позволяет создавать <style=\\"KKeyword\\">органические блоки энергии</style> на <link=\\"CRAFTINGTABLE\\">мастерской станции</link>`,
 },
 {
-	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_ORGANIC.NAME",
-	msgid: `<style=\\"KKeyword\\">Organic Power Bank</style> Pattern`,
+	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_METAL_ORE.NAME",
+	msgid: `<style=\\"KKeyword\\">Metal Power Bank</style> Pattern`,
 	msgstr: ``,
-	klei: `Схема <style=\\"KKeyword\\">органических блоков энергии</style>`,
 },
 {
 	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_URANIUM_ORE.DESC",
@@ -3824,6 +5125,16 @@ LEDв\\n
 	klei: `Схема <style=\\"KKeyword\\">сканировочных бустеров</style>`,
 },
 {
+	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.FETCHDRONE.DESC",
+	msgid: `Enables fabrication of <style=\\"KKeyword\\">Flydo</style> at the <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.FETCHDRONE.NAME",
+	msgid: `<style=\\"KKeyword\\">Flydo</style> Pattern`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.HUSBANDRYBOOSTER.DESC",
 	msgid: `Enables fabrication of <style=\\"KKeyword\\">Ranching Boosters</style> for Bionic Duplicants at the <link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link>`,
 	msgstr: ``,
@@ -3834,6 +5145,16 @@ LEDв\\n
 	msgid: `<style=\\"KKeyword\\">Ranching Booster</style> Pattern`,
 	msgstr: ``,
 	klei: `Схема <style=\\"KKeyword\\">животноводческих бустеров</style>`,
+},
+{
+	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.LUBRICATION_STICK.DESC",
+	msgid: `Enables fabrication of <style=\\"KKeyword\\">Gear Balm</style> at the <link=\\"APOTHECARY\\">Apothecary</link>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.LUBRICATION_STICK.NAME",
+	msgid: `<style=\\"KKeyword\\">Gear Balm</style> Pattern`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.RESEARCH.OTHER_TECH_ITEMS.MACHINERYBOOSTER.DESC",
@@ -4008,7 +5329,7 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.ROOMS.CATEGORY.BIONIC.NAME",
-	msgid: `Workshop`,
+	msgid: `Bionics Depot`,
 	msgstr: ``,
 	klei: `Мастерская`,
 },
@@ -4200,7 +5521,7 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.LIGHTDUTYGENERATORTYPE.DESCRIPTION",
-	msgid: `For regular power needs`,
+	msgid: `For basic power needs`,
 	msgstr: ``,
 },
 {
@@ -4285,7 +5606,7 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.ROOMS.CRITERIA.POWERBUILDING.DESCRIPTION",
-	msgid: `Power buildings`,
+	msgid: `Buildings that generate, store, or manage power`,
 	msgstr: ``,
 },
 {
@@ -4387,7 +5708,7 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.ROOMS.TYPES.BIONICUPKEEP.DESCRIPTION",
-	msgid: `Where Bionic Duplicants can get the specialized care they need.\\n\\nUsing a <link=\\"GUNKEMPTIER\\">Gunk Extractor</link> in a Workshop will improve Bionic Duplicants' Morale.`,
+	msgid: `Where Bionic Duplicants can get the specialized care they need.\\n\\nUsing a <link=\\"OILCHANGER\\">Lubrication Station</link> in a Bionics Depot will improve Bionic Duplicants' Morale.`,
 	msgstr: ``,
 	klei: `
 Здесь бионические дубликанты могут позаботиться о своих потребностях.\\n
@@ -4402,19 +5723,19 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.ROOMS.TYPES.BIONICUPKEEP.NAME",
-	msgid: `Workshop`,
+	msgid: `Bionics Depot`,
 	msgstr: ``,
 	klei: `Мастерская`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.TYPES.BIONICUPKEEP.TOOLTIP",
-	msgid: `Using a gunk extractor in a Workshop will improve Bionic Duplicants' Morale`,
+	msgid: `Using a <link=\\"OILCHANGER\\">Lubrication Station</link> in a Bionics Depot will improve Bionic Duplicants' Morale`,
 	msgstr: ``,
 	klei: `Использование извлекателя отходов в мастерской повышает моральный дух бионических дубликантов`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.DESCRIPTION",
-	msgid: `A spa of sorts, for Duplicants who were built different.\\n\\nBionic Duplicants who access bionic service stations in a Workshop will get a nice little Morale boost.`,
+	msgid: `A maintenance area for Duplicants who were built different.\\n\\nBionic Duplicants who access bionic service stations in a Bionics Depot will get a nice little Morale boost.`,
 	msgstr: ``,
 	klei: `
 Своего рода спа для дубликантов, которые непохожи на остальных.\\n
@@ -4429,13 +5750,13 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.NAME",
-	msgid: `Workshop`,
+	msgid: `Bionics Depot`,
 	msgstr: ``,
 	klei: `Мастерская`,
 },
 {
 	msgctxt: "STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.TOOLTIP",
-	msgid: `Bionic Duplicants get a Morale boost when using bionic service stations in a Workshop`,
+	msgid: `Bionic Duplicants get a Morale boost when using bionic service stations in a Bionics Depot`,
 	msgstr: ``,
 	klei: `Когда бионические дубликанты посещают станции бионического обслуживания в мастерской, их моральный дух немного повышается`,
 },
@@ -4485,6 +5806,37 @@ LEDв\\n
 		{
 			msgid: `Generators built within a Power Plant can be tuned up using Power Control Stations to improve their power production`,
 			msgstr: `Генераторы, построенные в электростанции, могут быть улучшены микрочипами для увеличения производства энергии`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.SUBWORLDS.MAGMA.UTILITY",
+	msgid: `<link=\\"MAGMA\\">Magma</link> is source of extreme <link=\\"HEAT\\">Heat</link> which can be used to transform <link=\\"WATER\\">Water</link> in to <link=\\"STEAM\\">Steam</link> or <link=\\"CRUDEOIL\\">Crude Oil</link> into <link=\\"PETROLEUM\\">Petroleum</link>. In order to prevent the extreme temperatures of this biome invading other parts of my base, suitable insulation must be constructed using materials with high melting points like <link=\\"CERAMIC\\">Ceramic</link> or <link=\\"OBSIDIAN\\">Obsidian</link>.\\n\\nThough exosuits such as <link=\\"ATMOSUIT\\">Atmo Suits</link> and <link=\\"JETSUIT\\">Jet Suits</link> will provide some protection for my Duplicants, there is still a danger they will overheat if spending an extended amount of time in this Biome. I should ensure that suitable medical facilities have been constructed nearby to take care of any medical emergencies.`,
+	msgstr: `
+<link=\\"MAGMA\\">Магма</link> — это источник колоссального количества <link=\\"HEAT\\">тепла</link>, которое может быть использовано для преобразования <link=\\"WATER\\">воды</link> в <link=\\"STEAM\\">пар</link> или <link=\\"CRUDEOIL\\">нефти</link> в <link=\\"PETROLEUM\\">керосин</link>. Для предотвращения распространения высоких температур по всей базе, необходимо обеспечить теплоизоляцию из тугоплавких материалов, таких как <link=\\"CERAMIC\\">керамика</link> или <link=\\"OBSIDIAN\\">обсидиан</link>.\\n
+\\n
+Хотя <link=\\"EXOSUIT\\">экзокостюмы</link> обеспечивают определённую защиту для моих дубликантов, они всё ещё могут обжигаться, если находятся достаточно долгое время в этом биоме. Я должен убедиться, что подходящие медицинские постройки сконструированы неподалёку и готовы принять пациентов для неотложной медицинской помощи.`,
+	klei: `
+<link=\\"MAGMA\\">Магма</link> — это источник огромного количества <link=\\"HEAT\\">тепловой энергии</link>, которая может обращать <link=\\"WATER\\">воду</link> в <link=\\"STEAM\\">пар</link>, а <link=\\"CRUDEOIL\\">неочищенную нефть</link> в <link=\\"PETROLEUM\\">нефть</link>. Во избежание распространения этих экстремальных температур на иные участки базы нужно обеспечить достаточную изоляцию из тугоплавких материалов: например, <link=\\"CERAMIC\\">керамики</link> или <link=\\"OBSIDIAN\\">обсидиана</link>.\\n
+\\n
+Хотя моих дубликантов частично смогут защитить <link=\\"EXOSUIT\\">экзокостюмы</link>, при долгом нахождении в этом биоме они могут перегреться. Нужно обязательно построить поблизости медицинские объекты, на случай если нужно будет оказать им неотложную помощь.`,
+	mem: [
+		{
+			msgid: `
+<link=\\"MAGMA\\">Magma</link> is source of extreme <link=\\"HEAT\\">Heat</link> which can be used to transform <link=\\"WATER\\">Water</link> in to <link=\\"STEAM\\">Steam</link> or <link=\\"CRUDEOIL\\">Crude Oil</link> into <link=\\"PETROLEUM\\">Petroleum</link>. In order to prevent the extreme temperatures of this biome invading other parts of my base, suitable insulation must be constructed using materials with high melting points like  <link=\\"CERAMIC\\">Ceramic</link> or <link=\\"OBSIDIAN\\">Obsidian</link>.\\n
+\\n
+Though <link=\\"EXOSUIT\\">Exosuits</link> will provide some protection for my Duplicants, there is still a danger they will overheat if spending an extended amount of time in this Biome. I should ensure that suitable medical facilities have been constructed nearby to take care of any medical emergencies.`,
+			msgstr: `
+<link=\\"MAGMA\\">Магма</link> — это источник колоссального количества <link=\\"HEAT\\">тепла</link>, которое может быть использовано для преобразования <link=\\"WATER\\">воды</link> в <link=\\"STEAM\\">пар</link> или <link=\\"CRUDEOIL\\">нефти</link> в <link=\\"PETROLEUM\\">керосин</link>. Для предотвращения распространения высоких температур по всей базе, необходимо обеспечить теплоизоляцию из тугоплавких материалов, таких как <link=\\"CERAMIC\\">керамика</link> или <link=\\"OBSIDIAN\\">обсидиан</link>.\\n
+\\n
+Хотя <link=\\"EXOSUIT\\">экзокостюмы</link> обеспечивают определённую защиту для моих дубликантов, они всё ещё могут обжигаться, если находятся достаточно долгое время в этом биоме. Я должен убедиться, что подходящие медицинские постройки сконструированы неподалёку и готовы принять пациентов для неотложной медицинской помощи.`,
+		},
+		{
+			msgid: `<link=\\"MAGMA\\">Magma</link> is source of extreme <link=\\"HEAT\\">Heat</link> which can be used to transform <link=\\"WATER\\">Water</link> in to <link=\\"STEAM\\">Steam</link> or <link=\\"CRUDEOIL\\">Crude Oil</link> into <link=\\"PETROLEUM\\">Petroleum</link>. In order to prevent the extreme temperatures of this biome invading other parts of my base, suitable insulation must be constructed using materials with high melting points like <link=\\"CERAMIC\\">Ceramic</link> or <link=\\"OBSIDIAN\\">Obsidian</link>.\\n\\nThough <link=\\"EXOSUIT\\">Exosuits</link> will provide some protection for my Duplicants, there is still a danger they will overheat if spending an extended amount of time in this Biome. I should ensure that suitable medical facilities have been constructed nearby to take care of any medical emergencies.`,
+			msgstr: `
+<link=\\"MAGMA\\">Магма</link> — это источник колоссального количества <link=\\"HEAT\\">тепла</link>, которое может быть использовано для преобразования <link=\\"WATER\\">воды</link> в <link=\\"STEAM\\">пар</link> или <link=\\"CRUDEOIL\\">нефти</link> в <link=\\"PETROLEUM\\">керосин</link>. Для предотвращения распространения высоких температур по всей базе, необходимо обеспечить теплоизоляцию из тугоплавких материалов, таких как <link=\\"CERAMIC\\">керамика</link> или <link=\\"OBSIDIAN\\">обсидиан</link>.\\n
+\\n
+Хотя <link=\\"EXOSUIT\\">экзокостюмы</link> обеспечивают определённую защиту для моих дубликантов, они всё ещё могут обжигаться, если находятся достаточно долгое время в этом биоме. Я должен убедиться, что подходящие медицинские постройки сконструированы неподалёку и готовы принять пациентов для неотложной медицинской помощи.`,
 		},
 	],
 },
@@ -4559,6 +5911,86 @@ LEDв\\n
 	msgid: `BIONIC SYSTEMS`,
 	msgstr: ``,
 	klei: `БИОНИЧЕСКИЕ СИСТЕМЫ`,
+},
+{
+	msgctxt: "STRINGS.UI.CLUSTERMAP.ROCKETS.RANGE.ROBO_PILOTED_TOOLTIP",
+	msgid: `Rockets piloted by <style=\\"KKeyword\\">Robo-Pilot</style> can travel one tile per {0} <style=\\"KKeyword\\">Data Bank</style>\\n<style=\\"KKeyword\\">Data Banks</style> remaining: {1}`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.DEAD_ROBO_PILOT_ONLY_SPEED_TOOLTIP",
+	msgid: `<style=\\"KKeyword\\">Robo-Pilot</style> has no <style=\\"KKeyword\\">Data Banks</style>\\n\\nThis rocket is stranded`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.DUPEPILOT_SPEED_TOOLTIP",
+	msgid: `Duplicant pilot skill: +{speed_boost} speed boost`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.PILOT_SPEED_MODIFIER",
+	msgid: `\\n\\nRockets operating on autopilot will have a reduced speed\\n\\n<b>Rocket speed</b> can be increased by a Duplicant pilot's <b>Skill</b> and by a <style=\\"KKeyword\\">Robo-Pilot</style>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.ROBO_PILOT_ONLY_SPEED_TOOLTIP",
+	msgid: `Piloted by a <style=\\"KKeyword\\">Robo-Pilot</style>: No speed boost`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.SUPERPILOTED_SPEED_TOOLTIP",
+	msgid: `Multi-Piloted: +{speed_boost} speed boost`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.TOOLTIP",
+	msgid: `<b>Rocket speed</b> is calculated by dividing <b>engine power</b> by <b>burden</b>`,
+	msgstr: `
+<b>Скорость ракеты</b> можно посчитать, разделив <b>мощность двигателя</b> на <b>нагрузку</b>.\\n
+\\n
+Ракеты, управляемые автопилотом, будут летать с пониженной скоростью.\\n
+\\n
+Скорость ракеты может быть увеличена, благодаря навыку пилотирования дубликанта в ней.`,
+	klei: `
+<b>Скорость ракеты</b> вычисляется путем деления <b>мощности двигателя</b> на степень <b>нагрузки</b>.\\n
+\\n
+Скорость ракеты снижается при полете на автопилоте.\\n
+\\n
+Она может повыситься благодаря навыку дубликанта, управляющего ракетой.`,
+	mem: [
+		{
+			msgid: `
+<b>Rocket Speed</b> is calculated by dividing <b>Engine Power</b> by <b>Burden</b>.\\n
+Rockets operating on autopilot will have a reduced speed.`,
+			msgstr: `
+<b>Скорость ракеты</b> определяется <b>мощностью двигателя</b>, делённой на <b>нагрузку</b>.\\n
+Ракеты с автопилотом имеют уменьшенную скорость.`,
+		},
+		{
+			msgid: `
+<b>Rocket Speed</b> is calculated by dividing <b>Engine Power</b> by <b>Burden</b>.\\n
+Rockets operating on autopilot will have a reduced speed.\\n
+Rocket speed can be further increased by the skill of the Duplicant flying the rocket.`,
+			msgstr: `
+<b>Скорость полёта</b> можно посчитать, разделив <b>мощность двигателя</b> на <b>нагрузку</b>.\\n
+Ракеты под управлением автопилота будут иметь пониженную скорость.\\n
+Скорость ракеты может быть дополнительно увеличена благодаря навыкам пилота.`,
+		},
+		{
+			msgid: `<b>Rocket Speed</b> is calculated by dividing <b>Engine Power</b> by <b>Burden</b>.\\n\\nRockets operating on autopilot will have a reduced speed.\\n\\nRocket speed can be further increased by the skill of the Duplicant flying the rocket.`,
+			msgstr: `
+<b>Скорость ракеты</b> можно посчитать, разделив <b>мощность двигателя</b> на <b>нагрузку</b>.\\n
+\\n
+Ракеты, управляемые автопилотом, будут летать с пониженной скоростью.\\n
+\\n
+Скорость ракеты может быть увеличена, благодаря навыку пилотирования дубликанта в ней.`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.UNPILOTED_SPEED_TOOLTIP",
+	msgid: `Rocket is operating on autopilot: -{speed_boost} speed`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.CANT_REACH",
@@ -4656,14 +6088,44 @@ LEDв\\n
 	klei: `    • На данной ракете нет дубликантов с мочевым пузырем`,
 },
 {
+	msgctxt: "STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.BODY",
+	msgid: `You're about to opt in to the beta for <b>The Bionic Booster Pack</b> DLC.\\nThis free beta is a work in progress, and will be discontinued before the paid DLC is released. \\n\\nAre you sure you want to opt in?`,
+	msgstr: `
+Вы собираетесь присоединиться к бета-тестированию DLC <b>\\"The Frosty Planet Pack\\"</b>.\\n
+Эта бесплатная бета-версия находится в разработке и будет отключена перед выпуском платного DLC.\\n
+\\n
+Вы уверены, что хотите присоединиться?`,
+	klei: `
+Вы собираетесь перейти к бета-версии дополнения <b>Набор \\"Ледяная планета\\"</b>.\\n
+Эта бесплатная бета-версия еще не закончена. Она будет деактивирована перед выходом платной версии дополнения. \\n
+\\n
+Вы точно хотите продолжить?`,
+	mem: [
+		{
+			msgid: `You're about to opt in to the beta for <b>The Frosty Planet Pack</b> DLC.\\nThis free beta is a work in progress, and will be discontinued before the paid DLC is released. \\n\\nAre you sure you want to opt in?`,
+			msgstr: `
+Вы собираетесь присоединиться к бета-тестированию DLC <b>\\"The Frosty Planet Pack\\"</b>.\\n
+Эта бесплатная бета-версия находится в разработке и будет отключена перед выпуском платного DLC.\\n
+\\n
+Вы уверены, что хотите присоединиться?`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.UI.DLC3.MIXING_TOOLTIP",
+	msgid: `<i>The Bionic Booster Pack</i> features portable power storage, bionic Duplicants, and remote building operation`,
+	msgstr: ``,
+	klei: ``,
+},
+{
 	msgctxt: "STRINGS.UI.DLC3.NAME",
-	msgid: `SUPER-SECRET DLC3 NAME`,
+	msgid: `The Bionic Booster Pack`,
 	msgstr: ``,
 	klei: `СУПЕРСЕКРЕТНОЕ НАЗВАНИЕ DLC3`,
 },
 {
 	msgctxt: "STRINGS.UI.DLC3.NAME_ITAL",
-	msgid: `<i>SUPER-SECRET DLC3 NAME</i>`,
+	msgid: `<i>The Bionic Booster Pack</i>`,
 	msgstr: ``,
 	klei: `<i>СУПЕРСЕКРЕТНОЕ НАЗВАНИЕ DLC3</i>`,
 },
@@ -4764,6 +6226,11 @@ LEDв\\n
 	klei: `Сохранение выполнено`,
 },
 {
+	msgctxt: "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.POWER_BANK_WATER_DAMAGE",
+	msgid: `Water Damage`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.ITEM_DROP_SCREEN.UNOPENED_ITEM",
 	msgid: `{0} unclaimed blueprint`,
 	msgstr: ``,
@@ -4774,6 +6241,21 @@ LEDв\\n
 	msgid: `{0} unclaimed blueprints`,
 	msgstr: ``,
 	klei: `Неполученных схем: {0}`,
+},
+{
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_AUTOMATION",
+	msgid: `Automation`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_ELECTIC_WIRES",
+	msgid: `Electrical`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_RESEARCH",
+	msgid: `Research`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.NEWBUILDCATEGORIES.ELECTROBANKBUILDINGS.BUILDMENUTITLE",
@@ -4804,6 +6286,33 @@ LEDв\\n
 	msgid: `<link=\\"ADVANCEDCRAFTINGTABLE\\">Soldering Station</link> Usage`,
 	msgstr: ``,
 	klei: `Использование <link=\\"ADVANCEDCRAFTINGTABLE\\">паяльной станции</link>`,
+},
+{
+	msgctxt: "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION",
+	msgid: `<link=\\"POWER\\">Generator</link> Tuning and <link=\\"POWERSTATIONTOOLS\\">Microchip</link> Crafting`,
+	msgstr: `<link=\\"POWER\\">Настройка генератора</link> и создание микрочипов`,
+	klei: `<link=\\"POWER\\">Настройка генераторов</link> и создание микропроцессоров`,
+	mem: [
+		{
+			msgid: `<link=\\"POWER\\">Generator Tuning</link> usage and Microchip Crafting`,
+			msgstr: `<link=\\"POWER\\">Настройка генератора</link> и создание микрочипов`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.UI.ROLES_SCREEN.PERKS.EFFICIENT_BIONIC_GEARS.DESCRIPTION",
+	msgid: `50% Grinding Gears penalty reduction`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.ROLES_SCREEN.PERKS.EXTRA_BIONIC_BATTERIES.DESCRIPTION",
+	msgid: `Extra Power Banks`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.ROLES_SCREEN.PERKS.REDUCED_GUNK_PRODUCTION.DESCRIPTION",
+	msgid: `10% Slower Gunk Buildup`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.BIONICUPGRADES",
@@ -4845,6 +6354,23 @@ LEDв\\n
 	],
 },
 {
+	msgctxt: "STRINGS.UI.SCHEDULESCREEN.SCHEDULE_NAME_DEFAULT",
+	msgid: `Default Standard Schedule`,
+	msgstr: `График по умолчанию`,
+	klei: `Расписание по умолчанию`,
+	mem: [
+		{
+			msgid: `Default Schedule`,
+			msgstr: `График по умолчанию`,
+		},
+	],
+},
+{
+	msgctxt: "STRINGS.UI.SCHEDULESCREEN.SCHEDULE_NAME_DEFAULT_BIONIC",
+	msgid: `Default Bionic Schedule`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.SCHEDULESCREEN.SHIFT_SCHEDULE_DOWN_TOOLTIP",
 	msgid: `Swap this row with the one below it`,
 	msgstr: ``,
@@ -4882,13 +6408,13 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.ROBO_PILOT_WARNING",
-	msgid: `Robo-Pilot solo flight`,
+	msgid: `Copilot boarded`,
 	msgstr: ``,
 	klei: `Одиночный полет робопилота`,
 },
 {
 	msgctxt: "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.ROBO_PILOT_WARNING",
-	msgid: `This rocket is being piloted by a Robo-Pilot\\n\\nThere are no Duplicants with the <link=\\"ROCKETPILOTING1\\">Rocket Piloting</link> skill currently onboard`,
+	msgid: `This rocket is being piloted by a Robo-Pilot\\n\\nThere are no Duplicants with the <link=\\"ROCKETPILOTING1\\">Rocket Piloting</link> skill currently onboard\\n\\nQualified Duplicants must be assigned to the rocket crew, and have access to the module's hatch`,
 	msgstr: ``,
 	klei: `
 Ракетой управляет робопилот\\n
@@ -4921,13 +6447,18 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.FAILURE",
-	msgid: `<style=\\"KKeyword\\">Robo-Pilot</style> requires at least one <style=\\"KKeyword\\">Data Bank</style> for launch`,
+	msgid: `<style=\\"KKeyword\\">Robo-Pilot</style> requires at least {0} <style=\\"KKeyword\\">Data Banks</style> to reach its destination`,
 	msgstr: ``,
 	klei: `Для запуска <style=\\"KKeyword\\">робопилоту</style> необходим хотя бы один <style=\\"KKeyword\\">банк данных</style>`,
 },
 {
+	msgctxt: "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.FAILURE_NO_DESTINATION",
+	msgid: `No destination has been set`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.READY",
-	msgid: `<style=\\"KKeyword\\">Robo-Pilot</style> has sufficient <style=\\"KKeyword\\">Data Banks</style> to reach its destination`,
+	msgid: `<style=\\"KKeyword\\">Robo-Pilot</style> has sufficient <style=\\"KKeyword\\">Data Banks</style> for a roundtrip to its destination and back`,
 	msgstr: ``,
 	klei: `<style=\\"KKeyword\\">Робопилоту</style> хватает <style=\\"KKeyword\\">банков данных</style>, чтобы достичь места назначения`,
 },
@@ -4939,7 +6470,7 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.WARNING",
-	msgid: `<style=\\"KKeyword\\">Robo-Pilot</style> has insufficient <style=\\"KKeyword\\">Data Banks</style> to reach its destination\\n\\nTravel speed will be reduced`,
+	msgid: `<style=\\"KKeyword\\">Robo-Pilot</style> has insufficient <style=\\"KKeyword\\">Data Banks</style> for a roundtrip\\n    • {0}/{1} stored`,
 	msgstr: ``,
 	klei: `
 <style=\\"KKeyword\\">Робопилоту</style> не хватает <style=\\"KKeyword\\">банков данных</style>, чтобы достичь места назначения\\n
@@ -4992,6 +6523,26 @@ LEDв\\n
 	klei: `<style=\\"KKeyword\\">Робопилоту</style> не хватает <style=\\"KKeyword\\">энергии</style> на путешествие к месту назначения и обратный путь`,
 },
 {
+	msgctxt: "STRINGS.UI.STARMAP.ROCKETSTATS.ROBO_PILOT_EFFICIENCY",
+	msgid: `Robo Pilot can travel {0} per data bank`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.STARMAP.ROCKETSTATS.ROBO_PILOT_RANGE",
+	msgid: `Robo Pilot Range`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.TEMPORARY_ACTIONS.CAMERA_RETURN.NAME",
+	msgid: `Camera: Return`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.TEMPORARY_ACTIONS.CAMERA_RETURN.TOOLTIP",
+	msgid: `Return camera to its previous position`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.TOOLS.MOVETOLOCATION.NAME",
 	msgid: `Relocate`,
 	msgstr: `Идти`,
@@ -5032,7 +6583,7 @@ LEDв\\n
 },
 {
 	msgctxt: "STRINGS.UI.TOOLTIPS.METERSCREEN_ELECTROBANK_JOULES",
-	msgid: `Joules Available: {0}\\n\\nBionic Duplicants use a minimum of X each per cycle\\n\\nPower Banks Available: Y\\n`,
+	msgid: `Joules Available: {0}\\n\\nBionic Duplicants use a minimum of {1} each per cycle\\n\\nPower Banks Available: {2}\\n`,
 	msgstr: ``,
 	klei: `
 Доступно джоулей: {0}\\n
@@ -5061,6 +6612,36 @@ LEDв\\n
 			msgstr: `Калорий доступно: {0}`,
 		},
 	],
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.ALREADY_ASSIGNED",
+	msgid: `{0} currently has <b>{1} of this type</b> of booster assigned`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.AVAILABLE_SLOTS",
+	msgid: `{0} has <b>{1}/{2}</b> booster slots assigned`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.HEADER_ATTRIBUTES",
+	msgid: `<b>Boosts:</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.HEADER_PERKS",
+	msgid: `<b>Enables:</b>`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.NOT_ALREADY_ASSIGNED",
+	msgid: `{0} does not currently have this type of booster assigned`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.NO_AVAILABLE_SLOTS",
+	msgid: `<color=#ffff00ff>All of {0}'s booster slots are currently assigned: <b>{1}/{2}</b></color>`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.CURRENT_WATTAGE_LABEL",
@@ -5111,30 +6692,14 @@ LEDв\\n
 Щелкните, чтобы посмотреть доступные бустеры`,
 },
 {
-	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.SLOT_INSTALLED_IN_USE",
-	msgid: `<style=\\"KKeyword\\">{0}</style> installed\\n\\nStatus: Active\\n\\nWattage: {1}\\n\\n{2}`,
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.SLOT_INSTALLED",
+	msgid: `{0}`,
 	msgstr: ``,
-	klei: `
-<style=\\"KKeyword\\">{0}</style>: установлено\\n
-\\n
-Статус: активно\\n
-\\n
-Мощность: {1}\\n
-\\n
-{2}`,
 },
 {
-	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.SLOT_INSTALLED_NOT_IN_USE",
-	msgid: `<style=\\"KKeyword\\">{0}</style> installed\\n\\nStatus: Idle\\n\\nPotential Wattage: {1}\\n\\n{2}`,
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.SLOT_LOCKED",
+	msgid: `This booster slot is unavailable\\n\\nBooster slots can be unlocked using <style=\\"KKeyword\\">Skill Points</style>`,
 	msgstr: ``,
-	klei: `
-<style=\\"KKeyword\\">{0}</style>: установлено\\n
-\\n
-Статус: бездействует\\n
-\\n
-Потенциальная мощность: {1}\\n
-\\n
-{2}`,
 },
 {
 	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.UPGRADE_SLOT_ASSIGNED",
@@ -5149,16 +6714,32 @@ LEDв\\n
 	klei: `Опустошить`,
 },
 {
-	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.UPGRADE_SLOT_WATTAGE",
-	msgid: `{0}`,
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.UPGRADE_SLOT_INSTALLED",
+	msgid: `Installed`,
 	msgstr: ``,
-	klei: `{0}`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.UPGRADE_SLOT_LOCKED",
+	msgid: `N/A`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_RESEARCH_REQUIRED",
 	msgid: `Research Required`,
 	msgstr: ``,
 	klei: `Требуется исследование`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.CURRENT_SCHEDULE_BLOCK",
+	msgid: `CURRENT SHIFT: {0}`,
+	msgstr: `Блок графика: {0}`,
+	klei: `Блок расписания: {0}`,
+	mem: [
+		{
+			msgid: `Schedule Block: {0}`,
+			msgstr: `Блок графика: {0}`,
+		},
+	],
 },
 {
 	msgctxt: "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.LIST_TITLE",
@@ -5299,6 +6880,11 @@ LEDв\\n
 	],
 },
 {
+	msgctxt: "STRINGS.UI.UISIDESCREENS.REMOTE_WORK_TERMINAL_SIDE_SCREEN.DESCRIPTION",
+	msgid: `Select a remote worker dock for this controller to target.`,
+	msgstr: ``,
+},
+{
 	msgctxt: "STRINGS.UI.UISIDESCREENS.REMOTE_WORK_TERMINAL_SIDE_SCREEN.DOCK_TOOLTIP",
 	msgid: `Click to assign this dock to this controller\\n\\nDouble-click to view this dock`,
 	msgstr: ``,
@@ -5306,6 +6892,16 @@ LEDв\\n
 Щелкните, чтобы назначить эту док-станцию выбранному пульту\\n
 \\n
 Щелкните дважды, чтобы посмотреть док-станцию`,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.REMOTE_WORK_TERMINAL_SIDE_SCREEN.NOTHING_SELECTED",
+	msgid: `None`,
+	msgstr: ``,
+},
+{
+	msgctxt: "STRINGS.UI.UISIDESCREENS.REMOTE_WORK_TERMINAL_SIDE_SCREEN.TITLE",
+	msgid: `Dock Assignment`,
+	msgstr: ``,
 },
 {
 	msgctxt: "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ROBOPILOT_PER_ROCKET.FAILED",
