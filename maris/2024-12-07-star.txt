@@ -1,0 +1,960 @@
+STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_CIRCUIT.DESC
+"Сам пояс не бионический, но дубликант носит его так, словно он бионический."
+
+STRINGS.BLUEPRINTS.PERMIT_CRAFTINGSTATION_CYBERPUNK.DESC
+"Строим лучшее будущее уже сегодня"
+
+STRINGS.BLUEPRINTS.PERMIT_CRAFTINGSTATION_CYBERPUNK.NAME
+"Ретродиодный верстак"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_BIONIC.DESC
+"Немного жирная."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_BIONIC.NAME
+"Мазь у ног"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_FROSTY.DESC
+"Выглядит и пахнет как будто это \"личное дело\" крольмонта."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_FROSTY.NAME
+"Особая поза"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_BIONIC.DESC
+"Некоторые дубликанты взбираются на вещи только потому, что они есть."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_BIONIC.NAME
+"Сверху микрочипа"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_FROSTY.DESC
+"Шлейф загибается вверх, чтобы упростить подметание пола."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_FROSTY.NAME
+"Свекольный пьедестал"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_BIONIC.DESC
+"Победитель получает всё."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_BIONIC.NAME
+"Даёшь усиленную базу!"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_FROSTY.DESC
+"Оно светится, хотя на самом деле не излучает никакого света."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_C_FROSTY.NAME
+"Приземление Люмена"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_BIONIC.DESC
+"Изображение трепещущих ладоней восхищённого бионического дубликанта."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_BIONIC.NAME
+"Щекотливое толувище"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_FROSTY.DESC
+"Пытается отстраниться от чего-то."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_FROSTY.NAME
+"Отпрыгивание"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_BIONIC.DESC
+"Подзарядка энергией с помощью портативных устройств."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_BIONIC.NAME
+"Силовой нападающий"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_FROSTY.DESC
+"Резные ягоды почти также вкусны, как и настоящие."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_FROSTY.NAME
+"Ягодный торс"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_BIONIC.DESC
+"В этой вселенной ты получаешь то, что берёшь."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_BIONIC.NAME
+"Торс жадины"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_FROSTY.DESC
+"Никогда, <i>НИКОГДА</i> не бегайте, пока несёте тюленя-самогонщика."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_C_FROSTY.NAME
+"Обнимашки с тюленями"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_BIONIC.DESC
+"Каждое отдельное кольцо достаточно тяжёлое, чтобы раздавить дубликанта."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_BIONIC.NAME
+"Голова Стиллы"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_FROSTY.DESC
+"Огромное отдыхающее.... эм... лицо."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_FROSTY.NAME
+"Голова Лиама"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_BIONIC.DESC
+"Он всем известен ещё с тех времён."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_BIONIC.NAME
+"Голова Электроника"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_FROSTY.DESC
+"Круче, чем просто "cool"."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_FROSTY.NAME
+"Голова Фрейи"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_BIONIC.DESC
+"Самодовольная рожа победителя."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_BIONIC.NAME
+"Голова Ульти"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_FROSTY.DESC
+"Все любят Пэй Дэй!"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_C_FROSTY.NAME
+"Голова Пэй"
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITYELECTRICBRIDGECONDUCTIVE_DIAMOND_ORCHID.DESC
+"Цветовая кодировка кабельных мостов позволяет легко понять, как все подключено."
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITYELECTRICBRIDGECONDUCTIVE_DIAMOND_ORCHID.NAME
+"Тёмно-фиолетовый улучшенный кабельный мост"
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITYELECTRICBRIDGECONDUCTIVE_NET_PINK.DESC
+"Цветовая кодировка кабельных мостов позволяет легко понять, как все подключено."
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITYELECTRICBRIDGECONDUCTIVE_NET_PINK.NAME
+"Красный улучшенный кабельный мост"
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITYELECTRICBRIDGECONDUCTIVE_SCALE_LIME.DESC
+"Цветовая кодировка кабельных мостов позволяет легко понять, как все подключено."
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITYELECTRICBRIDGECONDUCTIVE_SCALE_LIME.NAME
+"Зелёный улучшенный кабельный мост"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_ARCADE.DESC
+"Для тех, кто скучает по ковровым дорожкам родной планеты."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_ARCADE.NAME
+"<link=\"EXTERIORWALL\">Развлекательный узор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCUIT_BOGEY.DESC
+"Физики утверждают, что он изменил цвет в тот момент, когда его наблюдали."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCUIT_BOGEY.NAME
+"<link=\"EXTERIORWALL\">Квантовый контур</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCUIT_LIGHTCOBALT.DESC
+"Из-за него можно почувствовать себя на электростанции как д-Ом-а."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCUIT_LIGHTCOBALT.NAME
+"<link=\"EXTERIORWALL\">Механический контур</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCUIT_PUNK.DESC
+"Назван в честь любимого вируса дизайнера, уничтожающего бактерии."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCUIT_PUNK.NAME
+"<link=\"EXTERIORWALL\">Фаговый контур</link>"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTPILOTED.DUPE_TOOLTIP
+"Ускорение от навыка пилота-дубликанта: +{0}"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTUNPILOTED.ROBO_PILOT_ONLY_TOOLTIP
+"У <style=\"KKeyword\">робопилота</style> кончились <style=\"KKeyword\">банки данных</style>\n\nРакета зависла и не двигается"
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.COLONY_HAS_BOOSTER_ASSIGNED_COUNT
+"Количество бионических дубликантов, в которых этот усилитель уже установлен: {0}"
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.COLONY_HAS_BOOSTER_ASSIGNED_NONE
+"В колонии нет бионических дубликантов с этим усилителем"
+
+STRINGS.BUILDINGS.PREFABS.DATAMINER.DESC
+"С помощью банков данных также можно программировать ракетные модули <color=#C38802>робопилотов</color>."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_A.DESC
+"Стойка прямо, во весь рост."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_A.NAME
+"На астероиде I"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_B.DESC
+"Не бесцельное стояние на своих двоих."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_B.NAME
+"На астероиде II"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_C.DESC
+"Колени дрожат."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_C.NAME
+"На астероиде III"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_D.DESC
+"Во имя науки!"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_D.NAME
+"Научный пьедестал"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_E.DESC
+"Уверенная позиция."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_E.NAME
+"На астероиде IV"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_F.DESC
+"Одно колено подтянуто к другому."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_F.NAME
+"На астероиде V"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_G.DESC
+"Один маленький шаг для дубликанта..."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_G.NAME
+"На астероиде VI"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_H.DESC
+"Сверху пары побежденных тварей."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_H.NAME
+"Охотник на хатчей"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_I.DESC
+"Поиск покоя среди мусора."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_I.NAME
+"Мусорное спокойствие"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_J.DESC
+"Так не может быть удобно."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_J.NAME
+"Рыболовный топтатель"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_K.DESC
+"Нужно дать душе время, чтобы она по-настоящему вылупилась."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_K.NAME
+"Яичная невозмутимость"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_L.DESC
+"Чуточку несбалансированная основа."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_L.NAME
+"Наклонённый обтекатель"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_M.DESC
+"В честь двигателя на сахарозе."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_M.NAME
+"Сладкое сиденье"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_N.DESC
+"Верхом на углекислотном двигателе к славе."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_N.NAME
+"Оседлание CO2"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_O.DESC
+"Сверху керосинового двигателя."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_O.NAME
+"Стойка нефтяника"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_P.DESC
+"На носовой части одинокой ракеты."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_P.NAME
+"Полуприсед космодесантника"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_Q.DESC
+"Сверху ВЭЧ-двигателя."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_Q.NAME
+"Место силы"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_R.DESC
+"Сверху спящего робота Свипи."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_R.NAME
+"Свипи I"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_S.DESC
+"Сверху любопытного робота Свипи."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_S.NAME
+"Свипи II"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_T.DESC
+"Сверху счастливого маленького робота Свипи."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTBOTTOM.FACADES.OPTION_T.NAME
+"Свипи III"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_A.DESC
+"Отличная работа, скульптор!"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_A.NAME
+"Большой палец вверх"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_B.DESC
+"Влево ослабляем, вправо затягиваем."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_B.NAME
+"Большой гаечный ключ"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_C.DESC
+"Отмечает неуверенность."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_C.NAME
+"Э-э-э, прошу прощения"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_D.DESC
+"Заставляет туловище казаться больше и более устрашающим, чем оно есть на самом деле."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_D.NAME
+"Руки в боки"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_E.DESC
+"Иногда вещи достаточно хороши такими, какие они есть."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_E.NAME
+"Пожимание плечами"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_F.DESC
+"Одобрительный выстрел из пальца."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_F.NAME
+"Не сомневайся"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_G.DESC
+"Наклонен вперёд довольно сильный."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_G.NAME
+"Ну, здравствуй"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_H.DESC
+"Пусть летят!"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_H.NAME
+"Кулаки ярости"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_I.DESC
+"Обхват тёплой живности"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_I.NAME
+"Объятие хатча"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_J.DESC
+"Наклоняется небрежно, с изяществом."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_J.NAME
+"Непринужденная элегантность"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_K.DESC
+"Руки слегка отведены от тела, словно при удивлении."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_K.NAME
+"Приоткрытые ладони"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_L.DESC
+"Люлька для пары гладких детёнышей."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_L.NAME
+"Малыши на руках I"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_M.DESC
+"Празднует космическое путешествие."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_M.NAME
+"Модель ракеты"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_N.DESC
+"Целая охапка пухленьких очаровательных милах."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_N.NAME
+"Малыши на руках II"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_O.DESC
+"Обнимашки с насекомоняшными маленькими детками."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTMIDDLE.FACADES.OPTION_O.NAME
+"Малыши на руках III"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_A.DESC
+"Массивная копия улыбающегося лица Лейры."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_A.NAME
+"Голова Лейры"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_B.DESC
+"Массивная копия решительного взгляда Госсманн."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_B.NAME
+"Голова Госсманн"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_C.DESC
+"Пуффт огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_C.NAME
+"Голова-пуффт"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_D.DESC
+"Массивная копия выражения лица Николы после взрыва."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_D.NAME
+"Голова Николы"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_E.DESC
+"Массивная копия выражения лица Берта, наблюдающего за живностью."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_E.NAME
+"Голова Берта"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_F.DESC
+"Массивная копия безмятежной улыбки Роуэна."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_F.NAME
+"Голова Роуэна"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_G.DESC
+"Массивная копия лица Нисбет, когда она видит кого-то, чьё имя она забыла."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_G.NAME
+"Голова Нисбет"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_H.DESC
+"Массивная копия выражения лица Ашкана, раскапывающего окаменелости."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_H.NAME
+"Голова Ашкана"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_I.DESC
+"Массивная копия смазливого лица Рена."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_I.NAME
+"Голова Рена"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_J.DESC
+"Хатч огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_J.NAME
+"Голова-хатч"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_K.DESC
+"Пластиковый дреккон огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_K.NAME
+"Голова-дреккон"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_L.DESC
+"Ройка огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_L.NAME
+"Голова-ройка"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_M.DESC
+"Газовая муу самого муу-ксимального размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_M.NAME
+"Голова-муу"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_N.DESC
+"Морб огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_N.NAME
+"Голова-морб"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_O.DESC
+"Светлячок огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_O.NAME
+"Голова-светлячок"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_P.DESC
+"Скользун огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_P.NAME
+"Голова-скользун"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_Q.DESC
+"Паку огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_Q.NAME
+"Голова-паку"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_R.DESC
+"Ядерная пчела огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_R.NAME
+"Голова-пчела"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_S.DESC
+"Сладкожук огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_S.NAME
+"Голова-сладкожук"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_T.DESC
+"Огромная склизкая розетка. Не требует источника питания."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_T.NAME
+"Голова-энергослизень"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_U.DESC
+"Садовая живность огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_U.NAME
+"Голова-хрумхрум"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_V.DESC
+"У него нет рта, но всё равно кажется, что он улыбается."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_V.NAME
+"Голова ровера"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_W.DESC
+"Наглядное напоминание о радиационной безопасности."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_W.NAME
+"Лучевая болезнь I"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_X.DESC
+"За прогресс приходится платить."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_X.NAME
+"Лучевая болезнь II"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_Y.DESC
+"Поучительная история для беспечных дубликантов."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_Y.NAME
+"Лучевая болезнь III"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_Z.DESC
+"Отличный выбор декора для входа на высокорадиоактивный объект."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_Z.NAME
+"Лучевая болезнь IV"
+
+STRINGS.CODEX.BIONICBOOSTER.BODY.CONTAINER1
+"Усилители - это программные модули, предназначенные для улучшения и расширения возможностей бионических дубликантов.\n"
+"\n"
+"Усилители потребляют значительное количество вычислительной мощности во время подключения и дальнейшей работы. Бионические дубликанты могут расширить свои возможности по установке усилителей, накапливая <color=#C38802>очки навыков</color>.\n"
+"\n"
+"Усилители можно комбинировать для получения более широкого спектра навыков, а также для борьбы с бионическими багами, которые могли случайно появиться в исходной прошивке дубликанта."
+
+STRINGS.CODEX.ELECTROBANK.BODY.CONTAINER1
+"Энергоячейки — это переносные контейнеры для хранения <link=\"POWER\">энергии</link>, которые можно использовать для снабжения электричеством мобильных объектов и изолированных территорий.\n"
+"\n"
+"Одноразовые энергоячейки легче в производстве, однако перезаряжаемые и саморазрядные модели более эффективны в долгосрочной перспективе.\n"
+"\n"
+"Требуется осторожное обращение, так как воздействие жидкости (или истечение срока годности для саморазрядных энергоячеек) может привести к взрывам."
+
+STRINGS.CODEX.HEADERS.ROLE_PERKS_BIONIC
+"Установка усилителей"
+
+STRINGS.CODEX.HEADERS.ROLE_PERKS_BIONIC_DESC
+"Установка усилителей мгновенно дает бионическим дубликантам <link=\"SKILLS\">навыки</link> и увеличивает характеристики."
+
+STRINGS.CODEX.HEADERS.UNLOCK_ROLES_BIONIC
+"Системные улучшения"
+
+STRINGS.CODEX.HEADERS.UNLOCK_ROLES_BIONIC_DESC
+"Оптимизация достигается за счёт умелого сочетания и наложения установленных бионических усилителей."
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_POTATOBATTERY.BODY.CONTAINER3
+"<smallcaps>[Обнаружено повреждение записи]\n[Распознавание голоса недоступно]</smallcaps>\n\n[НАЧАЛО ЗАПИСИ]\n\n...слухи о наших усилиях распространились!\n\nБиоинженеры сообщают, что некоторые яйца их созданий содержат фосфоресцирующий альбумин, который требует лишь минимальной обработки для запуска химических реакций, производящих энергию, пригодную для хранения. Он демонстрирует беспрецедентную совместимость с протезами, которые разрабатывает доктор Госманн.\n\nДиректор назначил нам полдюжины новых выпускников на прошлой неделе. Они работают в ночную смену — это поколение никогда не спит!\n\nНикто их ещё не видел, но их данные всегда аккуратно собраны для нас каждое утро.\n\nКажется, они намерены отдавать предпочтение использованию металлических и радиоактивных компонентов, а не растительных или животных материалов.\n\nИдеализм молодости, быть может?\n\nТем не менее, их находки <i>действительно</i> весьма убедительны.\n\nЯ восхищаюсь их стойкостью.\n\n[КОНЕЦ ЗАПИСИ]\n------------------"
+
+STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.DATA_DRIVEN
+"Работа с данными"
+
+STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.DATA_DRIVEN_DESCRIPTION
+"Создайте банк данных с помощью <color=#C38802>добывателя данных</color>, работающего с максимальной эффективностью."
+
+STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MVB
+"Самый ценный бионик"
+
+STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.MVB_DESCRIPTION
+"Установить {0} усилителей в одного из бионических дубликантов."
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBATTERYCOUNTCAPACITY.DESC
+"Количество энергоячеек, которые этот бионический дубликант может использовать"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBOOSTERSLOTS.DESC
+"Количество бионических усилителей, которые этот бионический дубликант может использовать одновременно"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBOOSTERSLOTS.NAME
+"Слоты усилителей"
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CANPICKUPANYASSIGNEDUPGRADE
+"Невозможно подобрать никакой назначенный усилитель"
+
+STRINGS.DUPLICANTS.MODIFIERS.FRESHOIL.TOOLTIP
+"Этот дубликант недавно воспользовался <link=\"OILCHANGER\">смазывательной станцией</link> и чувствует, что всё идёт как по маслу"
+
+STRINGS.DUPLICANTS.MODIFIERS.STRESSSHOCKER.NAME
+"Грозный нрав"
+
+STRINGS.DUPLICANTS.MODIFIERS.STRESSSHOCKER.NOTIFICATION_NAME
+"Бьётся током"
+
+STRINGS.DUPLICANTS.MODIFIERS.STRESSSHOCKER.NOTIFICATION_TOOLTIP
+"Эти дубликанты так сильно <link=\"STRESS\">перенапряглись</link>, что начали испускать электрические разряды:"
+
+STRINGS.DUPLICANTS.MODIFIERS.STRESSSHOCKER.TOOLTIP
+"Этого дубликанта "коротит" из-за <style=\"KKeyword\">перенапряжения</style>."
+
+STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP
+"У каждого бионического дубликанта есть внутренний <style=\"KKeyword\">кислородный баллон</style>,\n"
+"который позволяет ему работать в зонах, непригодных для дыхания\n"
+"\n"
+"Он будет пытаться дышать <style=\"KKeyword\">кислородом</style> в первую очередь из надетого\n"
+"<style=\"KKeyword\">экзокостюма</style>, чтобы экономить внутренние баллоны"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG6.DESC
+"Бионические системы этого дубликанта были разработаны кем-то, кто никогда не видел растений в реальной жизни"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG6.NAME
+"Баг: Городской житель"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG6.SHORT_DESC
+"Нет пассивного повышения атрибутов"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG6.SHORT_DESC_TOOLTIP
+"Не повышает <color=#C38802>атрибуты</color> во время выполнения поручений\n"
+"\n"
+"Для их улучшения требуются <color=#C38802>бионические усилители</color>"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG7.DESC
+"Бионические системы этого дубликанта склонны к ошибкам по части поручений"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG7.NAME
+"Бан: Склонный к ошибкам"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG7.SHORT_DESC
+"Нет пассивного повышения атрибутов"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG7.SHORT_DESC_TOOLTIP
+"Не повышает <color=#C38802>атрибуты</color> во время выполнения поручений\n"
+"\n"
+"Для их улучшения требуются <color=#C38802>бионические усилители</color>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.NAME
+"<link=\"BOOSTERART1\">Усилитель гениальности</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERART1\">усилителем гениальности</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.NAME
+"<link=\"BOOSTERCARRY1\">Усилитель тяги</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERCARRY1\">усилителем тяги</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.NAME
+"<link=\"BOOSTERCONSTRUCT1\">Усилитель сокрушения</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERCONSTRUCT1\">усилителем сокрушения</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.NAME
+"<link=\"BOOSTERCOOK1\">Усилитель готовки</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERCOOK1\">усилителем готовки</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.NAME
+"<link=\"BOOSTERDIG1\">Усилитель бурения</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERDIG1\">усилителем бурения</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.NAME
+"<link=\"BOOSTERDIG2\">Усилитель кладоискателя</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERDIG2\">усилителем кладоискателя</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.NAME
+"<link=\"BOOSTERFARM1\">Усилитель фермерства</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERFARM1\">усилителем фермерства</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.NAME
+"<link=\"BOOSTERMEDICINE1\">Усилитель лечения</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERMEDICINE1\">усилителем лечения</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.NAME
+"<link=\"BOOSTEROP1\">Усилитель электротехники</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTEROP1\">усилителем электротехники</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.NAME
+"<link=\"BOOSTERRANCH1\">Усилитель скотоводства</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERRANCH1\">усилителем скотоводства</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.DESC
+"Позволяет бионическому дубликанту увеличить время ношения <link=\"EQUIPMENT\">экзокостюмов</link> и поддерживать высокую скорость бега в них."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.NAME
+"<link=\"BOOSTERSUITS1\">Усилитель экзокостюмов</link>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.SHORT_DESC
+"Начинает игру с <link=\"BOOSTERSUITS1\">усилителем экзокостюмов</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_ART1.NAME
+"<link=\"BOOSTERART1\">Усилитель гениальности</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CARRY1.NAME
+"<link=\"BOOSTERCARRY1\">Усилитель тяги</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CONSTRUCT1.NAME
+"<link=\"BOOSTERCONSTRUCT1\">Усилитель сокрушения</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_COOK1.NAME
+"<link=\"BOOSTERCOOK1\">Усилитель готовки</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG1.NAME
+"<link=\"BOOSTERDIG1\">Усилитель бурения</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG2.NAME
+"<link=\"BOOSTERDIG2\">Усилитель кладоискателя</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_FARM1.NAME
+"<link=\"BOOSTERFARM1\">Усилитель фермерства</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_MEDICINE1.NAME
+"<link=\"BOOSTERMEDICINE1\">Усилитель лечения</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP1.NAME
+"<link=\"BOOSTEROP1\">Усилитель электротехники</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP2.NAME
+"<link=\"BOOSTEROP2\">Усилитель мехатроники</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOT1.NAME
+"<link=\"BOOSTERPILOT1\">Усилитель пилотирования</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOTVANILLA1.NAME
+"<link=\"BOOSTERPILOTVANILLA1\">Усилитель ракетостроения</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RANCH1.NAME
+"<link=\"BOOSTERRANCH1\">Усилитель скотоводства</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH1.NAME
+"<link=\"BOOSTERRESEARCH1\">Усилитель исследований</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH2.NAME
+"<link=\"BOOSTERRESEARCH2\">Усилитель астрономии</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH3.NAME
+"<link=\"BOOSTERRESEARCH3\">Усилитель прикладных наук</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_SUITS1.DESC
+"Позволяет бионическому дубликанту увеличить время ношения <link=\"EQUIPMENT\">экзокостюмов</link> и поддерживать высокую скорость бега в них."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_SUITS1.NAME
+"<link=\"BOOSTERSUITS1\">Усилитель экзокостюмов</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_TIDY1.NAME
+"<link=\"BOOSTERTIDY1\">Усилитель уборки</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.FABRICATION_SOURCE
+"{0} позволяет изготовить этот усилитель."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK.DESC
+""
+"Экоячейка - это экологическая <link=\"ELECTROBANK\">энергоячейка</link>, которую можно заряжать повторно.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">экоячейки</link> на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_METAL_ORE.DESC
+""
+"Одноразовая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"METAL\">металлической руды</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">металлические энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_METAL_ORE.NAME
+"<link=\"ELECTROBANKMETALORE\">Металлическая энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SELFCHARGING.DESC
+"Саморазрядная <link=\"ELECTROBANK\">энергоячейка</link>, созданная с использованием <link=\"ENRICHEDURANIUM\">обогащённого урана</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANKSELFCHARGING\">уран-ионные энергоячейки</link> в <link=\"SUPERMATERIALREFINERY\">молекулярной кузнице</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SELFCHARGING.NAME
+"<link=\"ELECTROBANKSELFCHARGING\">Уран-ионная энергоячейка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_URANIUM_ORE.DESC
+""
+"Одноразовая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"URANIUMORE\">урановой руды</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANK\">ядерные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_URANIUM_ORE.NAME
+"<link=\"ELECTROBANKURANIUMORE\">Ядерная энергоячейка</link>"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.MESSAGEBODY
+"В нового дубликанта сразу встроена технология, которой он делится с колонией.\n"
+"\n"
+"Стали доступны новые постройки:\n  • {0}"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.TOOLTIP
+"Открыто исследование: {0}"
+
+STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.NAME
+"Срок службы: {0}"
+
+STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.TOOLTIP
+"Оставшийся срок службы для этой энергоячейки.\n"
+"\n"
+"Она постепенно теряет энергию, пока та не опустится до нуля. После этого она взорвётся!"
+
+STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.NAME
+"Саморазряд: {0}"
+
+STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.TOOLTIP
+"Эта энергоячейка медленно, но неотвратимо разряжается"
+
+STRINGS.MISC.TAGS.REMOTEOPERABLE
+"<link=\"LUBRICATINGOIL\">Дистанционно управляемые</link>"
+
+STRINGS.MISC.TAGS.REMOTEOPERABLE_DESC
+"Этими постройками можно управлять на расстоянии с помощью <link=\"REMOTEWORKTERMINAL\">терминала дистанционного управления</link>, если они построены в пределах досягаемости <link=\"REMOTEWORKERDOCK\">док-станции телеробота</link>."
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.SELFCHARGINGELECTROBANK.DESC
+"Позволяет создавать <style=\"KKeyword\">уран-ионные энергоячейки</style> в <link=\"SUPERMATERIALREFINERY\">молекулярной кузнице</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.SELFCHARGINGELECTROBANK.NAME
+"Шаблон <style=\"KKeyword\">уран-ионной энергоячейки</style>"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.RANGE.ROBO_PILOTED_TOOLTIP
+"\nРакеты, управляемые <style=\"KKeyword\">робопилотом</style>, тратят {0} <style=\"KKeyword\">банков данных</style> на каждую клетку космической карты\n"
+"    • Оставшиеся <style=\"KKeyword\">банки данных</style>: {1}"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.DEAD_ROBO_PILOT_ONLY_SPEED_TOOLTIP
+"У <style=\"KKeyword\">робопилота</style> кончились <style=\"KKeyword\">банки данных</style>\n\nРакета зависла и не двигается"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.DUPEPILOT_SPEED_TOOLTIP
+"Ускорение от навыка дубликанта: +{speed_boost}"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.ROBO_PILOT_ONLY_SPEED_TOOLTIP
+"Управляется <style=\"KKeyword\">робопилотом</style>: нет бонуса скорости"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_BATTERIES.LOW_POWERBANKS
+"Запасы <link=\"ELECTROBANK\">энергоячеек</link> колонии близки к нулю:\n"
+"\n"
+"    • Доступно: {0}\n"
+"    • Расходуется за цикл: {1}"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_BATTERIES.NO_POWERBANKS
+"    • У дубликантов нет энергоячеек"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_BATTERIES.PASS
+"    • У бионических дубликантов есть батареи"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_POWERLEVEL.CRITICAL_MODE
+"    • Один или несколько дубликантов отчаянно нуждаются в энергоячейках"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_POWERLEVEL.POWERLESS
+"    • Один или несколько дубликантов не работают и отчаянно нуждаются в энергоячейках"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.CRITERIA.CHECKLOWBIONICOXYGEN
+"Проверка низкого уровня кислорода в баллонах бионических дубликантов"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.NEAR_OR_EMPTY_BIONIC_TANKS
+"    • Критически низкий уровень кислорода в бионических лёгких"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.POOR_BIONIC_TANKS
+"    • Низкий уровень кислорода в бионических лёгких"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.DEFAULT.NAME
+"По умолчанию"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.DEFAULT.TOOLTIP
+"Мощность по умолчанию"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.EASY.NAME
+"Энергоэффективный"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.EASY.TOOLTIP
+"Бионические дубликанты потребляют меньше энергии, чем обычные"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.HARD.NAME
+"Энергоголод"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.HARD.TOOLTIP
+"У бионических дубликантов повышенный аппетит к энергии"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.VERYEASY.NAME
+"Аналоговый"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.VERYEASY.TOOLTIP
+"Бионические дубликанты работают на энтузиазме старой школы и почти не потребляют энергии"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.VERYHARD.NAME
+"Энерговампиризм"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.LEVELS.VERYHARD.TOOLTIP
+"Бионические дубликанты разряжают батареи так, будто это их единственная работа"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.NAME
+"Бионическая мощность"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.BIONICPOWERUSE.TOOLTIP
+"Виляет на базовое энергопотребление бионических дубликантов"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.MONUMENT_PART_FACADE_FOR
+"Часть монумента"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.MONUMENT_BOTTOM
+"Основания монумента"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.MONUMENT_MIDDLE
+"Средние части монумента"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.MONUMENT_TOP
+"Верхние части монумента"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION
+"Замедляется износ <link=\"EQUIPMENT\">экзокостюмов</link>"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
+"Бег в <link=\"EQUIPMENT\">экзокостюме</link>"
+
+STRINGS.UI.SKILLS_SCREEN.ASSIGNED_BOOSTERS_HEADER
+"{0}: Назначенные усилители"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.ROBO_PILOT_WARNING
+""
+"Ракетой управляет <style=\"KKeyword\">робопилот</style>\n"
+"\n"
+"Сейчас на борту нет дубликантов с навыком \"<link=\"ROCKETPILOTING1\">Пилотирование ракеты</link>\""
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.WARNING_NO_DATA_BANKS_HUMAN_PILOT
+""
+"Для работы <style=\"KKeyword\">робопилоту</style> необходимы <style=\"KKeyword\">банки данных</style>\n"
+"\n"
+"Сейчас этой ракетой управляет дубликант с навыком <link=\"ROCKETPILOTING1\">пилотирования ракеты</link>"
+
+STRINGS.UI.STARMAP.ROCKETSTATS.ROBO_PILOT_EFFICIENCY
+"За каждый <color=#C38802>банк данных</color> робопилот можно пройти: {0}"
+
+STRINGS.UI.STARMAP.ROCKETSTATS.ROBO_PILOT_RANGE
+"Расстояние робопилота"
