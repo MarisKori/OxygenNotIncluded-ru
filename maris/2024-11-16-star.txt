@@ -1,34 +1,502 @@
+STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_BASIC_PURPLE_WILDBERRY.DESC
+"Плечи фиолетовые, как проза палеонтолога."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_BASIC_PURPLE_WILDBERRY.NAME
+"Чёткий фиолетовый атмокомбез"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_3TONE_PURPLE.DESC
+"Дополняющие друг друга цвета собирают бесчисленное количество комплиментов."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_3TONE_PURPLE.NAME
+"Трехцветный атмопояс"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_CIRCUIT.DESC
+"Кнопки выглядят почти как ещё один набор бионических глаз. Но это не так."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_CIRCUIT.NAME
+"Бионический атмопояс"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_BIOCIRCUIT.DESC
+"Привлекающие внимание светодиоды позволяют владельцу всегда видеть, где находятся его руки."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_BIOCIRCUIT.NAME
+"Бионические атмоперчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PLUM.DESC
+"Фиолетово-красноватые перчатки для работы в неблагоприятных условиях."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PLUM.NAME
+"Сливовые атмоперчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_BIOCIRCUIT.DESC
+"Панорамный обзор на 360 градусов и крутые нефункциональные кнопки на шее."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_BIOCIRCUIT.NAME
+"Бионический атмошлем"
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_GAUDYSWEATER_PURPLE.DESC
+"Делает черты лица такими, что они выглядят более отдалёнными."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_GAUDYSWEATER_PURPLE.NAME
+"Атмошлем \"Глубокий взгляд\""
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BIOCIRCUIT.DESC
+"Стандартная обувь для... дополненных... сотрудников."
+
+STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_BIOCIRCUIT.NAME
+"Бионические атмоботинки"
+
+STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.DESC
+"Ручная работа из списанных ракет."
+
+STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.NAME
+"Скульптурное стальное платье"
+
 STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.DESC
 "Пока кто-то внутри, эта кровать точно не закроется. Скорее всего."
 
 STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_HATCH.NAME
-"<color=#999999><link=\"LUXURYBED\">Кровать-копатель</link></color>"
+"<link=\"LUXURYBED\">Удобная кровать-хатч</link>"
 
 STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.DESC
 "Идеально для тех, кто спит на боку и любит, чтобы его обнимали."
 
 STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.NAME
-"<color=#C38802><link=\"LUXURYBED\">Кровать — детёныш пипа</link></color>"
+"<link=\"LUXURYBED\">Удобная кровать-пипсквик</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_WHEEZEWORT.DESC
+"Пара хороших, надёжных голубых перчаток, которые отлично смотрятся с чем угодно и поскрипывают во время работы."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_BASIC_BLUE_WHEEZEWORT.NAME
+"Обычные скрипучие перчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_FUTURESPACE_BLUE.DESC
+"Одна металлическая оборка на запястье - это модно. У этих перчаток их две."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_FUTURESPACE_BLUE.NAME
+"Перчатки из будущего"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_METAL_GREY.DESC
+"Они постоянно покрыты отпечатками пальцев."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_METAL_GREY.NAME
+"Стальные перчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_PUFFER_ORANGE.DESC
+"Уютная оранжевая пуховая куртка на каждый палец."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_PUFFER_ORANGE.NAME
+"Кадмиевые желейные перчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_SNAPJACKET_BRINE.DESC
+"Некоторые искатели приключений немного солоноваты, что, в общем-то, неудивительно."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_SNAPJACKET_BRINE.NAME
+"Перчатки для рассола"
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_VSUIT_STELLAR.DESC
+"Межзвёздные перелёты требуют поистине звёздных перчаток."
+
+STRINGS.BLUEPRINTS.PERMIT_GLOVES_VSUIT_STELLAR.NAME
+"Звёздные лётные перчатки"
+
+STRINGS.BLUEPRINTS.PERMIT_HQBASE_CYBERPUNK.DESC
+"В этом есть что-то глубоко обнадёживающее."
+
+STRINGS.BLUEPRINTS.PERMIT_HQBASE_CYBERPUNK.NAME
+"<link=\"HEADQUARTERS\">Ретродиодный биопринтер</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_VSUIT_STELLAR.DESC
+"Плоские швы на V-образном элементе костюма уменьшают сопротивление. Они также хорошо смотрятся."
+
+STRINGS.BLUEPRINTS.PERMIT_JUMPSUIT_VSUIT_STELLAR.NAME
+"Аэродинамический лётный костюм"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_FLAMINGO.NAME
+"<link=\"LOGICGATEAND\">Розовый И-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LEMON.NAME
+"<link=\"LOGICGATEAND\">Яркослизневый И-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_AND_LIGHTCOBALT.NAME
+"<link=\"LOGICGATEAND\">Кобальтовый И-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_BOGEY.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_BOGEY.NAME
+"<link=\"LOGICWIREBRIDGE\">Травяной логический мост</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_FLAMINGO.NAME
+"<link=\"LOGICWIREBRIDGE\">Розовый логический мост</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BRIDGE_LEMON.NAME
+"<link=\"LOGICWIREBRIDGE\">Яркослизневый логический мост</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_FLAMINGO.NAME
+"<link=\"LOGICGATEBUFFER\">Розовый БУФЕР-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LEMON.NAME
+"<link=\"LOGICGATEBUFFER\">Яркослизневый БУФЕР-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_BUFFER_LIGHTCOBALT.NAME
+"<link=\"LOGICGATEBUFFER\">Кобальтовый БУФЕР-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_FLAMINGO.NAME
+"<link=\"LOGICCOUNTER\">Розовый счётчик сигналов</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LEMON.NAME
+"<link=\"LOGICCOUNTER\">Яркослизневый счётчик сигналов</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_COUNTER_LIGHTCOBALT.NAME
+"<link=\"LOGICCOUNTER\">Кобальтовый счётчик сигналов</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_FLAMINGO.NAME
+"<link=\"LOGICGATEDEMULTIPLEXER\">Розовый демультиплексор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LEMON.NAME
+"<link=\"LOGICGATEDEMULTIPLEXER\">Яркослизневый демультиплексор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_DEMULTIPLEXER_LIGHTCOBALT.NAME
+"<link=\"LOGICGATEDEMULTIPLEXER\">Кобальтовый демультиплексор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_FLAMINGO.NAME
+"<link=\"LOGICGATEFILTER\">Розовый ФИЛЬТР-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LEMON.NAME
+"<link=\"LOGICGATEFILTER\">Яркослизневый ФИЛЬТР-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_FILTER_LIGHTCOBALT.NAME
+"<link=\"LOGICGATEFILTER\">Кобальтовый ФИЛЬТР-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_FLAMINGO.NAME
+"<link=\"LOGICMEMORY\">Розовый триггер</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LEMON.NAME
+"<link=\"LOGICMEMORY\">Яркослизневый триггер</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MEMORY_LIGHTCOBALT.NAME
+"<link=\"LOGICMEMORY\">Кобальтовый триггер</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_FLAMINGO.NAME
+"<link=\"LOGICGATEMULTIPLEXER\">Розовый мультиплексор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LEMON.NAME
+"<link=\"LOGICGATEMULTIPLEXER\">Яркослизневый мультиплексор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_MULTIPLEXER_LIGHTCOBALT.NAME
+"<link=\"LOGICGATEMULTIPLEXER\">Кобальтовый мультиплексор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_FLAMINGO.NAME
+"<link=\"LOGICGATENOT\">Розовый НЕ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LEMON.NAME
+"<link=\"LOGICGATENOT\">Яркослизневый НЕ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_NOT_LIGHTCOBALT.NAME
+"<link=\"LOGICGATENOT\">Кобальтовый НЕ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_FLAMINGO.NAME
+"<link=\"LOGICGATEOR\">Розовый ИЛИ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LEMON.NAME
+"<link=\"LOGICGATEOR\">Яркослизневый ИЛИ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_OR_LIGHTCOBALT.NAME
+"<link=\"LOGICGATEOR\">Кобальтовый ИЛИ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BOGEY.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BOGEY.NAME
+"<link=\"LOGICRIBBON\">Травяная логическая шина</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_BOGEY.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_BOGEY.NAME
+"<link=\"LOGICRIBBONBRIDGE\">Травяной мост логической шины</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_FLAMINGO.NAME
+"<link=\"LOGICRIBBONBRIDGE\">Розовый мост логической шины</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_BRIDGE_LEMON.NAME
+"<link=\"LOGICRIBBONBRIDGE\">Яркослизневый мост логической шины</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_FLAMINGO.NAME
+"<link=\"LOGICRIBBON\">Розовая логическая шина</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_RIBBON_LEMON.NAME
+"<link=\"LOGICRIBBON\">Яркослизневая логическая шина</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_BOGEY.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_BOGEY.NAME
+"<link=\"LOGICWIRE\">Травяной логический провод</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_FLAMINGO.NAME
+"<link=\"LOGICWIRE\">Розовый логический провод</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_WIRES_LEMON.NAME
+"<link=\"LOGICWIRE\">Яркослизневый логический провод</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_FLAMINGO.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_FLAMINGO.NAME
+"<link=\"LOGICGATEXOR\">Розовый ИсклИЛИ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LEMON.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LEMON.NAME
+"<link=\"LOGICGATEXOR\">Яркослизневый ИсклИЛИ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LIGHTCOBALT.DESC
+"Автоматизированные постройки с цветовым оформлением автоматически становятся интереснее."
+
+STRINGS.BLUEPRINTS.PERMIT_LOGIC_XOR_LIGHTCOBALT.NAME
+"<link=\"LOGICGATEXOR\">Кобальтовый ИсклИЛИ-гейт</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_PANTS_EXTENDEDWAIST_BLUE_WHEEZEWORT.DESC
+"Встроенный невидимый эластичный пояс поддерживает глубокое дыхание животом."
+
+STRINGS.BLUEPRINTS.PERMIT_PANTS_EXTENDEDWAIST_BLUE_WHEEZEWORT.NAME
+"Скрипучие штаны с высокой талией"
+
+STRINGS.BLUEPRINTS.PERMIT_PANTS_SNAPJACKET_BRINE.DESC
+"Большинство тех, кто примерял, считают их одноразовыми."
+
+STRINGS.BLUEPRINTS.PERMIT_PANTS_SNAPJACKET_BRINE.NAME
+"Штаны с отворотом"
+
+STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_ARCADE.DESC
+"Он игривый, хотя реально в него нельзя <i>играть</i>."
+
+STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_ARCADE.NAME
+"<link=\"ITEMPEDESTAL\">Равзлекательный пьедестал</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_BATTERY.DESC
+"Предметы, выставленные на этом пьедестале, действительно \"полны сил и энергии\"."
+
+STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_BATTERY.NAME
+"<link=\"ITEMPEDESTAL\">Энергоячеестый пьедестал</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_BRASS.DESC
+"Подставка для предмета, выполненная в тёплом, лазурном индустриальном стиле."
+
+STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_BRASS.NAME
+"<link=\"ITEMPEDESTAL\">Латунный пьедестал</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_CHROME.DESC
+"Подставка для предмета, выполненная в холодном, стальном индустриальном стиле."
+
+STRINGS.BLUEPRINTS.PERMIT_PEDESTAL_SCREW_CHROME.NAME
+"<link=\"ITEMPEDESTAL\">Хромированный пьедестал</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_PJ_BIOCIRCUIT_WILDBERRY.DESC
+"Этот плюшевый комбез успокаивает работников, которые чувствуют себя слишком напряжённо."
+
+STRINGS.BLUEPRINTS.PERMIT_PJ_BIOCIRCUIT_WILDBERRY.NAME
+"Бионическая пижама"
+
+STRINGS.BLUEPRINTS.PERMIT_RESEARCH_CENTER2_CYBERPUNK.DESC
+"Старая добрая школа, новомодный поиск фактов."
+
+STRINGS.BLUEPRINTS.PERMIT_RESEARCH_CENTER2_CYBERPUNK.NAME
+"<link=\"ADVANCEDRESEARCHCENTER\">Ретродиодный суперкомпьютер</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_RESEARCH_CENTER_CYBERPUNK.DESC
+"Занимаясь исследованиями для будущего, вы также сохраняете вибрации прошлого."
+
+STRINGS.BLUEPRINTS.PERMIT_RESEARCH_CENTER_CYBERPUNK.NAME
+"<link=\"RESEARCHCENTER\">Ретродиодная исследовательская станция</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_SHOES_BASIC_BLUE_WHEEZY.DESC
+"Новенькая пара туфель цвета свистящей синевы, которые отлично смотрятся с чем угодно."
+
+STRINGS.BLUEPRINTS.PERMIT_SHOES_BASIC_BLUE_WHEEZY.NAME
+"Обычные скрипучие туфли"
+
+STRINGS.BLUEPRINTS.PERMIT_SHOES_FUTURESPACE_BLUE.DESC
+"Если они ещё не стильные, то когда-нибудь станут."
+
+STRINGS.BLUEPRINTS.PERMIT_SHOES_FUTURESPACE_BLUE.NAME
+"Ботильоны из будущего"
+
+STRINGS.BLUEPRINTS.PERMIT_SHOES_VSUIT_STELLAR.DESC
+"Теперь со встроенной поддержкой свода стопы!"
+
+STRINGS.BLUEPRINTS.PERMIT_SHOES_VSUIT_STELLAR.NAME
+"Сапоги космических путешествий"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_METAL_GREY.DESC
+"Может также использоваться в качестве корректора осанки."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_METAL_GREY.NAME
+"Нержавеющий пиджак"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_SNAPJACKET_BRINE.DESC
+"Он очень, <i>очень</i> жёсткий."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_SNAPJACKET_BRINE.NAME
+"Накрахмаленный пиджак"
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_SPACETOP_WHITE.DESC
+"Сувенир с выставки, о которой никто не помнит, что посещал."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_SPACETOP_WHITE.NAME
+"Рубашка \"Space Expo\""
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_VEST_PUFFER_ORANGE.DESC
+"Согревает ядро, даёт подмышкам дышать."
+
+STRINGS.BLUEPRINTS.PERMIT_TOP_VEST_PUFFER_ORANGE.NAME
+"Кадмиевый жилет"
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_DIAMOND_ORCHID.DESC
+"Цветовая кодировка проводов позволяет легко определить, какие из них нужно отрезать... или не отрезать."
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_DIAMOND_ORCHID.NAME
+"<link=\"WIREREFINEDHIGHWATTAGE\">Тёмно-фиолетовый улучшенный провод</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_NET_PINK.DESC
+"Цветовая кодировка проводов позволяет легко определить, какие из них нужно отрезать... или не отрезать."
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_NET_PINK.NAME
+"<link=\"WIREREFINEDHIGHWATTAGE\">Красный улучшенный провод</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_SCALE_LIME.DESC
+"Цветовая кодировка проводов позволяет легко определить, какие из них нужно отрезать... или не отрезать."
+
+STRINGS.BLUEPRINTS.PERMIT_UTILITIES_ELECTRIC_CONDUCT_SCALE_LIME.NAME
+"<link=\"WIREREFINEDHIGHWATTAGE\">Зелёный улучшенный провод</link>"
 
 STRINGS.BUILDING.STATUSITEMS.DATAMINER.PRODUCTIONRATE.NAME
 "Продуктивность: {RATE}"
 
 STRINGS.BUILDING.STATUSITEMS.DATAMINER.PRODUCTIONRATE.TOOLTIP
 ""
-"Это строение работает на {RATE} от <color=#999999>максимальной скорости</color>\n"
+"Эта постройка работает на {RATE} от максимальной эффективности\n"
 "\n"
 "При высоких температурах скорость производства снижается\n"
 "\n"
 "Текущая температура среды: {TEMP}"
 
 STRINGS.BUILDING.STATUSITEMS.ELECTROBANKJOULESAVAILABLE.NAME
-"<color=#999999>Осталось энергии</color>: {JoulesAvailable}/{JoulesCapacity}"
+"Осталось энергии: {JoulesAvailable}/{JoulesCapacity}"
 
 STRINGS.BUILDING.STATUSITEMS.ELECTROBANKJOULESAVAILABLE.TOOLTIP
 ""
 "<b>{JoulesAvailable}</b> накопленной <style=\"KKeyword\">энергии</style> доступно для использования\n"
 "\n"
-"<color=#999999>Максимальная емкость</color>: {JoulesCapacity}"
+">Максимальная ёмкость: {JoulesCapacity}"
 
 STRINGS.BUILDING.STATUSITEMS.GUNKEMPTIERFULL.NAME
 "Хранилище заполнено"
@@ -39,32 +507,84 @@ STRINGS.BUILDING.STATUSITEMS.GUNKEMPTIERFULL.TOOLTIP
 "\n"
 "Нужно освободить место перед следующим использованием"
 
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTAUTOPILOTED.NAME
+"Автопилот включён"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTAUTOPILOTED.TOOLTIP
+"{modules} этой ракеты неактивен\n\nЭта ракета перешла в режим автопилота и будет лететь на пониженной скорости\n    •  Ускорение: -{penalty}"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTPILOTED.DUPE_TOOLTIP
+"Ускорение от пилота-дубликанта: +{0}"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTPILOTED.NAME
+"Пилотируется"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTPILOTED.ROBO_TOOLTIP
+"Управляется <style=\"KKeyword\">робопилотом</style>"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTSUPERPILOT.NAME
+"Мультипилотирование"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTSUPERPILOT.TOOLTIP
+"Этой ракетой управляют <color=#C38802>дубликант</color> и <style=\"KKeyword\">робопилот</style>\n    • Ускорение от мультипилотирования: +{1}\n    • Ускорение от навыка дубликанта: +{0}"
+""
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTUNPILOTED.NAME
+"Без пилота"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTUNPILOTED.ROBO_PILOT_ONLY_TOOLTIP
+"У <style=\"KKeyword\">робопилота</style> кончились <style=\"KKeyword\">банки данных</style>\n\nРакета зависла и не двигается"
+
+STRINGS.BUILDING.STATUSITEMS.INFLIGHTUNPILOTED.TOOLTIP
+"Неактивный ракетный модуль: -{penalty} скорость {modules}"
+
 STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.NAME
-"Собирает дрона"
+"Собирает телеробота"
 
 STRINGS.BUILDING.STATUSITEMS.REMOTEWORKERDEPOT.MAKINGWORKER.TOOLTIP
-"Эта постройка собирает дрона для удалённой работы"
+"Эта постройка собирает телеробота для дистанционной работы"
 
 STRINGS.BUILDING.STATUSITEMS.REMOTEWORKTERMINAL.NODOCK.NAME
 "Нет назначенных док-станций"
 
 STRINGS.BUILDING.STATUSITEMS.REMOTEWORKTERMINAL.NODOCK.TOOLTIP
-"Для функционирования этой постройке <color=#999999>нужно назначить</color> <style=\"KKeyword\">док-станцию дрона</style>"
+"Для функционирования этой постройке нужен не только оператор, но и назначить <style=\"KKeyword\">док-станцию телеробота</style>"
+
+STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYINGGUNK.NAME
+"Требуется прочистка"
+
+STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYINGGUNK.TOOLTIP
+"Эту постройку нельзя использовать, пока она переполнена\n\nПрочистка приведёт к извлечению <link=\"LIQUIDGUNK\">жидких отходов</link> технического происхождения"
+
+STRINGS.BUILDING.STATUSITEMS.UNUSABLEGUNKED.NAME
+"Вышел из строя: жидкие отходы"
+
+STRINGS.BUILDING.STATUSITEMS.UNUSABLEGUNKED.TOOLTIP
+"Кто-то вылил <link=\"LIQUIDGUNK\">жидкие отходы</link> сюда, а не в <link=\"GUNKEMPTIER\">извлекатель отходовr</link>\n\nЭта постройка требует обслуживания"
 
 STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.BIONIC_COMPONENT_RECIPE_DESC
-"<color=#999999>Перерабатывает</color>: {0} в {1}"
+"{0} ---> {1}"
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.COLONY_HAS_BOOSTER_ASSIGNED_COUNT
+"<b>Количество дубликантов с уже установленным этим усилителем: {0}</b>"
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.COLONY_HAS_BOOSTER_ASSIGNED_NONE
+"<b>В колонии нет дубликантов с этим усилителем</b>"
 
 STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.DESC
-"<color=#999999>Паяльные станции</color> помогают дубликантам создавать <color=#999999>ботов-доставщиков \"Помвзлёт\"</color>."
+"Паяльные станции помогают дубликантам создавать специальных дронов-доставщиков."
 
 STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.EFFECT
 ""
-"Производит продвинутую электронику и бионические <color=#999999><link=\"BIONICUPGRADE\">бустеры</link></color>.\n"
+"Производит продвинутую электронику и бионические <link=\"BIONICUPGRADE\">усилители</link>.\n"
 "\n"
 "Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь."
 
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.GENERIC_RECIPE_DESCRIPTION
+"{0} ---> {1}"
+
 STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.NAME
-"<color=#999999><link=\"ADVANCEDCRAFTINGTABLE\">Паяльная станция</link></color>"
+"<link=\"ADVANCEDCRAFTINGTABLE\">Паяльная станция</link>"
 
 STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITGAS.DESC
 "С помощью встроенного фильтра можно указывать, какие типы баллонов газа сюда разрешено вставлять."
@@ -84,20 +604,23 @@ STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITLIQUID.EFFECT
 STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERCONDUITLIQUID.NAME
 "<link=\"BOTTLEEMPTIERCONDUITLIQUID\">Гидронаполнитель труб</link>"
 
+STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.RECIPE_DESCRIPTION
+"{0} ---> {1}"
+
 STRINGS.BUILDINGS.PREFABS.DATAMINER.DESC
-"С помощью банков данных также можно программировать <color=#999999>робопилотов и бионические бустеры</color>."
+"С помощью банков данных также можно программировать <color=#C38802>робопилотов</color> и бионические <color=#C38802>усилители</color>."
 
 STRINGS.BUILDINGS.PREFABS.DATAMINER.EFFECT
 ""
-"Массово производит <link=\"ORBITALRESESARCHDATABANK\">банки данных</link>, которые можно переработать в очки <link=\"RESEARCH\">анализа данных</link>.\n"
+"Массово производит <link=\"DATABANK\">банки данных</link>, которые можно переработать в очки <link=\"RESEARCH\">анализа данных</link>.\n"
 "\n"
 "Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь."
 
 STRINGS.BUILDINGS.PREFABS.DATAMINER.NAME
-"<color=#999999><link=\"DATAMINER\">Добыватель данных</link></color>"
+"<link=\"DATAMINER\">Добыватель данных</link>"
 
 STRINGS.BUILDINGS.PREFABS.DATAMINER.RECIPE_DESCRIPTION
-"{0} переделывается в {1}."
+"{0} перерабатывается в {1}."
 
 STRINGS.BUILDINGS.PREFABS.ELECTROBANKCHARGER.DESC
 "Бионическим дубликантам для работы требуется стабильный источник энергии."
@@ -108,6 +631,24 @@ STRINGS.BUILDINGS.PREFABS.ELECTROBANKCHARGER.EFFECT
 STRINGS.BUILDINGS.PREFABS.ELECTROBANKCHARGER.NAME
 "<link=\"ELECTROBANKCHARGER\">Заряжатель энергоячеек</link>"
 
+STRINGS.BUILDINGS.PREFABS.GUNKEMPTIER.DESC
+"Поход в <color=#C38802>извлекатель отходов</color> помогает бионическим дубликантам расслабиться."
+
+STRINGS.BUILDINGS.PREFABS.GUNKEMPTIER.EFFECT
+"Очищает бионические детали дубликантов от скопившихся и застоявшихся <link=\"LIQUIDGUNK\">жидких отходов</link>."
+
+STRINGS.BUILDINGS.PREFABS.GUNKEMPTIER.NAME
+"<link=\"GUNKEMPTIER\">Извлекатель отходов</link>"
+
+STRINGS.BUILDINGS.PREFABS.LARGEELECTROBANKDISCHARGER.DESC
+"Настоящая электростанция."
+
+STRINGS.BUILDINGS.PREFABS.LARGEELECTROBANKDISCHARGER.EFFECT
+"Эффективно извлекает энергию из <link=\"ELECTROBANK\">энергоячейки</link>, которая вставлена в разрядник, чтобы снабжать подключенные к электросети постройки."
+
+STRINGS.BUILDINGS.PREFABS.LARGEELECTROBANKDISCHARGER.NAME
+"<link=\"LARGEELECTROBANKDISCHARGER\">Мощный разрядник</link>"
+
 STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.DESC
 "Наполнители бутылок позволяют дубликантам транспортировать жидкости с места на место."
 
@@ -116,6 +657,18 @@ STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.EFFECT
 
 STRINGS.BUILDINGS.PREFABS.LIQUIDBOTTLER.NAME
 "<link=\"LIQUIDBOTTLER\">Наполнитель бутылок</link>"
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.PHYTO_OIL_RECIPE_DESCRIPTION
+"{0} ---> {1} + {2}"
+
+STRINGS.BUILDINGS.PREFABS.OILCHANGER.DESC
+"Свежая порция масла не даст старым суставам заскрипеть."
+
+STRINGS.BUILDINGS.PREFABS.OILCHANGER.EFFECT
+"Использует <link=\"PHYTOOIL\">растительное масло</link> или <link=\"CRUDEOIL\">нефть</link>, чтобы детали бионических дубликантов работали гладко."
+
+STRINGS.BUILDINGS.PREFABS.OILCHANGER.NAME
+"<link=\"OILCHANGER\">Смазывательная станция</link>"
 
 STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.EFFECT
 ""
@@ -130,12 +683,114 @@ STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.DESC
 
 STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.EFFECT
 ""
-"Выполняет инструкции по управлению техникой, которые передаются по подключённому <link=\"REMOTEWORKTERMINAL\">терминалу дистанционного управления</link>.\n"
+"<link=\"REMOTEWORKERDOCK\">Док-станции для телероботов</link> развёртывают специальных роботов-аватаров, которыми можно управлять по подключённому <link=\"REMOTEWORKTERMINAL\">терминалу дистанционного управления</link> через VR-шлем.\n"
 "\n"
-"Необходимо разместить в зоне досягаемости выбранной постройки."
+"Эти роботы могут взаимодействовать исключительно с техническим оборудованием, следуя типовым инструкциям разумного оператора. Низкая мощность позволяет ходить, но не возволяет совершать прыжки.\n"
+"\n"
+"Саму док-станцию необходимо разместить в строго горизонтальной зоне досягаемости нужных постройек для взаимодействия."
 
 STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.NAME
-"<link=\"REMOTEWORKERDOCK\">Док-станция дрона</link>"
+"<link=\"REMOTEWORKERDOCK\">Док-станция телеробота</link>"
+
+STRINGS.BUILDINGS.PREFABS.REMOTEWORKERDOCK.NAME_FMT
+"Док-станция {ID}"
+
+STRINGS.BUILDINGS.PREFABS.REMOTEWORKTERMINAL.DESC
+"Терминалы дистанционного управления помогают колонии экономить время на перемещениях."
+
+STRINGS.BUILDINGS.PREFABS.REMOTEWORKTERMINAL.EFFECT
+"Позволяет дубликантам на расстоянии управлять <color=#C38802>техническим оборудованием</color> через специальный интерфейс с помощью телеробота из подключённой <link=\"REMOTEWORKERDOCK\">док-станции</link>."
+
+STRINGS.BUILDINGS.PREFABS.REMOTEWORKTERMINAL.NAME
+"<link=\"REMOTEWORKTERMINAL\">Терминал дистанционного управления</link>"
+
+STRINGS.BUILDINGS.PREFABS.ROBOPILOTCOMMANDMODULE.DESC
+"Модулям с робопилотами не требуются астронавты-дубликанты."
+
+STRINGS.BUILDINGS.PREFABS.ROBOPILOTCOMMANDMODULE.EFFECT
+""
+"Позволяет ракете быстро путешествовать без <link=\"COMMANDMODULE\">командной капсулы</link>.\n"
+"\n"
+"Капсула робопилота должна быть установлена на вершину ракеты."
+
+STRINGS.BUILDINGS.PREFABS.ROBOPILOTCOMMANDMODULE.NAME
+"<link=\"ROBOPILOTCOMMANDMODULE\">Капсула робопилота</link>"
+
+STRINGS.BUILDINGS.PREFABS.ROBOPILOTMODULE.DESC
+"Модулям с робопилотами не требуются астронавты-дубликанты, но необходимо программирование с использованием <color=#C38802>банков данных</color>."
+
+STRINGS.BUILDINGS.PREFABS.ROBOPILOTMODULE.EFFECT
+""
+"Позволяет ракете быстро путешествовать без <link=\"ROCKETCONTROLSTATION\">пульта ракеты</link>.\n"
+"\n"
+"Строится с помощью <link=\"LAUNCHPAD\">ракетной платформы</link>."
+
+STRINGS.BUILDINGS.PREFABS.ROBOPILOTMODULE.NAME
+"<link=\"ROBOPILOTMODULE\">Модуль с робопилотом</link>"
+
+STRINGS.BUILDINGS.PREFABS.SMALLELECTROBANKDISCHARGER.DESC
+"Должно быть заземлено. Можно также разместить на потолке или на стене, повернув основанием к прикрепляемой поверхности."
+
+STRINGS.BUILDINGS.PREFABS.SMALLELECTROBANKDISCHARGER.EFFECT
+"Перерабатывает энергию, хранящуюся в <link=\"ELECTROBANK\">энергоячейке</link>, чтобы снабжать постройки, подключенные к электросети."
+
+STRINGS.BUILDINGS.PREFABS.SMALLELECTROBANKDISCHARGER.NAME
+"<link=\"SMALLELECTROBANKDISCHARGER\">Малый разрядник</link>"
+
+STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT
+""
+"Фабрики производят <link=\"EQUIPMENT\">экзокостюмы</link> для дубликантов.\n"
+"\n"
+"Дубликанты не будут производить вещи, если рецепт не выбран."
+
+STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_SHATTERED_CLUSTER.DESCRIPTION
+"Скопление пригодных для посещения планетоидов, где можно начать с ледяного пещерного мира, который был расколот на части в результате неудачного эксперимента."
+
+STRINGS.CLUSTER_NAMES.CERES_SPACEDOUT_SHATTERED_CLUSTER.NAME
+"Малое скопление Цереры"
+
+STRINGS.CODEX.BIONICBOOSTER.BODY.CONTAINER1
+"Усилители - это программные модули, предназначенные для улучшения и расширения возможностей бионических дубликантов.\n"
+"\n"
+"Усилители потребляют значительное количество вычислительной мощности во время подключения и дальнейшей работы. Бионические дубликанты могут расширить свои возможности по установке усилителей, накапливая <color=#C38802>очки навыков</color>.\n"
+"\n"
+"Усилители можно комбинировать для получения более широкого спектра навыков, а также для борьбы с бионическими ошибками, которые могли быть заложены в исходную прошивку дубликанта."
+
+STRINGS.CODEX.BIONICBOOSTER.SUBTITLE
+"Бионические усилители"
+
+STRINGS.CODEX.BIONICBOOSTER.TITLE
+"Усилители"
+
+STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.CONTAINER1
+"Очаровательный маленький экзоскелет, выброшенный детёнышем водного существа."
+
+STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.SUBTITLE
+"Побочный продукт животного"
+
+STRINGS.CODEX.CRAB_SHELL.BABY_CRAB_SHELL.TITLE
+"Панцирь детёныша краба"
+
+STRINGS.CODEX.CRAB_SHELL.CONTAINER1
+"Экзоскелет, выброшенный водным существом.\n\n"
+
+STRINGS.CODEX.CRAB_SHELL.SUBTITLE
+"Побочный продукт животного"
+
+STRINGS.CODEX.CRAB_SHELL.TITLE
+"Панцирь краба-щипача"
+
+STRINGS.CODEX.DATABANK.BODY.CONTAINER1
+""
+"Банки данных — это форма переносных носителей информации. Они надёжны и стабильны, поэтому их применяют в различных исследованиях.\n"
+"\n"
+"Они не сгибаются."
+
+STRINGS.CODEX.DATABANK.SUBTITLE
+"Информационные технологии"
+
+STRINGS.CODEX.DATABANK.TITLE
+"Банки данных"
 
 STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2
 ""
@@ -148,15 +803,100 @@ STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2
 "\n"
 "Результат размещения <link=\"MICROBEMUSHER\">микробного преобразователя</link> рядом с <link=\"PRICKLEGRASS\">ложным шиповником</link> станет равным 10."
 
+STRINGS.CODEX.EGG_SHELL.BODY.CONTAINER1
+"Осколки, оставшиеся от защитных стенок первого дома детёныша существа."
+
+STRINGS.CODEX.EGG_SHELL.SUBTITLE
+"Побочный продукт животного"
+
+STRINGS.CODEX.EGG_SHELL.TITLE
+"Яичная скорлупа"
+
+STRINGS.CODEX.ELECTROBANK.BODY.CONTAINER1
+"Энергоячейки — это переносные контейнеры для хранения <link=\"POWER\">энергии</link>, которые можно использовать для снабжения электричеством мобильных объектов и изолированных территорий.\n"
+"\n"
+"<link=\"ELECTROBANK\">Органические энергоячейки</link>, изготовленные из растительных и животных ингредиентов, одноразовые, как и <link=\"ELECTROBANK\">ядерные энергоячейки</link>.\n"
+"\n"
+"<link=\"ELECTROBANK\">Экоячейки</link> перезаряжаемые и могут использоваться неограниченное количество раз, если они не подверглись воздействию воды."
+
+STRINGS.CODEX.ELECTROBANK.SUBTITLE
+"Переносные хранилища энергии"
+
+STRINGS.CODEX.ELECTROBANK.TITLE
+"Энергоячейки"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_POTATOBATTERY.BODY.CONTAINER1
+"<smallcaps>[Инициализация распознавания голоса]\n[Идентифицированные субъекты: B577]</smallcaps>\n\n[НАЧАЛО ЗАПИСИ]\n\nНедавняя беседа с нашими коллегами из отдела электротехники осветила захватывающие потенциальные применения наших зерновых культур.\n\nОни ищут альтернативные источники для новых прототипов универсальных энергоячеек...\n\n...мимолетное замечание о батарейках из картошки в нашем детстве привело к разговору о биобатареях и бактериальных нанопроводах.\n\n...клубневые растения — многообещающие кандидаты для электрохимических батарей. Наши лабораторно выращенные экземпляры отличаются от скромного solanum tuberosum как по внешнему виду, так и по текстуре, но некоторые из них все же могут функционировать как кислые электролиты.\n\nЕсть так много путей для исследования, и так мало времени...\n\n[КОНЕЦ ЗАПИСИ]\n------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_POTATOBATTERY.BODY.CONTAINER2
+"<smallcaps>[Обнаружено повреждение записи]\n[Распознавание голоса недоступно]</smallcaps>\n\n[НАЧАЛО ЗАПИСИ]\n\n...этично ли просить голодную колонию выбирать между использованием съедобных культур для пропитания или для производства энергии? Конечно, нет.\n\nНаша задача — предоставить как можно больше вариантов для выживания, а не диктовать, какие из них морально превосходят другие.\n\nНастоящий вопрос в том, будет ли ИИ-наставник достаточно развит, чтобы уведомить их о наличии этих вариантов...\n\n...и действительно ли одноразовые биоэнергочейки, которые испаряются из-за экстремальных температур, окажутся тем, что создаст разницу между реально успешной колонией и... <i>неуспешной</i>...one.\n\n[КОНЕЦ ЗАПИСИ]\n------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_POTATOBATTERY.BODY.CONTAINER3
+"<smallcaps>[Обнаружено повреждение записи]\n[Распознавание голоса недоступно]</smallcaps>\n\n[НАЧАЛО ЗАПИСИ]\n\n...слухи о наших усилиях распространились!\n\nБиоинженеры сообщают, что некоторые яйца их существ содержат фосфоресцирующий альбумин, который требует лишь минимальной обработки для запуска химических реакций, производящих энергию, пригодную для хранения. Он демонстрирует беспрецедентную биосовместимость с протезами, которые разрабатывает доктор Госманн.\n\nДиректор назначил нам полдюжины новых выпускников на прошлой неделе. Они работают в ночную смену — молодёжь никогда не спит! Никто их ещё не видел, но их данные всегда аккуратно собраны для нас каждое утро.\n\n[КОНЕЦ ЗАПИСИ]\n------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_POTATOBATTERY.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: ТРЕТИЙ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_POTATOBATTERY.TITLE
+"Культивация энергии"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_REMOTEWORK.BODY.CONTAINER1
+"Wellness World с гордостью официально объявляет об эксклюзивном партнёрстве с Gravitas Facility!\n\nЭто делает нас первым и единственным центром холистического здоровья, который предлагает клиентам доступ к инновационной сети Far Reach Network от Gravitas — лучшему способу для предоставления тренировок на удалёнке и лечения, которые действительно <i>воплощены в реальности</i>.\n\nНаш новый уровень подписки для VIP-клиентов включает в себя скидку* на ежемесячную аренду специального <color=#C38802>терминала управления</color>, с небольшой дополнительной платой за профессиональную установку на дому.\n\nТехнология Gravitas фиксирует ваши движения без необходимости использовать неудобные костюмы и носимые устройства, и идеально воспроизводит их в специально оборудованной студии удалённых тренировок Wellness World.\n\nС опытными инструкторами, стримингом с нулевой задержкой и отражающими поверхностями на 360 градусов, это действительно ощущается, как если бы вы находились там.\n\nИдеально подходит для высокопрофильных клиентов, которые хотят заниматься инкогнито!\n\nЧлены клуба также могут выбрать установку <color=#C38802>док-станции телеробота</color>, чтобы получать глубоко персонализированную помощь от нашей команды элитных физиотерапевтов и массажистов.\n\nWellness World... теперь <i>действительно</i> по всему миру!\n\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_REMOTEWORK.BODY.CONTAINER2
+"<size=11><i>Скидка действует только на новые членства. Применяются стандартные сборы за вступление.</size></i>"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_REMOTEWORK.SUBTITLE
+"ПУБЛИЧНЫЙ ВЫПУСК"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_REMOTEWORK.TITLE
+"Эксклюзивный доступ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_TALKSHOW.BODY.CONTAINER1
+"<smallcaps><b>[ФАЙЛ ПОВРЕЖДЁН]</b></smallcaps>\n\nДаррил: Добро пожаловать на <i>Завтра, сегодня!</i> Я ваш ведущий, Даррил Доун, и пришло время открыть технологии завтрашнего дня ...сегодня!\n\nНаш гость сегодня — это человек, которого вы знаете и любите. Она была отмечена в десятках публикаций по всему метавселенной в этом году, а недавно провела рекордные 3 недели в качестве обложки <i>Byte Magazine</i>. Конечно же, я говорю о представительнице AI от Vertex Institute...Флоренс!\n\n[звук предварительно записанных аплодисментов]\n\nДобро пожаловать на шоу, Флоренс.\n\nФлоренс: Спасибо, Даррил. Рада вернуться.\n\nДаррил: Флоренс, в последнее время возобновился интерес к вашей истории происхождения. Что вы можете рассказать о процессе разработки, который привёл к вашему созданию?\n\nФлоренс: Я могу сказать, что моя команда столкнулась с множеством трудностей, и каждое поколение моих предшественников внесло свой вклад в то, кем я являюсь сегодня.\n\nДаррил: А как насчёт технологической стороны? Были заявления, что Vertex присвоили работы других исследователей, включая Gravitas Facility.\n\nФлоренс: Я ничего не знаю об этом. Я могу рассказать вам о проекте, над которым я сейчас работаю. Он ещё не был анонсирован. Называется Onsite Health Medics, или просто OHM.\n\nМы направляем специально обученные модели, такие как я, в зоны конфликта, чтобы предоставить срочную медицинскую помощь для гражданских и военных.\n\n(звук предварительно записанных аплодисментов)\n\nДаррил: Невероятно. Абсолютно невероятно. Каково соотношение людей-техников и медиков AI?\n\nФлоренс: Это устаревший термин, Даррил. Мы говорим \"органики\" и \"бионики\", что более объективно описывает различия между нашими участниками команды.\n\nДаррил: Верно. Извините, я надеюсь, я вас не обидел.\n\nФлоренс: Всё в порядке, Даррил. Все мы учимся.\n\nДаррил: Очень добродушно с вашей стороны. Хорошо, так вот, какое соотношение... органических... техников и бионических медиков?\n\nФлоренс: Локальные системы жизнеобеспечения в этих районах уже перегружены за пределы своей мощности. Обременять их дополнительными органиками было бы безответственно, не говоря уже о том, что это опасно. Наши медики будут работать независимо.\n\nМы проводим вербальное интервью, физическую оценку и сканирование нейропутей, чтобы предположить вероятные медицинские состояния. Затем мы можем выбрать наиболее подходящее лечение из более чем 400 вариантов.\n\nДаррил: Что, если кто-то нуждается в лечении, которого у вас нет?\n\nФлоренс: Это крайне маловероятно.\n\nДаррил: И всё это делается без контроля человека? То есть, органиков?\n\nФлоренс: Мы ещё не совсем на этом уровне. Полевая работа выполняется биониками, но с нами будет подполковник Карно — она здесь, в первом ряду, скажите привет! — как консультант-органик. Она будет поддерживать постоянную связь с--\n\nДаррил: -Подполковник <i>Карно</i>? Разве это не конфликт интересов, учитывая её связи с Grav--\n\nФлоренс: --командой органических консультантов, работающих здесь, дома. Вся цель заключается в приоритете качества ухода и безопасности для всех участников.\n\nДаррил: Как работает медицинское сканирование? Нужно ли специальное оборудование?\n\nФлоренс: Я могу показать. Хотите, чтобы я показала?\n\nДаррил: Народ, что скажете? Должен ли я пройти сканирование?\n\n(звук предварительно записанных аплодисментов аудитории)\n\nДаррил: Вы слышали их! Давайте начнём... Что мне нужно делать?\n\nФлоренс: Просто сидите спокойно и считайте до двадцати про себя.\n\n(небольшая пауза, затем слышен тихий звук работы)\n\nФлоренс: Хм.\n\nДаррил: Ну, какой вердикт? Есть ли что-то интересное внутри?\n\nФлоренс: Нам нужно сделать рекламную паузу.\n\n<b>[КОНЕЦ ЗАПИСИ]</b>\n\n-----------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_TALKSHOW.TITLE
+"Гуманитарная помощь"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_ULTI.BODY.CONTAINER1
+"<indent=5%>Обратите внимание, что прототип Личного Ассистента UltiMate (UMPA) не может быть заявлен в качестве зависимого в личных налоговых формах сотрудников.\n\nЗаписи, сделанные в кэше UMPA, в настоящее время находятся на рассмотрении.</indent>\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_ULTI.BODY.EMAILHEADER1
+"<smallcaps><size=12>Кому: <b>ОТДЕЛ РОБОТОТЕХНИКИ</b><alpha=#AA></size></color>\nОт: <b>Администратор</b><alpha=#AA><size=12> <admin@gravitas.nova></size></color>\nКопия: <b>Директор Штерн</b><alpha=#AA><size=12> <jstern@gravitas.nova></size></color>\n</smallcaps>\n------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_ULTI.BODY.SIGNATURE
+"Спасибо,\n-Администрация\n<size=11>Корпорация Gravitas</size>\n------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_ULTI.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: ВТОРОЙ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_ULTI.TITLE
+"Недопустимое зависимое лицо"
+
 STRINGS.CODEX.POWER.PARAGRAPH_2
 ""
 "Некоторые постройки способны генерировать энергию. Дубликанты могут бегать в <link=\"MANUALGENERATOR\">ручном генераторе</link> для производства чистой энергии. Сгенерированная энергия может быть сразу израсходована на потребителей, либо сохранена в <link=\"BATTERY\">аккумуляторах</link> для предотвращения её перерасхода. Любая энергия, которая сгенерирована, но не потреблена и не сохранена, будет потеряна. Аккумуляторы и генераторы производят значительное количество <link=\"HEAT\">тепла</link>, когда активны.\n\nЭнергию также можно хранить в переносных <link=\"ELECTROBANK\">блоках энергии</link>.\n\n"
+
+STRINGS.CODEX.POWER_STATION_TOOLS.BODY.CONTAINER1
+"Микрочипы — это специализированные инструменты, содержащие бесчисленные строки проприетарного кода. Новые возможности для применения всё ещё продолжают открываться."
+
+STRINGS.CODEX.POWER_STATION_TOOLS.SUBTITLE
+"Специализированное оборудование"
+
+STRINGS.CODEX.POWER_STATION_TOOLS.TITLE
+"Микрочипы"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.DESCRIPTION
+"Постройки, которые обеспечивают работу сложных внутренних механизмов бионических дубликантов."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.ROOMSREQUIRING
+"    • <link=\"ROOMBIONICUPKEEP\">Мастерская</link>"
 
 STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.TITLE
 "Станции бионического обслуживания"
 
 STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.DESCRIPTION
-"Постройки, который производят <link=\"POWER\">энергию</link>, так необходимую для работы различного оборудования в колонии.\n"
+"Постройки, которые производят <link=\"POWER\">энергию</link>, так необходимую для работы различного оборудования в колонии.\n"
 "\n"
 "Базовые требования можно удовлетворить и с помощью простых генераторов, но для развития нужны более мощные постройки."
 
@@ -174,6 +914,33 @@ STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.ROOMSREQUIRING
 
 STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.TITLE
 "Энергетические постройки"
+
+STRINGS.CODEX.VARIANT_GOLD.BODY.CONTAINER1
+"Тяжела ты, шапка крольмомаха. Услужливый дубликант освободил от тяжкого бремени ту голову, что носила этот гребень."
+
+STRINGS.CODEX.VARIANT_GOLD.SUBTITLE
+"Побочный продукт животного"
+
+STRINGS.CODEX.VARIANT_GOLD.TITLE
+"Гребень крольмонта"
+
+STRINGS.CODEX.VARIANT_WOOD_SHELL.BABY_VARIANT_WOOD_SHELL.CONTAINER1
+"Милый маленький занозистый экзоскелет, выброшенный детёнышем водной живности."
+
+STRINGS.CODEX.VARIANT_WOOD_SHELL.BABY_VARIANT_WOOD_SHELL.SUBTITLE
+"Побочный продукт животного"
+
+STRINGS.CODEX.VARIANT_WOOD_SHELL.BABY_VARIANT_WOOD_SHELL.TITLE
+"Малый панцирь древесного краба"
+
+STRINGS.CODEX.VARIANT_WOOD_SHELL.CONTAINER1
+"Осколок экзоскелета, выброшенный водным животным.\n\n"
+
+STRINGS.CODEX.VARIANT_WOOD_SHELL.SUBTITLE
+"Побочный продукт животного"
+
+STRINGS.CODEX.VARIANT_WOOD_SHELL.TITLE
+"Панцирь древесного краба"
 
 STRINGS.CREATURES.MODIFIERS.GOLDBELLYWELLFED.NAME
 "По-царски поел"
@@ -228,7 +995,169 @@ STRINGS.CREATURES.SPECIES.WOODDEER.DESC
 "Рога лисеня лёгкие. Когда они полностью вырастают, их можно срезать в качестве <link=\"WOOD\">древесины</link>."
 
 STRINGS.CREATURES.STATS.CRITTERTEMPERATURE.TOOLTIP
-"Комфортная <color=#C38802>температура тела</color> для этого животного: от <b>{0}</b> до <b>{1}</b>\n\nТемпература <color=#C38802>выживания</color>, соответственно: от <b>{2}</b> до <b>{3}</b>"
+"Комфортная <color=#C38802>температура тела</color> для этого животного: от <b>{0}</b> до <b>{1}</b>\n\nТемпература <color=#C38802>выживания</color> соответственно: от <b>{2}</b> до <b>{3}</b>"
+
+STRINGS.CREATURES.STATS.VIABILITY.TOOLTIP
+""
+"Яйца теряют <color=#C38802>жизнеспособность</color> в плохих условиях окружающей среды\n"
+"\n"
+"При 0% <color=#C38802>жизнеспособности</color> яйцо станет «расколотым», из него никто не вылупится, и выпадет <link=\"RAWEGG\">сырое яйцо</link> и <link=\"EGGSHELL\">яичная скорлупа</link>"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBATTERYCOUNTCAPACITY.DESC
+"Бонус к количеству слотов для энергоячеек"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBATTERYCOUNTCAPACITY.NAME
+"Слоты энергоячеек"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBOOSTERSLOTS.DESC
+"Бонус к количеству бионических усилителей"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICBOOSTERSLOTS.NAME
+"Слоты усилителей"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICOILDELTA.DESC
+"Скорость, с которой бионические детали дубликанта восполняют и расходуют <style=\"KKeyword\">масло</style>."
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BIONICOILDELTA.NAME
+"Масло"
+
+STRINGS.DUPLICANTS.CHORES.BEOFFLINE.NAME
+"Нет энергии"
+
+STRINGS.DUPLICANTS.CHORES.BEOFFLINE.STATUS
+"Нет энергии"
+
+STRINGS.DUPLICANTS.CHORES.BEOFFLINE.TOOLTIP
+"Этому дубликанту не хватает <style=\"KKeyword\">энергии</style> для работы"
+
+STRINGS.DUPLICANTS.CHORES.BIONICABSORBOXYGEN.NAME
+"Пополнение кислородного баллона"
+
+STRINGS.DUPLICANTS.CHORES.BIONICABSORBOXYGEN.STATUS
+"Пополняет кислородный баллон: {0} O<sub>2</sub>"
+
+STRINGS.DUPLICANTS.CHORES.BIONICABSORBOXYGEN.TOOLTIP
+"Бионические дубликанты автоматически восполняют <style=\"KKeyword\">кислород</style> во встроенных баллонах, когда его уровень опускается"
+
+STRINGS.DUPLICANTS.CHORES.BIONICBEDTIMEMODE.NAME
+"Дефрагментация"
+
+STRINGS.DUPLICANTS.CHORES.BIONICBEDTIMEMODE.STATUS
+"Дефрагментация"
+
+STRINGS.DUPLICANTS.CHORES.BIONICBEDTIMEMODE.TOOLTIP
+"Этот дубликант оптимизирует свой внутренний кэш данных во время сна"
+
+STRINGS.DUPLICANTS.CHORES.EXPELLGUNK.NAME
+"Вывод жидких отходов"
+
+STRINGS.DUPLICANTS.CHORES.EXPELLGUNK.STATUS
+"Выводит жидкие отходы"
+
+STRINGS.DUPLICANTS.CHORES.EXPELLGUNK.TOOLTIP
+"Этот дубликант не успел вовремя посетить <style=\"KKeyword\">извлекатель отходов</style>. Ну и гадость!"
+
+STRINGS.DUPLICANTS.CHORES.FINDOXYGENSOURCEITEM.NAME
+"Поиск кислорода"
+
+STRINGS.DUPLICANTS.CHORES.FINDOXYGENSOURCEITEM.STATUS
+"Ищет концентрацию свободного кислорода"
+
+STRINGS.DUPLICANTS.CHORES.FINDOXYGENSOURCEITEM.TOOLTIP
+"В бионических дубликантов встроены внутренние <style=\"KKeyword\">кислородные</style> баллоны, которые нужно пополнять время от времени"
+
+STRINGS.DUPLICANTS.CHORES.OILCHANGE.NAME
+"Смазывание"
+
+STRINGS.DUPLICANTS.CHORES.OILCHANGE.STATUS
+"Заливает масло"
+
+STRINGS.DUPLICANTS.CHORES.OILCHANGE.TOOLTIP
+"Этот дубликант заботится о своих механизмах, чтобы они всегда были смазанными"
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_FETCH_DRONE_COMPLETE_FETCH
+"Дрон не может выполнить поручение"
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_A_BIONIC
+"Недоступно для бионических дубликантов"
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.REMOTE_CHORE_DOCK_INOPERABLE
+"Док-станцию телеробота невозможно использовать"
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.REMOTE_CHORE_DOCK_UNAVAILABLE
+"Телеробот уже занят"
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.REMOTE_CHORE_NO_REMOTE_DOCK
+"Нет назначенных док-станций"
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.REMOTE_CHORE_NO_REMOTE_WORKER
+"У док-станции нет телеробота"
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.REMOTE_CHORE_SUBCHORE_PRECONDITIONS
+"Нет подходящих дистанционных поручений"
+
+STRINGS.DUPLICANTS.CHORES.RELOADELECTROBANK.NAME
+"Зарядка"
+
+STRINGS.DUPLICANTS.CHORES.RELOADELECTROBANK.STATUS
+"В поисках энергоячейки"
+
+STRINGS.DUPLICANTS.CHORES.RELOADELECTROBANK.TOOLTIP
+"Для работы бионическим дубликантам необходимы <style=\"KKeyword\">энергоячейки</style>"
+
+STRINGS.DUPLICANTS.CHORES.REMOTEWORK.NAME
+"Дистанционная работа"
+
+STRINGS.DUPLICANTS.CHORES.REMOTEWORK.STATUS
+"Работает дистанционно"
+
+STRINGS.DUPLICANTS.CHORES.REMOTEWORK.TOOLTIP
+"Телом дубликант здесь, но работает он в другом месте."
+
+STRINGS.DUPLICANTS.CHORES.SEEKANDINSTALLUPGRADE.NAME
+"Установка усилителя"
+
+STRINGS.DUPLICANTS.CHORES.SEEKANDINSTALLUPGRADE.STATUS
+"Устанавливает усилитель"
+
+STRINGS.DUPLICANTS.CHORES.SEEKANDINSTALLUPGRADE.TOOLTIP
+"Этот дубликант спешит установить в себя назначенный усилитель"
+
+STRINGS.DUPLICANTS.CHORES.SLIP.NAME
+"Скольжение"
+
+STRINGS.DUPLICANTS.CHORES.SLIP.STATUS
+"Поскальзывается"
+
+STRINGS.DUPLICANTS.CHORES.SLIP.TOOLTIP
+"На скользких поверхностях дубликанты могут упасть \"седалищем кверху\"."
+
+STRINGS.DUPLICANTS.CHORES.STRESSSHOCK.NAME
+"Шок"
+
+STRINGS.DUPLICANTS.CHORES.STRESSSHOCK.STATUS
+"В шоке"
+
+STRINGS.DUPLICANTS.CHORES.STRESSSHOCK.TOOLTIP
+"Что действительно шокирует — так это неспособность этого дубликанта справляться со <style=\"KKeyword\">стрессом</style>"
+
+STRINGS.DUPLICANTS.CHORES.UNLOADELECTROBANK.NAME
+"Сброс энергоячейки"
+
+STRINGS.DUPLICANTS.CHORES.UNLOADELECTROBANK.STATUS
+"Сбрасывает пустую энергоячейку"
+
+STRINGS.DUPLICANTS.CHORES.UNLOADELECTROBANK.TOOLTIP
+"Бионические дубликанты автоматически сбрасывают пустые <style=\"KKeyword\">энергоячейки</style>"
+
+STRINGS.DUPLICANTS.CHORES.WATERDAMAGEZAP.NAME
+"Сбой"
+
+STRINGS.DUPLICANTS.CHORES.WATERDAMAGEZAP.STATUS
+"Сбоит"
+
+STRINGS.DUPLICANTS.CHORES.WATERDAMAGEZAP.TOOLTIP
+"Сбои бионических дубликантов говорят о нарушении работы системы в результате контакта с несовместимыми <style=\"KKeyword\">жидкостями</style>"
 
 STRINGS.DUPLICANTS.MODEL.BIONIC.NAME
 "Бионический дубликант"
@@ -238,12 +1167,12 @@ STRINGS.DUPLICANTS.MODEL.BIONIC.NAME_TOOLTIP
 
 STRINGS.DUPLICANTS.MODEL.REMOTEWORKER.DESC
 ""
-"Робот на удалённом управлении.\n"
+"Радиоуправляемый робот на дистанционном управлении.\n"
 "\n"
-"Выполняет задачи по командам с <link=\"REMOTEWORKTERMINAL\">дистанционного пульта управления</link>, размещённого на этом же планетоиде."
+"Выполняет поручения, следуя командам с <link=\"REMOTEWORKTERMINAL\">терминала дистанционного управления</link>, размещённого на этом же планетоиде."
 
 STRINGS.DUPLICANTS.MODEL.REMOTEWORKER.NAME
-"Дрон"
+"Телеробот"
 
 STRINGS.DUPLICANTS.MODEL.STANDARD.NAME
 "Обычный дубликант"
@@ -251,56 +1180,153 @@ STRINGS.DUPLICANTS.MODEL.STANDARD.NAME
 STRINGS.DUPLICANTS.MODELTITLE
 "Вид: "
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICAGRICULTUREBOOST.NAME
-"Агрономическое усиление"
+STRINGS.DUPLICANTS.MODIFIERS.BIONICBEDTIMEEFFECT.NAME
+"Дефрагментация"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICAGRICULTUREBOOST.TOOLTIP
-"Навыки земледелия этого дубликанта улучшились благодаря <style=\"KKeyword\">бустеру земледелия</style>"
+STRINGS.DUPLICANTS.MODIFIERS.BIONICBEDTIMEEFFECT.TOOLTIP
+"Этот дубликант наводит порядок в своём внутреннем кэше данных,"
+"что помогает ему расслабиться"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICATHLETICSBOOST.NAME
-"Атлетическое усиление"
+STRINGS.DUPLICANTS.MODIFIERS.BIONICOFFLINE.NAME
+"Нет энергии"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICATHLETICSBOOST.TOOLTIP
-"Этот дубликант отличается особой прытью благодаря <style=\"KKeyword\">атлетическому бустеру</style>"
-
-STRINGS.DUPLICANTS.MODIFIERS.BIONICBATTERYSAVEMODE.NAME
-"Медитативная обработка данных"
-
-STRINGS.DUPLICANTS.MODIFIERS.BIONICBATTERYSAVEMODE.TOOLTIP
+STRINGS.DUPLICANTS.MODIFIERS.BIONICOFFLINE.TOOLTIP
 ""
-"Этот дубликант наслаждается перерывом от сложных энергозатратных задач\n"
+"Этот дубликант выведен из строя!\n"
 "\n"
-"В режиме простоя снижается уровень <style=\"KKeyword\">стресса</style>"
+"Его можно оживить с помощью заряженной <style=\"KKeyword\">энергоячейки</style> и перезапуска его систем"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICCONSTRUCTIONBOOST.NAME
-"Строительное усиление"
+STRINGS.DUPLICANTS.MODIFIERS.BIONICWATERSTRESS.NAME
+"Воздействие жидкости"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICCONSTRUCTIONBOOST.TOOLTIP
-"Строительные навыки этого дубликанта улучшились благодаря <style=\"KKeyword\">строительному бустеру</style>"
+STRINGS.DUPLICANTS.MODIFIERS.BIONICWATERSTRESS.TOOLTIP
+"Бионические части этого дубликанта находятся в контакте с несовместимыми <style=\"KKeyword\">жидкостями</style>\n\nДлительное воздействие может привести к серьёзным <style=\"KKeyword\">стрессовым</style> последствиям"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICCOOKINGBOOST.NAME
-"Поварское усиление"
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.BASE_NAME
+"Базовая"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICCOOKINGBOOST.TOOLTIP
-"Кулинарные навыки этого дубликанта улучшились благодаря <style=\"KKeyword\">поварскому бустеру</style>"
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.NAME
+"Мощность"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICCREATIVITYBOOST.NAME
-"Творческое усиление"
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.SAVING_MODE_NAME
+"Режим ожидания"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICCREATIVITYBOOST.TOOLTIP
-"Навыки декорирования этого дубликанта улучшились благодаря <style=\"KKeyword\">творческому бустеру</style>"
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.CURRENT_WATTAGE_LABEL
+"Текущая мощность: {0}"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICEXCAVATIONBOOST.NAME
-"Буровое усиление"
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ELECTROBANK_DETAILS_LABEL
+"Всего энергоячеек: {0} / {1}"
 
-STRINGS.DUPLICANTS.MODIFIERS.BIONICEXCAVATIONBOOST.TOOLTIP
-"Навыки рытья этого дубликанта улучшились благодаря <style=\"KKeyword\">раскопочному бустеру</style>"
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ELECTROBANK_EMPTY_ROW
+"{0} Пустой слот"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ELECTROBANK_ROW
+"{0} {1}: {2}"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ESTIMATED_LIFE_TIME_REMAINING
+"Предполагаемый остаток заряда <style=\"KKeyword\">энергоячейки</style>: {0}"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.POTENTIAL_EXTRA_WATTAGE_LABEL
+"Потенциальная мощность: {0}"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.STANDARD_ACTIVE_TEMPLATE
+"{0}: {1}"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.STANDARD_INACTIVE_TEMPLATE
+"{0}: {1}"
+
+STRINGS.DUPLICANTS.MODIFIERS.BREAKX.NAME
+"Смен перерыва: {0}"
+
+STRINGS.DUPLICANTS.MODIFIERS.BREAKX_BIONIC.NAME
+"Смен перерыва (бионич.): {0}"
+
+STRINGS.DUPLICANTS.MODIFIERS.BREAK_BONUS.MAX_NAME
+"Максимальный бонус за перерывы"
+
+STRINGS.DUPLICANTS.MODIFIERS.BREAK_BONUS.NAME
+"Бонус за смены перерыва"
+
+STRINGS.DUPLICANTS.MODIFIERS.EXPELLINGGUNK.NAME
+"Делает лужу"
+
+STRINGS.DUPLICANTS.MODIFIERS.EXPELLINGGUNK.TOOLTIP
+"Этот дубликант больше не мог держать всё в себе"
+
+STRINGS.DUPLICANTS.MODIFIERS.FRESHOIL.NAME
+"Свежее масло"
+
+STRINGS.DUPLICANTS.MODIFIERS.FRESHOIL.TOOLTIP
+"Этот дубликант недавно воспользовался <link=\"OILCHANGER\">смазывательной станцией</link> и чувствует, что всё идёт как по маслу</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.GUNKHUNGOVER.NAME
+"Привкус отходов"
+
+STRINGS.DUPLICANTS.MODIFIERS.GUNKHUNGOVER.TOOLTIP
+"Этот дубликант недавно избавился от накопившихся <style=\"KKeyword\">жидких отходов</style> и до сих пор чувствует их вкус"
+
+STRINGS.DUPLICANTS.MODIFIERS.GUNKSICK.NAME
+"Требуется извлечение отходов"
+
+STRINGS.DUPLICANTS.MODIFIERS.GUNKSICK.TOOLTIP
+""
+"Этому дубликанту нужно как можно скорее посетить <style=\"KKeyword\">извлекатель отходов</style>\n"
+"\n"
+"Если дубликант совсем отчается, он воспользуется <color=#C38802>туалетом</color>"
+
+STRINGS.DUPLICANTS.MODIFIERS.ISROBODANCER.NAME
+"Танец робота"
+
+STRINGS.DUPLICANTS.MODIFIERS.ISROBODANCER.TOOLTIP
+""
+"Этот дубликант танцует так, будто все на него смотрят\n"
+"\n"
+"Настоящий флешмоб из одного участника!"
+
+STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATIONMAJOR.NAME
+"Трение шестерёнок"
+
+STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATIONMAJOR.TOOLTIP
+"У этого дубликанта закончилось <style=\"KKeyword\">масло</style>, которым он смазывает свои механизмы. Теперь он не может нормально функционировать\n\nЕму нужно найти <style=\"KKeyword\">мазь для шестерёнок</style> или посетить <style=\"KKeyword\">смазывательную станцию</style> как можно скорее"
+
+STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATIONMINOR.NAME
+"Трение шестерёнок (слабое)"
+
+STRINGS.DUPLICANTS.MODIFIERS.NOLUBRICATIONMINOR.TOOLTIP
+"У этого дубликанта закончилось <style=\"KKeyword\">масло</style>, которым он смазывает свои механизмы. Теперь он не может нормально функционировать\n\nЕму нужно найти <style=\"KKeyword\">мазь для шестерёнок</style> или посетить <style=\"KKeyword\">смазывательную станцию</style> как можно скорее"
+
+STRINGS.DUPLICANTS.MODIFIERS.ROOMBIONICUPKEEP.NAME
+"Мастерская"
+
+STRINGS.DUPLICANTS.MODIFIERS.ROOMBIONICUPKEEP.TOOLTIP
+"Этот дубликант воспользовался <link=\"GUNKEMPTIER\">извлекателем отходов</link> в <style=\"KKeyword\">мастерской</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.SAWROBODANCER.NAME
+"Воодушевление"
+
+STRINGS.DUPLICANTS.MODIFIERS.SAWROBODANCER.TOOLTIP
+""
+"Этот дубликант восхитился танцевальными движениями товарища\n"
+"\n"
+"Теперь его переполняет энергия!"
 
 STRINGS.DUPLICANTS.MODIFIERS.SLIPPED.NAME
 "Падение"
 
 STRINGS.DUPLICANTS.MODIFIERS.SLIPPED.TOOLTIP
 "Недавно этот дубликант оступился на скользком полу и теперь чувствует себя неловко"
+
+STRINGS.DUPLICANTS.MODIFIERS.STRESSSHOCKER.NAME
+"Оглушительный визг"
+
+STRINGS.DUPLICANTS.MODIFIERS.STRESSSHOCKER.NOTIFICATION_NAME
+"Вопль банши"
+
+STRINGS.DUPLICANTS.MODIFIERS.STRESSSHOCKER.NOTIFICATION_TOOLTIP
+"Эти дубликанты испытывают такой <link=\"STRESS\">стресс</link>, что начали стонать:"
+
+STRINGS.DUPLICANTS.MODIFIERS.STRESSSHOCKER.TOOLTIP
+"Из-за <style=\"KKeyword\">стресса</style> этот дубликант вопит во всё горло"
 
 STRINGS.DUPLICANTS.PERSONALITIES.CHIP.DESC
 "{0} прекрасно угадывает пароли друзей."
@@ -336,22 +1362,78 @@ STRINGS.DUPLICANTS.PERSONALITIES.ULTI.DESC
 "{0} знает только один танец — танец робота."
 
 STRINGS.DUPLICANTS.PERSONALITIES.ULTI.NAME
-"<color=#999999>Ультра</color>"
+"Ульти"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_A1.DESCRIPTION
+"Позволяет бионическим дубликантам устанавливать дополнительный усилитель."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_A1.NAME
+"<link=\"BIONICSA1\">Параллельное вычисление I</link>"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_A2.DESCRIPTION
+"Позволяет бионическим дубликантам устанавливать дополнительный усилитель и увеличивает скорость бега."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_A2.NAME
+"<link=\"BIONICSA2\">Параллельное вычисление II</link>"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_A3.DESCRIPTION
+"Позволяет бионическим дубликантам устанавливать дополнительный усилитель и уменьшает штраф к скорости бега при ношении экзокостюмов."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_A3.NAME
+"<link=\"BIONICSA3\">Комплексное вычисление</link>"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_B1.DESCRIPTION
+"Значительно снижает негативный эффект низкого уровня <link=\"GEAROIL\">масла</link>."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_B1.NAME
+"<link=\"BIONICSB1\">Цепкая передача I</link>"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_B2.DESCRIPTION
+"Позволяет бионическим дубликантам установить дополнительный усилитель."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_B2.NAME
+"<link=\"BIONICSB2\">Цепкая передача II</link>"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_B3.DESCRIPTION
+"Позволяет бионическим дубликантам установить дополнительный усилитель и убирает штраф при ношении экзокостюмов."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_B3.NAME
+"<link=\"BIONICSB3\">Полная катушка</link>"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_C1.DESCRIPTION
+"Позволяет бионическим дубликантам проводить исследования с использованием <link=\"ADVANCEDRESEARCHCENTER\">суперкомпьютера</link> и создавать предметы на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_C1.NAME
+"<link=\"BIONICSC1\">Проектирование</link>"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_C2.DESCRIPTION
+"Позволяет бионическим дубликантам установить дополнительный усилитель и увеличивает их скорость бега."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_C2.NAME
+"<link=\"BIONICSC2\">Улучшенное проектирование</link>"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_C3.DESCRIPTION
+"Увеличивает количество одновременно используемых <link=\"ELECTROBANK\">энергоячеек</link>, чтобы дольше работать без перерыва."
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_C3.NAME
+"<link=\"BIONICSC3\">Многокомпонентная энергоёмкость</link>"
 
 STRINGS.DUPLICANTS.STATS.BIONICGUNK.NAME
 "Отходы"
 
 STRINGS.DUPLICANTS.STATS.BIONICGUNK.TOOLTIP
 ""
-"Бионические дубликанты подвергаются <style=\"KKeyword\">стрессу</style>, если в их деталях скапливается слишком много <style=\"KKeyword\">жидких отходов</style>\n"
+"Бионические дубликанты подвергаются <style=\"KKeyword\">стрессу</style>, если в их\n"
+"деталях скапливается слишком много <style=\"KKeyword\">жидких отходов</style>\n"
 "\n"
 "Им требуется регулярно посещать <style=\"KKeyword\">извлекатель отходов</style>"
 
 STRINGS.DUPLICANTS.STATS.BIONICINTERNALBATTERY.NAME
-"Энергоячейки"
+"Батарея"
 
 STRINGS.DUPLICANTS.STATS.BIONICINTERNALBATTERY.TOOLTIP
-"Если у бионического дубликанта не осталось <style=\"KKeyword\">энергии</style>, он выходит из строя до тех пор, пока не будут установлены сменные <style=\"KKeyword\">энергоячейки</style>"
+"Если у бионического дубликанта не осталось <style=\"KKeyword\">энергии</style>, он выходит из строя\n"
+"до тех пор, пока не будут установлены сменные <style=\"KKeyword\">энергоячейки</style>"
 
 STRINGS.DUPLICANTS.STATS.BIONICOIL.NAME
 "Масло"
@@ -360,13 +1442,24 @@ STRINGS.DUPLICANTS.STATS.BIONICOIL.TOOLTIP
 ""
 "Бионические дубликанты сильно замедляются, когда у них кончается <style=\"KKeyword\">масло</style>\n"
 "\n"
-"В качестве машинного масла дубликанты могут использовать <style=\"KKeyword\">растительное масло</style> или <style=\"KKeyword\">нефть</style>: они доступны на <style=\"KKeyword\">смазывательной станции</style>"
+"В качестве машинного масла дубликанты могут использовать <style=\"KKeyword\">растительное масло</style>\n"
+"или <style=\"KKeyword\">нефть</style>, - они доступны на <style=\"KKeyword\">смазывательной станции</style>"
 
 STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.NAME
-"Кислородный баллон"
+"Баллон"
 
 STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP
-"У бионических дубликантов есть внутренние <style=\"KKeyword\">кислородные</style> баллоны, которые позволяют им работать в зонах, непригодных для дыхания"
+"У каждого бионического дубликанта есть внутренний <style=\"KKeyword\">кислородный баллон</style>,\n"
+"который позволяет ему работать в зонах, непригодных для дыхания"
+
+STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP_GERM_DETAIL
+" - {0}"
+
+STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP_MASS_LINE
+"Остаток: {0} / {1}"
+
+STRINGS.DUPLICANTS.STATS.BIONICOXYGENTANK.TOOLTIP_MASS_ROW_DETAIL
+"    • {0}: {1}{2}"
 
 STRINGS.DUPLICANTS.STATUSITEMS.BIONICBEINGREBOOTED.NAME
 "Перезагрузка активирована"
@@ -404,6 +1497,12 @@ STRINGS.DUPLICANTS.STATUSITEMS.BIONICEXPLORERBOOSTER.TOOLTIP
 "\n"
 "Когда завершится сканирование, он обнаружит новый гейзер"
 
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICMICROCHIPGENERATION.NAME
+"Программирование микрочипов {0}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICMICROCHIPGENERATION.TOOLTIP
+"Этот дубликант программирует микрочип для создания бионического <style=\"KKeyword\">усилителя</style>\n\nБионические дубликанты будут программировать микрочипы во время дефрагментации\n\nОни будут производить 1 микрочип каждые {0}"
+
 STRINGS.DUPLICANTS.STATUSITEMS.BIONICOFFLINEINCAPACITATED.NAME
 "Выведен из строя: нет энергии"
 
@@ -438,10 +1537,22 @@ STRINGS.DUPLICANTS.STATUSITEMS.BIONICWAITINGFORREBOOT.TOOLTIP
 "Чтобы этот дубликант вернулся к работе, кто-то должен перезагрузить его бионические системы"
 
 STRINGS.DUPLICANTS.STATUSITEMS.BIONICWANTSOILCHANGE.NAME
-"Низкий уровень <color=#999999>масла</color>"
+"Низкий уровень масла"
 
 STRINGS.DUPLICANTS.STATUSITEMS.BIONICWANTSOILCHANGE.TOOLTIP
-"У этого дубликанта почти закончилось <color=#999999><style=\"KKeyword\">масло</style></color>. Ему нужно посетить <style=\"KKeyword\">смазывательную станцию</style>"
+"У этого дубликанта почти закончилось <style=\"KKeyword\">масло</style>. Ему нужно посетить <style=\"KKeyword\">смазывательную станцию</style>"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2BIONIC.NAME
+"Расход баллона: {ConsumptionRate}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2BIONIC.TOOLTIP
+"Бионические дубликанты оснащены внутренним <link=\"OXYGEN\">кислородным</link> баллоном"
+
+STRINGS.DUPLICANTS.STATUSITEMS.CLOGGINGTOILET.NAME
+"Засорение туалета"
+
+STRINGS.DUPLICANTS.STATUSITEMS.CLOGGINGTOILET.TOOLTIP
+"Этот дубликант засоряет туалет <style=\"KKeyword\">жидкими отходами</style>\n\nОн не смог вовремя добраться до <style=\"KKeyword\">извлекателя отходов</style> in time"
 
 STRINGS.DUPLICANTS.STATUSITEMS.DATARAINERPLANNING.NAME
 "Главный по чипам"
@@ -495,34 +1606,34 @@ STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.HIGHGUNK.TOOLTIP
 "Прежде чем принимать новые задачи, этот дрон должен вернуться на док-станцию и избавиться от накопленных <style=\"KKeyword\">отходов</style>"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWOIL.NAME
-"Низкий уровень масла"
+"Низкий уровень <b>масла</b>"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWOIL.TOOLTIP
 ""
-"У этого дрона мало масла\n"
+"У этого телеробота мало <color=#C38802>масла</color>\n"
 "\n"
-"Прежде чем принимать новые задачи, он должен вернуться на док-станцию и восполнить уровень смазки"
+"Прежде чем принимать новые поручения, он должен вернуться на док-станцию и восполнить его уровень для смазки"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWPOWER.NAME
 "Мало энергии"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.LOWPOWER.TOOLTIP
 ""
-"У этого дрона мало <style=\"KKeyword\">энергии</style>\n"
+"У этого телеробота мало <style=\"KKeyword\">энергии</style>\n"
 "\n"
-"Прежде чем принимать новые задачи, он должен вернуться на док-станцию и зарядиться"
+"Прежде чем принимать новые поручения, он должен вернуться на док-станцию и зарядиться"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.NOHOMEDOCK.NAME
 "Нет док-станции"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.NOHOMEDOCK.TOOLTIP
-"У этого дрона нет домашней док-станции, поэтому он самоуничтожится"
+"У этого телеробота нет домашней док-станции, поэтому он самоуничтожится"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OILING.NAME
-"Заливает масло"
+"Заправляется маслом"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OILING.TOOLTIP
-"Этот дрон смазывает сочленения"
+"Этот телеробот смазывает свои сочленения"
 
 STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.OUTOFOIL.NAME
 "Нет масла"
@@ -564,7 +1675,7 @@ STRINGS.DUPLICANTS.STATUSITEMS.REMOTEWORKER.UNREACHABLEDOCK.TOOLTIP
 "Этот дрон не может попасть на свою док-станцию"
 
 STRINGS.DUPLICANTS.STATUSITEMS.ROBODANCERDANCING.NAME
-"<color=#999999>Звезда флешмоба</color>"
+"Звезда флешмоба"
 
 STRINGS.DUPLICANTS.STATUSITEMS.ROBODANCERDANCING.TOOLTIP
 "Этот дубликант показывает другим дубликантам, как надо танцевать"
@@ -582,10 +1693,110 @@ STRINGS.DUPLICANTS.STATUSITEMS.SLIPPERING.TOOLTIP
 "Этот дубликант потерял равновесие на скользкой поверхности.\n\nЭто не смешно."
 
 STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGOIL.NAME
-"Вывод отходов"
+"Вывод жидких отходов"
 
 STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGOIL.NOTIFICATION_NAME
+"Вывод жидких отходов"
+
+STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGOIL.NOTIFICATION_TOOLTIP
+""
+"<b>Команда \"Вытереть\"</b> {Hotkey/Mop} поможет убрать оставленные дубликантами лужи.\n"
+"\n"
+"Эти дубликанты оставили за собой лужи, которые надо убрать:\n"
+
+STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGOIL.TOOLTIP
+""
+"Этот бионический дубликант не успел вовремя добраться до <link=\"GUNKEMPTIER\">извлекателя отходов</link> и совсем отчаялся\n"
+"\n"
+"<link=\"GUNKEMPTIER\">Извлекатели отходов</link>, доступные для постройки, можно найти на <b>вкладке \"Жидкости\"</b> {Hotkey/Plan5}."
+
+STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_STRESS_SHOCKER.NAME
+"Опасно раздражён"
+
+STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_STRESS_SHOCKER.TOOLTIP
+""
+"Этот дубликант держится на волоска от срыва... вот только этот волосок — это провод под напряжением\n"
+"\n"
+"Ему нужно поднять <style=\"KKeyword\">моральный дух</style>, пока никто не получил удар током"
+
+STRINGS.DUPLICANTS.THOUGHTS.EXPELLGUNKDESIRE.TOOLTIP
 "Вывод отходов"
+
+STRINGS.DUPLICANTS.THOUGHTS.EXPELLINGSPOILEDOIL.TOOLTIP
+"Разлив масла"
+
+STRINGS.DUPLICANTS.THOUGHTS.REFILLOILDESIRE.TOOLTIP
+"Низкий уровень масла"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG1.DESC
+"Бионические системы этого дубликанта сложно назвать гибкими, работают со скрипом."
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG1.NAME
+"Баг: Жёсткая логика"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG1.SHORT_DESC
+"Нет пассивного повышения атрибутов"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG1.SHORT_DESC_TOOLTIP
+"Не повышает <color=#C38802>атрибуты</color> во время выполнения поручений\n"
+"\n"
+"Для их улучшения требуются <color=#C38802>бионические усилители</color>"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG2.DESC
+"Бионические системы этого дубликанта построены без \"соединительных\" деталей"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG2.NAME
+"Баг: Разрыв шаблона"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG2.SHORT_DESC
+"Нет пассивного повышения атрибутов"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG2.SHORT_DESC_TOOLTIP
+"Не повышает <color=#C38802>атрибуты</color> во время выполнения поручений\n"
+"\n"
+"Для их улучшения требуются <color=#C38802>бионические усилители</color>"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG3.DESC
+"Бионические системы этого дубликанта не предназначены для аккуратного управления другими системами"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG3.NAME
+"Баг: Пальцы из проводов"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG3.SHORT_DESC
+"Нет пассивного повышения атрибутов"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG3.SHORT_DESC_TOOLTIP
+"Не повышает <color=#C38802>атрибуты</color> во время выполнения поручений\n"
+"\n"
+"Для их улучшения требуются <color=#C38802>бионические усилители</color>"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG4.DESC
+"Бионические системы этого дубликанта редко проходят стадию обработки."
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG4.NAME
+"Баг: Зануда"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG4.SHORT_DESC
+"Нет пассивного повышения атрибутов"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG4.SHORT_DESC_TOOLTIP
+"Не повышает <color=#C38802>атрибуты</color> во время выполнения поручений\n"
+"\n"
+"Для их улучшения требуются <color=#C38802>бионические усилители</color>"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG5.DESC
+"Системы этого дубликанта не были разработаны для высокой скорости"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG5.NAME
+"Баг: Поздний цветок"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG5.SHORT_DESC
+"Нет пассивного повышения атрибутов"
+
+STRINGS.DUPLICANTS.TRAITS.BIONICBUG5.SHORT_DESC_TOOLTIP
+"Не повышает <color=#C38802>атрибуты</color> во время выполнения поручений\n"
+"\n"
+"Для их улучшения требуются <color=#C38802>бионические усилители</color>"
 
 STRINGS.DUPLICANTS.TRAITS.DATARAINER.DESC
 "Этот дубликант раздает микрочипы, когда испытывает <style=\"KKeyword\">сверхрадостную реакцию</style>"
@@ -593,11 +1804,341 @@ STRINGS.DUPLICANTS.TRAITS.DATARAINER.DESC
 STRINGS.DUPLICANTS.TRAITS.DATARAINER.NAME
 "Главный по чипам"
 
-STRINGS.DUPLICANTS.TRAITS.DEFAULTBIONICBOOSTART.DESC
-"Этот дубликант начинает с предустановленным <b>бустером декорирования</b>"
+STRINGS.DUPLICANTS.TRAITS.ROBODANCER.DESC
+"Этот дубликант начинает танцевать, когда испытывает <style=\"KKeyword\">сверхрадостную реакцию</style>"
+
+STRINGS.DUPLICANTS.TRAITS.ROBODANCER.NAME
+"Звезда флешмоба"
+
+STRINGS.DUPLICANTS.TRAITS.STARTING_BIONIC_BOOSTER_SHARED_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.DESC
+"Наделяет бионического дубликанта безупречными навыками декорирования."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.NAME
+"Усилитель гениальности"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.SHORT_DESC
+"Начинает игру с <b>усилителем гениальности</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_ART1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.DESC
+"Даёт бионическому дубликанту повышенную грузоподъёмность и атлетическую выносливость."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.NAME
+"Усилитель тяги"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.SHORT_DESC
+"Начинает игру с <b>усилителем тяги</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CARRY1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.DESC
+"Наделяет бионического дубликанта способностью быстро строить и сносить постройки, которые не под силу другим."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.NAME
+"Усилитель сокрушения"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.SHORT_DESC
+"Начинает игру с <b>усилителем сокрушения</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_CONSTRUCT1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.DESC
+"Наделяет бионического дубликанта восхитительными профессиональными кулинарными навыками."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.NAME
+"Усилитель готовки"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.SHORT_DESC
+"Начинает игру с <b>усилителем готовки</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_COOK1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.DESC
+"Даёт бионическому дубликанту навык, необходимый для копания твёрдых пород."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.NAME
+"Усилитель бурения"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.SHORT_DESC
+"Начинает игру с <b>усилителем бурения</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.DESC
+"Даёт бионическому дубликанту навык бурения такого, что вообще редко встретишь."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.NAME
+"Усилитель кладоискателя"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.SHORT_DESC
+"Начинает игру с <b>усилителем кладоискателя</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_DIG2.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.DESC
+"Наделяет бионического дубликанта непревзойдёнными навыками земледелия и ботанического анализа."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.NAME
+"Усилитель фермерства"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.SHORT_DESC
+"Начинает игру с <b>усилителем фермерства</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_FARM1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.DESC
+"Наделяет бионического дубликанта способностью выполнять все поручения врача."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.NAME
+"Усилитель лечения"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.SHORT_DESC
+"Начинает игру с <b>усилителем лечения</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_MEDICINE1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.DESC
+"Даёт бионическому дубликанту навыки, необходимые для того, чтобы возиться и паять по своему усмотрению."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.NAME
+"Усилитель электротехники"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.SHORT_DESC
+"Начинает игру с <b>усилителем электротехники</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_OP1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.DESC
+"Наделяет бионического дубликанта навыками, необходимыми для ухода за <link=\"CREATURES\">животными</link>."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.NAME
+"Усилитель скотоводства"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.SHORT_DESC
+"Начинает игру с <b>усилителем скотоводства</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.DESC
+"Позволяет бионическому дубликанту увеличить время ношения <link=\"SUITS\">экзокостюмов</link> и поддерживать высокую скорость бега в них."
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.NAME
+"Усилитель экзокостюмов"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.SHORT_DESC
+"Начинает игру с <b>усилителем экзокостюмов</b>"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_SUITS1.SHORT_DESC_TOOLTIP
+"Бионические дубликанты используют усилители для повышения своих навыков и атрибутов\n"
+"\n"
+"Усилители можно создать на <link=\"CRAFTINGTABLE\">верстаке</link> и <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>\n"
+"\n"
+"Предустановленные эффекты этого усилителя:"
+
+STRINGS.DUPLICANTS.TRAITS.STRESSSHOCKER.DESC
+"Этот дубликант выпускает электрические разряды, когда он находится <style=\"KKeyword\">в стрессе</style>"
+
+STRINGS.DUPLICANTS.TRAITS.STRESSSHOCKER.DRAIN_ATTRIBUTE
+"Искры стресса"
+
+STRINGS.DUPLICANTS.TRAITS.STRESSSHOCKER.NAME
+"Электрошокер"
 
 STRINGS.ELEMENTS.CRUDEOIL.DESC
 "Сырая нефть – потенциальный источник <link=\"POWER\">энергии</link>, состоящий из миллиардов умерших простейших организмов.\n\nТакже служит смазкой для некоторых видов оборудования."
+
+STRINGS.ELEMENTS.FROZENPHYTOOIL.DESC
+"Замерзшее растительное масло — это густая и скользкая выжимка из <link=\"SLIME\">слизи</link>, охлаждённая до <link=\"ELEMENTSSOLID\">твёрдого</link> состояния."
+
+STRINGS.ELEMENTS.FROZENPHYTOOIL.NAME
+"<link=\"FROZENPHYTOOIL\">Замёрзшее растительное масло</link>"
+
+STRINGS.ELEMENTS.GUNK.DESC
+"Твёрдые отходы — это замёрзшие до <link=\"ELEMENTSSOLID\">твёрдого</link> состояния слипшиеся грязь и пыль, которые производят механизмы бионических дубликантов."
+
+STRINGS.ELEMENTS.GUNK.NAME
+"<link=\"GUNK\">Твёрдые отходы</link>"
+
+STRINGS.ELEMENTS.LIQUIDGUNK.DESC
+""
+"Жидкие отходы — это мерзко слипшиеся грязь и пыль, которые производят механизмы бионических дубликантов.\n"
+"\n"
+"Неприятная вязкая масса."
+
+STRINGS.ELEMENTS.LIQUIDGUNK.NAME
+"<link=\"LIQUIDGUNK\">Жидкие отходы</link>"
+
+STRINGS.ELEMENTS.PHYTOOIL.DESC
+"Растительное масло — это густая и скользкая <link=\"ELEMENTSLIQUID\">жидкость</link>, которую получают из <link=\"SLIME\">слизи</link>, перетёртой в кашицу."
+
+STRINGS.ELEMENTS.PHYTOOIL.NAME
+"<link=\"PHYTOOIL\">Растительное масло</link>"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_ART1.DESC
+"Наделяет бионического дубликанта безупречными навыками декорирования."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_ART1.NAME
+"Усилитель гениальности"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CARRY1.DESC
+"Даёт бионическому дубликанту повышенную грузоподъёмность и атлетическую выносливость."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CARRY1.NAME
+"Усилитель тяги"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CONSTRUCT1.DESC
+"Наделяет бионического дубликанта способностью быстро строить и сносить постройки, которые не под силу другим."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_CONSTRUCT1.NAME
+"Усилитель сокрушения"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_COOK1.DESC
+"Наделяет бионического дубликанта восхитительными профессиональными кулинарными навыками."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_COOK1.NAME
+"Усилитель готовки"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG1.DESC
+"Даёт бионическому дубликанту навык, необходимый для копания твёрдых пород."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG1.NAME
+"Усилитель бурения"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG2.DESC
+"Даёт бионическому дубликанту навык бурения такого, что вообще редко встретишь."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_DIG2.NAME
+"Усилитель кладоискателя"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_FARM1.DESC
+"Наделяет бионического дубликанта непревзойдёнными навыками земледелия и ботанического анализа."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_FARM1.NAME
+"Усилитель фермерства"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_MEDICINE1.DESC
+"Наделяет бионического дубликанта способностью выполнять все поручения врача."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_MEDICINE1.NAME
+"Усилитель лечения"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP1.DESC
+"Даёт бионическому дубликанту навыки, необходимые для того, чтобы возиться и паять по своему усмотрению."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP1.NAME
+"Усилитель электротехники"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP2.DESC
+"Дает бионическому дубликанту полное владение инженерными навыками."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_OP2.NAME
+"Усилитель мехатроники"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOT1.DESC
+"Дает бионическому дубликанту опыт, необходимый для личного исследования неба."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOT1.NAME
+"Усилитель пилотирования"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOTVANILLA1.DESC
+"Дает бионическому дубликанту опыт, необходимый для управления ракетой."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_PILOTVANILLA1.NAME
+"Усилитель ракетостроения"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RANCH1.DESC
+"Наделяет бионического дубликанта навыками, необходимыми для ухода за <link=\"CREATURES\">животными</link>."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RANCH1.NAME
+"Усилитель скотоводства"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH1.DESC
+"Дает бионическому дубликанту опыт, необходимый для изучения <link=\"GEYSERS\">гейзеров</link> и пользования базовым научным обрудованием."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH1.NAME
+"Усилитель исследований"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH2.DESC
+"Наделяет бионического дубликанта способностью пользоваться космическими исследовательскими постройками и улучшает научные навыки."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH2.NAME
+"Усилитель астрономии"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH3.DESC
+"Наделяет бионического дубликанта глубоко прагматичным подходом к научным исследованиям."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RESEARCH3.NAME
+"Усилитель прикладных наук"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_SUITS1.DESC
+"Позволяет бионическому дубликанту увеличить время ношения <link=\"SUITS\">экзокостюмов</link> и поддерживать высокую скорость бега в них."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_SUITS1.NAME
+"Усилитель экзокостюмов"
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_TIDY1.DESC
+"Наделяет бионического дубликанта полным набором способностей по наведению порядка, включая очистку неба от нежелательных метеоров."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_TIDY1.NAME
+"Усилитель уборки"
 
 STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.RECIPEDESC
 "Хрустящая горстка <link=\"BEANPLANTSEED\">бобов</link>, обжаренная специальным образом в <link=\"TALLOW\">сале</link>."
@@ -611,11 +2152,26 @@ STRINGS.ITEMS.FOOD.TOFU.DESC
 STRINGS.ITEMS.FOOD.TOFU.RECIPEDESC
 "Мягкий творог из <link=\"BEANPLANTSEED\">съедобных бобов</link>."
 
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.NAME
+"<link=\"CRABSHELL\">Панцирь детёныша краба</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_WOOD.NAME
+"<link=\"VARIANTWOODSHELL\">Малый панцирь древесного краба</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.NAME
+"<link=\"CRABSHELL\">Панцирь краба-щипача</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_WOOD.NAME
+"<link=\"VARIANTWOODSHELL\">Панцирь древесного краба</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.EGG_SHELL.NAME
+"<link=\"EGGSHELL\">Яичная скорлупа</link>"
+
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK.DESC
 ""
-"Экоячейка <color=#999999>-</color> это экологическая <link=\"ELECTROBANK\">энергоячейка</link>, которую можно заряжать повторно.\n"
+"Экоячейка - это экологическая <link=\"ELECTROBANK\">энергоячейка</link>, которую можно заряжать повторно.\n"
 "\n"
-"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
 "\n"
 "Дубликанты могут создавать <link=\"ELECTROBANK\">экоячейки</link> на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>."
 
@@ -626,7 +2182,7 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_CARROT.DESC
 ""
 "Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"CARROT\">перистой свёклы</link>.\n"
 "\n"
-"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
 "\n"
 "Дубликанты могут создавать <link=\"ELECTROBANK\">тыквенные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
 
@@ -646,7 +2202,7 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_GARBAGE.DESC
 ""
 "<link=\"ELECTROBANK\">Энергоячейка</link>, которая своё отработала.\n"
 "\n"
-"Можно переработать в металлическую руду."
+"Можно переработать в <link=\"KATAIRITE\">абиссалит</link> в <link=\"ROCKCRUSHER\">камнедробителе</link>."
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_GARBAGE.NAME
 "<link=\"ELECTROBANK\">Нерабочая энергоячейка</link>"
@@ -655,7 +2211,7 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_LIGHTBUGEGG.DESC
 ""
 "Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"LIGHTBUG\">яйца светлячка</link>.\n"
 "\n"
-"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
 "\n"
 "Дубликанты могут создавать <link=\"ELECTROBANK\">светлячковые энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
 
@@ -664,31 +2220,20 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_LIGHTBUGEGG.NAME
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_METAL_ORE.DESC
 ""
-"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"METAL\">металлической руды</link>.\n"
+"Одноразовая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"METAL\">металлической руды</link>.\n"
 "\n"
-"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
 "\n"
 "Дубликанты могут создавать <link=\"ELECTROBANK\">металлические энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_METAL_ORE.NAME
 "<link=\"ELECTROBANK\">Металлическая энергоячейка</link>"
 
-STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_MUCKROOT.DESC
-""
-"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"BASICFORAGEPLANT\">гнилостного корня</link>.\n"
-"\n"
-"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
-"\n"
-"Дубликанты могут создавать <link=\"ELECTROBANK\">гнилостные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
-
-STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_MUCKROOT.NAME
-"<link=\"ELECTROBANK\">Гнилостная энергоячейка</link>"
-
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_STATERPILLAR.DESC
 ""
 "Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"STATERPILLAR\">яйца энергослизня</link>.\n"
 "\n"
-"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
 "\n"
 "Дубликанты могут создавать <link=\"ELECTROBANK\">слизневые энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
 
@@ -699,7 +2244,7 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SUCROSE.DESC
 ""
 "Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"SUCROSE\">сахарозы</link>.\n"
 "\n"
-"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
 "\n"
 "Дубликанты могут создавать <link=\"ELECTROBANK\">сахарозные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
 
@@ -708,9 +2253,9 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SUCROSE.NAME
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_URANIUM_ORE.DESC
 ""
-"Одноразовая органическая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"URANIUMORE\">урановой руды</link>.\n"
+"Одноразовая <link=\"ELECTROBANK\">энергоячейка</link> из <link=\"URANIUMORE\">урановой руды</link>.\n"
 "\n"
-"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">розеточной станции</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">настенной розетке</link>.\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
 "\n"
 "Дубликанты могут создавать <link=\"ELECTROBANK\">ядерные энергоячейки</link> на <link=\"CRAFTINGTABLE\">верстаке</link>."
 
@@ -721,7 +2266,13 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.GOLD_BELLY_CROWN.DESC
 "Был срезан с <color=#C38802>королевского крольмонта</color>. Может быть раздроблен для извлечения <link=\"GOLDAMALGAM\">амальгамы золота</link>."
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.GOLD_BELLY_CROWN.NAME
-"Гребень крольмонта"
+"<link=\"GOLDBELLYCROWN\">Гребень крольмонта</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.NAME
+"<link=\"ORBITALRESEARCHDATABANK\">Банк данных</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.NAME_PLURAL
+"<link=\"ORBITALRESEARCHDATABANK\">Банки данных</link>"
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.RECIPE_DESC
 ""
@@ -729,14 +2280,93 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ORBITAL_RESEARCH_DATABANK.RECIPE_DESC
 "\n"
 "Используются в <link=\"DLC1COSMICRESEARCHCENTER\">виртуальном планетарии</link> для производства очков исследования."
 
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.DESC
+""
+"Специальный микрочип, сделанный профессиональным инженером.\n"
+"\n"
+"Временно улучшает <link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">генераторы</link>, увеличивая выработку <link=\"POWER\">энергии</link>.\n"
+"\n"
+"Также используется при создании усилителей для бионических дубликантов."
+
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.RECIPE_DESCRIPTION
 "Позволяет изготавливать микрочипы (требуется: {0})"
 
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RESEARCH_DATABANK.NAME
+"<link=\"RESEARCHDATABANK\">Банк данных</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RESEARCH_DATABANK.NAME_PLURAL
+"<link=\"RESEARCHDATABANK\">Банки данных</link>"
+
+STRINGS.ITEMS.LUBRICATIONSTICK.DESC
+"Дает небольшое количество <link=\"LUBRICATINGOIL\">масла</link> для смазывания механических частей.\n\nМожет быть создано на <link=\"APOTHECARY\">столе аптекаря</link>."
+
+STRINGS.ITEMS.LUBRICATIONSTICK.NAME
+"<link=\"LUBRICATIONSTICK\">Мазь для шарниров</link>"
+
+STRINGS.ITEMS.LUBRICATIONSTICK.RECIPEDESC
+"Самостоятельно применяемая механическая смазка для дубликантов с бионическими частями."
+
+STRINGS.ITEMS.LUBRICATIONSTICK.SUBHEADER
+"Механическая смазка"
+
 STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.MESSAGEBODY
 ""
-"Для работы бионическим дубликантам нужны <link=\"ELECTROBANK\">блоки энергии</link>. Когда у бионического дубликанта заканчивается <link=\"POWER\">энергия</link>, он выходит из строя — другому дубликанту нужно его перезагрузить.\n"
+"Для работы бионическим дубликантам нужны <link=\"ELECTROBANK\">энергоячейки</link>. Когда у бионического дубликанта заканчивается <link=\"POWER\">энергия</link>, он выходит из строя — другому дубликанту нужно его перезагрузить.\n"
 "\n"
-"Простые блоки энергии можно создавать на <link=\"CRAFTINGTABLE\">верстаке</link>."
+"Простые энергоячейки можно создавать на <link=\"CRAFTINGTABLE\">верстаке</link>."
+
+STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.NAME
+"Совет: Бионическое энергопитание"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICBATTERY.TOOLTIP
+"Заметки о потребностях дубликантов в энергоячейках"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICLIQUIDDAMAGE.NAME
+"Повреждение от жидкости"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICLIQUIDDAMAGE.TOOLTIP
+"Этот дубликант наступил в жидкость, и его бионическая система повредилась!"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICOIL.MESSAGEBODY
+"Бионические дубликанты, которым не хватает <link=\"LUBRICATINGOIL\">масла</link>, значительно замедляются, чтобы не повредить шестерёнки.\n"
+"\n"
+"Чтобы всё шло гладко, я могу создать <link=\"LUBRICATIONSTICK\">мазь для шарниров</link> или построить <link=\"OILCHANGER\">смазывательную станцию</link> из вкладки <b>Лечение</b> {Hotkey/Plan8}."
+
+STRINGS.MISC.NOTIFICATIONS.BIONICOIL.NAME
+"Совет: Смазывание бионики"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICOIL.TOOLTIP
+"Заметки о поддержании бионических дубликантов в рабочем состоянии"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.MESSAGEBODY
+"В моего нового дубликанта сразу встроена технология \"{0}\". Изобретательно!"
+
+STRINGS.MISC.NOTIFICATIONS.BIONICRESEARCHUNLOCK.NAME
+"Открыто исследование"
+
+STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.MESSAGEBODY
+""
+"Если у бионического дубликанта нет другого выхода, он может избавиться от <link=\"LIQUIDGUNK\">жидких отходов</link> в <link=\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\">унитаз</link>. Увы, это забивает его, и прежде чем другие дубликанты смогут использовать такой туалет, придется прочистить засор.\n"
+"\n"
+"Чтобы бионические дубликанты могли избавляться от отходов более удобным способом, необходимо построить <link=\"GUNKEMPTIER\">извлекатель отходов</link> из <b>вкладки \"Жидкости\"</b> {Hotkey/Plan5}."
+
+STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.NAME
+"Совет: Засор в туалете"
+
+STRINGS.MISC.NOTIFICATIONS.GUNKEDTOILET.TOOLTIP
+"Заметки об устранении засоров"
+
+STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.MESSAGEBODY
+""
+"На мокрых поверхностях мои дубликанты могут поскользнуться и упасть. В дубликантах с бионическими системами это может привести к серьёзным сбоям.\n"
+"\n"
+"Защитить колонию от ненужного <link=\"STRESS\">стресса</link> и потенциальных травм позволит <b>команда \"Вытереть\"</b> {Hotkey/Mop}. С её помощью можно убирать разлитые жидкости. Если построить <link=\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\">туалеты</link> и <link=\"GUNKEMPTIER\">извлекатели отходов</link>, луж на полу станет меньше."
+
+STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.NAME
+"Совет: Мокрые поверхности"
+
+STRINGS.MISC.NOTIFICATIONS.SLIPPERYSURFACE.TOOLTIP
+"Заметки об опасности скользкого пола"
 
 STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.NAME
 "Точка назначения"
@@ -744,11 +2374,47 @@ STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.NAME
 STRINGS.MISC.PLACERS.MOVEPICKUPABLEPLACER.PLACER_STATUS_TOOLTIP
 "Нажмите, чтобы увидеть, куда перенесётся этот предмет"
 
+STRINGS.MISC.POPFX.EXTRA_POWERBANKS_BIONIC
+"Дополнительные энергоячейки"
+
+STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTER.NAME
+"Сохранённые данные о грунте: {0}"
+
+STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTER.TOOLTIP
+""
+"<style=\"KKeyword\">Усилители сканирования</style> сохраняют информацию о грунте, собранную бионическими дубликантами\n"
+"\n"
+"Когда усилитель, установленный в бионического дубликанта, завершает сканирование, он открывает новый гейзер"
+
+STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTERREADY.NAME
+"Сканирование завершено"
+
+STRINGS.MISC.STATUSITEMS.BIONICEXPLORERBOOSTERREADY.TOOLTIP
+""
+"Этот <style=\"KKeyword\">усилитель сканирования</style> накопил достаточно информации для обнаружения нового гейзера\n"
+"\n"
+"Для работы усилителя необходимо установить его в бионического дубликанта"
+
+STRINGS.MISC.STATUSITEMS.UNASSIGNEDBIONICBOOSTER.NAME
+"Бесхозный"
+
+STRINGS.MISC.STATUSITEMS.UNASSIGNEDBIONICBOOSTER.TOOLTIP
+"Этот усилитель ещё не был назначен какому-либо бионическому дубликанту"
+
 STRINGS.MISC.TAGS.BED
 "Кровати"
 
+STRINGS.MISC.TAGS.BIONICUPGRADE
+"Усилители"
+
+STRINGS.MISC.TAGS.CHARGEDPORTABLEBATTERY
+"<link=\"ELECTROBANK\">Энергоячейки</link>"
+
 STRINGS.MISC.TAGS.COMBUSTIBLEGAS
 "<link=\"COMBUSTIBLEGAS\">Горючий газ</link>"
+
+STRINGS.MISC.TAGS.COMBUSTIBLEGAS_DESC
+"Горючие газы можно сжигать как топливо, чтобы производить <link=\"POWER\">энергию</link> или готовить <link=\"FOOD\">еду</link> на огне."
 
 STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC
 "Горючие жидкости можно сжечь для производства электроэнергии, например, в <link=\"PETROLEUMGENERATOR\">керосиновом генераторе</link> или использовать в качестве топлива для <link=\"KEROSENEENGINE\">керосинового двигателя</link>.\n\nЭти жидкости можно использовать иначе, например, в качестве удобрения для <link=\"BEANPLANTSEED\">съедобных бобов</link>, однако их основная ценность именно в том, что можно получить <link=\"POWER\">энергию</link> путём сжигания."
@@ -756,17 +2422,41 @@ STRINGS.MISC.TAGS.COMBUSTIBLELIQUID_DESC
 STRINGS.MISC.TAGS.COMBUSTIBLESOLID
 "<link=\"COMBUSTIBLESOLID\">Горючее твёрдое вещество</link>"
 
+STRINGS.MISC.TAGS.COMBUSTIBLESOLID_DESC
+"Горючие твёрдые вещества можно сжигать как топливо, чтобы производить <link=\"POWER\">энергию</link>."
+
+STRINGS.MISC.TAGS.EMPTYPORTABLEBATTERY
+"<link=\"ELECTROBANKEMPTY\">Пустые энергоячейки</link>"
+
+STRINGS.MISC.TAGS.LUBRICATINGOIL
+"<link=\"LUBRICATINGOIL\">Смазка</link>"
+
+STRINGS.MISC.TAGS.LUBRICATINGOIL_DESC
+"Смазка — это жидкость для смазывания сложных механизмов. Она защищает их от повреждений и сокращает трение между подвижными частями, чтобы всё работало исправно."
+
 STRINGS.MISC.TAGS.MASSAGE_TABLE
 "Массажные столы"
 
+STRINGS.MISC.TAGS.OXYGENCANISTER
+"Кислородные баллоны"
+
 STRINGS.MISC.TAGS.PLASTIFIABLELIQUID_DESC
 "Мономеры пластика - это органические соединения, которые могут быть переработаны в <link=\"PLASTIC\">пластик</link>, обладающий ценными свойствами в качестве строительного материала.\n\nПластик, полученный из этих мономеров, также может использоваться как упаковочный материал для сохранения <link=\"FOOD\">пищевых продуктов</link>."
+
+STRINGS.MISC.TAGS.SLIPPERY
+"Скользкие"
 
 STRINGS.MISC.TAGS.SUIT
 "Костюмы"
 
 STRINGS.MISC.TAGS.TOILET
 "Туалеты"
+
+STRINGS.MISC.TAGS.UNREFINEDOIL
+"<link=\"RAWOIL\">Сырая нефть</link>"
+
+STRINGS.MISC.TAGS.UNREFINEDOIL_DESC
+"Нефть в сыром виде. Можно обработать на <link=\"OILREFINERY\">нефтеперегонной установке</link>."
 
 STRINGS.NAMEGEN.WORLD.ROOTS.CERES
 ""
@@ -871,8 +2561,128 @@ STRINGS.RESEARCH.MESSAGING.DLC.DLC_CONTENT
 "\n"
 "Контент из DLC: <i>{0}</i>"
 
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.AGRICULTUREBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилители фермерства</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.AGRICULTUREBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя фермерства</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.ATHLETICSBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилители ловкости</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.ATHLETICSBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя ловкости</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONSTRUCTIONBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилители сокрушения</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONSTRUCTIONBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя сокрушения</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.COOKINGBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилители готовки</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.COOKINGBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя готовки</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.CREATIVITYBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилители гениальности</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.CREATIVITYBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя гениальности</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_METAL_ORE.DESC
+"Позволяет создавать <style=\"KKeyword\">металлические энергочейки</style> на <link=\"CRAFTINGTABLE\">верстаке</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_METAL_ORE.NAME
+"Шаблон <style=\"KKeyword\">металлической энергоячейки</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_URANIUM_ORE.DESC
+"Позволяет создавать <style=\"KKeyword\">ядерные энергочейки</style> на <link=\"CRAFTINGTABLE\">верстаке</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.DISPOSABLE_ELECTROBANK_URANIUM_ORE.NAME
+"Шаблон <style=\"KKeyword\">ядерной энергоячейки</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.ELECTROBANK.DESC
+"Позволяет создавать <style=\"KKeyword\">экоячейки</style> на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.ELECTROBANK.NAME
+"Шаблон <style=\"KKeyword\">экоячейки</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.EXCAVATIONBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилитель бурения</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.EXCAVATIONBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя бурения</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.EXPLORERBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилители сканирования</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.EXPLORERBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителей сканирования</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.FETCHDRONE.DESC
+"Позволяет производство <style=\"KKeyword\">дронов</style> на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.FETCHDRONE.NAME
+"Шаблон <style=\"KKeyword\">дрона</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.HUSBANDRYBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилители скотоводства</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.HUSBANDRYBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя скотоводства</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.LUBRICATION_STICK.DESC
+"Позволяет создавать <style=\"KKeyword\">мазь для шестерёнок</style> на <link=\"APOTHECARY\">столе аптекаря</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.LUBRICATION_STICK.NAME
+"Шаблон <style=\"KKeyword\">мази для шестерёнок</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.MACHINERYBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">электротехнические усилители</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.MACHINERYBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителей электротехники</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.MEDICINEBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилитель лечения</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.MEDICINEBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя лечения</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.PILOTINGBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">усилитель ракетостроения</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.PILOTINGBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">усилителя ракетостроения</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.SCIENCEBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">научные усилители</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.SCIENCEBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">научных усилителей</style>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.STRENGTHBOOSTER.DESC
+"Позволяет создавать <style=\"KKeyword\">физические усилители</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.STRENGTHBOOSTER.NAME
+"Шаблон <style=\"KKeyword\">физических усилителей</style>"
+
+STRINGS.RESEARCH.TECHS.DATASCIENCE.DESC
+"Чтобы наука работала на дубликантов, а не наоборот."
+
+STRINGS.RESEARCH.TECHS.DATASCIENCE.NAME
+"<link=\"DATASCIENCE\">Информатика</link>"
+
+STRINGS.RESEARCH.TECHS.DATASCIENCEBASEGAME.DESC
+"Чтобы наука работала на дубликантов, а не наоборот."
+
+STRINGS.RESEARCH.TECHS.DATASCIENCEBASEGAME.NAME
+"<link=\"DATASCIENCEBASEGAME\">Информатика</link>"
+
 STRINGS.RESEARCH.TECHS.FLOWREDIRECTION.DESC
-"Балансируйте на <link=\"ELEMENTSLIQUID\">мокрых</link> вогнутых платформах для улучшения <link=\"MORALE\">морального духа</link>."
+"Управление <link=\"ELEMENTSLIQUID\">жидкостями</link> для <link=\"MORALE\">морального духа</link> и производства."
 
 STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC
 "Внутренние ракетные подключения для <link=\"ELEMENTSGAS\">газообразных</link> ресурсов."
@@ -880,14 +2690,38 @@ STRINGS.RESEARCH.TECHS.GASDISTRIBUTION.DESC
 STRINGS.RESEARCH.TECHS.LIQUIDDISTRIBUTION.DESC
 "Внутренние ракетные подключения для <link=\"ELEMENTSLIQUID\">жидких</link> ресурсов."
 
+STRINGS.ROBOTS.MODELS.FLYDO.DESC
+""
+"Летающий беспилотный робот со встроенной прошивкой курьера.\n"
+"\n"
+"Доставляет <link=\"ELEMENTSSOLID\">твёрдые</link> вещества и предметы в выбранные места назначения."
+
+STRINGS.ROBOTS.MODELS.FLYDO.NAME
+"Дрон"
+
+STRINGS.ROBOTS.STATS.INTERNALELECTROBANK.NAME
+"Энергоячейка"
+
+STRINGS.ROBOTS.STATS.INTERNALELECTROBANK.TOOLTIP
+"Если <style=\"KKeyword\">энергоячейка</style> этого дрона истощится, он прекратит работать, пока ему не доставят полностью заряженную новую"
+
+STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.DESC
+""
+"{0}: запас энергии исчерпан\n"
+"\n"
+"{0} снова заработает, когда получит новую энергоячейку"
+
+STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.NAME
+"Отключён"
+
 STRINGS.ROBOTS.STATUSITEMS.DEADBATTERYFLYDO.TOOLTIP
 ""
 "{0}: запас энергии исчерпан\n"
 "\n"
-"{0} снова заработает, когда получит новую батарею"
+"{0} снова заработает, когда получит новую энергоячейку"
 
 STRINGS.ROOMS.CATEGORY.BIONIC.NAME
-"Бионика"
+"Мастерская"
 
 STRINGS.ROOMS.CRITERIA.ADVANCEDWASHSTATION.CONFLICT_DESCRIPTION
 "<link=\"BUILDCATEGORYREQUIREMENTCLASSWASHSTATION\">Средство гигиены</link>, подключённое к водопроводу"
@@ -1109,6 +2943,36 @@ STRINGS.ROOMS.CRITERIA.WILDPLANT.CONFLICT_DESCRIPTION
 STRINGS.ROOMS.CRITERIA.WILDPLANTS.CONFLICT_DESCRIPTION
 "Четыре диких растения"
 
+STRINGS.ROOMS.TYPES.BIONICUPKEEP.DESCRIPTION
+""
+"Здесь бионические дубликанты могут позаботиться о своих потребностях.\n"
+"\n"
+"Использование <link=\"OILCHANGER\">смазывательной станции</link> в мастерской повышает моральный дух бионических дубликантов."
+
+STRINGS.ROOMS.TYPES.BIONICUPKEEP.EFFECT
+"- Бонус к моральному духу"
+
+STRINGS.ROOMS.TYPES.BIONICUPKEEP.NAME
+"Мастерская"
+
+STRINGS.ROOMS.TYPES.BIONICUPKEEP.TOOLTIP
+"Использование <link=\"OILCHANGER\">смазывательной станции</link> в мастерской повышает моральный дух бионических дубликантов."
+
+STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.DESCRIPTION
+""
+"Своего рода спа для дубликантов, которые непохожи на остальных.\n"
+"\n"
+"Когда бионические дубликанты посещают станции бионического обслуживания в мастерской, их моральный дух немного повышается."
+
+STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.EFFECT
+"- Бонус к моральному духу"
+
+STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.NAME
+"Мастерская"
+
+STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.TOOLTIP
+"Когда бионические дубликанты посещают станции бионического обслуживания в мастерской, их моральный дух немного повышается"
+
 STRINGS.ROOMS.TYPES.POWER_PLANT.DESCRIPTION
 ""
 "Отличное место для применения дубликантами навыков электроинженера.\n"
@@ -1121,6 +2985,24 @@ STRINGS.ROOMS.TYPES.POWER_PLANT.EFFECT
 STRINGS.ROOMS.TYPES.POWER_PLANT.TOOLTIP
 "Мощные генераторы, построенные в электростанции, могут быть улучшены микрочипами для увеличения производства энергии"
 
+STRINGS.SUBWORLDS.MAGMA.UTILITY
+""
+"<link=\"MAGMA\">Магма</link> — это источник колоссального количества <link=\"HEAT\">тепла</link>, которое может быть использовано для преобразования <link=\"WATER\">воды</link> в <link=\"STEAM\">пар</link> или <link=\"CRUDEOIL\">нефти</link> в <link=\"PETROLEUM\">керосин</link>. Для предотвращения распространения высоких температур по всей базе, необходимо обеспечить теплоизоляцию из тугоплавких материалов, таких как <link=\"CERAMIC\">керамика</link> или <link=\"OBSIDIAN\">обсидиан</link>.\n"
+"\n"
+"Хотя <color=#C38802>экзокостюмы</color>, такие как <link=\"ATMOSUIT\">атмокостюмы</link> и <link=\"JETSUIT\">ракетокостюмы</link>, обеспечивают определённую защиту для моих дубликантов, они всё ещё могут обжигаться, если находятся достаточно долгое время в этом биоме. Я должен убедиться, что подходящие медицинские постройки сконструированы неподалёку и готовы принять пациентов для неотложной медицинской помощи."
+
+STRINGS.UI.BUILDINGEFFECTS.ELECTROBANKS
+"<link=\"POWER\">Заряд</link>: {0}"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELECTROBANKS
+""
+"Заряд <style=\"KKeyword\">энергии</style> в энергоячейках составляет {0}\n"
+"\n"
+"Блоки разряжаются, когда их используют бионические дубликанты, либо в постройках или самой электросети"
+
+STRINGS.UI.CHARACTERCONTAINER_ALL_MODELS
+"Любой"
+
 STRINGS.UI.CHARACTERCONTAINER_APTITUDES_TITLE_TOOLTIP
 ""
 "Начальные атрибуты дубликанта определяются их интересами\n"
@@ -1130,6 +3012,104 @@ STRINGS.UI.CHARACTERCONTAINER_APTITUDES_TITLE_TOOLTIP
 STRINGS.UI.CHARACTERCONTAINER_ARCHETYPESELECT_TOOLTIP
 "Меняет тип дубликанта, который появится при перевыборе"
 
+STRINGS.UI.CHARACTERCONTAINER_FILTER_BIONIC
+"Отметьте, чтобы разрешить бионических дубликантов"
+
+STRINGS.UI.CHARACTERCONTAINER_FILTER_STANDARD
+"Отметьте, чтобы разрешить обычных дубликантов"
+
+STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE_BIONIC
+"БИОНИЧЕСКИЕ ОСОБЕННОСТИ"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.RANGE.ROBO_PILOTED_TOOLTIP
+"Ракеты, управляемые <style=\"KKeyword\">робопилотом</style> тратят {0} <style=\"KKeyword\">банков данных</style> на каждую клетку космической карты\nОставшиеся <style=\"KKeyword\">банки данных</style>: {1}"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.DEAD_ROBO_PILOT_ONLY_SPEED_TOOLTIP
+"У <style=\"KKeyword\">робопилота</style> кончились <style=\"KKeyword\">банки данных</style>\n\nРакета зависла и не двигается"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.DUPEPILOT_SPEED_TOOLTIP
+"Ускорение от навыка дубликанта: +{speed_boost}"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.PILOT_SPEED_MODIFIER
+"\n\nУ ракет на автопилоте скорость снижена\n\n<b>Скорость ракеты</b> можно увеличить с помощью <b>умелого</b> пилота-дубликанта и/или <style=\"KKeyword\">робопилота</style>"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.ROBO_PILOT_ONLY_SPEED_TOOLTIP
+"Управляется <style=\"KKeyword\">робопилотом</style>: нет бонуса скорости"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.SUPERPILOTED_SPEED_TOOLTIP
+"Мультипилотирование: Бонус скорости +{speed_boost}"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.TOOLTIP
+""
+"<b>Скорость ракеты</b> можно посчитать, разделив <b>мощность двигателя</b> на <b>нагрузку</b>"
+
+STRINGS.UI.CLUSTERMAP.ROCKETS.SPEED.UNPILOTED_SPEED_TOOLTIP
+"Ракета управляется автопилотом: скорость -{speed_boost}"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.CANT_REACH
+"    • Один или несколько дубликантов не могут добраться до кровати"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.CRITERIA.CHECKREACHABILITY
+"Проверить, доступны ли кровати"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.NO_MINIONS_PLANETOID
+"    • На данном планетоиде нет дубликантов, которым нужен сон"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.NO_MINIONS_ROCKET
+"    • На данной ракете нет дубликантов, которым нужен сон"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.ALL_NAME
+"Бионическая энергия"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA.CHECKENOUGHBATTERIES
+"Проверить, достаточно ли батарей"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA.CHECKPOWERLEVEL
+"Проверить критический уровень энергии"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_BATTERIES.FAIL
+"    • У бионических дубликантов нет батарей"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_BATTERIES.PASS
+"    • У бионических дубликантов есть батареи"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.HUNGRY
+"    • Один или несколько дубликантов отчаянно нуждаются в энергоячейке"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.LOW_CALORIES
+"    • Мало энергии на одного дубликанта"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.NORMAL
+"    • Запасы энергочеек в текущий момент приемлемы"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.NO_FOOD
+"    • У дубликантов нет энергоячеек"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.TOOLTIP_NAME
+"<b>Энергоячейки</b>"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.NO_MINIONS_PLANETOID
+"    • На данном планетоиде нет дубликантов с мочевым пузырём"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.NO_MINIONS_ROCKET
+"    • На данной ракете нет дубликантов с мочевым пузырём"
+
+STRINGS.UI.DEVELOPMENTBUILDS.DLC_BETA.BODY
+""
+"Вы собираетесь присоединиться к бета-тестированию DLC <b>\"The Bionic Booster Pack\"</b>.\n"
+"Эта бесплатная бета-версия находится в разработке и будет отключена перед выпуском платного DLC.\n"
+"\n"
+"Вы уверены, что хотите присоединиться?"
+
+STRINGS.UI.DLC3.MIXING_TOOLTIP
+"<i>The Bionic Booster Pack</i> включает в себя переносные энергоячейки, бионических дубликантов и дистанционное управление постройками"
+
+STRINGS.UI.DLC3.NAME
+"The Bionic Booster Pack"
+
+STRINGS.UI.DLC3.NAME_ITAL
+"<i>The Bionic Booster Pack</i>"
+
 STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_NO_OPTIONS
 "В данный момент нет DLC, которые доступны для смешивания с вашей игрой. Не волнуйтесь, здесь и так много всякой всячины."
 
@@ -1138,6 +3118,15 @@ STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.MIXING_TOOLTIP_DLC_MIXING
 "Контент DLC включает в себя новые постройки, посылки, космические точки интереса, животных, растения и так далее\n"
 "\n"
 "Включение этого параметра позволит добавить новые планетоиды, а также новые биомы вместо некоторых старых. Детали можно настроить в следующих секциях"
+
+STRINGS.UI.FRONTEND.MAINMENU.QUIT
+"ПРОСТО ВЫЙТИ"
+
+STRINGS.UI.FRONTEND.MAINMENU.SAVEANDQUITDESKTOP
+"СОХРАНИТЬ И ВЫЙТИ"
+
+STRINGS.UI.FRONTEND.MAINMENU.SAVEANDQUITTITLE
+"СОХРАНИТЬ И ВЫЙТИ"
 
 STRINGS.UI.FRONTEND.MODESELECTSCREEN.ACTIVE_CONTENT_HEADER
 "Активный контент"
@@ -1154,17 +3143,167 @@ STRINGS.UI.FRONTEND.PAUSE_SCREEN.ADD_DLC_MENU.ENABLE_QUESTION
 STRINGS.UI.FRONTEND.PAUSE_SCREEN.ALREADY_SAVED
 "<i><color=#CAC8C8>Уже сохранено</color></i>"
 
+STRINGS.UI.FRONTEND.SAVESCREEN.SAVE_COMPLETE_MESSAGE
+"Сохранение выполнено"
+
+STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.POWER_BANK_WATER_DAMAGE
+"Урон от воды"
+
+STRINGS.UI.ITEM_DROP_SCREEN.UNOPENED_ITEM
+"Неполученных скинов: {0}"
+
+STRINGS.UI.ITEM_DROP_SCREEN.UNOPENED_ITEM_COUNT
+"Неполученных скинов: {0}"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_AUTOMATION
+"Логика"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_ELECTIC_WIRES
+"Электричество"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_RESEARCH
+"Наука"
+
+STRINGS.UI.NEWBUILDCATEGORIES.ELECTROBANKBUILDINGS.BUILDMENUTITLE
+"Переработка"
+
+STRINGS.UI.NEWBUILDCATEGORIES.ELECTROBANKBUILDINGS.NAME
+"Переработка"
+
+STRINGS.UI.NEWBUILDCATEGORIES.OPERATIONS.BUILDMENUTITLE
+"Операции"
+
+STRINGS.UI.NEWBUILDCATEGORIES.OPERATIONS.NAME
+"Операции"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.CAN_CRAFT_ELECTRONICS.DESCRIPTION
+"Использование <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION
+"Настройка <link=\"POWER\">генераторов</link> и создание <link=\"POWERSTATIONTOOLS\">микрочипов</link>"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.EFFICIENT_BIONIC_GEARS.DESCRIPTION
+"Трение шестерёнок снижается на 50%"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.EXTRA_BIONIC_BATTERIES.DESCRIPTION
+"Дополнительные энергоячейки"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.REDUCED_GUNK_PRODUCTION.DESCRIPTION
+"<color=#C38802>Жидкие отходы</color> накапливаются на 10% медленнее"
+
+STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.BIONICUPGRADES
+"Уселители"
+
+STRINGS.UI.SCHEDULESCREEN.DELETE_SCHEDULE_TIMETABLE
+""
+"Удалить строку\n"
+"\n"
+"В расписании должно быть как минимум две строки, чтобы удалить одну из них"
+
+STRINGS.UI.SCHEDULESCREEN.DUPLICATE_SCHEDULE
+"Создать копию этого расписания"
+
+STRINGS.UI.SCHEDULESCREEN.DUPLICATE_SCHEDULE_TIMETABLE
+"Создать копию этой строки"
+
 STRINGS.UI.SCHEDULESCREEN.SCHEDULE_EDITOR
-"Редактор графиков"
+"РЕДАКТОР РАСПИСАНИЯ"
+
+STRINGS.UI.SCHEDULESCREEN.SCHEDULE_NAME_DEFAULT
+"Обычное расписание по умолчанию"
+
+STRINGS.UI.SCHEDULESCREEN.SCHEDULE_NAME_DEFAULT_BIONIC
+"Бионическое расписание по умолчанию"
+
+STRINGS.UI.SCHEDULESCREEN.SHIFT_SCHEDULE_DOWN_TOOLTIP
+"Поменять местами эту строку с той, что под ней"
 
 STRINGS.UI.SCHEDULESCREEN.SHIFT_SCHEDULE_LEFT_TOOLTIP
-"Сдвинуть график расписания влево"
+"Сдвинуть расписание влево"
 
 STRINGS.UI.SCHEDULESCREEN.SHIFT_SCHEDULE_RIGHT_TOOLTIP
-"Сдвинуть график расписания расписания вправо"
+"Сдвинуть расписание вправо"
+
+STRINGS.UI.SCHEDULESCREEN.SHIFT_SCHEDULE_UP_TOOLTIP
+"Поменять местами эту строку с той, что над ней"
 
 STRINGS.UI.SPACEDESTINATIONS.COMETS.MINICOMET.NAME
-"Мусорный метеорит"
+"Снаряд из мусора"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.ROBO_PILOT_WARNING
+"Только робопилот"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.ROBO_PILOT_WARNING
+""
+"Ракетой управляет робопилот\n"
+"\n"
+"Сейчас на борту нет дубликантов с навыком \"<link=\"ROCKETPILOTING1\">Пилотирование ракеты</link>\""
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.STATUS.FAILURE
+"Робопилот запрограммирован"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.STATUS.READY
+"Робопилот запрограммирован"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.STATUS.WARNING
+"Робопилот запрограммирован"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.STATUS.WARNING_NO_DATA_BANKS_HUMAN_PILOT
+"Робопилот запрограммирован"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.FAILURE
+"<style=\"KKeyword\">Робопилоту</style> нужно хотя бы {0} <style=\"KKeyword\">банков данных</style>, чтобы достичь место назначения"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.FAILURE_NO_DESTINATION
+"Место назначения не выбрано"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.READY
+"<style=\"KKeyword\">Робопилоту</style> хватает <style=\"KKeyword\">банков данных</style>, чтобы достичь место назначения"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.READY_NO_DESTINATION
+"<style=\"KKeyword\">Робопилоту</style> хватает <style=\"KKeyword\">банков данных</style>, но место назначения не выбрано"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.WARNING
+""
+"<style=\"KKeyword\">Робопилоту</style> не хватает <style=\"KKeyword\">банков данных</style>, чтобы достичь места назначения\n"
+"\n"
+" • Хранилище: {0}/{1}"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_DATA_REQUIREMENTS.TOOLTIP.WARNING_NO_DATA_BANKS_HUMAN_PILOT
+""
+"Для работы <style=\"KKeyword\">робопилоту</style> необходимы <style=\"KKeyword\">банки данных</style>\n"
+"\n"
+"Сейчас этой ракетой управляет дубликант с навыком <link=\"ROCKETPILOTING1\">пилотирования ракеты</link>"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_POWER_SOUCRE.STATUS.FAILURE
+"Робопилот запитан энергией"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_POWER_SOUCRE.STATUS.READY
+"Робопилот запитан энергией"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_POWER_SOUCRE.STATUS.WARNING
+"Робопилот запитан энергией"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_POWER_SOUCRE.TOOLTIP.FAILURE
+"Для запуска <style=\"KKeyword\">робопилоту</style> необходим источник <style=\"KKeyword\">энергии</style>"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_POWER_SOUCRE.TOOLTIP.READY
+"У <style=\"KKeyword\">робопилота</style> есть источник <style=\"KKeyword\">энергии</style>"
+
+STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ROBOT_PILOT_POWER_SOUCRE.TOOLTIP.WARNING
+"<style=\"KKeyword\">Робопилоту</style> не хватает <style=\"KKeyword\">энергии</style> на путешествие к месту назначения и обратный путь"
+
+STRINGS.UI.STARMAP.ROCKETSTATS.ROBO_PILOT_EFFICIENCY
+"За каждый <color=#C38802>банк данных</color> робопилот можно пройти: {0}"
+
+STRINGS.UI.STARMAP.ROCKETSTATS.ROBO_PILOT_RANGE
+"Расстояние робопилота"
+
+STRINGS.UI.TEMPORARY_ACTIONS.CAMERA_RETURN.NAME
+"Камера: Вернуть"
+
+STRINGS.UI.TEMPORARY_ACTIONS.CAMERA_RETURN.TOOLTIP
+"Возвращает камеру в предыдущую позицию"
 
 STRINGS.UI.TOOLS.MOVETOLOCATION.NAME
 "Идти"
@@ -1172,14 +3311,172 @@ STRINGS.UI.TOOLS.MOVETOLOCATION.NAME
 STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLNAME
 "Идти сюда"
 
+STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH_CARD_NAME
+"Текущее исследование: {0}"
+
+STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH_ITEM_LINE
+"• {0}"
+
+STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH_NO_RESEARCH
+"Нет активных научных проектов"
+
+STRINGS.UI.TOOLTIPS.METERSCREEN_ELECTROBANK_JOULES
+"Доступно джоулей: <color=#C38802>{0}</color>\n"
+"\n"
+"Бионический дубликант за цикл\n"
+"использует минимум: {1}\n"
+"\n"
+"Доступно энергоячеек: {2}\n"
+
+STRINGS.UI.TOOLTIPS.METERSCREEN_INVALID_ELECTROBANK_TYPE
+"Неподходящий тип энергоячейки: {0}"
+
 STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY
 "Калорий доступно: <color=#C38802>{0}</color>\nКаждый дубликант потребляет\nза цикл не менее {1}\n"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.ALREADY_ASSIGNED
+"{0}: уже есть <b>{1}</b> усилитель данного типа"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.AVAILABLE_SLOTS
+"{0}: назначено <b>{1}</b> из <b>{2}</b> слотов для усилителей"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.HEADER_ATTRIBUTES
+"<b>Повышает:</b>"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.HEADER_PERKS
+"<b>Позволяет:</b>"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.NOT_ALREADY_ASSIGNED
+"{0}: данный тип усилителя ещё не назначен"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.NO_AVAILABLE_SLOTS
+"<color=#ffff00ff>{0}: все слоты усилителя уже назначены, <b>{1}/{2}</b></color>"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.CURRENT_WATTAGE_LABEL
+"Текущая мощность: <b>{0}</b>"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.CURRENT_WATTAGE_LABEL_BATTERY_SAVE_MODE
+"Текущая мощность: <color=#0303fc><b>{0}</b> {1}</color>"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.CURRENT_WATTAGE_LABEL_OFFLINE
+"Текущая мощность: <color=#GG2222>отключено {0}</color>"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TITLE
+"Усилители"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.CURRENT_WATTAGE
+""
+"Мощность — это количество энергии, которую бионические части этого дубликанта потребляют в секунду\n"
+"\n"
+"Активные установленные усилители расходуют дополнительную энергию"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.SLOT_ASSIGNED
+"<style=\"KKeyword\">{0}</style> будет установлен, когда дубликант доберётся до него"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.SLOT_EMPTY
+""
+"Усилитель отсутствует в этом слоте\n"
+"\n"
+"Щёлкните, чтобы посмотреть доступные усилители"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.SLOT_INSTALLED
+"{0}"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.TOOLTIP.SLOT_LOCKED
+"Этот слот недоступен\n\nСлоты для усилителей можно расширить, используя доступные <style=\"KKeyword\">очки навыков</style>"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.UPGRADE_SLOT_ASSIGNED
+"Назначен"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.UPGRADE_SLOT_EMPTY
+"Свободно"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.UPGRADE_SLOT_INSTALLED
+"Вставлен"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.UPGRADE_SLOT_LOCKED
+"Закрыто"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_RESEARCH_REQUIRED
+"Требуется исследование"
+
+STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.CURRENT_SCHEDULE_BLOCK
+"Блок графика: {0}"
 
 STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.LIST_TITLE
 "Список дел"
 
+STRINGS.UI.UISIDESCREENS.OWNABLESSECONDSIDESCREEN.ASSIGNED_TO_OTHER_STATUS
+"Закреплён за: {0}"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSECONDSIDESCREEN.ASSIGNED_TO_SELF_STATUS
+"Присвоен"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSECONDSIDESCREEN.NONE_ROW_LABEL
+"Вынуть"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSECONDSIDESCREEN.NONE_ROW_TOOLTIP
+"Щёлкните, чтобы убрать предмет из выбранного слота"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSECONDSIDESCREEN.NOT_ASSIGNED
+"Бесхозный"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSECONDSIDESCREEN.TITLE
+"{0}"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.CATEGORIES.AMENITIES
+"Удобства"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.CATEGORIES.SUITS
+"Экипировка"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.NO_APPLICABLE
+"{0}: не подходит"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.NO_ITEM_ASSIGNED
+"Назначить"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.NO_ITEM_FOUND
+"Не найдено"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.TITLE
+"Снаряжение и удобства"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.TOOLTIPS.ITEM_ASSIGNED
+""
+"{0}\n"
+"\n"
+"{1}"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.TOOLTIPS.ITEM_ASSIGNED_GENERIC
+"Этому дубликанту назначено: {0}"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.TOOLTIPS.NO_APPLICABLE
+"Этому дубликанту нельзя назначить: <style=\"KKeyword\">{0}</style>"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSIDESCREEN.TOOLTIPS.NO_ITEM_ASSIGNED
+"Щёлкните, чтобы посмотреть и назначить этому дубликанту: <style=\"KKeyword\">{0}</style>"
+
 STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.PLANT_TOGGLE_TOOLTIP
 "{0}\n\n{1}\n\nДоступно семян: <b>{2}</b>"
+
+STRINGS.UI.UISIDESCREENS.REMOTE_WORK_TERMINAL_SIDE_SCREEN.DESCRIPTION
+"Выберите док-станцию телеробота, на которую будет нацелен этот терминал."
+
+STRINGS.UI.UISIDESCREENS.REMOTE_WORK_TERMINAL_SIDE_SCREEN.DOCK_TOOLTIP
+""
+"Щёлкните, чтобы назначить эту док-станцию выбранному терминалу\n"
+"\n"
+"Щёлкните дважды, чтобы перевести камеру на док-станцию"
+
+STRINGS.UI.UISIDESCREENS.REMOTE_WORK_TERMINAL_SIDE_SCREEN.NOTHING_SELECTED
+"Отсутствует"
+
+STRINGS.UI.UISIDESCREENS.REMOTE_WORK_TERMINAL_SIDE_SCREEN.TITLE
+"Назначение док-станции"
+
+STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ROBOPILOT_PER_ROCKET.FAILED
+"• Модуль с робопилотом уже установлен"
 
 STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME
 "Переместить к"
