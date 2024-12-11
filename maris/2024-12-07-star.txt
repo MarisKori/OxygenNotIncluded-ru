@@ -548,9 +548,9 @@ STRINGS.CODEX.BIONICBOOSTER.BODY.CONTAINER1
 STRINGS.CODEX.ELECTROBANK.BODY.CONTAINER1
 "Энергоячейки — это переносные контейнеры для хранения <link=\"POWER\">энергии</link>, которые можно использовать для снабжения электричеством мобильных объектов и изолированных территорий.\n"
 "\n"
-"Одноразовые энергоячейки легче в производстве, однако перезаряжаемые и саморазрядные модели более эффективны в долгосрочной перспективе.\n"
+"Одноразовые энергоячейки легче в производстве, однако перезаряжаемые и самозарядные модели более эффективны в долгосрочной перспективе.\n"
 "\n"
-"Требуется осторожное обращение, так как воздействие жидкости (или истечение срока годности для саморазрядных энергоячеек) может привести к взрывам."
+"Требуется осторожное обращение, так как воздействие жидкости (или истечение срока годности для самозарядных энергоячеек) может привести к взрывам."
 
 STRINGS.CODEX.HEADERS.ROLE_PERKS_BIONIC
 "Установка усилителей"
@@ -790,7 +790,7 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_METAL_ORE.NAME
 "<link=\"ELECTROBANKMETALORE\">Металлическая энергоячейка</link>"
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SELFCHARGING.DESC
-"Саморазрядная <link=\"ELECTROBANK\">энергоячейка</link>, созданная с использованием <link=\"ENRICHEDURANIUM\">обогащённого урана</link>.\n"
+"Самозарядная <link=\"ELECTROBANK\">энергоячейка</link>, созданная с использованием <link=\"ENRICHEDURANIUM\">обогащённого урана</link>.\n"
 "\n"
 "Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
 "\n"
@@ -824,13 +824,13 @@ STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.NAME
 STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.TOOLTIP
 "Оставшийся срок службы для этой энергоячейки.\n"
 "\n"
-"Она постепенно теряет энергию, пока та не опустится до нуля. После этого она взорвётся!"
+"Она продолжает работать, пока отведённое ей время не опустится до нуля. После этого она взорвётся!"
 
 STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.NAME
-"Саморазряд: {0}"
+"Самозаряд: {0}"
 
 STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.TOOLTIP
-"Эта энергоячейка медленно, но неотвратимо разряжается"
+"Эта энергоячейка медленно заряжает саму себя"
 
 STRINGS.MISC.TAGS.REMOTEOPERABLE
 "<link=\"LUBRICATINGOIL\">Дистанционно управляемые</link>"
@@ -958,3 +958,17 @@ STRINGS.UI.STARMAP.ROCKETSTATS.ROBO_PILOT_EFFICIENCY
 
 STRINGS.UI.STARMAP.ROCKETSTATS.ROBO_PILOT_RANGE
 "Расстояние робопилота"
+
+STRINGS.UI.USERMENUACTIONS.TINKER.ALLOW
+"Разрешить настройку"
+
+STRINGS.UI.USERMENUACTIONS.TINKER.DISALLOW
+"Запретить настройку"
+
+STRINGS.UI.USERMENUACTIONS.TINKER.TOOLTIP_ALLOW
+"Разрешить: {0}\n"
+"На постройку: {1}"
+
+STRINGS.UI.USERMENUACTIONS.TINKER.TOOLTIP_DISALLOW
+"Запретить: {0}\n"
+"На постройку: {1}"

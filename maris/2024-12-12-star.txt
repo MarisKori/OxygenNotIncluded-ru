@@ -1,0 +1,59 @@
+STRINGS.BUILDING.STATUSITEMS.POWERBANKCHARGERINPROGRESS.NAME
+"Энергоячейка заряжена на {0}"
+
+STRINGS.BUILDING.STATUSITEMS.POWERBANKCHARGERINPROGRESS.TOOLTIP
+"<link=\"ELECTROBANKCHARGER\">Заряжатель энергоячеек</link> выплюнет вставленную энергоячейку, когда она достигнет полного заряда."
+
+STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.SELF_CHARGING_POWERBANK_RECIPE_DESCRIPTION
+"Это портативное, самозаряжающееся устройство, используемое для питания изолированных <link=\"POWER\">электросетей</link>."
+
+STRINGS.CODEX.HEADERS.ROLE_PERKS_BIONIC_DESC
+"Установка усилителей мгновенно даёт бионическим дубликантам навыки и увеличивает их характеристики."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_GARBAGE.DESC
+""
+"<link=\"ELECTROBANK\">Энергоячейка</link>, которая своё отработала.\n"
+"\n"
+"Можно переработать в <link=\"KATAIRITE\">абиссалит</link> в <link=\"ROCKCRUSHER\">камнедробителе</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SELFCHARGING.DESC
+"Самозарядная <link=\"ELECTROBANK\">энергоячейка</link>, созданная с использованием <link=\"ENRICHEDURANIUM\">обогащённого урана</link>.\n"
+"\n"
+"Снабжает постройки энергией, если подключена к <link=\"LARGEELECTROBANKDISCHARGER\">мощному разряднику</link> или к <link=\"SMALLELECTROBANKDISCHARGER\">малому разряднику</link>.\n"
+"\n"
+"Дубликанты могут создавать <link=\"ELECTROBANKSELFCHARGING\">атомные энергоячейки</link> в <link=\"SUPERMATERIALREFINERY\">молекулярной кузнице</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ELECTROBANK_SELFCHARGING.NAME
+"<link=\"ELECTROBANKSELFCHARGING\">Атомная энергоячейка</link>"
+
+STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.NAME
+"Срок службы: {0}"
+
+STRINGS.MISC.STATUSITEMS.ELECTROBANKLIFETIMEREMAINING.TOOLTIP
+"Оставшийся срок службы для этой <link=\"ELECTROBANK\">энергоячейки</link>: {0}\n"
+"\n"
+"Она продолжает работать, пока отведённое ей время не опустится до нуля. После этого она взорвётся!"
+
+STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.NAME
+"Самозаряд: {0}"
+
+STRINGS.MISC.STATUSITEMS.ELECTROBANKSELFCHARGING.TOOLTIP
+"Эта <link=\"ELECTROBANK\">энергоячейка</link> медленно заряжает саму себя"
+
+STRINGS.MISC.TAGS.REMOTEOPERABLE
+"<link=\"REMOTEOPERABLE\">Дистанционно управляемые</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.SELFCHARGINGELECTROBANK.DESC
+"Позволяет создавать <style=\"KKeyword\">атомные энергоячейки</style> в <link=\"SUPERMATERIALREFINERY\">молекулярной кузнице</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.SELFCHARGINGELECTROBANK.NAME
+"Шаблон <style=\"KKeyword\">атомные энергоячейки</style>"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.MONUMENT_PART_FACADE_FOR
+"Этот скин можно использовать на любом Великом Монументе."
+
+STRINGS.UI.ROLES_SCREEN.PERKS.EXTRA_BIONIC_BATTERIES.DESCRIPTION
+"Дополнительные <link=\"ELECTROBANK\">энергоячейки</link>"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.REDUCED_GUNK_PRODUCTION.DESCRIPTION
+"<link=\"LIQUIDGUNK\">Жидкие отходы</link> накапливаются на 10% медленнее"
