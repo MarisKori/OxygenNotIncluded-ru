@@ -1,0 +1,81 @@
+STRINGS.BUILDING.STATUSITEMS.POWERBANKCHARGERINPROGRESS.NAME
+"Мощность зарядки: {0}"
+
+STRINGS.BUILDING.STATUSITEMS.POWERBANKCHARGERINPROGRESS.TOOLTIP
+"Эта постройка в данный момент заряжает <style=\"KKeyword\">энергоячейку</style> при {0}\n\nПосле завершения зарядки <style=\"KKeyword\">энергоячейка</style> будет сброшена."
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_A_BIONIC
+"Должен быть <color=#C38802>бионическим</color> дубликантом"
+
+STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPDEFRAGMENTING.NAME
+"Недосып: слишком ярко"
+
+STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPDEFRAGMENTING.TOOLTIP
+"Этот дубликант всю ночь просыпался, потому что рядом дефрагментировался бионический дубликант и испускал <style=\"KKeyword\">свет</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.BIONIC_WATTS.TOOLTIP.ESTIMATED_LIFE_TIME_REMAINING
+"Примерное время работы: {0}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BIONICMICROCHIPGENERATION.NAME
+"Программирует микрочип: {0}"
+
+STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2BIONIC.TOOLTIP
+"Бионические дубликанты потребляют <link=\"OXYGEN\">кислород</link> из внутренних баллонов"
+
+STRINGS.DUPLICANTS.TRAITS.STARTWITHBOOSTER_RANCH1.DESC
+"Наделяет бионического дубликанта навыками, необходимыми для ухода за <link=\"CREATURES\">животными</link>."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_RANCH1.DESC
+"Наделяет бионического дубликанта навыками, необходимыми для ухода за <link=\"CREATURES\">животными</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.POWER_STATION_TOOLS.DESC
+""
+"Специальный микрочип, сделанный профессиональным инженером.\n"
+"\n"
+"Временно улучшает <link=\"BUILDCATEGORYREQUIREMENTCLASSGENERATORTYPE\">генераторы</link>, увеличивая выработку <link=\"POWER\">энергии</link>.\n"
+"\n"
+"Также используется при создании <link=\"BOOSTER\">усилителей</link> для бионических дубликантов."
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA.CHECKENOUGHBATTERIES
+"Проверить, достаточно ли энергоячеек"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_BATTERIES.LOW_POWERBANKS
+"• Запасы <link=\"ELECTROBANK\">энергоячеек</link> колонии близки к нулю:\n"
+"\n"
+"<indent=20px>    • Доступно: {0}\n</indent>"
+"<indent=20px>    • Расходуется за цикл: {1}</indent>"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_BATTERIES.NO_POWERBANKS
+"    • В колонии нет <link=\"ELECTROBANK\">энергоячеек</link>\n"
+"\n"
+"Бионические дубликанты могут отключиться"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_BATTERIES.PASS
+"    • У бионических дубликантов есть <link=\"ELECTROBANK\">энергоячейки</link>"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_POWERLEVEL.CRITICAL_MODE
+"    • Один или несколько дубликантов отчаянно нуждаются в <link=\"ELECTROBANK\">энергоячейках</link>"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.CRITERIA_POWERLEVEL.POWERLESS
+"    • Один или несколько дубликантов не работают и отчаянно нуждаются в <link=\"ELECTROBANK\">энергоячейках</link>"
+
+STRINGS.UI.COLONY_DIAGNOSTICS.BIONICBATTERYDIAGNOSTIC.TOOLTIP_NAME
+"<b>Бионическая энергия</b>"
+
+STRINGS.UI.SELFCHARGINGBATTERYDIAGNOSTIC.ALL_NAME
+"<link=\"ELECTROBANKSELFCHARGING\">Атомная энергоячейка</link>"
+
+STRINGS.UI.SELFCHARGINGBATTERYDIAGNOSTIC.CRITERIA.CHECKSELFCHARGINGBATTERYLIFE
+"Проверить срок годности"
+
+STRINGS.UI.SELFCHARGINGBATTERYDIAGNOSTIC.CRITERIA_BATTERYLIFE_WARNING
+"    • Взрыв в конце срока годности неизбежен"
+
+STRINGS.UI.SELFCHARGINGBATTERYDIAGNOSTIC.NORMAL
+"    • Безопасно"
+
+STRINGS.UI.SELFCHARGINGBATTERYDIAGNOSTIC.TOOLTIP_NAME
+"<link=\"ELECTROBANKSELFCHARGING\">Атомная энергоячейка</link>"
+
+STRINGS.UI.UISIDESCREENS.OWNABLESSECONDSIDESCREEN.NONE_ROW_LABEL
+"Вынуть"
