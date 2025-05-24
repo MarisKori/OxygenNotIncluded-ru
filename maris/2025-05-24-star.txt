@@ -1,0 +1,1650 @@
+STRINGS.BLUEPRINTS.OUTFIT_ROMPER_TAN.NAME
+"Энергоячейка заряжена на {0}"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_LONGRANGECOOLDOWN.NAME
+"Перезарядка дальнего действия"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_LONGRANGECOOLDOWN.TOOLTIP
+"Long Range cooldown tooltip"
+
+STRINGS.BUILDINGS.PREFABS.CEILINGFOSSILSCULPTURE.DESC
+"Дубликанты, освоившие художественные навыки, могут создавать более красивые потолочные скульптуры."
+
+STRINGS.BUILDINGS.PREFABS.CEILINGFOSSILSCULPTURE.EFFECT
+"Значительно повышает <link=\"DECOR\">декор</link>, способствуя росту <link=\"MORALE\">морального духа</link>.\n\nДолжна быть изваяна дубликантом."
+
+STRINGS.BUILDINGS.PREFABS.CEILINGFOSSILSCULPTURE.NAME
+"<link=\"CEILINGFOSSILSCULPTURE\">Подвесной ископаемый блок</link>"
+
+STRINGS.BUILDINGS.PREFABS.CHEMICALREFINERY.DESC
+"Как блендер, только лучше."
+
+STRINGS.BUILDINGS.PREFABS.CHEMICALREFINERY.EFFECT
+"Соединяет <link=\"ELEMENTSLIQUID\">жидкости</link> и другие ингредиенты в жидкие соединения.\n\nДубликанты не будут создавать эмульсии, пока не будут назначены рецепты."
+
+STRINGS.BUILDINGS.PREFABS.CHEMICALREFINERY.NAME
+"<link=\"CHEMICALREFINERY\">Размешиватель</link>"
+
+STRINGS.BUILDINGS.PREFABS.CHEMICALREFINERY.REFINEDLIPID_RECIPE_DESCRIPTION
+"Биодизель — это <link=\"ELEMENTSLIQUID\">жидкость</link>, используемая для выработки <link=\"POWER\">энергии</link>."
+
+STRINGS.BUILDINGS.PREFABS.CHEMICALREFINERY.SALTWATER_RECIPE_DESCRIPTION
+"Солёная вода — это <link=\"ELEMENTSLIQUID\">жидкость</link> с изолирующими и радиационно-поглощающими свойствами."
+
+STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
+"<link=\"TOXICSAND\">Загрязнённая земля</link>, сгнившая <link=\"FOOD\">еда</link> и другие компостируемые вещества перегнивают в <link=\"DIRT\">землю</link>."
+
+STRINGS.BUILDINGS.PREFABS.DLC4POITECHUNLOCKS.DESC
+"Функциональный дешифратор исследований с одной оставшейся передачей.\n\nОн был разработан для поддержки выживания колонии."
+
+STRINGS.BUILDINGS.PREFABS.DLC4POITECHUNLOCKS.NAME
+"Исследовательский портал"
+
+STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.DESC
+"Эта постройка должна быть построена в жидкости, чтобы предотвратить удушение рыбы."
+
+STRINGS.BUILDINGS.PREFABS.FOSSILSCULPTURE.DESC
+"Дубликанты, освоившие художественные навыки, могут создавать более красивые скульптуры."
+
+STRINGS.BUILDINGS.PREFABS.FOSSILSCULPTURE.EFFECT
+"Значительно увеличивает <link=\"DECOR\">декор</link>, способствуя повышению <link=\"MORALE\">морального духа</link>.\n\nДолжен быть высечен дубликантом."
+
+STRINGS.BUILDINGS.PREFABS.FOSSILSCULPTURE.NAME
+"<link=\"FOSSILSCULPTURE\">Ископаемый блок</link>"
+
+STRINGS.BUILDINGS.PREFABS.KILN.DESC
+"Печи для обжига также могут быть использованы для очистки угля до чистого углерода."
+
+STRINGS.BUILDINGS.PREFABS.KILN.EFFECT
+""
+"Обжигает <link=\"CLAY\">глину</link> до <link=\"CERAMIC\">керамики</link>, а также <link=\"CARBON\">уголь</link> или <link=\"WOOD\">древесину</link> в <link=\"REFINEDCARBON\">очищенный углерод</link>.\n"
+"\n"
+"Дубликанты не будут производить вещи, если рецепт не выбран."
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.DEWDRIPPER_MILK_RECIPE_DESCRIPTION
+"{0} в {1}"
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.KELP_TO_PHYTO_OIL_RECIPE_DESCRIPTION
+"{0} в {1}"
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.RESIN_FROM_AMBER_RECIPE_DESCRIPTION
+"Преобразует: {0} в {1} и {2}, создавая при этом остаток {3}"
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.VINEFRUIT_JAM_RECIPE_DESCRIPTION
+"{0} в {1}"
+
+STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.EFFECT
+"Выпускает взрывные снаряды по приближающимся космическим объектам, защищая колонию от повреждений при столкновении.\n"
+"\n"
+"Снаряды необходимо изготавливать в <link=\"MISSILEFABRICATOR\">фабрике снарядов</link>.\n"
+"\n"
+"Дальность: 16 клеток по горизонтали, 32 клетки по вертикали."
+
+STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.TARGET_SELECTION_HEADER
+"Выбор цели на короткой дистанции"
+
+STRINGS.BUILDINGS.PREFABS.MISSILESETLOCKER.DESC
+"Шкафчик, содержащий внутрикосмический взрывной заряд."
+
+STRINGS.BUILDINGS.PREFABS.MISSILESETLOCKER.NAME
+"Шкаф с внутрикосмическим снарядом"
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_J.DESC
+"Хатч огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_K.DESC
+"Пластиковый дреккон огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_L.DESC
+"Ройка огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_M.DESC
+"Газовая муу самого муу-ксимального размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_N.DESC
+"Морб огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_O.DESC
+"Светлячок огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_P.DESC
+"Скользун огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_R.DESC
+"Ядерная пчела огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_S.DESC
+"Сладкожук огромного размера."
+
+STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_T.DESC
+"Огромная склизкая розетка. Не требует источника питания."
+
+STRINGS.BUILDINGS.PREFABS.PEATGENERATOR.DESC
+"Некоторые дубликанты испытывают необъяснимую ностальгию, учуяв этот запах."
+
+STRINGS.BUILDINGS.PREFABS.PEATGENERATOR.EFFECT
+"Сжигает <link=\"PEAT\">торф</link> для производства <link=\"POWER\">электроэнергии</link>.\n\nВыделяет небольшое количество <link=\"CARBONDIOXIDE\">углекислого газа</link> и <link=\"DIRTYWATER\">грязной воды</link>."
+
+STRINGS.BUILDINGS.PREFABS.PEATGENERATOR.NAME
+"<link=\"PEATGENERATOR\">Сжигатель торфа</link>"
+
+STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.EFFECT
+""
+"Преобразует <link=\"PETROLEUM\">керосин</link>, <link=\"ETHANOL\">этанол</link> или <link=\"REFINEDLIPID\">биодизель</link> в электрическую <link=\"POWER\">энергию</link>.\n"
+"\n"
+"Выделяет <link=\"CARBONDIOXIDE\">углекислый газ</link> и <link=\"DIRTYWATER\">грязную воду</link>."
+
+STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT
+"Преобразует <link=\"PLASTIFIABLELIQUID\">мономеры пластика</link> в обычный <link=\"POLYPROPYLENE\">пластик</link>."
+
+STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.RESIN_FROM_AMBER_RECIPE_DESCRIPTION
+"Перемалывает: {0} в {1} и {2}, и немного {3}"
+
+STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.SAND_FROM_RAW_MINERAL_DESCRIPTION
+"Перемалывает <link=\"BUILDABLERAW\">минералы</link> в <link=\"SAND\">песок</link>"
+
+STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.SAND_FROM_RAW_MINERAL_NAME
+"<link=\"BUILDABLERAW\">Минерал</link> в <link=\"SAND\">песок</link>"
+
+STRINGS.BUILDINGS.PREFABS.SMOKER.DESC
+"Немного терпения — и даже жёсткое мясо станет невероятно вкусным."
+
+STRINGS.BUILDINGS.PREFABS.SMOKER.EFFECT
+""
+"Позволяет готовить <link=\"FOOD\">еду</link> по более сложным рецептам на медленном огне.\n"
+"\n"
+"Дубликанты не будут производить предметы, пока рецепт не добавлен в очередь."
+
+STRINGS.BUILDINGS.PREFABS.SMOKER.NAME
+"<link=\"SMOKER\">Коптильня</link>"
+
+STRINGS.CLUSTER_NAMES.PREHISTORIC_BASE_CLUSTER.DESCRIPTION
+"Скопление пригодных для посещения планетоидов, где можно начать с садового мира."
+
+STRINGS.CLUSTER_NAMES.PREHISTORIC_BASE_CLUSTER.NAME
+"Скопление Релики"
+
+STRINGS.CLUSTER_NAMES.PREHISTORIC_CLASSIC_CLUSTER.DESCRIPTION
+"Скопление пригодных для посещения планетоидов, где можно начать с садового мира."
+
+STRINGS.CLUSTER_NAMES.PREHISTORIC_CLASSIC_CLUSTER.NAME
+"Скопление Релики"
+
+STRINGS.CLUSTER_NAMES.PREHISTORIC_SPACEDOUT_CLUSTER.DESCRIPTION
+"Скопление пригодных для посещения планетоидов, где можно начать с садового мира."
+
+STRINGS.CLUSTER_NAMES.PREHISTORIC_SPACEDOUT_CLUSTER.NAME
+"Малое скопление Релики"
+
+STRINGS.CODEX.BIONIC.PARAGRAPH_1
+""
+"<link=\"POWER\">Энергия</link>: бионические дубликанты работают на портативных <link=\"ELECTROBANK\">энергоячейках</link>, которые они автоматически заменяют во время запланированного перерыва. Полностью израсходовав энергоячейку, бионический дубликант полностью обесточивается и может погибнуть, если никто не успеет перезапустить его до того, как у него закончится <link=\"OXYGEN\">кислород</link>.\n"
+"\n"
+"<link=\"GUNKEMPTIER\">Извлекатели отходов</link>: бионическим системам необходимо избавляться от накопленных <link=\"LIQUIDGUNK\">жидвких отходов</link> каждые {time}. Если для этого нет специальных извлекателей, бионический дубликант либо запачкает всё вокруг, либо самовольно пойдёт и засорит ближайший <link=\"REQUIREMENTCLASSTOILETTYPE\">туалет</link>.\n"
+"\n"
+"<link=\"BUILDCATEGORYOXYGEN\">Кислород</link>: бионические дубликанты обеспечивают вентиляцию механизмов с помощью встроенных <link=\"OXYGEN\">кислородных</link> баллонов, которые нужно пополнять раз в {number}. Они не производят <link=\"CARBONDIOXIDE\">углекислый газ</link>.\n"
+"\n"
+"<link=\"LUBRICATINGOIL\">Смазка</link>: для эффективной работы бионических систем дубликантам нужно посещать <link=\"OILCHANGER\">смазывательную станцию</link> или использовать <link=\"LUBRICATIONSTICK\">мазь для шарниров</link>. Если у бионического дубликанта нет доступа ни к тому, ни к другому, он будет работать медленнее, чтобы не изнашивать свои детали.\n"
+"\n"
+
+STRINGS.CODEX.BIONIC.PARAGRAPH_2
+"<link=\"BOOSTER\">Усилители</link>: бионические дубликанты получают доступ к специализированным постройкам и повышают характеристики, устанавливая усилители. Их можно добавлять и убирать в любое время, чтобы настроить карьерный путь бионического дубликанта или смягчить последствия бионических багов.\n"
+"\n"
+"<link=\"ROLES\">Навыки</link>: выполняя обязанности в колонии, бионические дубликанты зарабатывают очки навыков, которые можно обменять на умения, повышающие характеристики и расширяющие возможность установки <link=\"BOOSTER\">усилителей</link> и <link=\"ELECTROBANK\">энергоячеек</link>.\n"
+"\n"
+"<link=\"MORALE\">Моральный дух</link>: когда моральный дух превышает ожидания дубликанта, это вызывает сверхрадостные реакции, положительно влияющие на различные функции колонии. Использование <link=\"REQUIREMENTCLASSRECBUILDING\">развлекательных</link> построек, <link=\"REQUIREMENTCLASSDECORATION\">привлекательных сооружений</link>, повышающих <link=\"DECOR\">декор</link>, и улучшенной <link=\"FOOD\">еды</link> способствует повышению морального духа.\n"
+"\n"
+"<link=\"STRESS\">Стресс</link>: когда уровень стресса достигает 100%, бионические дубликанты проявляют негативные стрессовые реакции, которые могут нарушать работу и повреждать постройки.\n"
+"\n"
+"<link=\"TECH\">Исследования</link>: использование <link=\"REQUIREMENTCLASSSCIENCEBUILDING\">научных построек</link> открывает продвинутые технологии, которые повышают эффективность работы и улучшают уровень жизни в колонии.\n"
+"\n"
+"<i>Больше информации о поддержании благополучия бионических дубликантов можно найти в <link=\"MISCELLANEOUSTIPS\">советах</link> и <link=\"LESSONS\">уроках</link>.</i>\n"
+"\n"
+
+STRINGS.CODEX.BLUE_GRASS.BODY.CONTAINER1
+""
+"Толстые стебли альвео веры усыпаны крошечными отверстиями, которые работают в двух направлениях. Именно через них растение потребляет <link=\"CARBONDIOXIDE\">углекислый газ</link> и выпускает липкие окисленные отходы в виде слизи.\n"
+"\n"
+"Со временем эти следы жизнедеятельности альвео веры кристаллизируются в <link=\"OXYROCK\">оксилитовый</link> комочек словно жемчужина.\n"
+"\n"
+"Ботаников давно интересует защитный эпителий растения, не позволяющий <link=\"OXYROCK\">оксилиту</link> сформироваться прямо на нём. Увы, альвео вера — хрупкое растение, а потому изучить этот вопрос подробнее пока не представлялось возможным."
+
+STRINGS.CODEX.BUTTERFLY.BODY.CONTAINER1
+"Мимик сложно классифицировать. Биологи предполагают, что <link=\"BUTTERFLYPLANT\">притворник</link> использует эту редкую форму репродуктивной мимикрии, чтобы его семена лучше рассеивались. Так мимики пытаютс выжить после вымирания ключевых видов, обитавших в их исходной среде.\n\nУ этих очаровательных организмов, похожих на бабочек, есть микроскопический кластер фитопротеиновых клеток \"мозга\", которым движет лишь один инстинкт — заботиться о растении, на котором прижилась мимика.\n\nОднако из-за генетической ошибки мимика заботится обо всех растениях вокруг, <i>кроме</i> своего собственного."
+
+STRINGS.CODEX.BUTTERFLY.SPECIES_SUBTITLE
+"Неклассифицированный организм"
+
+STRINGS.CODEX.BUTTERFLY.SPECIES_TITLE
+"Мимики"
+
+STRINGS.CODEX.BUTTERFLY.SUBTITLE
+"Существо?"
+
+STRINGS.CODEX.BUTTERFLY.TITLE
+"Мимика"
+
+STRINGS.CODEX.BUTTERFLYPLANT.BODY.CONTAINER1
+""
+"Притворники — прекрасные растения-помощники, которые дают ферме те же преимущества, что и насекомые, но при этом о них не приходится заботиться, как о существах.\n"
+"\n"
+"В каждом туго скрученном бутоне находится высокая концентрация энзимов и имагинальных дисков, похожих на те, что встречаются в семействе чешуекрылых.\n"
+"\n"
+"При подходящих условиях это уникальное сочетание веществ производит на свет <link=\"BUTTERFLY\">мимику</link> — эфемерный организм, похожий на бабочку, которая заботится о растениях вокруг, а затем принимает свою финальную форму семечка.\n"
+"\n"
+"Любой садовод, которому довелось увидеть эту <link=\"BUTTERFLY\">мимику</link>, тут же приходит в восторг."
+
+STRINGS.CODEX.BUTTERFLYPLANT.SUBTITLE
+"Съедобное растение"
+
+STRINGS.CODEX.BUTTERFLYPLANT.TITLE
+"Притворник"
+
+STRINGS.CODEX.CARROTPLANT.BODY.CONTAINER1
+"Перистые свёклы содержат более дюжины типов удивительно стабильных антоцианов — в два раза больше, чем в любом другом растении. Эта высокая концентрация флавоноидов способствует яркой окраске клубня и его устойчивости к низким температурам.\n\nВесь корень пригоден в пищу, включая кожуру. Верхний "перо" можно использовать как щёточку, чтобы смахнуть крошки с подбородка после еды."
+
+STRINGS.CODEX.CARROTPLANT.SUBTITLE
+"Съедобное растение"
+
+STRINGS.CODEX.CARROTPLANT.TITLE
+"Закопанная перистая свёкла"
+
+STRINGS.CODEX.CATEGORIES.BIONICBUILDING.DESCRIPTION
+"Постройки, поддерживающие бесперебойную работу сложных внутренних механизмов бионических дубликантов."
+
+STRINGS.CODEX.CATEGORIES.BIONICBUILDING.NAME
+"<link=\"GROUPBIONICBUILDING\">Станция бионического обслуживания</link>"
+
+STRINGS.CODEX.CATEGORIES.BIONICBUILDING.TITLE
+"Станции бионического обслуживания"
+
+STRINGS.CODEX.CATEGORIES.FARMBUILDING.DESCRIPTION
+"Постройки, с помощью которых дубликанты могут высаживать съедобные растения и ухаживать за ними, обеспечивающими колонию едой."
+
+STRINGS.CODEX.CHAMELEON.BODY.CONTAINER1
+"Хилозавры — это спокойные рептилии, чьё существование сосредоточено на максимальном сохранении энергии.\n\nКогда-то этот вид считался самым быстрым наземным существом. Однако его глубокое отвращение к физическим нагрузкам стало сильнее, чем желание спастись от хищников. Исследователи не уверены, для чего, если вообще для чего-то, хилозавр накапливает энергию."
+
+STRINGS.CODEX.CHAMELEON.SPECIES_SUBTITLE
+"Вид существ"
+
+STRINGS.CODEX.CHAMELEON.SPECIES_TITLE
+"Хилозавры"
+
+STRINGS.CODEX.CHAMELEON.SUBTITLE
+"Можно приручить"
+
+STRINGS.CODEX.CHAMELEON.TITLE
+"Хилозавр"
+
+STRINGS.CODEX.DASHASALTVINE.TITLE
+"Соляная лоза"
+
+STRINGS.CODEX.DEWDRIP.BODY.CONTAINER1
+"Кристаллизованная капля <link=\"MILK\">молокена</link> из <link=\"DEWDRIPPERPLANT\">капельника</link>.\n\nЕё необходимо обработать в <link=\"MILKPRESS\">механической ступке</link>, чтобы извлечь содержимое."
+
+STRINGS.CODEX.DEWDRIP.SUBTITLE
+"Растительный побочный продукт"
+
+STRINGS.CODEX.DEWDRIP.TITLE
+"Капля росы"
+
+STRINGS.CODEX.DEWDRIPPERPLANT.BODY.CONTAINER1
+"Капельник иногда называют «пурпурным скворцом» растительного мира из-за великолепных перистых листьев, окружающих его основание.\n\nЭто скульптурное растение медленно выделяет излишки сока, который свёртывается при контакте с воздухом. Получающийся шарик настолько плотный, что его вес сломал бы полый стебель капельника, если бы тот был посажен в землю.\n\nНикто никогда серьёзно не пострадал от падающей капли росы, но лучше не задерживаться под ними."
+
+STRINGS.CODEX.DEWDRIPPERPLANT.SUBTITLE
+"Можно выращивать"
+
+STRINGS.CODEX.DEWDRIPPERPLANT.TITLE
+"Капельник"
+
+STRINGS.CODEX.DINOFERN.BODY.CONTAINER1
+"<i>Megafrondia Byronalis</i>, обычно известный как «гигантоцвет», — это огромное растение, которое затмевает всё вокруг.\n\nЕго размер — не единственный устрашающий фактор при выращивании: гигантизм этого растения возможен благодаря его уникальной адаптации к холодным температурам и едкой газовой среде, которой мало кто из других живых существ (включая фермеров) наслаждается.\n\nЭти трудности считаются справедливой ценой за право хвастовства и полезный урожай."
+
+STRINGS.CODEX.DINOFERN.SUBTITLE
+"Можно выращивать"
+
+STRINGS.CODEX.DINOFERN.TITLE
+"Гигантоцвет"
+
+STRINGS.CODEX.EXPERIMENT52B.BODY.CONTAINER1
+""
+"Эксперимент 52Б — это агрессивное неподвижное животное, которое производит 5 килограммов каучука за каждые 1000 поглощённых калорий.\n"
+"\n"
+"Дубликантам желательно соблюдать безопасную дистанцию при доставке еды для Эксперимента 52Б.\n"
+"\n"
+"Хотя это животное и выглядит как дерево, его таксономия наиболее близка к гигантскому наземному кораллу с кибернетическими имплантами.\n"
+"\n"
+"Обычно выведенным в лабораториях животным дают более подходящие имена, чем «Эксперимент 52Б», но в данном случае учёные-изобретатели не были до конца уверены в том, что именно они создали."
+
+STRINGS.CODEX.FLYTRAPPLANT.BODY.CONTAINER1
+""
+"Приманы — это хищные цветы с тычинками, похожими на ленты. С их помощью приманы обнаруживают присутствие летающих существ рядом в зоне захвата.\n"
+"\n"
+"Лепестки примана покрыты тонкими полыми волосками, которые обездвиживают жертву и обеспечивают равномерное распределение пищеварительных энзимов. Эти растения полностью переваривают все части пойманного существа, кроме экзоскелета, который раздражает слизистую оболочку приманов.\n"
+"\n"
+"Разжиженные остатки экзоскелета выводятся из растения по мере необходимости."
+
+STRINGS.CODEX.GRUBFRUITPLANT.BODY.CONTAINER1
+""
+"Хрумросты находятся в коэволюционных отношениях с определённой разновидностью жуков.\n"
+"\n"
+"Опылённое жуками, растение приносит хрумфруты, а его некачественная версия — хрумрост — приносит хруморехи, одинаково вкусные и калорийные.\n"
+"\n"
+"Механизм, который применяют жуки к опылённым хрумростам, изучен не до конца, но считается, что инфразвуковые «песни» этих насекомых как-то похожи на нежное мурлыканье для растений."
+
+STRINGS.CODEX.INVESTIGATIONS.DLC3_REMOTEWORK.BODY.CONTAINER2
+"<size=11><i>Скидка действует только на новые членства. Применяются стандартные сборы за вступление.</size></i>"
+
+STRINGS.CODEX.PREHISTORICPACU.BODY.CONTAINER1
+"Хотя челюстник и выглядит устрашающе, на самом деле он совершенно безобиден для опытных дрессировщиков.\n"
+"\n"
+"Из-за непропорционально большой нижней челюсти это существо не может тщательно пережевывать пищу, из-за чего оно предпочитает добычу, которую можно проглотить целиком.\n"
+"\n"
+"Хотя большая часть ДНК указывает на то, что челюстник эволюционировал в изоляции, он всё же имеет небольшое количество генетических маркеров с пираньевыми, такими как <link=\"PACU\">паку</link>. Однако это родство не исключает возможности рассматривать их как источник пищи."
+
+STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1
+" "
+
+STRINGS.CODEX.STANDARD.PARAGRAPH_1
+""
+"<link=\"BUILDCATEGORYREQUIREMENTCLASSTOILETTYPE\">Туалеты</link>: дубликанты опустошают мочевой пузырь раз в {time}. Отсутствие необходимых условий приводит к <link=\"STRESS\">стрессу</link> и мокрым полам в колонии.\n"
+"\n"
+"<link=\"BUILDCATEGORYOXYGEN\">Кислород</link>: дубликанты вдыхают <link=\"OXYGEN\">кислород</link> со скоростью {O2gperSec} и выдыхают <link=\"CARBONDIOXIDE\">углекислый газ</link> со скоростью {CO2gperSec}. Они могут ненадолго задерживать дыхание, но при длительном отсутствии подходящего газа дубликанты задыхаются.\n"
+"\n"
+"<link=\"FOOD\">Еда</link>: необходимое количество калорий в день — {caloriesrequired}. <link=\"BUILDCATEGORYFOOD\">Еду</link> можно получать с помощью <link=\"BUILDCATEGORYREQUIREMENTCLASSFARMBUILDING\">фермерских построек</link> и <link=\"BUILDCATEGORYREQUIREMENTCLASSRANCHSTATIONTYPE\">скотоводческих станций</link>, а затем улучшать на <link=\"BUILDCATEGORYREQUIREMENTCLASSCOOKTOP\">кухонном оборудовании</link>.\n"
+"\n"
+"<link=\"HEALTH\">Сон</link>: дубликантам нужны <link=\"BUILDCATEGORYREQUIREMENTCLASSBEDTYPE\">кровать</link> и <link=\"MISCELLANEOUSTIPS14\">расписание</link>, в котором запланировано достаточно отдыха, иначе они начнут испытывать <link=\"STRESS\">стресс</link> и терять выносливость от переутомления.\n"
+"\n"
+
+STRINGS.CODEX.STANDARD.PARAGRAPH_2
+""
+"<link=\"ROLES\">Навыки</link>: выполняя задачи в колонии, дубликанты зарабатывают очки, за которые можно получить полезные навыки. Из-за индивидуальных характеристик дубликанты могут предпочитать определенные профессиональные направления, и не всякий путь будет для них лёгким.\n"
+"\n"
+"<link=\"MORALE\">Моральный дух</link>: когда ожидания дубликанта превышены, он испытывает сверхрадостную реакцию, что положительно влияет на различные функции колонии. Использование <link=\"BUILDCATEGORYREQUIREMENTCLASSRECBUILDING\">построек для отдыха</link>, <link=\"BUILDCATEGORYREQUIREMENTCLASSDECORATION\">красивых строений</link>, повышающих <link=\"DECOR\">декор</link>, и качественной <link=\"FOOD\">еды</link> повышает моральный дух.\n"
+"\n"
+"<link=\"STRESS\">Стресс</link>: когда уровень стресса достигает 100%, дубликанты начинают на него реагировать. Такие реакции могут нарушать привычный ход жизни и наносить вред постройкам.\n"
+"\n"
+"<link=\"TECH\">Исследования</link>: использование <link=\"BUILDCATEGORYREQUIREMENTCLASSSCIENCEBUILDING\">научных построек</link> открывает продвинутые технологии, которые повышают эффективность работы и уровень жизни в колонии.\n"
+"\n"
+"<link=\"HEALTH\">Здоровье</link>: опасные условия труда, в том числе экстремальная <link=\"HEAT\">жара</link> или <link=\"DISEASE\">микробы</link>, могут значительно сказаться на здоровье дубликантов. Специализированные <link=\"BUILDCATEGORYMEDICAL\">медицинские постройки</link> помогают ускорить выздоровление.\n"
+"\n"
+"<i>Узнать больше о том, как заботиться о дубликантах, можно в <link=\"MISCELLANEOUSTIPS\">советах</link> и <link=\"LESSONS\">уроках</link>.</i>\n"
+"\n"
+
+STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.ICEBELLY
+"Упс! Сканер оказался неподходящим для животных таких размеров. К счастью, густой мех этого существа защитил устройство от повреждений."
+
+STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.MOO
+"У-у-упс! Этот сканер не расчитан на животных такого размера. Генокод этого организма останется окутан тайной."
+
+STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.ICEBELLY
+"Упс! Сканер оказался неподходящим для животных таких размеров. К счастью, густой мех этого существа защитил устройство от повреждений."
+
+STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.MOO
+"У-у-упс! Этот сканер не расчитан на животных такого размера. Генокод этого организма останется окутан тайной."
+
+STRINGS.CODEX.SWEEPY.BODY.CONTAINER1
+""
+"Свипи — домашний робот-пылесос, запрограммированный на уборку твёрдых и жидких ресурсов с пола. Док-станция Свипи автоматически запускает робота, хранит собранный мусор и заряжает внутренний аккумулятор Свипи, когда она подключена к источнику энергии.\n"
+"\n"
+"Хотя Свипи не может перемещаться по неровностям пола и прыгать через пустые промежутки, он запрограммирован чувствовать себя очень плохо из-за этого."
+
+STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.MESSAGE_BODY
+""
+"Опасный астероид, который летел в нашу сторону, уничтожен!\n"
+"\n"
+"Наконец-то мои дубликанты в безопасности. Даже не могу описать, какое это облегчение. Некоторые осколки Разрушителя оказались иридием — металлическим ресурсом, которого до этого не было у колонии."
+
+STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.MESSAGE_TITLE
+"НАШ ЛУЧШИЙ ВЫСТРЕЛ"
+
+STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.NAME
+"Взрывная линия обороны"
+
+STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.REQUIREMENT_DESCRIPTION
+"Взорвать астероид Разрушитель (0/1000)"
+
+STRINGS.CREATURES.ATTRIBUTES.MATURITY2DELTA.DESC
+"Количество времени, требуемое для созревания лозы."
+
+STRINGS.CREATURES.ATTRIBUTES.MATURITY2DELTA.NAME
+"Скорость роста"
+
+STRINGS.CREATURES.ATTRIBUTES.MATURITY2MAX.DESC
+"Время, необходимое этому фрукту, чтобы вырасти."
+
+STRINGS.CREATURES.ATTRIBUTES.MATURITY2MAX.NAME
+"Скорость плодоношения"
+
+STRINGS.CREATURES.FAMILY_PLURAL.BUTTERFLYSPECIES
+"<link=\"BUTTERFLYSPECIES\">Мимики</link>"
+
+STRINGS.CREATURES.FAMILY_PLURAL.CHAMELEONSPECIES
+"<link=\"CHAMELEONSPECIES\">Хилозавры</link>"
+
+STRINGS.CREATURES.FAMILY_PLURAL.MOSQUITOSPECIES
+"<link=\"MOSQUITOSPECIES\">Гниты</link>"
+
+STRINGS.CREATURES.FAMILY_PLURAL.PREHISTORICPACUSPECIES
+"<link=\"PREHISTORICPACUSPECIES\">Челюстники</link>"
+
+STRINGS.CREATURES.FAMILY_PLURAL.RAPTORSPECIES
+"<link=\"RAPTORSPECIES\">Рексы</link>"
+
+STRINGS.CREATURES.FAMILY_PLURAL.STEGOSPECIES
+"<link=\"STEGOSPECIES\">Топотуны</link>"
+
+STRINGS.CREATURES.MODIFIERS.BUTTERFLYPOLLINATED.NAME
+"Опыление мимикой"
+
+STRINGS.CREATURES.MODIFIERS.BUTTERFLYPOLLINATED.TOOLTIP
+"Это <style=\"KKeyword\">растение</style> посетила <link=\"BUTTERFLY\">мимика</link>: значение <style=\"KKeyword\">декора</style> и скорость роста повысились"
+
+STRINGS.CREATURES.MODIFIERS.CRITTER_MOSQUITO_BITE.NAME
+"Укус гнита"
+
+STRINGS.CREATURES.MODIFIERS.CRITTER_MOSQUITO_BITE.TOOLTIP
+"Это существо недавно укусил <style=\"KKeyword\">гнит</style>, поэтому существо грустит"
+
+STRINGS.CREATURES.MODIFIERS.CRITTER_MOSQUITO_BITE_SUPPRESSED.NAME
+"Укус гнита: иммунитет"
+
+STRINGS.CREATURES.MODIFIERS.CRITTER_MOSQUITO_BITE_SUPPRESSED.TOOLTIP
+"Это существо недавно укусил <style=\"KKeyword\">гнит</style>, но оно не придает этому внимания благодаря антигистаминным свойствам <color=#C38802>лечебного лотоса</color>"
+
+STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDED.NAME
+"Опыление сладкожуком"
+
+STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDEDWORM.NAME
+"Опыление хрумхрумом"
+
+STRINGS.CREATURES.MODIFIERS.DUPE_MOSQUITO_BITE.NAME
+"Укус гнита"
+
+STRINGS.CREATURES.MODIFIERS.DUPE_MOSQUITO_BITE.TOOLTIP
+"Этого дубликанта недавно укусил <style=\"KKeyword\">гнит</style>, поэтому дубликант раздражён"
+
+STRINGS.CREATURES.MODIFIERS.DUPE_MOSQUITO_BITE_SUPPRESSED.NAME
+"Укус гнита: иммунитет"
+
+STRINGS.CREATURES.MODIFIERS.DUPE_MOSQUITO_BITE_SUPPRESSED.TOOLTIP
+"Этого дубликанта недавно укусил <style=\"KKeyword\">гнит</style>, но дубликант не придает этому внимания благодаря антигистаминным свойствам <style=\"KKeyword\">лечебного лотоса</style>"
+
+STRINGS.CREATURES.MODIFIERS.EVADED_HUNT.NAME
+"Успешный побег от хищника"
+
+STRINGS.CREATURES.MODIFIERS.EVADED_HUNT.TOOLTIP
+""
+"Этому существу удалось сбежать от хищника\n"
+"\n"
+"Фух!"
+
+STRINGS.CREATURES.MODIFIERS.HUNT_FAILED.NAME
+"Упущенная добыча"
+
+STRINGS.CREATURES.MODIFIERS.HUNT_FAILED.TOOLTIP
+""
+"Это существо не угналось за добычей\n"
+"\n"
+"Ему лучше выбирать цели постарше"
+
+STRINGS.CREATURES.MODIFIERS.INITIALLYPOLLINATED.NAME
+"Первичное опыление"
+
+STRINGS.CREATURES.MODIFIERS.INITIALLYPOLLINATED.TOOLTIP
+"Это растение получило первичное опыление"
+
+STRINGS.CREATURES.MODIFIERS.MOSQUITO_FED.NAME
+"Цель укушена"
+
+STRINGS.CREATURES.MODIFIERS.MOSQUITO_FED.TOOLTIP
+"Это существо недавно испортило кому-то день"
+
+STRINGS.CREATURES.MODIFIERS.RAPTORWELLFED.NAME
+"Только что поело"
+
+STRINGS.CREATURES.MODIFIERS.RAPTORWELLFED.TOOLTIP
+"Существо недавно поело, и это заставляет его перья расти лучше"
+
+STRINGS.CREATURES.SPECIES.BUTTERFLY.DESC
+""
+"Мимики — это летающие организмы, которые ускоряют созревание <link=\"PLANTS\">растений</link> вокруг.\n"
+"\n"
+"Когда листья мимики высыхают, она затвердевает и становится <link=\"BUTTERFLYPLANT\">семенем притворника</link>."
+
+STRINGS.CREATURES.SPECIES.BUTTERFLY.NAME
+"<link=\"BUTTERFLY\">Мимика</link>"
+
+STRINGS.CREATURES.SPECIES.BUTTERFLYPLANT.DESC
+"Притворники — это самосозревающие растения, из которых появляются летающие <link=\"BUTTERFLY\">мимики</link>.\n"
+"\n"
+"<link=\"BUTTERFLY\">Мимики</link> ускоряют созревание <link=\"PLANTS\">растений</link> поблизости, а затем затвердевают и становятся <link=\"BUTTERFLYPLANT\">семенами притворника</link>."
+
+STRINGS.CREATURES.SPECIES.BUTTERFLYPLANT.DOMESTICATEDDESC
+"Это растение производит <link=\"BUTTERFLY\">мимик</link>."
+
+STRINGS.CREATURES.SPECIES.BUTTERFLYPLANT.NAME
+"<link=\"BUTTERFLYPLANT\">Притворник</link>"
+
+STRINGS.CREATURES.SPECIES.CHAMELEON.BABY.DESC
+""
+"Хилозаврик с большими глазами.\n"
+"\n"
+"Со временем вырастет во взрослого <link=\"CHAMELEON\">хилозавра</link>."
+
+STRINGS.CREATURES.SPECIES.CHAMELEON.BABY.NAME
+"<link=\"CHAMELEON\">Хилозаврик</link>"
+
+STRINGS.CREATURES.SPECIES.CHAMELEON.DESC
+""
+"Хилозавры — это миролюбивые существа, которые питаются <link=\"DEWDRIP\">каплями росы</link> прямо с растения <link=\"DEWDRIPPERPLANT\">капельник</link> и выделяют <link=\"BLEACHSTONE\">хлорный камень</link>.\n\nНа них охотятся <link=\"RAPTOR\">рексы</link>."
+
+STRINGS.CREATURES.SPECIES.CHAMELEON.EGG_NAME
+"<link=\"CHAMELEON\">Яйцо хилозавра</link>"
+
+STRINGS.CREATURES.SPECIES.CHAMELEON.NAME
+"<link=\"CHAMELEON\">Хилозавр</link>"
+
+STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DESC
+"Жуколовки — это хищные растения, которые ловят мелких и средних существ и поглощают их, выделяя <link=\"HYDROGEN\">водород</link> в качестве отходов."
+
+STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.DOMESTICATEDDESC
+"Это растение кушает мелких животных и производит <link=\"HYDROGEN\">водород</link>."
+
+STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.HUNGRY
+"Хочет есть"
+
+STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.PLANT_HUNGER_REQUIREMENT
+"Плотоядное питание"
+
+STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.VICTIM_IDENTIFIER
+"Наземные существа"
+
+STRINGS.CREATURES.SPECIES.DEWDRIPPERPLANT.DESC
+"Капельники производят <link=\"DEWDRIP\">капли росы</link>, которые можно раздробить и получить <link=\"MILK\">молокен</link>."
+
+STRINGS.CREATURES.SPECIES.DEWDRIPPERPLANT.DOMESTICATEDDESC
+"Это растение производит <link=\"MILK\">молокен</link>."
+
+STRINGS.CREATURES.SPECIES.DEWDRIPPERPLANT.NAME
+"<link=\"DEWDRIPPERPLANT\">Капельник</link>"
+
+STRINGS.CREATURES.SPECIES.DINOFERN.DESC
+"Гигантоцвет приносит урожай: <link=\"FERNFOOD\">колос гигантоцвета</link>. Это древний злак, из которого можно сделать <link=\"FOOD\">еду</link>."
+
+STRINGS.CREATURES.SPECIES.DINOFERN.DOMESTICATEDDESC
+"На этом растении может созреть съедобный <link=\"FERNFOOD\">колос гигантоцвета</link>."
+
+STRINGS.CREATURES.SPECIES.DINOFERN.NAME
+"<link=\"DINOFERN\">Гигантоцвет</link>"
+
+STRINGS.CREATURES.SPECIES.FLYTRAPPLANT.DESC
+""
+"Приманы — это хищные растения, которые ловят пролетающих мимо существ, например <link=\"MOSQUITO\">гнитов</link>.\n"
+"\n"
+"Их пищеварительный процесс производит <link=\"AMBER\">янтарь</link>, который можно собирать."
+
+STRINGS.CREATURES.SPECIES.FLYTRAPPLANT.DOMESTICATEDDESC
+"Это растение производит <link=\"NATURALRESIN\">смолу</link>."
+
+STRINGS.CREATURES.SPECIES.FLYTRAPPLANT.HUNGRY
+"Хочет есть"
+
+STRINGS.CREATURES.SPECIES.FLYTRAPPLANT.NAME
+"<link=\"FLYTRAPPLANT\">Приман</link>"
+
+STRINGS.CREATURES.SPECIES.FLYTRAPPLANT.PLANT_HUNGER_REQUIREMENT
+"Плотоядное питание"
+
+STRINGS.CREATURES.SPECIES.FLYTRAPPLANT.VICTIM_IDENTIFIER
+"Летающие существа"
+
+STRINGS.CREATURES.SPECIES.GARDENDECORPLANT.DESC
+"Кольцевые розы — это <link=\"DECOR\">декоративные</link> <link=\"PLANTS\">растения</link>, которые придают элегантности любому месту."
+
+STRINGS.CREATURES.SPECIES.GARDENDECORPLANT.DOMESTICATEDDESC
+"Это растение повышает уровень <link=\"DECOR\">декора</link>."
+
+STRINGS.CREATURES.SPECIES.GARDENDECORPLANT.GROWTH_BONUS
+"Бонус к росту"
+
+STRINGS.CREATURES.SPECIES.GARDENDECORPLANT.NAME
+"<link=\"GARDENDECORPLANT\">Кольцевая роза</link>"
+
+STRINGS.CREATURES.SPECIES.GARDENDECORPLANT.WILT_PENALTY
+"Завял"
+
+STRINGS.CREATURES.SPECIES.GARDENFOODPLANT.DESC
+"Стебли кислой кукурузы производят, очевидно, <link=\"GARDENFOODPLANTFOOD\">кислую кукурузу</link>. Этот твёрдый плод можно употреблять в <link=\"FOOD\">пищу</link>."
+
+STRINGS.CREATURES.SPECIES.GARDENFOODPLANT.DOMESTICATEDDESC
+"На этом растении может созреть съедобная <link=\"GARDENFOODPLANTFOOD\">кислая кукуруза</link>."
+
+STRINGS.CREATURES.SPECIES.GARDENFOODPLANT.NAME
+"<link=\"GARDENFOODPLANT\">Стебель кислой кукурузы</link>"
+
+STRINGS.CREATURES.SPECIES.GARDENFORAGEPLANTPLANTED.DESC
+"Закусактусы не способны давать несколько всходов, но с них можно однократно получить урожай — одну порцию <link=\"FOOD\">еды</link>."
+
+STRINGS.CREATURES.SPECIES.GARDENFORAGEPLANTPLANTED.NAME
+"<link=\"GARDENFORAGEPLANTPLANTED\">Закусактус</link>"
+
+STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS_COOL.DESC
+"Источник с большим давлением, периодически извергающий прохладный <link=\"CHLORINEGAS\">хлор</link>."
+
+STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS_COOL.NAME
+"<link=\"GEYSERGENERICCHLORINEGASCOOL\">Холодный хлорный источник</link>"
+
+STRINGS.CREATURES.SPECIES.KELPPLANT.DESC
+""
+"Ламинарии поглощают <link=\"TOXICSAND\">загрязнённую землю</link>.\n"
+"\n"
+"Из их листьев можно получить <link=\"PHYTOOIL\">растительное масло</link>."
+
+STRINGS.CREATURES.SPECIES.KELPPLANT.DOMESTICATEDDESC
+"Это растение производит <link=\"KELP\">листья ламинарии</link>."
+
+STRINGS.CREATURES.SPECIES.KELPPLANT.NAME
+"<link=\"KELPPLANT\">Ламинария</link>"
+
+STRINGS.CREATURES.SPECIES.MOSQUITO.BABY.DESC
+""
+"Маленькая вихляющаяся личинка гнита.\n"
+"\n"
+"Со временем вырастет в бесячего <link=\"MOSQUITO\">гнита</link>."
+
+STRINGS.CREATURES.SPECIES.MOSQUITO.BABY.NAME
+"<link=\"MOSQUITO\">Личинка гнита</link>"
+
+STRINGS.CREATURES.SPECIES.MOSQUITO.DESC
+""
+"Гниты — враждебные летающие существа, которые в основном разводятся как корм для плотоядных <link=\"FLYTRAPPLANT\">приманов</link> для производства <link=\"AMBER\">янтаря</link>.\n\nИх потомство должно контактировать с <link=\"ELEMENTSLIQUID\">жидкостью</link>, чтобы выжить."
+
+STRINGS.CREATURES.SPECIES.MOSQUITO.EGG_NAME
+"<link=\"MOSQUITO\">Яйцо гнита</link>"
+
+STRINGS.CREATURES.SPECIES.MOSQUITO.NAME
+"<link=\"MOSQUITO\">Гнит</link>"
+
+STRINGS.CREATURES.SPECIES.PREHISTORICPACU.BABY.DESC
+""
+"Хмурый малёк челюстника.\n"
+"\n"
+"Со временем вырастет в зубастого <link=\"PREHISTORICPACU\">челюстника</link>."
+
+STRINGS.CREATURES.SPECIES.PREHISTORICPACU.BABY.NAME
+"<link=\"PREHISTORICPACU\">Малёк челюстника</link>"
+
+STRINGS.CREATURES.SPECIES.PREHISTORICPACU.DESC
+""
+"Челюстники — это хищные водные существа, которые охотятся на <link=\"PACU\">паку</link>.\n"
+"\n"
+"Для дубликантов челюстники не представляют опасности."
+
+STRINGS.CREATURES.SPECIES.PREHISTORICPACU.EGG_NAME
+"<link=\"PREHISTORICPACU\">Икринка челюстника</link>"
+
+STRINGS.CREATURES.SPECIES.PREHISTORICPACU.NAME
+"<link=\"PREHISTORICPACU\">Челюстник</link>"
+
+STRINGS.CREATURES.SPECIES.RAPTOR.BABY.DESC
+""
+"Пернатый птенец рекса.\n"
+"\n"
+"Однажды вырастет в большого сурового <link=\"RAPTOR\">рекса</link>."
+
+STRINGS.CREATURES.SPECIES.RAPTOR.BABY.NAME
+"<link=\"RAPTOR\">Малыш-рекс</link>"
+
+STRINGS.CREATURES.SPECIES.RAPTOR.DESC
+""
+"Рексы — это хищные существа, которые питаются мелкими <link=\"CREATURES\">существами</link> и производят <link=\"BRINEICE\">морской лёд</link>.\n\nИх хвостовые перья можно состричь для получения <link=\"FEATHERFIBER\">перьевого волокна</link>."
+
+STRINGS.CREATURES.SPECIES.RAPTOR.EGG_NAME
+"<link=\"RAPTOR\">Яйцо рекса</link>"
+
+STRINGS.CREATURES.SPECIES.RAPTOR.NAME
+"<link=\"RAPTOR\">Рекс</link>"
+
+STRINGS.CREATURES.SPECIES.SAPTREE.DESC
+""
+"Производящее <link=\"RESIN\">жидкий каучук</link> кибернетическое дерево проявляет признаки разумности.\n"
+"\n"
+"Его корни уходят глубоко в почву, и оно ждёт, когда какая-нибудь отважная душа принесёт ему еды."
+
+STRINGS.CREATURES.SPECIES.SEEDS.BUTTERFLYPLANTSEED.DESC
+"Несъедобный <link=\"PLANTS\">плод</link> растения <link=\"BUTTERFLYPLANT\">притворник</link>.\n\nЕго можно посадить, чтобы вырастить больше растений, или переработать в <link=\"FOOD\">пищу</link>.\n\nВыкапывая повреждённые блоки, можно найти семя притворника."
+
+STRINGS.CREATURES.SPECIES.SEEDS.BUTTERFLYPLANTSEED.NAME
+"<link=\"BUTTERFLYPLANT\">Семя притворника</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.DEWDRIPPERPLANT.DESC
+"<link=\"PLANTS\">Семя</link> растения <link=\"DEWDRIPPERPLANT\">капельник</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.DEWDRIPPERPLANT.NAME
+"<link=\"DEWDRIPPERPLANT\">Семя капельника</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.DINOFERN.DESC
+"<link=\"PLANTS\">Семя</link> растения <link=\"DINOFERN\">гигантоцвет</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.DINOFERN.NAME
+"<link=\"DINOFERN\">Спора гигантоцвета</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.FLYTRAPPLANT.DESC
+""
+"<link=\"PLANTS\">Семя</link> растения <link=\"FLYTRAPPLANT\">приман</link>.\n"
+"\n"
+"Найти семя примана можно, выкапывая повреждённые блоки."
+
+STRINGS.CREATURES.SPECIES.SEEDS.FLYTRAPPLANT.NAME
+"<link=\"FLYTRAPPLANT\">Семя примана</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.GARDENDECORPLANT.DESC
+""
+"<link=\"PLANTS\">Семя</link> прекрасной <link=\"GARDENDECORPLANT\">кольцевой розы</link>.\n"
+"\n"
+"Найти семя кольцевой розы можно, выкапывая повреждённые блоки."
+
+STRINGS.CREATURES.SPECIES.SEEDS.GARDENDECORPLANT.NAME
+"<link=\"GARDENDECORPLANT\">Семя кольцевой розы</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.GARDENFOODPLANT.DESC
+""
+"<link=\"PLANTS\">Семя</link> очень <link=\"GARDENFOODPLANT\">кислой кукурузы</link>.\n"
+"\n"
+"Найти семя кислой кукурузы можно, выкапывая повреждённые блоки."
+
+STRINGS.CREATURES.SPECIES.SEEDS.GARDENFOODPLANT.NAME
+"<link=\"GARDENFOODPLANT\">Семя кислой кукурузы</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.KELPPLANT.DESC
+""
+"<link=\"PLANTS\">Семя</link> мгякой <link=\"KELPPLANT\">ламинарии</link>.\n"
+"\n"
+"Найти семя водочески можно, выкапывая повреждённые блоки."
+
+STRINGS.CREATURES.SPECIES.SEEDS.KELPPLANT.NAME
+"<link=\"KELPPLANT\">Семя ламинарии</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.VINEMOTHER.DESC
+""
+"<link=\"PLANTS\">Семя</link> большого <link=\"VINEMOTHER\">пучка Овагро</link>.\n"
+"\n"
+"Найти семя пучка Овагро можно, выкапывая повреждённые блоки."
+
+STRINGS.CREATURES.SPECIES.SEEDS.VINEMOTHER.NAME
+"<link=\"VINEMOTHER\">Семя пучка Овагро</link>"
+
+STRINGS.CREATURES.SPECIES.STEGO.BABY.DESC
+"Малыш-топотун с тяжёлой поступью."
+
+STRINGS.CREATURES.SPECIES.STEGO.BABY.NAME
+"<link=\"STEGO\">Топотунёнок</link>"
+
+STRINGS.CREATURES.SPECIES.STEGO.DESC
+""
+"Топотуны — это миролюбивые существа, которые питаются лозой <link=\"PACU\">овагро</link>.\n"
+"\n"
+"Когда они тяжело топают рядом с <link=\"PLANTS\">растениями</link>, от этой суматохи собираемые предметы падают на землю."
+
+STRINGS.CREATURES.SPECIES.STEGO.EGG_NAME
+"<link=\"STEGO\">Яйцо топотуна</link>"
+
+STRINGS.CREATURES.SPECIES.STEGO.NAME
+"<link=\"STEGO\">Топотун</link>"
+
+STRINGS.CREATURES.SPECIES.VINEBRANCH.DESC
+""
+"Лозы Овагро — это инвазивный вид, на котором растёт <link=\"VINEFRUIT\">инжир</link>.\n"
+"\n"
+"Если отрезать лозу от <link=\"VINEMOTHER\">пучка Овагро</link>, она погибнет."
+
+STRINGS.CREATURES.SPECIES.VINEBRANCH.NAME
+"<link=\"VINEMOTHER\">Лоза Овагро</link>"
+
+STRINGS.CREATURES.SPECIES.VINEMOTHER.DESC
+""
+"Пучки Овагро — это инвазивные растения, которые стремятся захватить все доступные поверхности поблизости.\n"
+"\n"
+"Из одного <link=\"VINEMOTHER\">пучка</link> может расти несколько <link=\"VINEMOTHER\">лоз</link>. При этом потребность растения в <link=\"WATER\">воде</link> не увеличивается."
+
+STRINGS.CREATURES.SPECIES.VINEMOTHER.DOMESTICATEDDESC
+"Это растение производит <link=\"VINEFRUIT\">инжир</link>."
+
+STRINGS.CREATURES.SPECIES.VINEMOTHER.NAME
+"<link=\"VINEMOTHER\">Пучок Овагро</link>"
+
+STRINGS.CREATURES.STATUSITEMS.AQUATICCREATURESUFFOCATING.NAME
+"Удушение"
+
+STRINGS.CREATURES.STATUSITEMS.AQUATICCREATURESUFFOCATING.TOOLTIP
+""
+"Это существо не может дышать без <style=\"KKeyword\">жидкости</style>!\n"
+"\n"
+"Времени до смерти: {0}"
+
+STRINGS.CREATURES.STATUSITEMS.CARNIVOROUSPLANTAWAITINGVICTIM.NAME
+"Ожидание добычи"
+
+STRINGS.CREATURES.STATUSITEMS.CARNIVOROUSPLANTAWAITINGVICTIM.TOOLTIP
+""
+"Это растение ждёт, пока появится следующая добыча.\n"
+"\n"
+"Питание:"
+
+STRINGS.CREATURES.STATUSITEMS.CARNIVOROUSPLANTAWAITINGVICTIM.TOOLTIP_ITEM
+"    • {0}"
+
+STRINGS.CREATURES.STATUSITEMS.GOING_TO_HARVEST.NAME
+"Собирается снять урожай"
+
+STRINGS.CREATURES.STATUSITEMS.GOING_TO_HARVEST.TOOLTIP
+"Это существо спешит собрать съедобные плоды с растения"
+
+STRINGS.CREATURES.STATUSITEMS.GOING_TO_STOMP.NAME
+"Собирается топать"
+
+STRINGS.CREATURES.STATUSITEMS.GOING_TO_STOMP.TOOLTIP
+"Это существо готово сотрясти всё вокруг"
+
+STRINGS.CREATURES.STATUSITEMS.GROWING_CARNIVOROUSPLANT.NAME
+"Переваривание [{PercentGrow}%]"
+
+STRINGS.CREATURES.STATUSITEMS.GROWING_CARNIVOROUSPLANT.TOOLTIP
+"Следующий сбор: <b>{TimeUntilNextHarvest}</b>"
+
+STRINGS.CREATURES.STATUSITEMS.HARVESTING.NAME
+"Сбор урожая"
+
+STRINGS.CREATURES.STATUSITEMS.HARVESTING.TOOLTIP
+"Это существо собирает урожай с растения единственным доступным способом"
+
+STRINGS.CREATURES.STATUSITEMS.HUNTING.NAME
+"Охота"
+
+STRINGS.CREATURES.STATUSITEMS.HUNTING.TOOLTIP
+"Это существо заметило следующую добычу"
+
+STRINGS.CREATURES.STATUSITEMS.MOSQUITO_GOING_FOR_FOOD.NAME
+"Собирается укусить"
+
+STRINGS.CREATURES.STATUSITEMS.MOSQUITO_GOING_FOR_FOOD.TOOLTIP
+"Это существо собирается действовать на нервы ничего не подозревающей жертве"
+
+STRINGS.CREATURES.STATUSITEMS.NOT_POLLINATED.NAME
+"Естественное опыление"
+
+STRINGS.CREATURES.STATUSITEMS.NOT_POLLINATED.TOOLTIP
+"Для развития этому растению необходимо, чтобы его опыляло <style=\"KKeyword\">существо</style>"
+
+STRINGS.CREATURES.STATUSITEMS.POLLINATING.INTERACTING.NAME
+"Опыление"
+
+STRINGS.CREATURES.STATUSITEMS.POLLINATING.INTERACTING.TOOLTIP
+"Нежное воздействие этого существа улучшает развитие этого <style=\"KKeyword\">растения</style>"
+
+STRINGS.CREATURES.STATUSITEMS.POLLINATING.MOVINGTO.NAME
+"Собирается ухаживать"
+
+STRINGS.CREATURES.STATUSITEMS.POLLINATING.MOVINGTO.TOOLTIP
+"Это существо собирается позаботится о каком-то везучем <style=\"KKeyword\">растении</style>"
+
+STRINGS.CREATURES.STATUSITEMS.STOMPING.NAME
+"Топает"
+
+STRINGS.CREATURES.STATUSITEMS.STOMPING.TOOLTIP
+""
+"Это существо неистово топает\n"
+"\n"
+"В результате с растений поблизости падают плоды"
+
+STRINGS.DUPLICANTS.CHORES.BUILDUPROOT.NAME
+"Выкорчёвывание для строительства"
+
+STRINGS.DUPLICANTS.CHORES.BUILDUPROOT.STATUS
+"Идёт выкорчёвывать для строительства"
+
+STRINGS.DUPLICANTS.CHORES.BUILDUPROOT.TOOLTIP
+"Этот дубликант освобождает место для запланированного строительства, выкорчёвывая растение"
+
+STRINGS.DUPLICANTS.MODEL.BIONIC.DESC
+""
+"Бионические дубликанты работают на <link=\"ELECTROBANK\">энергоячейках</link>, <link=\"LUBRICATINGOIL\">масле</link> и неукротимом энтузиазме.\n"
+"\n"
+"Их нельзя подпускать к обычным <link=\"MISCELLANEOUSTIPS\">туалетам</link>."
+
+STRINGS.DUPLICANTS.MODEL.STANDARD.DESC
+""
+"Обычные дубликанты — трудяги, которым нравится вкусная <link=\"FOOD\">еда</link>, <link=\"OXYGEN\">кислород</link> и креативное обустройство колонии.\n"
+"\n"
+"Они выполняют поручения в порядке <link=\"PRIORITY\">приоритетности</link>."
+
+STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.TOOLTIP
+""
+"Опытный дубликант стимулирует рост этого <color=#C38802>растения</color>\n"
+"\n"
+"Расходуется одна порция <link=\"FARMSTATIONTOOLS\">микроудобрений</link>"
+
+STRINGS.DUPLICANTS.MODIFIERS.REFRESHINGTOUCH.TOOLTIP
+"Этот дубликант недавно посетил охлаждающую постройку и теперь невосприимчив к <style=\"KKeyword\">жаркой обстановке</style>"
+
+STRINGS.DUPLICANTS.MODIFIERS.WARMTOUCH.TOOLTIP
+"Этот дубликант недавно посетил согревающую постройку, сауну или горячую ванну\n\nОн невосприимчив к <style=\"KKeyword\">холодной обстановке</style> и <style=\"KKeyword\">промокшим ногам</style>"
+
+STRINGS.DUPLICANTS.PERSONALITIES.HIGBY.DESC
+"Сердце этого {0} наполняет песня. Только он слова забыл."
+
+STRINGS.DUPLICANTS.PERSONALITIES.HIGBY.NAME
+"Хигби"
+
+STRINGS.DUPLICANTS.PERSONALITIES.MAYA.DESC
+"Как-то {0} проходила через пневматическую дверь и прищемила руку. Она ещё никогда не чувствовала такой прилив жизни."
+
+STRINGS.DUPLICANTS.PERSONALITIES.MAYA.NAME
+"Майя"
+
+STRINGS.DUPLICANTS.ROLES.BIONICS_B1.DESCRIPTION
+"Значительно снижает негативный эффект низкого уровня <link=\"LUBRICATINGOIL\">масла</link>."
+
+STRINGS.DUPLICANTS.STATS.VINEMOTHERHEALTH.NAME
+"Здоровье пучка"
+
+STRINGS.DUPLICANTS.STATS.VINEMOTHERHEALTH.TOOLTIP
+"Если у лоз не будет здорового пучка, они погибнут"
+
+STRINGS.ELEMENTS.AMBER.DESC
+"Янтарь — это <link=\"ELEMENTSSOLID\">твёрдое</link> органическое вещество из <link=\"NATURALRESIN\">смолы</link> и <link=\"FOSSIL\">ископаемых</link>."
+
+STRINGS.ELEMENTS.AMBER.NAME
+"<link=\"AMBER\">Янтарь</link>"
+
+STRINGS.ELEMENTS.IRIDIUM.DESC
+"(Ir) Иридий — это твёрдый и высокопроводящий <link=\"METAL\">металл</link>."
+
+STRINGS.ELEMENTS.IRIDIUM.NAME
+"<link=\"IRIDIUM\">Иридий</link>"
+
+STRINGS.ELEMENTS.IRIDIUMGAS.DESC
+"(Ir) Газообразный иридий — это твёрдый и высокопроводящий <link=\"METAL\">металл</link>."
+
+STRINGS.ELEMENTS.IRIDIUMGAS.NAME
+"<link=\"IRIDIUMGAS\">Газообразный иридий</link>"
+
+STRINGS.ELEMENTS.ISORESIN.DESC
+""
+"Изорезин — кристаллизованный каучук, состоящий из длинноцепочечных полимеров.\n"
+"\n"
+"Используется в производстве редких высококачественных материалов."
+
+STRINGS.ELEMENTS.ISORESIN.NAME
+"<link=\"ISORESIN\">Изорезин</link>"
+
+STRINGS.ELEMENTS.MOLTENIRIDIUM.DESC
+"(Ir) Расплав иридия — это твёрдый и высокопроводящий <link=\"METAL\">металл</link>."
+
+STRINGS.ELEMENTS.MOLTENIRIDIUM.NAME
+"<link=\"MOLTENIRIDIUM\">Расплав иридия</link>"
+
+STRINGS.ELEMENTS.MOLTENNICKEL.DESC
+"(Ni) Расплав никеля — это электропроводный <link=\"RAWMETAL\">металл</link>, разогретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENNICKEL.NAME
+"<link=\"MOLTENNICKEL\">Расплав никеля</link>"
+
+STRINGS.ELEMENTS.NATURALRESIN.DESC
+"Смола — это липкая органическая <link=\"ELEMENTSLIQUID\">жидкость</link>.\n\nИз неё можно получить  <link=\"POLYPROPYLENE\">пластик</link> в <link=\"POLYMERIZER\">полимерном прессе</link>."
+
+STRINGS.ELEMENTS.NATURALRESIN.NAME
+"<link=\"NATURALRESIN\">Смола</link>"
+
+STRINGS.ELEMENTS.NATURALSOLIDRESIN.DESC
+"Смола, охлаждённая до <link=\"ELEMENTSSOLID\">твёрдого</link> состояния.\n\nЕё можно обработать для получения <link=\"POLYPROPYLENE\">пластика</link> в <link=\"POLYMERIZER\">полимерном прессе</link>."
+
+STRINGS.ELEMENTS.NATURALSOLIDRESIN.NAME
+"<link=\"NATURALSOLIDRESIN\">Твёрдая смола</link>"
+
+STRINGS.ELEMENTS.NICKEL.DESC
+""
+"(Ni) Никель — электропроводный <link=\"METAL\">металл</link>.\n"
+"\n"
+"Он подходит для создания систем <link=\"POWER\">электроснабжения</link>."
+
+STRINGS.ELEMENTS.NICKEL.NAME
+"<link=\"NICKEL\">Никель</link>"
+
+STRINGS.ELEMENTS.NICKELGAS.DESC
+"(Ni) Газообразный никель — электропроводный <link=\"METAL\">металл</link>, разогретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+
+STRINGS.ELEMENTS.NICKELGAS.NAME
+"<link=\"NICKELGAS\">Газообразный никель</link>"
+
+STRINGS.ELEMENTS.NICKELORE.DESC
+"(Ni) Никелевая руда — это электропроводный <link=\"RAWMETAL\">металл</link>.\n\nЕё можно переработать в <link=\"NICKEL\">никель</link>, она подходит для создания систем <link=\"POWER\">электроснабжения</link>."
+
+STRINGS.ELEMENTS.NICKELORE.NAME
+"<link=\"NICKELORE\">Никелевая руда</link>"
+
+STRINGS.ELEMENTS.PEAT.DESC
+"Торф — это плотно спрессованный материал, состоящий из частично разложившейся органики.\n\nЭто горючее топливо, полезное для производства <link=\"POWER\">энергии</link>."
+
+STRINGS.ELEMENTS.PEAT.NAME
+"<link=\"PEAT\">Торф</link>"
+
+STRINGS.ELEMENTS.REFINEDLIPID.DESC
+"Биодизель — это <link=\"ELEMENTSLIQUID\">жидкость</link>, состоящая из высокообработанных жирных кислот, полученных из очищенных натуральных масел."
+
+STRINGS.ELEMENTS.REFINEDLIPID.NAME
+"<link=\"REFINEDLIPID\">Биодизель</link>"
+
+STRINGS.ELEMENTS.REGOLITH.DESC
+""
+"Реголит — это сыпучая субстанция из различных частиц, которую можно собирать на поверхности планетоидов.\n"
+"\n"
+"Он будет полезен в качестве <link=\"FILTER\">фильтрующего вещества</link>."
+
+STRINGS.ELEMENTS.RESIN.DESC
+""
+"Липкая слизь, добытая со сварливого дерева.\n"
+"\n"
+"Она может быть полимеризована в <link=\"ISORESIN\">изорезин</link> с помощью выпаривания избыточной влаги при кипячении."
+
+STRINGS.ELEMENTS.RESIN.NAME
+"<link=\"RESIN\">Жидкий каучук</link>"
+
+STRINGS.ELEMENTS.SHALE.DESC
+""
+"Сланец — это хрупкая порода, сформировавшаяся из осадочных слоёв.\n"
+"\n"
+"Полезна в качестве <b>строительного материала</b>."
+
+STRINGS.ELEMENTS.SHALE.NAME
+"<link=\"SHALE\">Сланец</link>"
+
+STRINGS.ELEMENTS.SOLIDRESIN.DESC
+""
+"Каучук, собранный со сварливого дерева.\n"
+"\n"
+"Этот ресурс используется при производстве <link=\"ISORESIN\">изорезина</link>."
+
+STRINGS.ELEMENTS.SOLIDRESIN.NAME
+"<link=\"SOLIDRESIN\">Каучук</link>"
+
+STRINGS.ITEMS.FOOD.BUTTERFLYFOOD.DESC
+""
+"Слегка поджаренное <link=\"BUTTERFLYPLANT\">семя притворника</link>.\n"
+"\n"
+"От него будто бабочки в животе."
+
+STRINGS.ITEMS.FOOD.BUTTERFLYFOOD.NAME
+"<link=\"BUTTERFLYFOOD\">Поджаренное семя притворника</link>"
+
+STRINGS.ITEMS.FOOD.BUTTERFLYFOOD.RECIPEDESC
+"Слегка поджаренное <link=\"BUTTERFLYPLANT\">семя притворника</link>."
+
+STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.DESC
+"Несъедобный <link=\"PLANTS\">плод</link> растения <link=\"BUTTERFLYPLANT\">притворник</link>.\n\nМожет быть посажен для выращивания новых растений или переработан в <link=\"FOOD\">пищу</link>.\n\nРаскапывая повреждённые блоки, можно обнаружить семя притворника."
+
+STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.NAME
+"<link=\"BUTTERFLYPLANT\">Семя притворника</link>"
+
+STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.RECIPEDESC
+"Одно <link=\"BUTTERFLYPLANT\">семя притворника</link>"
+
+STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
+""
+"Простая булочка, выпеченная из <link=\"COLDWHEATSEED\">зёрен морозной пшеницы</link>.\n"
+"\n"
+"Каждый кусочек оставляет легкое охлаждающее ощущение во рту, даже когда булочка тёплая."
+
+STRINGS.ITEMS.FOOD.DINOSAURMEAT.DESC
+"Сырое мясо очень мёртвого существа.\n\nОно несъедобно, пока не будет приготовлено в <link=\"SMOKER\">коптильне</link>"
+
+STRINGS.ITEMS.FOOD.DINOSAURMEAT.NAME
+"<link=\"DINOSAURMEAT\">Жёсткое мясо</link>"
+
+STRINGS.ITEMS.FOOD.FERNFOOD.DESC
+"Древнее зерно, которое можно переработать в <link=\"FOOD\">пищу</link>."
+
+STRINGS.ITEMS.FOOD.FERNFOOD.NAME
+"<link=\"FERNFOOD\">Колос гигантоцвета</link>"
+
+STRINGS.ITEMS.FOOD.GARDENFOODPLANTFOOD.DESC
+"Сладкий плод <link=\"GARDENFOODPLANT\">стебля кислой кукурузы</link>\n\nКислая кукуруза содержит больше калорий, чем <link=\"GARDENFORAGEPLANT\">закусфрукт</link>."
+
+STRINGS.ITEMS.FOOD.GARDENFOODPLANTFOOD.NAME
+"<link=\"GARDENFOODPLANTFOOD\">Кислая кукуруза</link>"
+
+STRINGS.ITEMS.FOOD.GARDENFORAGEPLANT.DESC
+"Фрукт без семян, который теряет вкус задолго до того, как его полностью разжуёшь.\n\nЕго нельзя пересадить.\n\nРаскапывая поверждённые блоки, можно обнаружить <link=\"GARDENFORAGEPLANT\">закусфрукт</link>."
+
+STRINGS.ITEMS.FOOD.GARDENFORAGEPLANT.NAME
+"<link=\"GARDENFORAGEPLANT\">Закусфрукт</link>"
+
+STRINGS.ITEMS.FOOD.PREHISTORICPACUFILLET.DESC
+"Сырое филе очень мёртвого <link=\"PREHISTORICPACU\">челюстника</link>. Оно съедобно, но едва-едва."
+
+STRINGS.ITEMS.FOOD.PREHISTORICPACUFILLET.NAME
+"<link=\"PREHISTORICPACUFILLET\">Филе челюстника</link>"
+
+STRINGS.ITEMS.FOOD.SMOKEDDINOSAURMEAT.DESC
+"Приготовленная стопка жёсткого мяса, которое было замариновано и медленно прокопчено до нежного совершенства."
+
+STRINGS.ITEMS.FOOD.SMOKEDDINOSAURMEAT.NAME
+"<link=\"SMOKEDDINOSAURMEAT\">Нежная грудинка</link>"
+
+STRINGS.ITEMS.FOOD.SMOKEDDINOSAURMEAT.RECIPEDESC
+"Стопка нежного, медленно копчёного мяса."
+
+STRINGS.ITEMS.FOOD.SMOKEDFISH.DESC
+"Маслянистое копчёное рыбное филе.\n\nКрасиво расслаивается, когда его разделяешь вилкой."
+
+STRINGS.ITEMS.FOOD.SMOKEDFISH.NAME
+"<link=\"SMOKEDFISH\">Копчёная рыба</link>"
+
+STRINGS.ITEMS.FOOD.SMOKEDFISH.RECIPEDESC
+"Маслянистое копчёное рыбное филе."
+
+STRINGS.ITEMS.FOOD.SMOKEDVEGETABLES.DESC
+"Хрустящие овощи, фаршированные травами и копчёные часами."
+
+STRINGS.ITEMS.FOOD.SMOKEDVEGETABLES.NAME
+"<link=\"SMOKEDVEGETABLES\">Копчёные вонючки</link>"
+
+STRINGS.ITEMS.FOOD.SMOKEDVEGETABLES.RECIPEDESC
+"Хрустящие овощи, фаршированные травами."
+
+STRINGS.ITEMS.FOOD.VINEFRUIT.DESC
+"Эти плоды с <link=\"VINEMOTHER\">лозы овагро</link>.\n\nЗабавно запихивать их в рот как можно больше за один раз."
+
+STRINGS.ITEMS.FOOD.VINEFRUIT.NAME
+"<link=\"VINEFRUIT\">Инжир</link>"
+
+STRINGS.ITEMS.FOOD.VINEFRUITJAM.NAME
+"<link=\"VINEFRUITJAM\">Джем из инжира</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BABY_CRAB_SHELL.VARIANT_WOOD.NAME
+"<link=\"CRABWOODSHELL\">Малый панцирь древесного краба</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.CRAB_SHELL.VARIANT_WOOD.NAME
+"<link=\"CRABWOODSHELL\">Панцирь древесного краба</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.DEWDRIP.DESC
+"Кристаллизованная капля <link=\"MILK\">молокена</link> из <link=\"DEWDRIPPERPLANT\">капельника</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.DEWDRIP.NAME
+"<link=\"DEWDRIP\">Капля росы</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.NAME
+"<link=\"FARMSTATIONTOOLS\">Микроудобрения</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FEATHER_FABRIC.DESC
+"Пластина сырого кератина, используемая в производстве <link=\"EQUIPMENT\">одежды</link> и текстиля."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FEATHER_FABRIC.NAME
+"<link=\"FEATHERFABRIC\">Перьевое волокно</link>"
+
+STRINGS.ITEMS.INGREDIENTS.KELP.DESC
+"Лист <link=\"KELPPLANT\">ламинарии</link>.\n\nМожет быть переработан в <link=\"PHYTOOIL\">растительное масло</link> или использован как ингредиент для <link=\"ANTIHISTAMINE \">противоаллергенных препаратов</link>."
+
+STRINGS.ITEMS.INGREDIENTS.KELP.NAME
+"<link=\"KELP\">Лист ламинарии</link>"
+
+STRINGS.ITEMS.MISSILE_LONGRANGE.DESC
+"Дальнобойный взрывной снаряд для защиты от дальних космических объектов.\n\nДолжен запускаться из <link=\"MISSILELAUNCHER\">метеоритной пушки</link>."
+
+STRINGS.ITEMS.MISSILE_LONGRANGE.NAME
+"<link=\"MISSILELAUNCHER\">Межкосмический снаряд</link>"
+
+STRINGS.ITEMS.MISSILE_LONGRANGE_VANILLADLC4.DESC
+"Дальнобойный взрывной снаряд для защиты от дальних космических объектов.\n\nДолжен запускаться из <link=\"MISSILELAUNCHER\">метеоритной пушки</link>."
+
+STRINGS.ITEMS.MISSILE_LONGRANGE_VANILLADLC4.NAME
+"<link=\"MISSILELAUNCHER\">Межкосмический снаряд</link>"
+
+STRINGS.ITEMS.TALLOWLUBRICATIONSTICK.DESC
+"Обеспечивает небольшое количество сверхгладкого смазочного <link=\"LUBRICATINGOIL\">машинного масла</link>.\n\nМожет быть изготовлена в <link=\"APOTHECARY\">аптеке</link>."
+
+STRINGS.ITEMS.TALLOWLUBRICATIONSTICK.NAME
+"<link=\"TALLOWLUBRICATIONSTICK\">Мазь из сала</link>"
+
+STRINGS.ITEMS.TALLOWLUBRICATIONSTICK.RECIPEDESC
+"Самостоятельно наносимая механическая смазка для дубликантов с бионическими частями."
+
+STRINGS.ITEMS.TALLOWLUBRICATIONSTICK.SUBHEADER
+"Механическая смазка"
+
+STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.NAME
+"РАЗРУШИТЕЛЬ"
+
+STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.TOGGLE_TOOLTIP
+"Нажмите, чтобы включить/выключить предпросмотр зоны удара"
+
+STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.TOOLTIP
+"Приближающийся астероид: <b><color=#ff1111>РАЗРУШИТЕЛЬ</color></b>\n• Предполагаемый уровень угрозы: {0}\n• Время до столкновения: {1}\n\nЗапуск <link=\"MISSILELAUNCHER\">межкосмических снарядов</link> по <b><color=#ff1111>Разрушителю</color></b> до столкновения может уменьшить или устранить связанные с ударом повреждения"
+
+STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.CALCULATING_IMPACT_ZONE_TEXT
+"РАСЧЁТ ЗОНЫ УДАРА..."
+
+STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.LARGE_IMPACTOR_NAME
+"РАЗРУШИТЕЛЬ"
+
+STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.SIDE_PANEL_DESCRIPTION
+"\n\nВРЕМЯ ДО СТОЛКНОВЕНИЯ: {0} ЦИКЛОВ."
+
+STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.SIDE_PANEL_TITLE
+"НЕМИНУЕМАЯ УГРОЗА"
+
+STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.MESSAGEBODY
+"Эврика! Мы расшифровали последнюю передачу исследовательского портала. Стали доступны новые постройки:\n {0}\n\n"
+
+STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.NAME
+"Исследование завершено"
+
+STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.TOOLTIP
+"{0} разблокировано!"
+
+STRINGS.MISC.STATUSITEMS.LARGEIMPACTORHEALTH.NAME
+"Прочность крупного астероида {0} / {1}"
+
+STRINGS.MISC.STATUSITEMS.LARGEIMPACTORHEALTH.TOOLTIP
+"Нужно взорвать его"
+
+STRINGS.MISC.STATUSITEMS.LARGEIMPACTORSTATUS.NAME
+"Приближение крупного астероида: осталось {0}"
+
+STRINGS.MISC.STATUSITEMS.LARGEIMPACTORSTATUS.TOOLTIP
+"{0} до того, как астероид ударно ударит ударным ударом по миру"
+
+STRINGS.MISC.STATUSITEMS.LONGRANGEMISSILETTI.NAME
+"Время до перехвата {0}: {1}"
+
+STRINGS.MISC.STATUSITEMS.LONGRANGEMISSILETTI.TOOLTIP
+"{1} до перехвата {0}, после чего он досчитает до 3, 3 будет числом счёта, 4 не будет посчитано, ни 2, кроме как при продвижении к 3, 5 совсем исключено..."
+
+STRINGS.MISC.TAGS.COMPOSTABLE_SUBHEADER
+"Органический материал. Можно переработать"
+
+STRINGS.MISC.TAGS.FILTER_DESC
+"Фильтрующие материалы используются для отделения чистых <link=\"ELEMENTSGAS\">газов</link> или <link=\"ELEMENTSLIQUID\">жидкостей</link> от их загрязнённых форм.\n\nОни являются расходными материалами, которые преобразуются в процессе фильтрации. Например, <link=\"SAND\">песок</link>, использованный для фильтрации <link=\"DIRTYWATER\">грязной воды</link>, превратится в <link=\"TOXICSAND\">загрязнённую землю</link>."
+
+STRINGS.MISC.TAGS.FOSSILS
+"<link=\"FOSSILS\">Ископаемые</link>"
+
+STRINGS.MISC.TAGS.FOSSILS_DESC
+""
+"Ископаемые — это категория составных пород и минералов, в которых содержатся следы окаменелых форм жизни.\n"
+"\n"
+"Их можно использовать в качестве простых строительных материалов, блоков для скульптуры или сырья для производства более качественных материалов."
+
+STRINGS.NAMEGEN.WORLD.ROOTS.PREHISTORIC
+"Палео\nДино\nМел\nИскоп\nПапорот\nКогот\nЯщер\nБронт\nКембр\n"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUPER_LIQUIDS.DESC
+"Позволяет производить <link=\"VISCOGEL\">вязко-гель</link> и <link=\"SUPERCOOLANT\">супер-хладагент</link> в <link=\"CHEMICALREFINERY\">размешивателе</link>."
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUPER_LIQUIDS.NAME
+"<style=\"KKeyword\">Передовое химическое производство</style>"
+
+STRINGS.ROBOTS.MODELS.FLYDO.NAME
+"<link=\"FETCHDRONE\">Дрон</link>"
+
+STRINGS.ROBOTS.MODELS.SWEEPBOT.NAME
+"<link=\"SWEEPY\">Свипи</link>"
+
+STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.CONFLICT_DESCRIPTION
+"<link=\"GROUPBIONICUPKEEP\">Станция бионического обслуживания</link>"
+
+STRINGS.ROOMS.CRITERIA.BIONICUPKEEP.NAME
+"<link=\"GROUPBIONICUPKEEP\">Станция бионического обслуживания</link>"
+
+STRINGS.SEARCH_TERMS.ARTWORK
+"Оформление, Декор, Статуи, Картины, Красота, Милота, Эстетика"
+
+STRINGS.SEARCH_TERMS.ATMOSUIT
+"Атмокостюм, атмо, реактивный костюм"
+
+STRINGS.SEARCH_TERMS.DECOR
+"Декор, Украшение, Мода, Модное"
+
+STRINGS.SEARCH_TERMS.DINOSAUR
+"Динозавр, ископаемое, окаменелости, доисторический"
+
+STRINGS.SEARCH_TERMS.FARM
+"Ферма, Фермерский, Аграрный, Сельский, Земледелие"
+
+STRINGS.SEARCH_TERMS.FILTER
+"Фильтр, Фильтрация"
+
+STRINGS.SEARCH_TERMS.GENERATOR
+"Генератор, Энергия, Электричество"
+
+STRINGS.SEARCH_TERMS.MEDICINE
+"Медицина, Лечение, Врач, Болезни, Вирусы"
+
+STRINGS.SEARCH_TERMS.RANCHING
+"Животноводство, Скотоводство, Разведение, Ухаживание"
+
+STRINGS.SEARCH_TERMS.ROCKET
+"Ракета"
+
+STRINGS.SEARCH_TERMS.SINK
+"Раковина, Умывальник, Мыть"
+
+STRINGS.SEARCH_TERMS.STATUE
+"Статуя, Скульптура"
+
+STRINGS.SEARCH_TERMS.WIRE
+"Провод, Шнур"
+
+STRINGS.SUBWORLDS.GARDEN.DESC
+"Биом Сад — это умеренная среда с полезными существами и растениями, хорошо подходящими для <link=\"FARMING\">Земледелия</link>."
+
+STRINGS.SUBWORLDS.GARDEN.NAME
+"Сад"
+
+STRINGS.SUBWORLDS.GARDEN.UTILITY
+"Этот биом является домом для <link=\"STEGOSPECIES\">топотунов</link>, которые помогают собирать съедобные растения, и опыляющих <link=\"BUTTERFLYSPECIES\">мимик</link>, ускоряющих рост растений.\n\nСистемы <link=\"POWER\">энергоснабжения</link>, построенные в этом биоме, выиграют от залежей <link=\"NICKELORE\">никелевой руды</link> и <link=\"PEAT\">торфа</link>, а благодаря обилию <link=\"SHALE\">сланца</link> здесь нет недостатка в строительных материалах.\n\nКолонисты могут полагаться на растения <link=\"GARDENFORAGEPLANTPLANTED\">закусактус</link> для получения жизненно необходимых калорий в первые дни. <link=\"VINEMOTHER\">Пучки овагро</link> становятся эффективными источниками <link=\"FOOD\">пищи</link>, когда им позволяют полностью разрастись, поскольку их потребность в <link=\"WATER\">воде</link> не увеличивается с ростом числа лоз, приносящих <link=\"VINEFRUIT\">инжир</link>.\n\nНовые колонии должны выживать здесь с относительной лёгкостью."
+
+STRINGS.SUBWORLDS.RAPTOR.DESC
+"Прохладный биом <link=\"FEATHERFABRIC\">Перо</link> является домом для огромных нелетающих <link=\"RAPTORSPECIES\">рексов</link>, которых можно стричь для <link=\"CLOTHING\">производства текстиля</link>."
+
+STRINGS.SUBWORLDS.RAPTOR.NAME
+"Перо"
+
+STRINGS.SUBWORLDS.RAPTOR.UTILITY
+"<link=\"RAPTORSPECIES\">Рексы</link> — плотоядные существа, которые охотятся в основном на <link=\"CHAMELEONSPECIES\">хилозавров</link>. Хотя оба существа могут быть источником <link=\"FOOD\">пищи</link>, их мясо слишком жёсткое, чтобы есть его в сыром виде.\n\nФлора этого биома включает массивный <link=\"DINOFERN\">гигантоцвет</link>, который процветает в среде <link=\"CHLORINEGAS\">хлорного газа</link>, <link=\"DEWDRIPPERPLANT\">капельник</link>, который можно переработать в <link=\"MILK\">молокен</link>, и <link=\"COLDBREATHER\">хладодых</link>.\n\nДупликантам, работающим и живущим в этой среде, потребуется защитное <link=\"EQUIPMENT\">снаряжение</link>."
+
+STRINGS.SUBWORLDS.SUGARWOODS.UTILITY
+""
+"<link=\"SEALSPECIES\">Тюлени-самогонщики</link> поглощают эту сладкую жидкость и производят <link=\"ETHANOL\">этанол</link>, пополняющий запасы топлива колонии. Разведение тюленей-самогоншиков также позволяет получить <link=\"TALLOW\">сало</link> — его можно употреблять в <link=\"FOOD\">пищу</link> или переработать в <link=\"CRUDEOIL\">нефть</link>, которая необходима для местных <link=\"POWER\">энергетических</link> систем.\n"
+"\n"
+"Под <link=\"SNOW\">снегом</link> и <link=\"ICE\">льдом</link> скрываются богатые залежи твёрдой <link=\"MERCURY\">ртути</link>. Этот редкий металл можно разжижить и использовать в качестве промышленного охладителя.\n"
+"\n"
+"Это удивительно красивый биом: здесь можно встретить очаровательные нежные <link=\"ICEFLOWER\">идиллы</link> и полюбоваться танцем <link=\"LIGHTBUG\">светлячков</link>, чей свет отражается в кристаллах снега и льда."
+
+STRINGS.SUBWORLDS.WETLANDS.DESC
+"Этот жаркий, липкий биом отличается обилием озёр с <link=\"PHYTOOIL\">растительным маслом</link>, <link=\"DIRTYWATER\">грязной водой</link> и <link=\"SALTWATER\">солёной водой</link>."
+
+STRINGS.SUBWORLDS.WETLANDS.NAME
+"Топи"
+
+STRINGS.SUBWORLDS.WETLANDS.UTILITY
+"Хищное растение <link=\"FLYTRAPPLANT\">приман</link> ловит летающих существ, таких как надоедливые <link=\"MOSQUITOSPECIES\">гниты</link>, и производит <link=\"AMBER\">янтарь</link>, который можно превратить в <link=\"NATURALRESIN\">смолу</link>, используемую для производства <link=\"POLYPROPYLENE\">пластика</link>.\n\nВодные гиганты, называемые <link=\"PREHISTORICPACUSPECIES\">челюстниками</link>, охотятся на <link=\"PACUSPECIES\">паку</link> и выделяют крупные куски <link=\"LIME\">извести</link>.\n\nПривлекательная местная растительность включает <link=\"KELPPLANT\">морские гребни</link>, которые могут быть употреблены дупликантами или переработаны в <link=\"PHYTOOIL\">растительное масло</link>."
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BRANCH_GROWER_PLANT_POTENTIAL_OUTPUT
+"{0} в {1}"
+
+STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_FOG_OF_WAR
+""
+"Не может путешествовать через этот гекс, пока он не открыт\n"
+"\n"
+"Космос может быть проанализирован с помощью <link=\"CLUSTERTELESCOPE\">телескопа</link> или <link=\"SCANNERMODULE\">картографического модуля</link>"
+
+STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_OUT_OF_RANGE
+"Пункт назначения гораздо дальше максимальной дистанции полёта ракеты ({0})"
+
+STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_METEOR_TARGET
+"В месте назначения нет опасного астероида. Взрывать нечего"
+
+STRINGS.UI.DLC4.MIXING_TOOLTIP
+"В <i>The Prehistoric Planet Pack</i> входит хищная флора и фауна, а также защитные строения"
+
+STRINGS.UI.DLC4.NAME
+"The Prehistoric Planet Pack"
+
+STRINGS.UI.DLC4.NAME_ITAL
+"<i>The Prehistoric Planet Pack</i>"
+
+STRINGS.UI.FORMATDAY
+"{0:F1} циклов"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.DEFAULT.NAME
+"По умолчанию"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.DEFAULT.TOOLTIP
+"Разрушитель ударит за 200 циклов"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.EASY.NAME
+"Небольшая задержка"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.EASY.TOOLTIP
+"Разрушитель столкнётся позже, чем обычно\n\n300 циклов до столкновения"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.HARD.NAME
+"Раннее прибытие"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.HARD.TOOLTIP
+"Разрушитель столкнётся раньше, чем обычно\n\n150 циклов до столкновения"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.OFF.NAME
+"Отключён"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.OFF.TOOLTIP
+"Разрушитель не существует, и достижение не может быть получено"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.VERYEASY.NAME
+"Долго ждать"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.VERYEASY.TOOLTIP
+"Дубликанты, вероятно, смогут построить целый новый астероид к тому времени, когда Разрушитель столкнётся с этим\n\n\n500 циклов до столкновения"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.VERYHARD.NAME
+"Неминуемое вымирание"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.LEVELS.VERYHARD.TOOLTIP
+"Скоро всё закончится\n\nОколо 100 циклов до столкновения"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.NAME
+"Удар Разрушителя"
+
+STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DEMOLIORDIFFICULTY.TOOLTIP
+"Регулирует, как скоро астероид Разрушитель столкнётся с астероидом из DLC <i>The Prehistoric Planet Pack</i>."
+
+STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_POLLINATION
+"Необходимо опыление"
+
+STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_POLLINATION
+"Для развития этому растению необходимо, чтобы за ним ухаживало <style=\"KKeyword\">существо</style>"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.CHEMISTRY.DESCRIPTION
+"Использование <link=\"CHEMICALREFINERY\">размешивателя</link>"
+
+STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORS.COPPER.DESCRIPTION
+"Дождь из металлических метеоритов на пути к столкновению с поверхностью астероида."
+
+STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORS.COPPER.NAME
+"Медный метеорит"
+
+STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORS.IRON.DESCRIPTION
+"Дождь из металлических камней из космоса на пути к столкновению с поверхностью астероида."
+
+STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORS.IRON.NAME
+"Железный метеорит"
+
+STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORS.LARGEIMACTOR.DESCRIPTION
+"Древний астероид на пути к столкновению с поверхностью.\n\nЕго воздействие будет ощущаться на протяжении многих поколений."
+
+STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORS.LARGEIMACTOR.NAME
+"Разрушитель"
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4IMPACTORDEBRISFIELD1.DESC
+"Твёрдые добываемые останки Разрушителя, содержащие <link=\"IRIDIUM\">иридий</link>, <link=\"MAFICROCK\">магматический камень</link>, <link=\"GOLD\">золото</link> и <link=\"GRANITE\">гранит</link>, а также странный артефакт.\n"
+"\n"
+"Для добычи ресурсов требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link>."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4IMPACTORDEBRISFIELD1.NAME
+"Останки Разрушителя"
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4IMPACTORDEBRISFIELD2.DESC
+"Жидкие остатки Разрушителя, содержащие <link=\"ISORESIN\">изосмолу</link>, <link=\"PETROLEUM\">нефть</link> и <link=\"LIQUIDSULFUR\">жидкую серу</link>.\n\nДля сбора ресурсов требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link>."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4IMPACTORDEBRISFIELD2.NAME
+"Жидкие обломки Разрушителя"
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4IMPACTORDEBRISFIELD3.DESC
+"Расплавленные остатки Разрушителя, содержащие <link=\"LIQUIDIRIDIUM\">расплавленный иридий</link>, <link=\"MAGMA\">магму</link>, <link=\"LIQUIDOXYGEN\">жидкий кислород</link> и <link=\"LIQUIDHYDROGEN\">жидкий водород</link>.\n\nДля сбора ресурсов требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link>."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4IMPACTORDEBRISFIELD3.NAME
+"Расплавленные обломки Разрушителя"
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4PREHISTORICOREFIELD.DESC
+"Добываемые остатки планеты, содержащие <link=\"NICKELORE\">никелевую руду</link>, <link=\"PEAT\">торф</link>, <link=\"AMBER\">янтарь</link> и <link=\"SHALE\">сланец</link>.\n\nДля сбора ресурсов требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link>."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4PREHISTORICOREFIELD.NAME
+"Янтарное поле"
+
+STRINGS.UI.SPACEDESTINATIONS.PLANETS.DLC4PREHISTORICDEMOLIORSPACEDESTINATION.DESCRIPTION
+"Остатки Разрушителя, содержащие возобновляемый источник иридия."
+
+STRINGS.UI.SPACEDESTINATIONS.PLANETS.DLC4PREHISTORICDEMOLIORSPACEDESTINATION.NAME
+"Обломки Разрушителя"
+
+STRINGS.UI.SPACEDESTINATIONS.PLANETS.DLC4PREHISTORICSPACEDESTINATION.DESCRIPTION
+"Доисторический мир с залежами торфа и никелевой руды."
+
+STRINGS.UI.SPACEDESTINATIONS.PLANETS.DLC4PREHISTORICSPACEDESTINATION.NAME
+"Релика"
+
+STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_ENTITY_CONSUMER_REQUIREMENTS
+"Это растение должно потреблять <style=\"KKeyword\">{0}</style>, чтобы расти"
+
+STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_ENTITY_CONSUMER_SATISFIED
+"Это растение недавно съело: <style=\"KKeyword\">{0}</style>"
+
+STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_ENTITY_CONSUMER_UNSATISFIED
+"Ожидает добычу"
+
+STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_POLLINATED
+"Это растение недавно было опылено <style=\"KKeyword\">существом</style>"
+
+STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RADIATION
+"Это растение находится в <b>{rads}</b> окружающей <color=#C38802>радиации</color>. Для роста ему необходимо от {minRads} до {maxRads}"
+
+STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_UNPOLLINATED
+"Это растение должно быть опылено <style=\"KKeyword\">существом</style> {0}"
+
+STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.CHANGE_DESTINATION_BUTTON_TOOLTIP_MISSILE
+"Выберите новую цель для этой пусковой установки"
+
+STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.CHANGE_DESTINATION_BUTTON_TOOLTIP_RAILGUN
+"Выберите новую цель для этого транспортировщика"
+
+STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.CLEAR_DESTINATION_BUTTON_TOOLTIP_MISSILE
+"Сбросьте выбранную цель этой пусковой установки"
+
+STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.CLEAR_DESTINATION_BUTTON_TOOLTIP_RAILGUN
+"Сбросьте выбранную цель этого транспортировщика"
+
+STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.TITLE_MISSILE_TARGET
+"Дальняя цель"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALL_INGREDIENTS_IN_CATEGORY_DISOVERED
+"Все варианты ингредиентов в этой категории были обнаружены."
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INGREDIENT_CATEGORY
+"Ингредиент #{0}"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NO_DISCOVERED_INGREDIENTS
+"Ингредиентов не обнаружено"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_AVAILABLE
+"Доступно: {0}"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_EFFECTS_HEADER
+"Свойства"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_NONE
+"В очереди нет приказов"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_QUEUE
+"Задать кол-во продукции:"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_QUEUE_CLICK_DESCRIPTION
+"<b>(ClickType/Click), чтобы выбрать следующий по очереди вариант этого рецепта</b>"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_REQUIREMENT
+"{0}: {1}"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPE_UNDISCOVERED_INGREDIENTS
+"Неисследованные ингредиенты"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.UNDISCOVERED_INGREDIENTS_IN_CATEGORY
+"Некоторые варианты ингредиентов в этой категории еще не были открыты:\n\n{0}"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.UNDISCOVERED_RECIPES
+"Следующие рецепты еще не открыты.\nДля их открытия нужно открыть новые ингредиенты или исследовать новые технологии:"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.HEADER
+"Выбор снаряда"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.TITLE
+"<link=\"MISSILELAUNCHER\">Метеоритная пушка</link>"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.VANILLALARGEIMPACTOR.HEALTH_BAR_TITLE
+"Уровень угрозы"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.VANILLALARGEIMPACTOR.HEALTH_BAR_TOOLTIP
+"Уровень угрозы {0} / {1}"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.VANILLALARGEIMPACTOR.TIME_UNTIL_COLLISION_TITLE
+"Время до столкновения"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.VANILLALARGEIMPACTOR.TIME_UNTIL_COLLISION_TOOLTIP
+"Циклов до столкновения: {0}"
+
+STRINGS.UI.USERMENUACTIONS.UNLOCK_ASTEROID_VISUALIZER.ALREADY_RUMMAGED
+"Уже осмотрено"
+
+STRINGS.UI.USERMENUACTIONS.UNLOCK_ASTEROID_VISUALIZER.NAME
+"Осмотреть"
+
+STRINGS.UI.USERMENUACTIONS.UNLOCK_ASTEROID_VISUALIZER.NAME_OFF
+"Отменить осмотр"
+
+STRINGS.UI.USERMENUACTIONS.UNLOCK_ASTEROID_VISUALIZER.TOOLTIP
+""
+"Что-то здесь выглядит зловеще\n"
+"\n"
+"Щёлкните, чтобы посмотреть поближе"
+
+STRINGS.UI.USERMENUACTIONS.UNLOCK_ASTEROID_VISUALIZER.TOOLTIP_ALREADYRUMMAGED
+"Этот участок тщательно осмотрен"
+
+STRINGS.UI.USERMENUACTIONS.UNLOCK_ASTEROID_VISUALIZER.TOOLTIP_OFF
+"Отменить этот осмотр"
+
+STRINGS.UI.VITALSSCREEN.POLLINATION
+"Опыление"
+
+STRINGS.UI.WELCOMEMESSAGEBODY_DLC4_PREHISTORIC
+"Система контроля столкновений обнаружила угрозу сверху: огромный астероид мчится прямо к нам. Неизвестно, что останется от колонии, когда он достигнет цели.\n\nЕсли мы вовремя установим систему защиты поверхности, возможно, нам удастся уничтожить его до того, как он уничтожит нас."
+
+STRINGS.WORLDS.PREHISTORICBASEGAME.DESCRIPTION
+"Находящееся под угрозой место с обильными пищевыми ресурсами.\n\n<smallcaps>Биоразнообразие Релики делает надёжное производство пищи более доступным для новых колоний. Строительные материалы и топливо также имеются в изобилии. Защита поверхности должна быть приоритетной задачей, чтобы минимизировать ущерб от приближающегося астероида-импактора.</smallcaps>"
+
+STRINGS.WORLDS.PREHISTORICBASEGAME.NAME
+"Релика"
+
+STRINGS.WORLDS.PREHISTORICCLASSIC.DESCRIPTION
+"Находящийся под угрозой стартовый мир с обильными пищевыми ресурсами.\n\n<smallcaps>Биоразнообразие Релики делает надёжное производство пищи более доступным для новых колоний. Строительные материалы и топливо также имеются в изобилии. Защита поверхности должна быть приоритетной задачей, чтобы минимизировать ущерб от приближающегося астероида-импактора.</smallcaps>"
+
+STRINGS.WORLDS.PREHISTORICCLASSIC.NAME
+"Астероид Релика"
+
+STRINGS.WORLDS.PREHISTORICMIXING.DESCRIPTION
+"Фрагмент доисторического стартового мира.\n\n<smallcaps>Его биоразнообразие делает надёжное производство пищи более доступным для новых колоний. Строительные материалы и топливо также имеются в изобилии.</smallcaps>"
+
+STRINGS.WORLDS.PREHISTORICMIXING.NAME
+"Осколок Релики"
+
+STRINGS.WORLDS.PREHISTORICSPACEDOUT.DESCRIPTION
+"Меньший находящийся под угрозой стартовый мир с обильными пищевыми ресурсами.\n\n<smallcaps>Биоразнообразие Релики делает надёжное производство пищи более доступным для новых колоний. Строительные материалы и топливо также имеются в изобилии. Защита поверхности должна быть приоритетной задачей, чтобы минимизировать ущерб от приближающегося астероида-импактора.</smallcaps>"
+
+STRINGS.WORLDS.PREHISTORICSPACEDOUT.NAME
+"Мини-Релика"
+
+STRINGS.WORLDS.WARPOILYSANDYSWAMP.DESCRIPTION
+"Частично замёрзший мир с нефтяным ядром.\n\n<smallcaps>Хотя болотно-нефтяные астероиды обычно значительно покрыты болотами, также они содержат обширные пустоши.</smallcaps>"
+
+STRINGS.WORLDS.WARPOILYSANDYSWAMP.NAME
+"Болотно-нефтяной песчаный астероид"
