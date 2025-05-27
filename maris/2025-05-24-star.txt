@@ -84,10 +84,10 @@ STRINGS.BUILDINGS.PREFABS.MISSILELAUNCHER.TARGET_SELECTION_HEADER
 "Выбор цели на короткой дистанции"
 
 STRINGS.BUILDINGS.PREFABS.MISSILESETLOCKER.DESC
-"Шкафчик, содержащий внутрикосмический взрывной заряд."
+"Шкафчик, содержащий межкосмический заряд."
 
 STRINGS.BUILDINGS.PREFABS.MISSILESETLOCKER.NAME
-"Шкаф с внутрикосмическим снарядом"
+"Шкаф с межкосмическим снарядом"
 
 STRINGS.BUILDINGS.PREFABS.MONUMENTTOP.FACADES.OPTION_J.DESC
 "Хатч огромного размера."
@@ -210,10 +210,10 @@ STRINGS.CODEX.BLUE_GRASS.BODY.CONTAINER1
 "Ботаников давно интересует защитный эпителий растения, не позволяющий <link=\"OXYROCK\">оксилиту</link> сформироваться прямо на нём. Увы, альвео вера — хрупкое растение, а потому изучить этот вопрос подробнее пока не представлялось возможным."
 
 STRINGS.CODEX.BUTTERFLY.BODY.CONTAINER1
-"Мимик сложно классифицировать. Биологи предполагают, что <link=\"BUTTERFLYPLANT\">притворник</link> использует эту редкую форму репродуктивной мимикрии, чтобы его семена лучше рассеивались. Так мимики пытаютс выжить после вымирания ключевых видов, обитавших в их исходной среде.\n\nУ этих очаровательных организмов, похожих на бабочек, есть микроскопический кластер фитопротеиновых клеток \"мозга\", которым движет лишь один инстинкт — заботиться о растении, на котором прижилась мимика.\n\nОднако из-за генетической ошибки мимика заботится обо всех растениях вокруг, <i>кроме</i> своего собственного."
+"Мимик сложно классифицировать. Биологи предполагают, что <link=\"BUTTERFLYPLANT\">бутон мимики</link> использует эту редкую форму репродуктивной мимикрии, чтобы его семена лучше рассеивались. Так мимики пытаются выжить после вымирания ключевых видов, обитавших в их исходной среде.\n\nУ этих очаровательных организмов, похожих на бабочек, есть микроскопический кластер фитопротеиновых клеток \"мозга\", которым движет лишь один инстинкт — заботиться о растении, на котором прижилась мимика.\n\nОднако из-за генетической ошибки мимика заботится обо всех растениях вокруг, <i>кроме</i> своего собственного."
 
 STRINGS.CODEX.BUTTERFLY.SPECIES_SUBTITLE
-"Неклассифицированный организм"
+"Организм без категории"
 
 STRINGS.CODEX.BUTTERFLY.SPECIES_TITLE
 "Мимики"
@@ -226,19 +226,19 @@ STRINGS.CODEX.BUTTERFLY.TITLE
 
 STRINGS.CODEX.BUTTERFLYPLANT.BODY.CONTAINER1
 ""
-"Притворники — прекрасные растения-помощники, которые дают ферме те же преимущества, что и насекомые, но при этом о них не приходится заботиться, как о существах.\n"
+"Бутоны мимики — прекрасные растения-помощники, которые дают ферме те же преимущества, что и насекомые, но при этом о них не приходится заботиться, как о существах.\n"
 "\n"
 "В каждом туго скрученном бутоне находится высокая концентрация энзимов и имагинальных дисков, похожих на те, что встречаются в семействе чешуекрылых.\n"
 "\n"
-"При подходящих условиях это уникальное сочетание веществ производит на свет <link=\"BUTTERFLY\">мимику</link> — эфемерный организм, похожий на бабочку, которая заботится о растениях вокруг, а затем принимает свою финальную форму семечка.\n"
+"При подходящих условиях это уникальное сочетание веществ производит на свет <link=\"BUTTERFLY\">мимику</link> — эфемерную форму жизни, похожую на бабочку, которая заботится о растениях вокруг, а затем принимает свою финальную форму зёрнышка.\n"
 "\n"
-"Любой садовод, которому довелось увидеть эту <link=\"BUTTERFLY\">мимику</link>, тут же приходит в восторг."
+"Любой садовод, которому довелось увидеть <link=\"BUTTERFLY\">мимику</link>, тут же приходит в восторг."
 
 STRINGS.CODEX.BUTTERFLYPLANT.SUBTITLE
 "Съедобное растение"
 
 STRINGS.CODEX.BUTTERFLYPLANT.TITLE
-"Притворник"
+"Бутон мимики"
 
 STRINGS.CODEX.CARROTPLANT.BODY.CONTAINER1
 "Перистые свёклы содержат более дюжины типов удивительно стабильных антоцианов — в два раза больше, чем в любом другом растении. Эта высокая концентрация флавоноидов способствует яркой окраске клубня и его устойчивости к низким температурам.\n\nВесь корень пригоден в пищу, включая кожуру. Верхний "перо" можно использовать как щёточку, чтобы смахнуть крошки с подбородка после еды."
@@ -280,16 +280,16 @@ STRINGS.CODEX.DASHASALTVINE.TITLE
 "Соляная лоза"
 
 STRINGS.CODEX.DEWDRIP.BODY.CONTAINER1
-"Кристаллизованная капля <link=\"MILK\">молокена</link> из <link=\"DEWDRIPPERPLANT\">капельника</link>.\n\nЕё необходимо обработать в <link=\"MILKPRESS\">механической ступке</link>, чтобы извлечь содержимое."
+"Кристаллизованная капля <link=\"MILK\">молокена</link> из <link=\"DEWDRIPPERPLANT\">капельника</link>.\n\nЕё необходимо выжать в <link=\"MILKPRESS\">механической ступке</link>, чтобы извлечь содержимое."
 
 STRINGS.CODEX.DEWDRIP.SUBTITLE
 "Растительный побочный продукт"
 
 STRINGS.CODEX.DEWDRIP.TITLE
-"Капля росы"
+"Слеза капельника"
 
 STRINGS.CODEX.DEWDRIPPERPLANT.BODY.CONTAINER1
-"Капельник иногда называют «пурпурным скворцом» растительного мира из-за великолепных перистых листьев, окружающих его основание.\n\nЭто скульптурное растение медленно выделяет излишки сока, который свёртывается при контакте с воздухом. Получающийся шарик настолько плотный, что его вес сломал бы полый стебель капельника, если бы тот был посажен в землю.\n\nНикто никогда серьёзно не пострадал от падающей капли росы, но лучше не задерживаться под ними."
+"Капельник иногда называют «пурпурным скворцом» растительного мира из-за великолепных перистых листьев, окружающих его основание.\n\nЭто изящное растение медленно выделяет излишки сока, который свёртывается при контакте с воздухом. Получающийся шарик настолько плотный, что его вес сломал бы полый стебель капельника, если бы тот был посажен в землю.\n\nНикто никогда серьёзно не пострадал от падающей <color=#C38802>слезы капельника</color>, но лучше не задерживаться под ней."
 
 STRINGS.CODEX.DEWDRIPPERPLANT.SUBTITLE
 "Можно выращивать"
@@ -508,23 +508,23 @@ STRINGS.CREATURES.MODIFIERS.RAPTORWELLFED.TOOLTIP
 
 STRINGS.CREATURES.SPECIES.BUTTERFLY.DESC
 ""
-"Мимики — это летающие организмы, которые ускоряют созревание <link=\"PLANTS\">растений</link> вокруг.\n"
+"Это летающая форма жизни, которая ускоряют созревание <link=\"PLANTS\">растений</link> вокруг.\n"
 "\n"
-"Когда листья мимики высыхают, она затвердевает и становится <link=\"BUTTERFLYPLANT\">семенем притворника</link>."
+"Когда листья мимики высыхают, она затвердевает и становится <link=\"BUTTERFLYPLANT\">зерном мимики</link>."
 
 STRINGS.CREATURES.SPECIES.BUTTERFLY.NAME
 "<link=\"BUTTERFLY\">Мимика</link>"
 
 STRINGS.CREATURES.SPECIES.BUTTERFLYPLANT.DESC
-"Притворники — это самосозревающие растения, из которых появляются летающие <link=\"BUTTERFLY\">мимики</link>.\n"
+"Бутоны мимики — это растения, не требующие сбора, из которых появляются летающие <link=\"BUTTERFLY\">мимики</link>.\n"
 "\n"
-"<link=\"BUTTERFLY\">Мимики</link> ускоряют созревание <link=\"PLANTS\">растений</link> поблизости, а затем затвердевают и становятся <link=\"BUTTERFLYPLANT\">семенами притворника</link>."
+"Каждая такая <link=\"BUTTERFLY\">мимика</link> ускоряет созревание <link=\"PLANTS\">растений</link> поблизости, а затем затвердевает и становится <link=\"BUTTERFLYPLANT\">зерном мимики</link>."
 
 STRINGS.CREATURES.SPECIES.BUTTERFLYPLANT.DOMESTICATEDDESC
-"Это растение производит <link=\"BUTTERFLY\">мимик</link>."
+"В этом растении созревает <link=\"BUTTERFLY\">мимика</link>."
 
 STRINGS.CREATURES.SPECIES.BUTTERFLYPLANT.NAME
-"<link=\"BUTTERFLYPLANT\">Притворник</link>"
+"<link=\"BUTTERFLYPLANT\">Бутон мимики</link>"
 
 STRINGS.CREATURES.SPECIES.CHAMELEON.BABY.DESC
 ""
@@ -537,7 +537,7 @@ STRINGS.CREATURES.SPECIES.CHAMELEON.BABY.NAME
 
 STRINGS.CREATURES.SPECIES.CHAMELEON.DESC
 ""
-"Хилозавры — это миролюбивые существа, которые питаются <link=\"DEWDRIP\">каплями росы</link> прямо с растения <link=\"DEWDRIPPERPLANT\">капельник</link> и выделяют <link=\"BLEACHSTONE\">хлорный камень</link>.\n\nНа них охотятся <link=\"RAPTOR\">рексы</link>."
+"Хилозавры — это миролюбивые существа, которые питаются <link=\"DEWDRIP\">слезами капельника</link> прямо с растения <link=\"DEWDRIPPERPLANT\">капельник</link> и выделяют <link=\"BLEACHSTONE\">хлорный камень</link>.\n\nНа них охотятся <link=\"RAPTOR\">рексы</link>."
 
 STRINGS.CREATURES.SPECIES.CHAMELEON.EGG_NAME
 "<link=\"CHAMELEON\">Яйцо хилозавра</link>"
@@ -561,7 +561,7 @@ STRINGS.CREATURES.SPECIES.CRITTERTRAPPLANT.VICTIM_IDENTIFIER
 "Наземные существа"
 
 STRINGS.CREATURES.SPECIES.DEWDRIPPERPLANT.DESC
-"Капельники производят <link=\"DEWDRIP\">капли росы</link>, которые можно раздробить и получить <link=\"MILK\">молокен</link>."
+"Капельники производят плоды, похожие на <link=\"DEWDRIP\">слёзы</link>, которые можно раздробить и получить <link=\"MILK\">молокен</link>."
 
 STRINGS.CREATURES.SPECIES.DEWDRIPPERPLANT.DOMESTICATEDDESC
 "Это растение производит <link=\"MILK\">молокен</link>."
@@ -713,10 +713,10 @@ STRINGS.CREATURES.SPECIES.SAPTREE.DESC
 "Его корни уходят глубоко в почву, и оно ждёт, когда какая-нибудь отважная душа принесёт ему еды."
 
 STRINGS.CREATURES.SPECIES.SEEDS.BUTTERFLYPLANTSEED.DESC
-"Несъедобный <link=\"PLANTS\">плод</link> растения <link=\"BUTTERFLYPLANT\">притворник</link>.\n\nЕго можно посадить, чтобы вырастить больше растений, или переработать в <link=\"FOOD\">пищу</link>.\n\nВыкапывая повреждённые блоки, можно найти семя притворника."
+"Несъедобный <link=\"PLANTS\">плод</link> скромного <link=\"BUTTERFLYPLANT\">бутона мимики</link>.\n\nЕго можно посадить, чтобы вырастить больше растений, или переработать в <link=\"FOOD\">пищу</link>.\n\nВыкапывая повреждённые блоки, можно найти зерно мимики."
 
 STRINGS.CREATURES.SPECIES.SEEDS.BUTTERFLYPLANTSEED.NAME
-"<link=\"BUTTERFLYPLANT\">Семя притворника</link>"
+"<link=\"BUTTERFLYPLANT\">Зерно мимики</link>"
 
 STRINGS.CREATURES.SPECIES.SEEDS.DEWDRIPPERPLANT.DESC
 "<link=\"PLANTS\">Семя</link> растения <link=\"DEWDRIPPERPLANT\">капельник</link>."
@@ -878,10 +878,10 @@ STRINGS.CREATURES.STATUSITEMS.NOT_POLLINATED.TOOLTIP
 "Для развития этому растению необходимо, чтобы его опыляло <style=\"KKeyword\">существо</style>"
 
 STRINGS.CREATURES.STATUSITEMS.POLLINATING.INTERACTING.NAME
-"Опыление"
+"Опыляет"
 
 STRINGS.CREATURES.STATUSITEMS.POLLINATING.INTERACTING.TOOLTIP
-"Нежное воздействие этого существа улучшает развитие этого <style=\"KKeyword\">растения</style>"
+"Это существо нежно заботится об этом <style=\"KKeyword\">растении</style> и улучшает его развитие"
 
 STRINGS.CREATURES.STATUSITEMS.POLLINATING.MOVINGTO.NAME
 "Собирается ухаживать"
@@ -1071,24 +1071,24 @@ STRINGS.ELEMENTS.SOLIDRESIN.NAME
 
 STRINGS.ITEMS.FOOD.BUTTERFLYFOOD.DESC
 ""
-"Слегка поджаренное <link=\"BUTTERFLYPLANT\">семя притворника</link>.\n"
+"Слегка поджаренное <link=\"BUTTERFLYPLANT\">зерно мимики</link>.\n"
 "\n"
 "От него будто бабочки в животе."
 
 STRINGS.ITEMS.FOOD.BUTTERFLYFOOD.NAME
-"<link=\"BUTTERFLYFOOD\">Поджаренное семя притворника</link>"
+"<link=\"BUTTERFLYFOOD\">Жареная мимика</link>"
 
 STRINGS.ITEMS.FOOD.BUTTERFLYFOOD.RECIPEDESC
-"Слегка поджаренное <link=\"BUTTERFLYPLANT\">семя притворника</link>."
+"Слегка поджаренное <link=\"BUTTERFLYPLANT\">зерно мимики</link>."
 
 STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.DESC
-"Несъедобный <link=\"PLANTS\">плод</link> растения <link=\"BUTTERFLYPLANT\">притворник</link>.\n\nМожет быть посажен для выращивания новых растений или переработан в <link=\"FOOD\">пищу</link>.\n\nРаскапывая повреждённые блоки, можно обнаружить семя притворника."
+"Несъедобный <link=\"PLANTS\">плод</link> скромного <link=\"BUTTERFLYPLANT\">бутона мимики</link>.\n\nМожет быть посажен для выращивания новых растений или переработан в <link=\"FOOD\">пищу</link>.\n\nРаскапывая повреждённые блоки, можно обнаружить зерно мимики."
 
 STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.NAME
-"<link=\"BUTTERFLYPLANT\">Семя притворника</link>"
+"<link=\"BUTTERFLYPLANT\">Зерно мимики</link>"
 
 STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.RECIPEDESC
-"Одно <link=\"BUTTERFLYPLANT\">семя притворника</link>"
+"Одно <link=\"BUTTERFLYPLANT\">зерно мимики</link>"
 
 STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
 ""
@@ -1172,7 +1172,7 @@ STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.DEWDRIP.DESC
 "Кристаллизованная капля <link=\"MILK\">молокена</link> из <link=\"DEWDRIPPERPLANT\">капельника</link>."
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.DEWDRIP.NAME
-"<link=\"DEWDRIP\">Капля росы</link>"
+"<link=\"DEWDRIP\">Слеза капельника</link>"
 
 STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.NAME
 "<link=\"FARMSTATIONTOOLS\">Микроудобрения</link>"
