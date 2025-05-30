@@ -1,0 +1,493 @@
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_LONGRANGECOOLDOWN.NAME
+"Перезарядка дальнего действия"
+
+STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_LONGRANGECOOLDOWN.TOOLTIP
+"Long Range cooldown tooltip"
+
+STRINGS.BUILDINGS.PREFABS.CREATUREGROUNDTRAP.NAME
+"<link=\"CREATURETRAP\">Ловушка</link>"
+
+STRINGS.BUILDINGS.PREFABS.MILKPRESS.RESIN_FROM_AMBER_RECIPE_DESCRIPTION
+"Преобразует: {0} в {1} и {2}, создавая при этом остаток {3}"
+
+STRINGS.BUILDINGS.PREFABS.MISSILESETLOCKER.DESC
+"Шкафчик, содержащий межкосмический заряд."
+
+STRINGS.BUILDINGS.PREFABS.MISSILESETLOCKER.NAME
+"Шкаф с межкосмическим снарядом"
+
+STRINGS.BUILDINGS.PREFABS.OILCHANGER.EFFECT
+"Использует <link=\"PHYTOOIL\">растительное масло</link> или <link=\"CRUDEOIL\">нефть</link>, чтобы детали бионических дубликантов работали гладко."
+
+STRINGS.CODEX.INVESTIGATIONS.DLC4_ALLCOMINGBACK.BODY.CONTAINER1
+""
+"<smallcaps>[Обнаружено повреждение записи]\n"
+"[Определение голоса невозможно]</smallcaps>\n"
+"\n"
+"[НАЧАЛО ЗАПИСИ]\n"
+"\n"
+"(Кто-то прочищает горло.)\n"
+"\n"
+"Несколько раз наши эксперименты были так близки к успеху,\n"
+"\n"
+"что мои образцы сумели помахать когтем.\n"
+"\n"
+"Долго они не протянули, но и это было победой.\n"
+"\n"
+"У нас были данные, которые дали нам четкое представление...\n"
+"\n"
+"Но с годами мы утратили веру.\n"
+"\n"
+"И мы знали, что надежды на клонирование исчезли навсегда... Навсегда...\n"
+"\n"
+"\n"
+"(Звук рокочущей земли.)\n"
+"\n"
+"...Мы потратили все средства, опустошили все фонды,\n"
+"\n"
+"но так и не смогли воссоздать существ мелового периода.\n"
+"\n"
+"Мы собрали все ископаемые, до которых только смогли добраться...\n"
+"\n"
+"\n"
+"Но после крушения здесь...\n"
+"\n"
+"Увидеть воочию, как... они... пасутся на лугу...\n"
+"\n"
+"Невероятно увидеть столько зелени.\n"
+"\n"
+"\n"
+"Они глядят через листья папоротников\n"
+"\n"
+"на чистое небо.\n"
+"\n"
+"Сложно поверить, но все снова стало таким зеленым.\n"
+"\n"
+"Все возвращается, все возвращается к зелени.\n"
+"\n"
+"\n"
+"Мгновения восхищения\n"
+"\n"
+"чередуются со стычками и столкновениями.\n"
+"\n"
+"Таких растений мне не доводилось видеть.\n"
+"\n"
+"Кажется, им не нужен свет.\n"
+"\n"
+"Тероподы... тильярдембии...\n"
+"\n"
+"О таком в лабораториях и не мечтают.\n"
+"\n"
+"\n"
+"Может...\n"
+"Может быть...\n"
+"Будь у меня здесь лаборатория...\n"
+"Масс-спектрометр...\n"
+"\n"
+"Можно было бы показать их дома...\n"
+"\n"
+"Какое все стало зеленое...\n"
+"\n"
+"(Звук ломающейся ветки.)\n"
+"\n"
+"...Привет?\n"
+"\n"
+"[КОНЕЦ ЗАПИСИ]\n"
+"\n"
+"------------------\n"
+"\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC4_ALLCOMINGBACK.BODY.CONTAINER2
+""
+"<[НАЧАЛО ЗАПИСИ]\n"
+"\n"
+"Невероятно...\n"
+"\n"
+"...они будто помнят, как кто-то им пел.\n"
+"\n"
+"Возможно, у них больше общего с нашими созданиями, чем мне показалось изначально.\n"
+"\n"
+"[КОНЕЦ ЗАПИСИ]\n"
+"\n"
+"------------------\n"
+"\n"
+
+STRINGS.CODEX.JUMPINGJOYA.BODY.CONTAINER1
+""
+"Радостник прыгучий — это декоративное растение, приносящее покой и благополочие людям, которые его сажают.\n"
+"\n"
+"Его округлые придатки и эксцентричные полипы являются отличным элементом интерьера, с точки зрения дизайнеров, чтобы компенсировать жёсткие прямые стены институтских помещений.\n"
+"\n"
+"Радостник прыгучий способен выжить во многих газах, и благодаря этому легко выращивается как домашнее растение даже самыми ленивыми садоводами."
+
+STRINGS.CODEX.VINEMOTHER.BODY.CONTAINER1
+""
+"Разростарники — это живучие растения с невероятно эффективными системами хранения и распределения полезных веществ. Здоровый пучок производит во много раз больше энергии, чем ему требуется. Эта энергия питает растущие разведывательные лозы, которые расползаются вокруг.\n"
+"\n"
+"Все полезные вещества поступают в лозы от пучков. У каждой лозы есть крючковатые шипы, которые защищают незрелые фрукты и позволяют лозе цепляться за любую свободную поверхность. Из-за этих крючков избавиться от разростарников очень сложно.\n"
+"\n"
+"Если разростарнику не хватает места для роста, пучок хранит лишние питательные вещества в особых клетках, чтобы использовать их при подходящих условиях.\n"
+"\n"
+"За разростарниками всегда нужно наблюдать, чтобы они не вытеснили растения других видов."
+
+STRINGS.COLONY_ACHIEVEMENTS.ASTEROID_DESTROYED.MESSAGE_BODY
+""
+"Опасный астероид, который летел в нашу сторону, уничтожен!\n"
+"\n"
+"Наконец-то мои дубликанты в безопасности. Даже не могу описать, какое это облегчение. Некоторые осколки Разрушителя оказались иридием — металлическим ресурсом, которого до этого не было у колонии."
+
+STRINGS.CREATURES.ATTRIBUTES.MATURITY2DELTA.DESC
+"Количество времени, требуемое для созревания плода."
+
+STRINGS.CREATURES.ATTRIBUTES.MATURITY2DELTA.NAME
+"Скорость созревания"
+
+STRINGS.CREATURES.MODIFIERS.BUTTERFLYPOLLINATED.TOOLTIP
+"Это <style=\"KKeyword\">растение</style> посетила <link=\"BUTTERFLY\">мимика</link>, повысив скорость роста"
+
+STRINGS.CREATURES.MODIFIERS.HUNT_FAILED.TOOLTIP
+""
+"Это существо не угналось за добычей\n"
+"\n"
+"Ему лучше выбирать цели, которые постарше или <color=#C38802>приручены</color>"
+
+STRINGS.CREATURES.SPECIES.GARDENDECORPLANT.DESC
+"Кольцевые розы — это <link=\"DECOR\">декоративные</link> <link=\"PLANTS\">растения</link>, которые придают причудливость любому месту."
+
+STRINGS.CREATURES.SPECIES.RAPTOR.DESC
+""
+"Рексы — это хищные существа, которые питаются мелкими <link=\"CREATURES\">существами</link> и производят <link=\"BRINEICE\">морской лёд</link>.\n\nИх хвостовые перья можно состричь для получения <link=\"FEATHERFABRIC\">перьевого волокна</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.GARDENDECORPLANT.DESC
+""
+"<link=\"PLANTS\">Семя</link> прекрасной <link=\"GARDENDECORPLANT\">кольцевой розы</link>.\n"
+"\n"
+"Найти семя кольцевой розы можно, выкапывая повреждённые блоки."
+
+STRINGS.CREATURES.SPECIES.STEGO.DESC
+""
+"Топотуны — это миролюбивые существа, которые питаются лозой <link=\"VINEMOTHER\">разростарника</link>.\n"
+"\n"
+"Когда они тяжело топают рядом с <link=\"PLANTS\">растениями</link>, от этой суматохи плоды падают на землю."
+
+STRINGS.CREATURES.STATUSITEMS.GROWINGFRUIT.NAME
+"Созревание фрукта [{PercentGrow}%]"
+
+STRINGS.CREATURES.STATUSITEMS.GROWINGFRUIT.TOOLTIP
+"Следующий сбор: <b>{TimeUntilNextHarvest}</b>"
+
+STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_BASICBOOSTER.NAME
+"<link=\"BASICBOOSTER\">Жевательные витамины</link>"
+
+STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_BASICRADPILL.NAME
+"<link=\"BASICRADPILL\">Простой антирад</link>"
+
+STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_INTERMEDIATEBOOSTER.NAME
+"<link=\"INTERMEDIATEBOOSTER\">Иммунный стимулятор</link>"
+
+STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_INTERMEDIATERADPILL.NAME
+"<link=\"INTERMEDIATERADPILL\">Мощный антирад</link>"
+
+STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP
+"Дубликант без <color=#C38802>дыхания</color> умрёт немедленно"
+
+STRINGS.ELEMENTS.BLEACHSTONE.DESC
+""
+"Хлорный камень — нестабильное химическое соединение, выделяющее ядовитый <link=\"CHLORINEGAS\">хлор</link>.\n"
+"\n"
+"Часто используется для поддержания <link=\"HANDSANITIZER\">гигиены</link>."
+
+STRINGS.ELEMENTS.IRIDIUM.DESC
+"(Ir) Иридий — это твёрдый и высокопроводящий <link=\"METAL\">металл</link>, который может выдерживать экстремальные <link=\"HEAT\">температуры</link>."
+
+STRINGS.ELEMENTS.IRIDIUMGAS.DESC
+"(Ir) Газообразный иридий — это твёрдый и высокопроводящий <link=\"METAL\">металл</link>, нагретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENIRIDIUM.DESC
+"(Ir) Расплав иридия — это твёрдый и высокопроводящий <link=\"METAL\">металл</link>, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
+STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.DESC
+"Несъедобное зерно <link=\"BUTTERFLYPLANT\">бутона мимики</link>.\n\nМожет быть посажено для выращивания новых растений или переработано в <link=\"FOOD\">пищу</link>.\n"
+"\n"
+"Обнаружить зерно мимики можно, раскапывая повреждённые блоки."
+
+STRINGS.ITEMS.FOOD.BUTTERFLYPLANTSEED.RECIPEDESC
+"Одно несъедобное <link=\"BUTTERFLYPLANT\">зерно мимики</link>"
+
+STRINGS.ITEMS.FOOD.DINOSAURMEAT.DESC
+"Сырое мясо очень мёртвого существа.\n\nОно несъедобно, пока не будет приготовлено в <link=\"SMOKER\">коптильне</link>."
+
+STRINGS.ITEMS.FOOD.PREHISTORICPACUFILLET.DESC
+"Сырое филе очень мёртвого <link=\"PREHISTORICPACU\">челюстника</link>. У него приятная текстура."
+
+STRINGS.ITEMS.PILLS.ADVANCEDCURE.NAME
+"<link=\"ADVANCEDCURE\">Ампула с сывороткой</link>"
+
+STRINGS.ITEMS.PILLS.ADVANCEDCURE.RECIPEDESC
+""
+"Очень мощный препарат, созданный для лечения тяжёлых <link=\"DISEASE\">болезней</link>. <link=\"ADVANCEDCURE\">Ампула с сывороткой</link> очень эффективна против <link=\"ZOMBIESPORES\">зомби-спор</link>.\n"
+"\n"
+"Может назначаться дубликантом с навыком <link=\"MEDICINE3\">Продвинутая медицина</link> для применения."
+
+STRINGS.ITEMS.PILLS.ANTIHISTAMINE.NAME
+"<link=\"ANTIHISTAMINE\">Таблетка от аллергии</link>"
+
+STRINGS.ITEMS.PILLS.ANTIHISTAMINE.RECIPEDESC
+"Дубликанты могут принимать сильные антигистаминные для прекращения аллергической реакции. <link=\"ANTIHISTAMINE\">Лечение аллергии</link> также предотвратит дальнейшие реакции в течение короткого времени после приёма пищи."
+
+STRINGS.ITEMS.PILLS.BASICBOOSTER.NAME
+"<link=\"BASICBOOSTER\">Жевательные витамины</link>"
+
+STRINGS.ITEMS.PILLS.BASICCURE.NAME
+"<link=\"BASICCURE\">Целебная таблетка</link>"
+
+STRINGS.ITEMS.PILLS.BASICRADPILL.NAME
+"<link=\"BASICRADPILL\">Простой антирад</link>"
+
+STRINGS.ITEMS.PILLS.INTERMEDIATEBOOSTER.NAME
+"<link=\"INTERMEDIATEBOOSTER\">Иммунный стимулятор</link>"
+
+STRINGS.ITEMS.PILLS.INTERMEDIATECURE.NAME
+"<link=\"INTERMEDIATECURE\">Аптечка</link>"
+
+STRINGS.ITEMS.PILLS.INTERMEDIATECURE.RECIPEDESC
+""
+"Назначенное врачом лекарство против <link=\"DISEASE\">болезней</link> средней степени тяжести. <link=\"INTERMEDIATECURE\">Аптечки</link> очень эффективны против <link=\"SLIMESICKNESS\">лёгочной слизи</link>.\n"
+"\n"
+"Для применения требуется дубликант с навыком <link=\"MEDICINE2\">Лечение дубликантов</link>."
+
+STRINGS.ITEMS.PILLS.INTERMEDIATERADPILL.NAME
+"<link=\"INTERMEDIATERADPILL\">Мощный антирад</link>"
+
+STRINGS.MISC.NOTIFICATIONS.INCOMINGPREHISTORICASTEROIDNOTIFICATION.TOOLTIP
+"Приближающийся астероид: <b><color=#ff1111>РАЗРУШИТЕЛЬ</color></b>\n"
+"• Прочность: {0}/{1}\n"
+"• Время до столкновения: {2}\n"
+"\n"
+"Удара можно избежать, уничтожив <b><color=#ff1111>Разрушитель</color></b> с помощью <link=\"LONGRANGEMISSILE\">межкосмических снарядов</link> до столкновения"
+
+STRINGS.MISC.NOTIFICATIONS.LARGEIMPACTORREVEALSEQUENCE.RETICLE.SIDE_PANEL_DESCRIPTION
+"\n\nВРЕМЯ ДО СТОЛКНОВЕНИЯ: {0} ЦИКЛОВ."
+
+STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_GEYSER_ERUPTION.NAME
+"Активация гейзера"
+
+STRINGS.MISC.NOTIFICATIONS.LARGE_IMPACTOR_GEYSER_ERUPTION.TOOLTIP
+"Удар Разрушителя вызвал извержение природного гейзера в этом мире"
+
+STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE.NAME
+"Портал открыт!"
+
+STRINGS.MISC.NOTIFICATIONS.POIRESEARCHUNLOCKCOMPLETE_NOLORE.NAME
+"Портал открыт!"
+
+STRINGS.MISC.STATUSITEMS.LARGEIMPACTORHEALTH.NAME
+"Прочность: {0} / {1}"
+
+STRINGS.MISC.STATUSITEMS.LARGEIMPACTORHEALTH.TOOLTIP
+"Урона от столкновения можно избежать, уничтожив этот опасный астероид с помощью <link=\"LONGRANGEMISSILE\">межкосмического снаряда</link> до того, как он войдёт в контакт"
+
+STRINGS.MISC.STATUSITEMS.LARGEIMPACTORSTATUS.NAME
+"Времени до столкновения: {0}"
+
+STRINGS.MISC.STATUSITEMS.LARGEIMPACTORSTATUS.TOOLTIP
+"Этот опасный астероид достигнет своей цели через {0}"
+
+STRINGS.MISC.STATUSITEMS.LONGRANGEMISSILETTI.TOOLTIP
+"Этот снаряд достигнет своей цели через {1}"
+
+STRINGS.MISC.TAGS.BUILDINGFIBER
+"<link=\"BUILDINGFIBER\">Волокна</link>"
+
+STRINGS.MISC.TAGS.MESSSTATION
+"Обеденные столы"
+
+STRINGS.MISC.TAGS.SUBLIMATING
+"<link=\"SUBLIMATES\">Возгоняемые</link>"
+
+STRINGS.MISC.TAGS.SUBLIMATING_DESC
+"Возгоняемые - это класс <link=\"ELEMENTSSOLID\">твёрдых</link> элементов, которые пассивно переходят в <link=\"ELEMENTSGAS\">газообразное</link> состояние. После завершения газообразования от первоначального твёрдого вещества не остается и следа.\n\n Это пассивное превращение сохраняется, когда элемент остается на складе."
+
+STRINGS.MISC.TAGS.SUBLIMATING_SUBHEADER
+"Газообразующие"
+
+STRINGS.SUBWORLDS.AQUATIC.NAME
+"Водный"
+
+STRINGS.SUBWORLDS.BARREN.NAME
+"Скудный"
+
+STRINGS.SUBWORLDS.CARROTQUARRY.NAME
+"Холодный бассейн"
+
+STRINGS.SUBWORLDS.FOREST.NAME
+"Лес"
+
+STRINGS.SUBWORLDS.FROZEN.NAME
+"Тундра"
+
+STRINGS.SUBWORLDS.GARDEN.NAME
+"Сад"
+
+STRINGS.SUBWORLDS.ICECAVES.NAME
+"Ледяная пещера"
+
+STRINGS.SUBWORLDS.JUNGLE.NAME
+"Джунгли"
+
+STRINGS.SUBWORLDS.MAGMA.NAME
+"Магма"
+
+STRINGS.SUBWORLDS.MARSH.NAME
+"Трясина"
+
+STRINGS.SUBWORLDS.METALLIC.NAME
+"Металлический"
+
+STRINGS.SUBWORLDS.MOO.NAME
+"Муу"
+
+STRINGS.SUBWORLDS.NIOBIUM.NAME
+"Ниобиевый"
+
+STRINGS.SUBWORLDS.OCEAN.NAME
+"Океан"
+
+STRINGS.SUBWORLDS.OIL.NAME
+"Нефтяной"
+
+STRINGS.SUBWORLDS.RADIOACTIVE.NAME
+"Радиоактивный"
+
+STRINGS.SUBWORLDS.RAPTOR.NAME
+"Перо"
+
+STRINGS.SUBWORLDS.RAPTOR.UTILITY
+"<link=\"RAPTORSPECIES\">Рексы</link> — плотоядные существа, которые охотятся в основном на <link=\"CHAMELEONSPECIES\">хилозавров</link>. Хотя оба существа могут быть источником <link=\"FOOD\">пищи</link>, мясо <link=\"RAPTORSPECIES\">рексов</link> слишком жёсткое, чтобы есть его в сыром виде.\n\nФлора этого биома включает массивный <link=\"DINOFERN\">гигантоцвет</link>, который процветает в среде <link=\"CHLORINEGAS\">хлорного газа</link>, <link=\"DEWDRIPPERPLANT\">капельник</link>, который можно переработать в <link=\"MILK\">молокен</link>, и <link=\"COLDBREATHER\">хладодых</link>.\n\nДупликантам, работающим и живущим в этой среде, потребуется защитное <link=\"EQUIPMENT\">снаряжение</link>."
+
+STRINGS.SUBWORLDS.REGOLITH.NAME
+"Реголитовый"
+
+STRINGS.SUBWORLDS.RUST.NAME
+"Ржавый"
+
+STRINGS.SUBWORLDS.SPACE.NAME
+"Космос"
+
+STRINGS.SUBWORLDS.SUGARWOODS.NAME
+"Сладкая роща"
+
+STRINGS.SUBWORLDS.SWAMP.NAME
+"Болотный"
+
+STRINGS.SUBWORLDS.WASTELAND.NAME
+"Пустошь"
+
+STRINGS.SUBWORLDS.WETLANDS.DESC
+"Этот жаркий, липкий биом отличается обилием озёр с <link=\"DIRTYWATER\">грязной водой</link>, а также сырьё, необходимое для создания промышленных систем."
+
+STRINGS.SUBWORLDS.WETLANDS.NAME
+"Топи"
+
+STRINGS.SUBWORLDS.WETLANDS.UTILITY
+"Хищное растение <link=\"FLYTRAPPLANT\">приман</link> ловит летающих существ, таких как надоедливые <link=\"MOSQUITOSPECIES\">гниты</link>, и производит <link=\"AMBER\">янтарь</link>, который можно превратить в <link=\"NATURALRESIN\">смолу</link>, используемую для производства <link=\"POLYPROPYLENE\">пластика</link>. Местная трава включает <link=\"KELPPLANT\">ламинарии</link>, которые могут быть переработаны в <link=\"PHYTOOIL\">растительное масло</link>.\n"
+"\n"
+"Водные гиганты, называемые <link=\"PREHISTORICPACUSPECIES\">челюстниками</link>, охотятся на <link=\"PACUSPECIES\">паку</link> и выделяют крупные куски <link=\"LIME\">извести</link>."
+
+STRINGS.UI.BUILDINGEFFECTS.CAPTURE_METHOD_FISH_TRAP
+"Способ поимки: Ловушка для рыб"
+
+STRINGS.UI.BUILDINGEFFECTS.CAPTURE_METHOD_FLYING_TRAP
+"Способ поимки: Ловушка летающих животных"
+
+STRINGS.UI.BUILDINGEFFECTS.CAPTURE_METHOD_LAND_TRAP
+"Способ поимки: Ловушка"
+
+STRINGS.UI.BUILDINGEFFECTS.DIET_ADDITIONAL_PRODUCED
+"Дополнительные выделения: {Items}"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_FISH_TRAP
+"Это существо можно поймать и переместить с помощью <link=\"FISHTRAP\">ловушки для рыб</link>"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_FLYING_TRAP
+"Это существо можно поймать и переместить с помощью <link=\"FLYINGCREATUREBAIT\">Ловушки для летающих животных</link>"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_TRAP
+"Это существо можно поймать и переместить с помощью <link=\"CREATURETRAP\">ловушки</link>"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_ADDITIONAL_PRODUCED
+"Это существо после еды будет дополнительно производить: {Items}"
+
+STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_METEOR_TARGET
+"В месте назначения нет опасного астероида для выбора цели"
+
+STRINGS.UI.CODEX.CATEGORYNAMES.ELEMENTTYPE
+"<link=\"ELEMENTSTYPE\">Свойства элементов</link>"
+
+STRINGS.UI.CODEX.CATEGORYNAMES.MEDICINES
+"<link=\"MEDICINES\">Лекарства</link>"
+
+STRINGS.UI.DETAILTABS.CONFIGURATION.TOOLTIP_DUPLICANT
+"<b>Настройки</b>\nПросмотр и изменение назначенного снаряжения и удобств"
+
+STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORS.LARGEIMACTOR.DESCRIPTION
+"Древний астероид на пути к столкновению с поверхностью этого мира."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4PREHISTORICMIXINGFIELD.DESC
+"Астероидное поле, содержащее <link=\"NICKELORE\">никелевую руду</link>, <link=\"PEAT\">торф</link>, <link=\"AMBER\">янтарь</link> и <link=\"SHALE\">сланец</link>.\n\nДля сбора ресурсов требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link>."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4PREHISTORICMIXINGFIELD.NAME
+"Поле проводящей руды"
+
+STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.UNDISCOVERED_INGREDIENTS_IN_CATEGORY
+"Некоторые варианты ингредиентов в этой категории ещё не были открыты:\n\n{0}"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.VANILLALARGEIMPACTOR.HEALTH_BAR_TITLE
+"Прочность"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.VANILLALARGEIMPACTOR.HEALTH_BAR_TOOLTIP
+"Прочность Уничтожителя: {0} / {1}"
+
+STRINGS.UI.UISIDESCREENS.MISSILESELECTIONSIDESCREEN.VANILLALARGEIMPACTOR.TIME_UNTIL_COLLISION_TOOLTIP
+"Циклов до столкновения: {0}"
+
+STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.NAME
+"Открыть портал"
+
+STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.NAME_OFF
+"Отменить открытие портала"
+
+STRINGS.UI.USERMENUACTIONS.OPEN_TECHUNLOCKS.TOOLTIP_OFF
+"Отменить поручение о доступе к этому порталу"
+
+STRINGS.UI.WELCOMEMESSAGEBODY_DLC4_PREHISTORIC
+"Система мониторинга столкновений обнаружила неминуемую угрозу нашему выживанию: огромный астероид мчится прямо к этой планете.\n"
+"\n"
+"Мы должны добраться до поверхности и установить оборонительную систему вовремя, чтобы уничтожить приближающийся астероид до того, как он уничтожит нас."
+
+STRINGS.WORLDS.IDEALLANDINGSITE.DESCRIPTION
+""
+"Песчанико-лесной мир со значительным уровнем радиации.\n"
+"\n"
+"<smallcaps>На астероидах радиоактивных лесов есть достаточное количество металлов, чтобы дубликанты могли противостоять окружающей радиации</smallcaps>"
+
+STRINGS.WORLDS.MEDIUMFORESTYRADIOACTIVEVANILLAWARPPLANET.DESCRIPTION
+""
+"Большой лесной астероид с замёрзшим радиоактивным ядром.\n"
+"\n"
+"<smallcaps>В основном Астероид радиоактивных лесов покрыт лесами, но также содержится достаточное количество ржавчины.</smallcaps>"
+
+STRINGS.WORLDS.MEDIUMSANDYSWAMP.DESCRIPTION
+""
+"Довольно большой мир с радиоактивным ядром.\n"
+"\n"
+"<smallcaps>Астероид радиоактивных земле-болот сухой и песчаный, но можно встретить болотистые области с частично замёрзшей поверхностью.</smallcaps>"
+
+STRINGS.WORLDS.OILRICHWARPTARGET.DESCRIPTION
+""
+"Мир, состоящий в основном из ржавчины и имеющий нефтяное ядро.\n"
+"\n"
+"<smallcaps>Дубликантам придётся выкопать изрядное количество ржавчины и преодолеть океан, чтобы добраться до главного приза – нефти.</smallcaps>"
+
+STRINGS.WORLDS.WARPOILYSANDYSWAMP.DESCRIPTION
+"Умеренно замёрзший мир с нефтяным ядром.\n\n<smallcaps>Хотя болотно-нефтяные астероиды с песком обычно значительно покрыты болотами, также они содержат обширные пустоши.</smallcaps>"
