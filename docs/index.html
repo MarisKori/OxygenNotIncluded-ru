@@ -252,7 +252,7 @@ canvas.addEventListener('click', (event) => {
 		<button id="btnSettings">Настройки</button>
 		<button id="btnImport">Импорт</button>
 		<button id="btnExport">Сохр./Экспорт</button><br>
-    <span class="version">v0.10</span><br>
+    <span class="version">v0.11</span><br>
 		<!--button>About</button>
 		<button>Contact</button-->
   <!-- Settings content -->
@@ -799,8 +799,33 @@ function replaceStarColor(text) {
 	}).replace(/_B_END_COLOR_STAR_/g, '</b></span>').replace(/_END_COLOR_STAR_/g, '</span>');
 }
 
+let is_initialized = false;
+function InitPage(pageNum) {
+  console.log('Инициализация страницы:', pageNum);
+  const num = pageNum-1;
+  if (num>db.length-1 || num<0 || !Number.isInteger(num)) return;
+  NUM_NOW = num;
+  localStorage.num = NUM_NOW;
+  Show()
+}
+
+window.addEventListener('DOMContentLoaded', function() {
+  const hash = window.location.hash.substring(1); // убираем #
+  if (hash) {
+    const pageNumber = parseInt(hash, 10);
+    if (!isNaN(pageNumber)) {
+      InitPage(pageNumber);
+    }
+  }
+  is_initialized = true;
+});
+
+
 function Show() { //console.log("Show()", NUM_NOW+1)
 	let num = NUM_NOW;
+  if (is_initialized) {
+    window.location.hash = ''+(num+1);
+  }
 	let row = db[num];
 	textarea.value = row.msgstr;
 	let s = '';
