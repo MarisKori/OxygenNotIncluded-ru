@@ -258,7 +258,7 @@ canvas.addEventListener('click', (event) => {
 		<button id="btnSettings">Настройки</button>
 		<button id="btnImport">Импорт</button>
 		<button id="btnExport">Сохр./Экспорт</button><br>
-    <span class="version">v0.12</span><br>
+    <span class="version">v0.13</span><br>
 		<!--button>About</button>
 		<button>Contact</button-->
   <!-- Settings content -->
@@ -655,7 +655,7 @@ function ImportData() {
 	//Для начала разделить данные на блоки
 	let blocks = import_data.replace(/\r/g,'').split('\n\n');
 	let err_cnt = 0;
-	let ignore_cnt = 0;
+	let ignore_cnt = 0; ignore_cnt_eq=0; ignore_cnt_forbid=0; ignore_cnt_imp=0;
 	let done_cnt = 0;
 	//Далее необходимо по ключу выбрать только перевод
 	for(let i=0;i<blocks.length;i++) {
@@ -685,14 +685,14 @@ function ImportData() {
 		if (idx===undefined) {console.log('err: no index for: ',key); err_cnt++; continue; }
 		let row = db[idx];
 		
-		if (row.msgstr === result) {ignore_cnt++; continue} // совпадение
-		if (!is_import_overwrite && row.msgstr !== '' && row.msgstr !== row.basic) {ignore_cnt++; continue} // нельзя перезаписывать
+		if (row.msgstr === result) {ignore_cnt++; ignore_cnt_eq++; continue} // совпадение
+		if (!is_import_overwrite && row.msgstr !== '' && row.msgstr !== row.basic) {ignore_cnt++; ignore_cnt_forbid++; continue} // нельзя перезаписывать
 		if (is_import_mine) {
 			row.msgstr = result;
 			row.imported = '';
 			done_cnt++; //console.log(row);
 		} else {
-			if (row.imported === result) {ignore_cnt++; continue} // совпадение с уже импортированным
+			if (row.imported === result) {ignore_cnt++; ignore_cnt_imp++; continue} // совпадение с уже импортированным
 			row.msgstr = result;
 			row.imported = result
 			done_cnt++;
@@ -711,6 +711,13 @@ function ImportData() {
 	Show();
 	DoModal('Записано: ' + done_cnt + '<br>\n'
 		+'Проигнорировано: ' + ignore_cnt + '<br>\n'
+    +(function(){
+      if (ignore_cnt === 0) return '';
+      let arr = [];
+      if (ignore_cnt_eq>0) arr.push('по совпадению с текущим: '+ignore_cnt_eq);
+      if (ignore_cnt_forbid>0) arr.push('по запрету перезаписи: '+ignore_cnt_forbid);
+      if (ignore_cnt_imp>0) arr.push('по совпадению с уже импортированным: '+ignore_cnt_imp);
+    }())
 		+'Ошибок: ' + err_cnt + '<br>\n'
 	);
   console.log('Imported '+done_cnt+' rows.');
