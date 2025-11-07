@@ -222,6 +222,12 @@ textarea.main {
 <body>
 	<div class="header">
 	<script>
+
+for(let i=0;i<db.length;i++) {
+  const row = db[i];
+  if (row.msgstr) row.basic = row.msgstr;
+}
+
 // Создаём canvas
 let canvas = document.createElement('canvas');
 let ctx = canvas.getContext('2d');
@@ -252,7 +258,7 @@ canvas.addEventListener('click', (event) => {
 		<button id="btnSettings">Настройки</button>
 		<button id="btnImport">Импорт</button>
 		<button id="btnExport">Сохр./Экспорт</button><br>
-    <span class="version">v0.11</span><br>
+    <span class="version">v0.12</span><br>
 		<!--button>About</button>
 		<button>Contact</button-->
   <!-- Settings content -->
@@ -299,22 +305,27 @@ function UpdateMapCanvas(perc_cursor) {
 	ctx.fillStyle = 'green';
 	let X1 = -1, X2 = -1; // текущий интервал прорисовки зелени
 	let XX1 = -1, XX2 = -1; // текущий интервал "разделения на зоны" (мы чередуем цвет для разных ключей)
+  let value = 0;
+  let old_value = 0;
 	db.forEach((obj, index) => {
 		// Выбираем цвет в зависимости от значения
-		let value = obj.msgstr === '' ? false : true;
+		value = obj.msgstr === '' ? 0 : 1;
+    if (obj.msgstr === obj.basic) value = 0.5;
+    
 		let x1 = Math.round(index * mapElementWidth);
 		let x2 = Math.round((index+1) * mapElementWidth);
 		if (value) {
+      if (old_value === 0) old_value = value;
 		
 			//ctx.fillStyle = value ? 'green' : 'red';
 			
 			// Рисуем вертикальную линию
 			
-			if (X2 + 1 >= x1) { //интервал примыкает
+			if (X2 + 1 >= x1 && old_value == value) { //интервал примыкает
 				X2 = x2; // расширяем
 			} else {
 				if (X2 > 0) {
-					ctx.fillStyle = 'green';
+					ctx.fillStyle = (old_value === 1 ? 'green' : '#D70');
 					ctx.fillRect(X1, 0, X2-X1+1, canvasHeight);
 				}
 				//next
@@ -322,6 +333,7 @@ function UpdateMapCanvas(perc_cursor) {
 				X2 = x2;
 			}
 			
+      old_value = value;
 			
 			/*if (x1 === x0) { // already filled
 				x1++;
@@ -347,7 +359,7 @@ function UpdateMapCanvas(perc_cursor) {
 		}
 	});
 	if (X2 > 0) {
-		ctx.fillStyle = 'green';
+		ctx.fillStyle = (old_value === 1 ? 'green' : '#D70');
 		ctx.fillRect(X1, 0, X2-X1+1, canvasHeight);
 	}
 	if (XX2 > 0) {
@@ -450,7 +462,7 @@ btn.onclick = function() {
 		+'</ul><h4>Поиск</h4>'
 		+'В поиске по ключам можно добавить параметры, зарпещающие вхождения некоторых фраз. Это делается по аналогии с поиском в гугле: через пробел ставится знак "-", сразу после которого запрещённая подстрока.<br>Например: <code style="background-color:black">BUILDINGS.PREFABS -.FACADES.</code>'
 		+'<h4>Карта</h4>'
-		+'На карте зелёным указаны переведённые блоки. Розовый назначается чётным новым ключам 3-го уровня в алфавитном порядке, то есть сплошная розовая зона или зона без цвета - это, скорее всего, блоки одной категории. Карта кликабельна.'
+		+'На карте зелёным указаны переведённые блоки. Оранжевым - восстановленные из памяти блоки (но текст будет синий). Розовый назначается чётным новым ключам 3-го уровня в алфавитном порядке, то есть сплошная розовая зона или зона без цвета - это, скорее всего, блоки одной категории. Карта кликабельна.'
 		+'</div>'
 	)
 }
@@ -568,6 +580,7 @@ function SaveData() { //console.log('SaveData()')
 		let row = db[i];
 		if (row.msgstr === '') continue;
 		if (row.msgstr === row.imported) continue;
+    //if (!row.imported && row.msgstr === row.basic) continue;
 		save.push({k:row.msgctxt, r:row.msgstr});
 		arr.push(row.msgctxt, AddQuotes(row.msgstr), ''); //пустая строка - для пропуска строки
     cnt_saved++;
@@ -673,7 +686,7 @@ function ImportData() {
 		let row = db[idx];
 		
 		if (row.msgstr === result) {ignore_cnt++; continue} // совпадение
-		if (!is_import_overwrite && row.msgstr !== '') {ignore_cnt++; continue} // нельзя перезаписывать
+		if (!is_import_overwrite && row.msgstr !== '' && row.msgstr !== row.basic) {ignore_cnt++; continue} // нельзя перезаписывать
 		if (is_import_mine) {
 			row.msgstr = result;
 			row.imported = '';
@@ -785,20 +798,6 @@ function LittleButtonSet(key, mem_num) {
 }
 
 
-//                  added  removed inserted moved   normal
-var MAY_COLORS = ['#0c0', '#c00', '#bf0', '#c50', '#999']; // added, removed, normal
-function replaceStarColor(text) {
-	return text.replace(/_STAR_COLOR_(\d+)/g, (match, number) => {
-		const index = parseInt(number); // Переводим номер в индекс массива (начиная с 0)
-		//console.log('INDEX: ',index)
-		if (MAY_COLORS[index]) {
-			if (index < 4) return '<span style="color:#000;background-color:' + MAY_COLORS[index] + '"><b>';
-			else return '<span style="color:' + MAY_COLORS[4] + '">';
-		}
-		return match; // Возвращаем цвет, если он существует, иначе возвращаем исходный текст
-	}).replace(/_B_END_COLOR_STAR_/g, '</b></span>').replace(/_END_COLOR_STAR_/g, '</span>');
-}
-
 let is_initialized = false;
 function InitPage(pageNum) {
   console.log('Инициализация страницы:', pageNum);
@@ -820,6 +819,20 @@ window.addEventListener('DOMContentLoaded', function() {
   is_initialized = true;
 });
 
+
+//                  added  removed inserted moved   normal
+var MAY_COLORS = ['#0c0', '#c00', '#bf0', '#c50', '#999'];
+function replaceStarColor(text) {
+	return text.replace(/_STAR_COLOR_(\d+)_/g, (match, number) => {
+		const index = parseInt(number); // Переводим номер в индекс массива (начиная с 0)
+		//console.log('INDEX: ',index)
+		if (MAY_COLORS[index]) {
+			if (index < 4) return '<span style="color:#000;background-color:' + MAY_COLORS[index] + '"><b>';
+			else return '<span style="color:' + MAY_COLORS[4] + '">';
+		}
+		return match; // Возвращаем цвет, если он существует, иначе возвращаем исходный текст
+	}).replace(/_B_END_COLOR_STAR_/g, '</b></span>').replace(/_END_COLOR_STAR_/g, '</span>');
+}
 
 function Show() { //console.log("Show()", NUM_NOW+1)
 	let num = NUM_NOW;
@@ -898,13 +911,13 @@ function Show() { //console.log("Show()", NUM_NOW+1)
 		let htmlResult2 = arr2.map(part => {
 			const color_num = part.moved ? 2 : part.added ? 0 : part.removed ? 1 : 4;
 			//if (color_num === 1) return '';
-			const byte_part = '_STAR_COLOR_' + color_num + part.value + (color_num < 4 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
+			const byte_part = '_STAR_COLOR_' + color_num + '_' + part.value + (color_num < 4 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
 			return byte_part;
 		}).join('');
 		let htmlResult1 = arr1.map(part => {
 			const color_num = part.moved ? 3 : part.added ? 0 : part.removed ? 1 : 4;
 			//if (color_num === 0) return '';
-			const byte_part = '_STAR_COLOR_' + color_num + part.value + (color_num < 4 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
+			const byte_part = '_STAR_COLOR_' + color_num + '_' + part.value + (color_num < 4 ? '_B_END_COLOR_STAR_' : '_END_COLOR_STAR_');
 			return byte_part;
 		}).join('');		
 
@@ -1033,7 +1046,9 @@ function OnTextareaUpdate(is_forced) { // is_forced - значит, что иг�
 	let text_color = '#0f0';
 	if (data.imported !== undefined && data.msgstr === data.imported) {
 		text_color = '#ff0';
-	}
+	} else if (data.msgstr === data.basic) {
+    text_color = '#66f';
+  }
 	textarea.style = 'color:'+text_color;
   let is_edited = (text_color === '#0f0' && str !== '');
   //console.log('edited=',is_edited)
