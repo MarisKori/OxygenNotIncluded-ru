@@ -717,6 +717,7 @@ function ImportData() {
       if (ignore_cnt_eq>0) arr.push('по совпадению с текущим: '+ignore_cnt_eq);
       if (ignore_cnt_forbid>0) arr.push('по запрету перезаписи: '+ignore_cnt_forbid);
       if (ignore_cnt_imp>0) arr.push('по совпадению с уже импортированным: '+ignore_cnt_imp);
+      return '(' + arr.join('; ') + ')<br>\n';
     }())
 		+'Ошибок: ' + err_cnt + '<br>\n'
 	);
