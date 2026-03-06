@@ -1,0 +1,119 @@
+STRINGS.BUILDINGS.PREFABS.AIRBORNECRITTERCONDO.EFFECT
+"Парящая зона отдыха для взрослых <link=\"PUFT\">пуффтов</link>, <link=\"MOOSPECIES\">муу</link> и <link=\"LIGHTBUG\">светлячков</link>."
+
+STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.DESC
+"Работать куда проще, когда ты защищён от космического вакуума."
+
+STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.EFFECT
+""
+"Открывает планетоиды в космосе и производит <link=\"DATABANK\">банки данных</link>... с комфортом!\n"
+"\n"
+"Назначенные дубликанты должны обладать навыком <link=\"ASTRONOMY\">Астрономия</link>.\n"
+"\n"
+"Отличная защита от солнечных ожогов (100%), частичная защита от <link=\"RADIATION\">радиации</link> (50%)\n"
+"\n"
+"Космос должен находиться в прямой видимости постройки для её функционирования."
+
+STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.DESC
+"Молокен можно выпить у Поилки для животных, чтобы улучшить настроение настроение этих животных."
+
+STRINGS.BUILDINGS.PREFABS.MILKINGSTATION.EFFECT
+""
+"Позволяет дубликантам с навыком <link=\"RANCHING2\">Скотоводство II</link> доить <link=\"MOOSPECIES\">газовых муу</link> и получать <link=\"MILK\">молокен</link> или <link=\"REFINEDLIPID\">биодизель</link>."
+
+STRINGS.BUILDINGS.PREFABS.TELESCOPE.EFFECT
+""
+"Наносит пункты назначения на <color=#C38802>звёздную карту</color>.\n"
+"\n"
+"Назначенные дубликанты должны обладать навыком <link=\"RESEARCHING2\">Полевое исследование</link>.\n"
+"\n"
+"Космос должен находиться в прямой видимости постройки для её функционирования."
+
+STRINGS.CODEX.HEADERS.DISPLAYABLEITEMS
+"Выставляемые предметы"
+
+STRINGS.CODEX.PLUGSLUG.BODY.CONTAINER1
+""
+"Энергослизни — это пушистые брюхоногие, которые способны ползать по стенам и потолкам благодаря трибоэлектрическому эффекту, возникающему при трении их меха о различные поверхности.\n"
+"\n"
+"Аналогичный феномен позволяет энергослизням генерировать значительное количество статического электричества, которое можно превратить в энергию.\n"
+"\n"
+"Одомашненные энергослизни значительно увеличивают производство статического электричество благодаря внутренним вибрациям, также называемым «мурчание». Этим они демонстрируют, что им всё нравится."
+
+STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CREATURE_AVAILABLE_FOR_RANCHING
+"Нет готовых животных"
+
+STRINGS.UI.BUILDINGEFFECTS.PER_STARMAP_HEX
+"{0} на клетку космоса"
+
+STRINGS.UI.BUILDINGEFFECTS.PRODUCESDATABANKS
+"<link=\"DATABANK\">Банков данных</link>: {0}"
+
+STRINGS.UI.BUILDINGEFFECTS.PRODUCESMEDICINE
+"Лекарства"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PRODUCESDATABANKS
+"Эта постройка производит {0} <link=\"DATABANK\">банков данных</link> на каждую открытую клетку космоса"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PRODUCESMEDICINE
+"Эта постройка производит лекарства"
+
+STRINGS.UI.FRONTEND.MODS.INSTALLED_VERSION_NEWER_THAN_LOADED_VERSION
+"Ожидается переустановка мода"
+
+STRINGS.UI.FRONTEND.MOD_EVENTS.CANNOT_INSTALL
+"ОШИБКА УСТАНОВКИ МОДА"
+
+STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.CANNOT_INSTALL
+"Установки мода не случилось из-за ошибок чтения/записи диска"
+
+STRINGS.UI.KLEI_INVENTORY_SCREEN.COLLECTION_COMING_SOON_THE
+"Часть коллекции "{Collection}". Появится в скором будущем!"
+
+STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DESTINATION_ROUNTRIP_LABEL
+"Ожидается полёт к: {0}"
+
+STRINGS.UI.UISIDESCREENS.LOREBEARERSIDESCREEN.BUTTON
+"Читать файлы"
+
+STRINGS.UI.UISIDESCREENS.LOREBEARERSIDESCREEN.TITLE
+"Архив лора"
+
+STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.NEXTPRODUCTION
+"Следующая схема: {0}"
+
+STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.RESEARCH_BUTTON
+"Исследования"
+
+STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.SKILLS_TITLE
+"Навыки"
+
+STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.SUMMARY_BUTTON
+"Сводка колонии"
+
+STRINGS.UI.UISIDESCREENS.TELEPADSIDESCREEN.SUMMARY_TITLE
+"Сводка колонии"
+
+STRINGS.UI.UNKNOWN_DLC.NAME
+"Неизвестное DLC"
+
+STRINGS.UI.UNKNOWN_DLC.NAME_ITAL
+"<i>Неизвестное DLC</i>"
+
+STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_FLATOBJECT_FAIL.SEARCH1
+"Здесь нечего искать. Полагаю, некоторые вещи и правда именно таковы, какими кажутся."
+
+STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_FLATOBJECT_SUCCESS.SEARCH1
+"На обратной стороне закреплено записывающее устройство.\n\nОбнаружена новая запись в базе данных."
+
+STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_FLATOBJECT_SUCCESS.SEARCH2
+"Я нахожу небольшой пластиковый диск и загружаю его содержимое в свою базу данных.\n\nОбнаружена новая запись в базе данных."
+
+STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_FLATOBJECT_SUCCESS.SEARCH3
+"Пачка бумаг была спрятана от посторонних глаз. Я сканирую содержимое и добавляю его в свою базу данных.\n\nОбнаружена новая запись в базе данных."
+
+STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH3
+""
+"Во время исследования программ в этих обломках, неотразимый файл привлёк моё внимание.\n"
+"\n"
+"Новая запись в базе данных разблокирована."
