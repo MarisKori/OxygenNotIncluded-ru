@@ -1,0 +1,485 @@
+STRINGS.BLUEPRINTS.PERMIT_BEACH_CHAIR_BEAKON.DESC
+"После небольшой передышки всё вокруг кажется светлее и ярче."
+
+STRINGS.BLUEPRINTS.PERMIT_BEACH_CHAIR_BEAKON.NAME
+"<link=\"BEACHCHAIR\">Шезлонг \"Светоклюв\"</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_BEACH_CHAIR_KRAKEN.DESC
+"Некоторым ощущение надвигающейся опасности, как ни странно, помогает расслабиться."
+
+STRINGS.BLUEPRINTS.PERMIT_BEACH_CHAIR_KRAKEN.NAME
+"link=\"BEACHCHAIR\">Шезлонг \"Мерцающий кальмар\"</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_BEACH_CHAIR_POKESHELL.DESC
+"Ворчите, как старый краб? Присядьте, сбросьте груз с плеч."
+
+STRINGS.BLUEPRINTS.PERMIT_BEACH_CHAIR_POKESHELL.NAME
+"<link=\"BEACHCHAIR\">Шезлонг \"Краб-щипач\"</link>""
+
+STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_RETRO_NAUTICAL.DESC
+"Прилив поднимает не только лодки, но и взгляды — прямо к потолку, где красуется этот великолепный морской угловой карниз."
+
+STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_RETRO_NAUTICAL.NAME
+"<link=\"CORNERMOULDING\">Морской угловой карниз</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_RETRO_NAUTICAL.DESC
+"Первоклассное украшение подволока, достойное капитанской каюты."
+
+STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_RETRO_NAUTICAL.NAME
+"<link=\"CROWNMOULDING\">Морской карниз</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_CLAM.DESC
+"Кто бы здесь ни спал, проснётся он счастливым, как тискушка."
+
+STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_CLAM.NAME
+"<link=\"LUXURYBED\">Кровать-жемчужница</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_SUBMARINE.DESC
+"Жаль, что для подводных аппаратов именно этого цвета не существует общеизвестного названия."
+
+STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_SUBMARINE.NAME
+"<link=\"LUXURYBED\">Удобная кровать подводного плавания</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_FRIDGE_STRIPES_NAUTICAL.DESC
+"Ведь без достаточного количества калорий дубликанты могут дать крен."
+
+STRINGS.BLUEPRINTS.PERMIT_FRIDGE_STRIPES_NAUTICAL.NAME
+"<link=\"REFRIGERATOR\">Холодильник в морскую полоску</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_FRIDGE_WATERBUBBLES.DESC
+"Вмещает достаточно еды, чтобы небольшая колония продержалась на плаву."
+
+STRINGS.BLUEPRINTS.PERMIT_FRIDGE_WATERBUBBLES.NAME
+"<link=\"REFRIGERATOR\">Холодильник в водяную рябь</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_STRIPES_NAUTICAL.DESC
+"Классическое полосатое хранилище — ваша главная опора в управлении морской колонией."
+
+STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_STRIPES_NAUTICAL.NAME
+"<link=\"GASRESERVOIR\">Газовый резервуар в морскую полоску</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_WATERBUBBLES.DESC
+"Этот стиль поднимает волну в колониях по всей вселенной с начала времён."
+
+STRINGS.BLUEPRINTS.PERMIT_GASSTORAGE_WATERBUBBLES.NAME
+"<link=\"GASRESERVOIR\">Газовый резервуар в водяную рябь</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NAUTICAL.DESC
+"Сколько ни крути педали, привыкнуть к качке это дубликантам не поможет."
+
+STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_NAUTICAL.NAME
+"<link=\"MANUALGENERATOR\">Морской ручной генератор</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_WATERBUBBLES.DESC
+"Здесь команда \"свистать всех наверх\" означает ещё и \"все ноги — на педали генератора\"."
+
+STRINGS.BLUEPRINTS.PERMIT_GENERATORMANUAL_WATERBUBBLES.NAME
+"<link=\"MANUALGENERATOR\">Ручной генератор в водяную рябь</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_BLUE.DESC
+"Мягкий голубой свет с потолка окрыляет дубликантов."
+
+STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_BLUE.NAME
+"<link=\"GLASSCEILINGLIGHT\">Убаюкивающая медузная люстра</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_PINK.DESC
+"Как розовые очки, только на всю комнату."
+
+STRINGS.BLUEPRINTS.PERMIT_GLASSCEILINGLIGHT_JELLY_PINK.NAME
+"<link=\"GLASSCEILINGLIGHT\">Розовая медузная люстра</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_MECHANICAL_SURFBOARD_JAWS.DESC
+"Дубликанты не уверены, что это за водное существо, но оно их явно нервирует."
+
+STRINGS.BLUEPRINTS.PERMIT_MECHANICAL_SURFBOARD_JAWS.NAME
+"<link=\"MECHANICALSURFBOARD\">Симулятор сёрфинга \"Опасная рыбёшка\"</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_AQUATIC.DESC
+"Куски руды закреплены клеем-карандашом — лучше их лишний раз не трогать."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_A_AQUATIC.NAME
+"На рудопахе"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_AQUATIC.DESC
+"Галопом навстречу монументальной славе!"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_BASE_B_AQUATIC.NAME
+"Верхом на морском коньке"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_AQUATIC.DESC
+"Не дай космосу выбить тебя из колеи, чувак."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_A_AQUATIC.NAME
+"На гребне волны"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_AQUATIC.DESC
+"В обнимку со скользкими малышами-зверушками."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_MID_B_AQUATIC.NAME
+"Малыши на руках IV"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_AQUATIC.DESC
+"Воспевает межвидовой поцелуй жизни. Спасательный чмок, если угодно."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_A_AQUATIC.NAME
+"Голова Кая"
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_AQUATIC.DESC
+"Она такая единственная."
+
+STRINGS.BLUEPRINTS.PERMIT_MONUMENT_UPPER_B_AQUATIC.NAME
+"Голова ныряльщицы"
+
+STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_AQUATIC.DESC
+"Создан, чтобы выдерживать отбойные течения космических океанов."
+
+STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_AQUATIC.NAME
+"<link=\"EXOBASEHEADQUARTERS\">Аквариусный портативный биопринтер</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_STRIPES_NAUTICAL.DESC
+"Без нормальных хранилищ колонии были бы завалены всяким хламом по самую ватерлинию."
+
+STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_STRIPES_NAUTICAL.NAME
+"<link=\"STORAGELOCKER\">Склад в морскую полоску</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_WATERBUBBLES.DESC
+"Оформляя хранилища в морском стиле, так легко хватить через борт... то есть через край."
+
+STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_WATERBUBBLES.NAME
+"<link=\"STORAGELOCKER\">Склад в водяную рябь</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_UNDERWATER_CRITTER_CONDO_AQUATIC.DESC
+"Его перископ повидал такое, чего не постичь ни одному дубликанту."
+
+STRINGS.BLUEPRINTS.PERMIT_UNDERWATER_CRITTER_CONDO_AQUATIC.NAME
+"<link=\"UNDERWATERCRITTERCONDO\">Подводный домик \"Пике\"</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_BEAKER.DESC
+"Портрет ликующей рыбы анфас."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_BEAKER.NAME
+"<link=\"EXTERIORWALL\">Сияющий светоклюв</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_BLANK.DESC
+"Обои усыпаны малюсенькими частичками осадка и планктона."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_BLANK.NAME
+"<link=\"EXTERIORWALL\">Подводные крапинки</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_BUBBLES.DESC
+"Не один дубликант пытался нырнуть в эти обои головой вперёд — с прискорбными результатами."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_BUBBLES.NAME
+"<link=\"EXTERIORWALL\">Подводные пузырьки</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_JELLYFISH.DESC
+"Мягонькие морские созданьица на голубом фоне в крапинку."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_JELLYFISH.NAME
+"<link=\"EXTERIORWALL\">Подводные медузы</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_KELP.DESC
+"Любители растений вставляют несколько таких фрагментов между верхушкой и основанием, чтобы заполнить стену зеленью от пола до потолка."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_KELP.NAME
+"<link=\"EXTERIORWALL\">Стебель башенной ламинарии</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_KELP_SILT.DESC
+"Подводные обои, изображающие место, где растения встречаются с песком."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_KELP_SILT.NAME
+"<link=\"EXTERIORWALL\">Основание башенной ламинарии</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_KELP_TOP.DESC
+"Подводные обои с самой макушкой пышного леса ламинарий."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_KELP_TOP.NAME
+"<link=\"EXTERIORWALL\">Верхушка башенной ламинарии</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_PACU.DESC
+"Слегка осуждающий взгляд искоса на самом деле означает, что это существо зовёт поиграть."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_PACU.NAME
+"<link=\"EXTERIORWALL\">Игривый паку</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_PUFFER.DESC
+"Трудно удержаться от желания потискать его за щёчки."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_PUFFER.NAME
+"<link=\"EXTERIORWALL\">Щекастый дутыш</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_SILT.DESC
+"Обои тёплого песочного цвета, с которыми дубликанты чувствуют себя как в отпуске."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_SILT.NAME
+"<link=\"EXTERIORWALL\">Просто пляжно</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_SILT_TOP.DESC
+"Песчаная полоса естественных очертаний, а над ней — голубая вода в крапинку."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_SILT_TOP.NAME
+"<link=\"EXTERIORWALL\">Песчаная отмель</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_TURTLE.DESC
+"Вид сверху на существо, которое старается занять собой как можно больше места."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_TURTLE.NAME
+"<link=\"EXTERIORWALL\">Рудопаха во всю ширь</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_BASIC_BLUE_NAUTICAL.DESC
+"Однотонные синие обои, с которыми плавание всегда проходит гладко."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_BASIC_BLUE_NAUTICAL.NAME
+"<link=\"EXTERIORWALL\">Морская синева</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCLE_BLUE_NAUTICAL_WHITE.DESC
+"Из таких фрагментов можно выложить гигантский горох... или фестончатый край."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCLE_BLUE_NAUTICAL_WHITE.NAME
+"<link=\"EXTERIORWALL\">Морской круг</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCLE_WHITE_BLUE_NAUTICAL.DESC
+"Белый круг, в уголок которого затёк крошечный кусочек моря."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_CIRCLE_WHITE_BLUE_NAUTICAL.NAME
+"<link=\"EXTERIORWALL\">Морской скруглённый уголок</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_DIAGONAL_BLUE_NAUTICAL_WHITE.DESC
+"Обои в морском стиле с диагональной полосой."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_DIAGONAL_BLUE_NAUTICAL_WHITE.NAME
+"<link=\"EXTERIORWALL\">Морская диагональ</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_PLUS_BLUE_NAUTICAL_WHITE.DESC
+"Мир без плавания? Невозможно вычислить."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_PLUS_BLUE_NAUTICAL_WHITE.NAME
+"<link=\"EXTERIORWALL\">Цифровое море</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA.DESC
+"Незамысловатые волны и пузырьки складываются в умиротворяющий узор."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA.NAME
+"<link=\"EXTERIORWALL\">Минималистичные волны</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA_ANCHOR.DESC
+"Незамысловатый якорь среди пузырьков и волн."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA_ANCHOR.NAME
+"<link=\"EXTERIORWALL\">Минималистичный якорь</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA_COMPASS.DESC
+"Незамысловатая роза ветров среди пузырьков и волн."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA_COMPASS.NAME
+"<link=\"EXTERIORWALL\">Минималистичная роза ветров</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA_LIFEPRESERVER.DESC
+"Незамысловатый спасательный круг среди пузырьков и волн."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA_LIFEPRESERVER.NAME
+"<link=\"EXTERIORWALL\">Минималистичный спасательный круг</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA_WHEEL.DESC
+"Незамысловатый штурвал среди пузырьков и волн."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SEA_WHEEL.NAME
+"<link=\"EXTERIORWALL\">Минималистичный штурвал</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SQUARES_BLUE_NAUTICAL_WHITE.DESC
+"Идеально подходят для кухни в морском стиле."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SQUARES_BLUE_NAUTICAL_WHITE.NAME
+"<link=\"EXTERIORWALL\">Морские шашечки</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SQUARE_BLUE_NAUTICAL_WHITE.DESC
+"Быть квадратным — модно. По крайней мере, так говорят."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_SQUARE_BLUE_NAUTICAL_WHITE.NAME
+"<link=\"EXTERIORWALL\">Морской квадратик</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_STRIPES_CIRCLE_NAUTICAL_WHITE.DESC
+"Чередующиеся синие и белые дуги, внешние — синие."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_STRIPES_CIRCLE_NAUTICAL_WHITE.NAME
+"<link=\"EXTERIORWALL\">Морские извилины I</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_STRIPES_CIRCLE_WHITE_NAUTICAL.DESC
+"Чередующиеся синие и белые дуги, внешние — белые."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_STRIPES_CIRCLE_WHITE_NAUTICAL.NAME
+"<link=\"EXTERIORWALL\">Морские извилины II</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_STRIPES_DIAGONAL_WHITE_NAUTICAL.DESC
+"Те же обычные морские полосы, только под углом."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_STRIPES_DIAGONAL_WHITE_NAUTICAL.NAME
+"<link=\"EXTERIORWALL\">Морская диагональ</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_STRIPES_WHITE_NAUTICAL.DESC
+"Они идут либо строго вверх-вниз, либо из стороны в сторону — и никаких компромиссов."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_STRIPES_WHITE_NAUTICAL.NAME
+"<link=\"EXTERIORWALL\">Морские полосы</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_TRIANGLE_NAUTICAL_WHITE.DESC
+"Обои с треугольником морского синего цвета, чья вершина указывает на бесконечную белую пустоту."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_TRIANGLE_NAUTICAL_WHITE.NAME
+"<link=\"EXTERIORWALL\">Морской треугольник</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_TRIANGLE_WHITE_NAUTICAL.DESC
+"Обои морского синего цвета с безупречным белым уголком для модульных интерьерных решений."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_TRIANGLE_WHITE_NAUTICAL.NAME
+"<link=\"EXTERIORWALL\">Морской уголок</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVES.DESC
+"Самая настоящая стена из волн."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVES.NAME
+"<link=\"EXTERIORWALL\">Сплошные волны</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVES01.DESC
+"Стилизованный взгляд на морские просторы."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVES01.NAME
+"<link=\"EXTERIORWALL\">Фестончатые волны</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVES02.DESC
+"Источник вдохновения — хвосты настоящих русалок."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVES02.NAME
+"<link=\"EXTERIORWALL\">Чешуйка к чешуйке</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVESCRASHING.DESC
+"Вид сверху на крошечные пенящиеся волны."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVESCRASHING.NAME
+"<link=\"EXTERIORWALL\">Ветровая рябь</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVESCRESTS.DESC
+"Волны вздымаются и разбиваются — насколько хватает глаз."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVESCRESTS.NAME
+"<link=\"EXTERIORWALL\">Сплошные гребни волн</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVESCRESTS_HALF.DESC
+"Примерно такой вид открывается, если барахтаться в воде посреди прибоя."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVESCRESTS_HALF.NAME
+"<link=\"EXTERIORWALL\">Гребни волн до половины</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVESSWIRLS.DESC
+"Затейливая вязь вспененной водной глади."
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVESSWIRLS.NAME
+"<link=\"EXTERIORWALL\">Вихрящиеся волны</link>"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVES_HALF.DESC
+"Эти обои наполовину пусты или наполовину полны?"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_WAVES_HALF.NAME
+"<link=\"EXTERIORWALL\">Волны до половины</link>""
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_X_NAUTICAL_WHITE.DESC
+"Тёмно-синие треугольники на этих обоях похожи на крест, указывающий место на карте... Или же это песочные часы, напоминающие о течении времени?"
+
+STRINGS.BLUEPRINTS.PERMIT_WALLS_X_NAUTICAL_WHITE.NAME
+"<link=\"EXTERIORWALL\">Морской X</link>"
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.BIONIC_OVERCLOCK_RECIPE_DESC
+"Превращает {0} в {1}\n\n<b>!! ВНИМАНИЕ: РИСК ПОВРЕЖДЕНИЯ СИСТЕМЫ !!</b>"
+
+STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.DESC
+"Дикие животные, которые пользуются кормушками, привыкают к уюту домашней жизни."
+
+STRINGS.BUILDINGS.PREFABS.FISHFEEDER.DESC
+"Постройте эту кормушку над водой, чтобы подкармливать и приручать рыбу."
+
+STRINGS.BUILDINGS.PREFABS.FISHTRAP.EFFECT
+"Приманивает и ловит водных <link=\"CREATURES\">существ</link>.\n\nОдноразовая."
+
+STRINGS.BUILDINGS.PREFABS.PROPBEACHCHAIR.DESC
+"Износился от бесчисленных циклов использования и воздействия стихий."
+
+STRINGS.BUILDINGS.PREFABS.PROPDRYSUITHANGER.DESC
+"Вмещает один <link=\"DRYSUIT\">купальный костюм</link>.\n\nОбеспечивает комфорт при плавании одному удачливому дубликанту."
+
+STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT
+"Позволяет назначенному <link=\"RANCHER\">скотоводу</link> ухаживать за <link=\"CREATURES\">животными</link> и постепенно приручать их.\n\nНазначенные дубликанты должны обладать навыком <link=\"RANCHING1\">Скотоводство I</link>."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERBREATHINGSTATION.DESC
+"Дубликанты восстанавливают дыхание быстрее на станции для дыхания, чем при попытке всплыть за воздухом."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERBREATHINGSTATION.EFFECT
+"Подаёт пригодный для дыхания <link=\"OXYGEN\">кислород</link> погружённым дубликантам через подключённый вход <link=\"GASPIPING\">газовой трубы</link>."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERRANCHSTATION.EFFECT
+"Позволяет назначенному <link=\"RANCHER\">скотоводу</link> ухаживать за <link=\"CREATURES\">существами</link> и постепенно приручать их.\n\nНазначенные дубликанты должны обладать навыками <link=\"RANCHING1\">Скотоводство I</link> и <link=\"SWIMMING\">Базовое плавание</link> одновременно."
+
+STRINGS.BUILDINGS.PREFABS.WATERTRAP.EFFECT
+"Приманивает и ловит водных <link=\"CREATURES\">существ</link>.\n\nТолько дубликанты с навыком <link=\"RANCHING1\">Скотоводство I</link> могут поставить эту ловушку. Её можно будет использовать повторно!"
+
+STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.CONTAINER1
+"Одомашненные животные дают намного больше ресурсов и откладывают яйца намного чаще, чем дикие. Чтобы они оставались счастливыми и приносили колонии максимум пользы, им нужна дополнительная забота. (С ними также приятнее находиться рядом.)\n\nСтанции ухода и кормушки позволяют дубликантам одомашнивать животных."
+
+STRINGS.CODEX.INVESTIGATIONS.DLC5_FLOOD.BODY.CONTAINER1
+"<indent=5%>Обновлённые правила для сотрудников, укрывающихся на месте, прилагаются. Основные положения ниже:\n\n<indent=5%>    •  Экстренные койки не предназначены для постановки друг на друга.\n    •  Талоны на кофе не подлежат передаче и продаже.\n    •  Ознакомьтесь с памяткой о личной гигиене.\n\n</indent>Сотрудникам с исправным оборудованием следует работать в обычном режиме, пока продолжается ликвидация последствий наводнения.\n\nСпасибо за терпение.\n\n<indent=10%><alpha=#AA>[ВЛОЖЕНИЕ ОТСУТСТВУЕТ]</color></indent>"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC5_FLOOD.BODY.EMAILHEADER1
+"<smallcaps>Кому: <b>ВСЕМ</b><alpha=#AA><size=12></size></color>\nОт: <b>АДМИНИСТРАТОРА</b><alpha=#AA><size=12> <admin@gravitas.nova></size></color></smallcaps>\n------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC5_FLOOD.BODY.SIGNATURE1
+"\nС благодарностью,\n-Администратор\n<size=11>Комплекс Gravitas</size>\n------------------\n"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC5_FLOOD.SUBTITLE
+"УРОВЕНЬ ШИФРОВАНИЯ: ОТСУТСТВУЕТ"
+
+STRINGS.CODEX.INVESTIGATIONS.DLC5_FLOOD.TITLE
+"День третий"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_A_HIDDEN
+"Нужно больше исследований"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_B_HIDDEN
+"Нужно больше исследований"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C
+"Произвести и доставить чёрную икру выжившему дубликанту в биоме бездны"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C_HIDDEN
+"Нужно больше исследований"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_C
+"Доставить чёрную икру ({AMOUNT})"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_A_DESCRIPTION
+"Успех! Дубликанты собрали {AMOUNT1} жемчуга, чтобы предложить нашей возможной будущей соратнице.\n\nТеперь у нас есть {AMOUNT2} новых прокладок и 2 семени вытяжного коралла, которые можно использовать по необходимости."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_B_DESCRIPTION
+"Успех! Мы приготовили {AMOUNT1} суши, чтобы поделиться с выжившим дубликантом в знак доброй воли.\n\nТеперь у нас есть {AMOUNT2} новых прокладок и 2 семени камедной пальмы, которые можно использовать по необходимости."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_C_TITLE
+"ВЕРБОВКА ВЫЖИВШЕЙ: чёрная икра доставлена"
+
+STRINGS.ITEMS.FOOD.CAVIAR.DESC
+"Икра водного существа длительного хранения.\n\nЕё можно добавить к <link=\"FOOD\">еде</link> за <link=\"DININGTABLE\">обеденным столом</link>, чтобы повысить <link=\"MORALE\">моральный дух</link>.\n\nДубликанты автоматически используют чёрную икру, садясь за <link=\"DININGTABLE\">обеденный стол</link> во время приёма пищи."
+
+STRINGS.ITEMS.FOOD.FISHFOOD.NAME
+"<link=\"PACUSPECIES\">Лакомство для паку</link>"
+
+STRINGS.UI.OVERLAYS.ROOMS.POND.CRITTER_COUNT
+"    • Водные существа: {0}"
+
+STRINGS.UI.OVERLAYS.ROOMS.POND.HEADER
+"<b>Размер водоёма</b>"
+
+STRINGS.UI.OVERLAYS.ROOMS.POND.NOFISH
+"    • Водные существа не обнаружены"
+
+STRINGS.UI.OVERLAYS.ROOMS.POND.SIZE
+"    • Размер водоёма: {0} кл"
+
+STRINGS.UI.PRODUCTINFO_INSUFFICIENTRESOURCES_TITLE
+"Недостаточно: {0}"

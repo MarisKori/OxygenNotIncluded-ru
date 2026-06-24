@@ -1,0 +1,990 @@
+STRINGS.BUILDING.STATUSITEMS.COLONYLACKSDUPEWITHMULTISKILLPERK.NAME
+"Необходим хотя бы один дубликант с: {Skills}"
+
+STRINGS.BUILDING.STATUSITEMS.COLONYLACKSDUPEWITHMULTISKILLPERK.TOOLTIP
+"В колонии отсутствует дубликант, обладающий всеми этими навыками:\n"
+" {Skills}\n"
+"\n"
+"Откройте <b>панель навыков</b> {Hotkey/ManageSkills}, чтобы обучить дубликанта навыкам или назначить ему усилители"
+
+STRINGS.BUILDING.STATUSITEMS.COLONYLACKSDUPEWITHMULTISKILLPERK.TOOLTIP_DLC3
+"В колонии отсутствует дубликант, обладающий всеми этими навыками:\n"
+" {Skills} или {Boosters}\n"
+"\n"
+"Откройте <b>панель навыков</b> {Hotkey/ManageSkills}, чтобы обучить дубликанта навыкам или назначить ему усилители"
+
+STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORPROGRESS.TOOLTIP
+""
+"Этой постройке требуются генокоды {0} <color=#C38802>животных</color>, чтобы разблокировать манипуляции с их ДНК\n"
+"\n"
+"Просканировано данных:"
+
+STRINGS.BUILDING.STATUSITEMS.DISSOLVINGELEMENTDISSOLVING.NAME
+"Выделяет: {Element} {FlowRate}"
+
+STRINGS.BUILDING.STATUSITEMS.DISSOLVINGELEMENTDISSOLVING.TOOLTIP
+"Производит {Element} в количестве <style=\"produced\">{FlowRate}</style>"
+
+STRINGS.BUILDING.STATUSITEMS.DISSOLVINGELEMENTDORMANT.NAME
+"Стабильный"
+
+STRINGS.BUILDING.STATUSITEMS.DISSOLVINGELEMENTDORMANT.TOOLTIP
+"Этот элемент в данный момент химически стабилен.\n\nОн будет выделять {Element} при погружении в <link=\"WATER\">воду</link> и воздействии достаточного <link=\"LIGHT\">света</link>."
+
+STRINGS.BUILDING.STATUSITEMS.GEYSEREXPELLING.INVALID_ELEMENT_NAME
+"Выделяет жидкость"
+
+STRINGS.BUILDING.STATUSITEMS.GEYSEREXPELLING.NAME
+"Выделяет: {ELEMENT} {RATE}"
+
+STRINGS.BUILDING.STATUSITEMS.GEYSEREXPELLING.TOOLTIP
+"Этот гейзер выпускает накопленную <style=\"KKeyword\">жидкость</style>"
+
+STRINGS.BUILDING.STATUSITEMS.LITTERBOXBEINGEMPTIED.NAME
+"Выгребается"
+
+STRINGS.BUILDING.STATUSITEMS.LITTERBOXBEINGEMPTIED.TOOLTIP
+"Содержимое этой постройки убирается дупликантом\n\nФу"
+
+STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.TOOLTIP
+"Нужно избавиться от <link=\"MILKFAT\">скользеина</link> и/или <link=\"CAVIAR\">икры</link> в этой постройке, чтобы продолжить работу"
+
+STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORPRODUCINGCAVIAR.NAME
+"Производит чёрную икру: {0}"
+
+STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORPRODUCINGCAVIAR.TOOLTIP
+"В этой постройке происходит переработка <link=\"FISHMILK\">оволена</link> в <link=\"CAVIAR\">чёрную икру</link> at {0}"
+
+STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.EFFECT
+"Место для комфортного отдыха домашних <link=\"CREATURES\">животных</link>, которое делает их немного счастливее."
+
+STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.EFFECT
+""
+"Освобождает пойманных водных существ в дикую природу.\n"
+"\n"
+"Может использоваться многократно."
+
+STRINGS.BUILDINGS.PREFABS.LIQUIDHEATER.DESC
+"В нагретой этим устройством жидкости микробы быстро погибают."
+
+STRINGS.BUILDINGS.PREFABS.METALREFINERY.EFFECT
+""
+"Выплавляет <link=\"REFINEDMETAL\">очищенные металлы</link> из <link=\"METAL\">металлических руд</link>.\n"
+"\n"
+"Выпускает сильно <link=\"HEAT\">нагретую</link> <link=\"ELEMENTSLIQUID\">жидкость</link> по трубам.\n"
+"\n"
+"Дубликанты не будут производить вещи, если рецепт не выбран."
+
+STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.EFFECT
+"Перерабатывает <link=\"MILK\">молокен</link> в <link=\"BRINE\">рассол</link> и <link=\"MILKFAT\">скользеин</link>, а также <link=\"FISHMILK\">оволен</link> в <link=\"CAVIAR\">чёрную икру</link> и <link=\"MUCUS\">муцин</link>."
+
+STRINGS.BUILDINGS.PREFABS.MILKFATSEPARATOR.NAME
+"<link=\"MILKFATSEPARATOR\">Молочный сепаратор</link>"
+
+STRINGS.BUILDINGS.PREFABS.MILKFEEDER.DESC
+"Предоставление животным вкусных напитков заставляет их почувствовать, что о них заботятся."
+
+STRINGS.BUILDINGS.PREFABS.MILKFEEDER.EFFECT
+""
+"Дает возможность самым разным <link=\"CREATURES\">животным</link> утолить жажду <link=\"MILK\">молокеном</link> или <link=\"INK\">чернилами кальмара</link>.\n"
+"\n"
+"Если у <link=\"CREATURES\">животных</link> есть доступ к поилке, их счастье заметно улучшается."
+
+STRINGS.BUILDINGS.PREFABS.RESEARCHCLUSTERMODULE.DESC
+"Увеличивает объём исследовательских данных, получаемых по пути к пункту назначения."
+
+STRINGS.BUILDINGS.PREFABS.RESEARCHCLUSTERMODULE.EFFECT
+"Собирает свободно парящие <link=\"DATABANK\">банки данных</link>, встречающиеся на его траектории полёта.\n\n"
+
+STRINGS.BUILDINGS.PREFABS.RESEARCHCLUSTERMODULE.NAME
+"<link=\"RESEARCHCLUSTERMODULE\">Научный модуль</link>"
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERCRITTERCONDO.EFFECT
+"Это изысканная зона отдыха для взрослых <link=\"CREATURES\">существ</link>, живущих в <link=\"ELEMENTSLIQUID\">жидких</link> средах."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERCRITTERCONDO.NAME
+"<link=\"UNDERWATERCRITTERCONDO\">Подводный домик</link>"
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERMILKINGSTATION.EFFECT
+"Извлекает <link=\"FISHMILK\">оволен</link> или <link=\"INK\">чернила кальмара</link> из подходящих водных <link=\"CREATURES\">существ</link>.\n"
+"\n"
+"Назначенные дубликанты должны обладать навыками <link=\"RANCHING2\">Скотоводство II</link> и <link=\"SWIMMING\">Базовое плавание</link> одновременно."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERRANCHSTATION.EFFECT
+"Позволяет назначенному <link=\"RANCHER\">скотоводу</link> ухаживать за <link=\"CREATURES\">существами</link>.\n"
+"\n"
+"Назначенные дубликанты должны обладать навыками <link=\"RANCHING1\">Скотоводство I</link> и <link=\"SWIMMING\">Базовое плавание</link> одновременно."
+
+STRINGS.BUILDINGS.PREFABS.UNDERWATERSHEARINGSTATION.EFFECT
+"Позволяет безопасно стричь подходящих водных <link=\"CREATURES\">существ</link> для получения полезного сырья.\n"
+"\n"
+"Назначенные дубликанты должны обладать навыками <link=\"RANCHING1\">Скотоводство I</link> и <link=\"SWIMMING\">Базовое плавание</link> одновременно."
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.EFFECT
+""
+"Обеспечивает место встречи для дубликантов в свободное время.\n"
+"Повышает <link=\"MORALE\">моральный дух</link> дубликантов и утоляет их <link=\"IDFOODEFFECTS\">жажду</link>."
+
+STRINGS.CODEX.CLAM.BODY.CONTAINER1
+"Тискушка, также известная как <i>Arcticidae hafrunus</i>, — крупнейший вид двустворчатых моллюсков в известной вселенной. Её мощные мышцы-аддукторы и зазубренные края раковины хорошо задокументированы; в ранней научной литературе полевые заметки нередко содержали слова «случайная ампутация».\n"
+"\n"
+"Хотя разработка надлежащих приёмов обращения давно устранила эту опасность, подобные истории до сих пор служат поучительными примерами для начинающих морских биологов."
+
+STRINGS.CODEX.CLAM.SUBTITLE
+"Водный организм"
+
+STRINGS.CODEX.CLAM.TITLE
+"Тискушка"
+
+STRINGS.CODEX.DEWPALM.BODY.CONTAINER1
+"Камедные пальмы выработали бросающийся в глаза защитный механизм, схожий с тем, что есть у ядовитых земноводных.\n"
+"\n"
+"Яркая красноватая окраска листьев и острые декоративные чешуйки коры отпугивают большинство хищников, распознающих предупреждающие признаки ядовитости. Однако <link=\"PACU\">паку</link> считают крайне ядовитое семя этого дерева пикантным лакомством."
+
+STRINGS.CODEX.DEWPALM.SUBTITLE
+"Можно выращивать"
+
+STRINGS.CODEX.DEWPALM.TITLE
+"Камедная пальма"
+
+STRINGS.CODEX.EXOBASESDLC1.PARAGRAPH_5
+"Для добычи ресурсов в космосе необходимо пробурить целевую массу с помощью ракеты, оснащённой <link=\"NOSECONEHARVEST\">буровым обтекателем</link>, а затем собрать фрагменты с помощью грузового модуля, предназначенного для этих материалов. К грузовым модулям относятся <link=\"SOLIDCARGOBAYSMALL\">грузовой отсек</link>, <link=\"LIQUIDCARGOBAYCLUSTER\">большой грузовой жидкостный бак</link>, <link=\"GASCARGOBAYSMALL\">грузовой газовый бак</link> и другие.\n\n<link=\"SPACEARTIFACT\">Артефакты</link> и <link=\"DATABANK\">банки данных</link>, свободно плавающие в космосе, можно собрать с помощью <link=\"ARTIFACTCARGOBAY\">модуля перевозки артефактов</link> или <link=\"RESEARCHCLUSTERMODULE\">научного модуля</link> соответственно, без необходимости бурения."
+
+STRINGS.CODEX.FILAMENTPLANT.BODY.CONTAINER1
+"Серёжки, распускающиеся на концах ветвей вербного куста, состоят из тысяч шелковисто-мягких ворсинок, словно роскошная шуба. Многие садоводы привязываются к этому миниатюрному представителю семейства ивовых как к любимому питомцу.\n\n"
+
+STRINGS.CODEX.FILAMENTPLANT.SUBTITLE
+"Водное декоративное растение"
+
+STRINGS.CODEX.FILAMENTPLANT.TITLE
+"Вербный куст"
+
+STRINGS.CODEX.LUMBER.BODY.CONTAINER1
+"<link=\"WOOD\">Древесина</link> добывается с деревьев, <link=\"CRABWOOD\">древесных крабов</link> и прочих природных источников.\n"
+"\n"
+"Древесину можно также использовать для производства <link=\"HEAT\">тепла</link> и <link=\"POWER\">электроэнергии</link>. Также она является полезным строительным материалом."
+
+STRINGS.CODEX.OXYCORAL.BODY.CONTAINER1
+"Вытяжные кораллы — растения-няньки, дающие приют бесчисленным микроскопическим организмам, а также редкому виду морской травы, растущему исключительно внутри узких отверстий на верхушке коралла.\n"
+"\n"
+"Земледельцы, пытающиеся состричь эти неприглядные «волоски в носу», вскоре обнаруживают, что их инструменты тупятся о грубые травяные волокна.\n\n"
+
+STRINGS.CODEX.OXYCORAL.SUBTITLE
+"Водный организм"
+
+STRINGS.CODEX.OXYCORAL.TITLE
+"Вытяжной коралл"
+
+STRINGS.CODEX.PARROTFISH.BODY.CONTAINER1
+"Светоклювы высоко ценятся ихтиофилами за броскую окраску и необычайно яркую биолюминесценцию.\n"
+"\n"
+"Эти существа с жабрами-абажурами состоят в симбиозе с <link=\"OXYCORAL\">вытяжным кораллом</link>, который в обмен на опыление даёт им и кров, и пропитание. Известно, что иные <link=\"PARROTFISHSPECIES\">светоклювы</link> даже укладываются вздремнуть на облюбованной коралловой колонии. Подобное удаётся увидеть крайне редко."
+
+STRINGS.CODEX.PARROTFISH.SPECIES_SUBTITLE
+"Вид существ"
+
+STRINGS.CODEX.PARROTFISH.SPECIES_TITLE
+"Светоклюв"
+
+STRINGS.CODEX.PARROTFISH.SUBTITLE
+"Водное существо"
+
+STRINGS.CODEX.PARROTFISH.TITLE
+"Светоклюв"
+
+STRINGS.CODEX.PLANKTONCORAL.BODY.CONTAINER1
+"Звёздные кораллы генетически родственны как членистоногим, так и иглокожим, хотя и сохранили черты удивительного пищеварительного механизма последних.\n"
+"\n"
+"Во время кормления звёздный коралл выталкивает желудок наружу через крошечное ротовое отверстие и обволакивает им источник питательных веществ. Переваривание завершается вне тела, после чего желудок втягивается обратно.\n"
+"\n"
+"Наблюдать за этим процессом бывает не очень приятно. К счастью, ротовое отверстие организма расположено на нижней стороне."
+
+STRINGS.CODEX.PLANKTONCORAL.SUBTITLE
+"Водный организм"
+
+STRINGS.CODEX.PLANKTONCORAL.TITLE
+"Звёздный коралл"
+
+STRINGS.CODEX.PUFFERFISH.SPECIES_SUBTITLE
+"Вид существ"
+
+STRINGS.CODEX.PUFFERFISH.SUBTITLE
+"Водное существо"
+
+STRINGS.CODEX.SEAFAIRY.SPECIES_SUBTITLE
+"Водный организм"
+
+STRINGS.CODEX.SEAFAIRY.SUBTITLE
+"Водное существо"
+
+STRINGS.CODEX.SEAHORSE.BODY.CONTAINER1
+"Взрослые морские коньки заливают свои выводковые сумки <link=\"FISHMILK\">оволеном</link>, чтобы питать икру и поддерживать осморегуляцию.\n\nПоскольку это энергозатратный процесс, на поздних стадиях жизни от него отказываются — так престарелые морские коньки могут сосредоточить все силы на откладывании одной последней икринки, прежде чем погибнуть."
+
+STRINGS.CODEX.SEAHORSE.SPECIES_SUBTITLE
+"Вид существ"
+
+STRINGS.CODEX.SEAHORSE.SPECIES_TITLE
+"Морской конёк"
+
+STRINGS.CODEX.SEAHORSE.SUBTITLE
+"Водное существо"
+
+STRINGS.CODEX.SEAHORSE.TITLE
+"Морской конёк"
+
+STRINGS.CODEX.SEATREE.BODY.CONTAINER1
+"Этот вид из отряда ламинариевых состоит из вертикальных стеблей, поддерживаемых опорными лозами. То, что выглядит как листья, на самом деле — <link=\"SEAFAIRYSPECIES\">ламинастики</link>, водные создания, поглощающие аэронутриенты из полого стебля башенной ламинарии.\n"
+"\n"
+"Стебли башенной ламинарии, которым не удаётся привлечь этих природных регуляторов давления, обрушиваются, не достигнув зрелости."
+
+STRINGS.CODEX.SEATREE.SUBTITLE
+"Можно выращивать"
+
+STRINGS.CODEX.SEATREE.TITLE
+"Башенная ламинария"
+
+STRINGS.CODEX.SEATURTLE.SPECIES_SUBTITLE
+"Вид существ"
+
+STRINGS.CODEX.SEATURTLE.SUBTITLE
+"Водное существо"
+
+STRINGS.CODEX.SEAURCHIN.SUBTITLE
+"Водный организм"
+
+STRINGS.CODEX.SNAIL.SPECIES_SUBTITLE
+"Вид существ"
+
+STRINGS.CODEX.SQUID.SPECIES_SUBTITLE
+"Вид существ"
+
+STRINGS.CODEX.SQUID.SUBTITLE
+"Водное существо"
+
+STRINGS.CODEX.TUBEWORM.BODY.CONTAINER1
+"О внутреннем устройстве трублий известно немного. Их резкий запах «тухлых яиц» делает их непопулярным объектом для пристального изучения.\n"
+"\n"
+"Хотя при переработке этот запах улетучивается, на коже и одежде он может держаться неприятно долго."
+
+STRINGS.CODEX.TUBEWORM.SUBTITLE
+"Можно выращивать"
+
+STRINGS.CODEX.TUBEWORM.TITLE
+"Трублия"
+
+STRINGS.CODEX.URCHIN.SUBTITLE
+"Водный организм"
+
+STRINGS.CODEX.WATERCUPS.BODY.CONTAINER1
+"Шепочашки относятся к семейству Лилейные. Они станут желанным украшением любого уголка колонии, а их шумопоглощающие свойства особенно успокаивают в промышленных зонах.\n"
+"\n"
+"Каждый цветок-чаша по сути представляет собой отдельную безэховую камеру. Плотное покрывало улавливает окружающие звуковые волны, а короткий пушистый початок их поглощает.\n"
+"\n"
+"Некоторые фермеры верят, что если нашёптывать шепочашкам комплименты, они растут быстрее.\n\n"
+
+STRINGS.CODEX.WATERCUPS.SUBTITLE
+"Декоративное растение"
+
+STRINGS.CODEX.WATERCUPS.TITLE
+"Шепочашки"
+
+STRINGS.CREATURES.FAMILY.PARROTFISH
+"<link=\"PARROTFISHSPECIES\">Светоклюв</link>"
+
+STRINGS.CREATURES.FAMILY_PLURAL.PARROTFISHSPECIES
+"<link=\"PARROTFISHSPECIES\">Светоклювы</link>"
+
+STRINGS.CREATURES.FAMILY_PLURAL.SEAHORSESPECIES
+"<link=\"SEAHORSESPECIES\">Морские коньки</link>"
+
+STRINGS.CREATURES.SPECIES.BULBLOOM.GROWTH_BONUS
+"Бонус растущего"
+
+STRINGS.CREATURES.SPECIES.BULBLOOM.NAME
+"<link=\"BULBLOOM\">Лампоцвет</link>"
+
+STRINGS.CREATURES.SPECIES.BULBLOOM.WILT_PENALTY
+"Завял"
+
+STRINGS.CREATURES.SPECIES.CHAMELEON.DESC
+""
+"Хилозавры — это миролюбивые существа, которые питаются <link=\"DEWDRIP\">слёзами капельника</link> и выделяют <link=\"BLEACHSTONE\">хлорный камень</link> и <link=\"CHLORINEGAS\">хлор</link> в виде газа.\n\nНа них охотятся <link=\"RAPTOR\">перьевые рексы</link>."
+
+STRINGS.CREATURES.SPECIES.CLAM.DESC
+"Тискушки — водные двустворчатые моллюски, превращающие <link=\"SAND\">песок</link> в <link=\"PEARL\">жемчуг</link>."
+
+STRINGS.CREATURES.SPECIES.CLAM.DOMESTICATEDDESC
+"Этот организм производит <link=\"PEARL\">жемчуг</link>."
+
+STRINGS.CREATURES.SPECIES.CLAM.NAME
+"<link=\"CLAM\">Тискушка</link>"
+
+STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.DESC
+""
+"Крабы-санитары — мирные животные, пока рядом нет их яиц.\n"
+"\n"
+"Они любят жить в <link=\"WATER\">воде</link> и уничтожают <link=\"DISEASE\">микробов</link> в любой жидкости, в которой обитают.\n"
+"\n"
+"Они питаются <link=\"TOXICSAND\">загрязнённой землёй</link>, <link=\"SLIMEMOLD\">слизью</link> и <link=\"COMPOST\">сгнившей едой</link>."
+
+STRINGS.CREATURES.SPECIES.DEWPALM.DESC
+"С камедных пальм можно собирать <link=\"PALMWOOD\">камедную древесину</link>, которую можно переработать в <link=\"LATEX\">латекс</link> в <link=\"MILKPRESS\">механической ступке</link>."
+
+STRINGS.CREATURES.SPECIES.DEWPALM.DOMESTICATEDDESC
+"Это растение производит <link=\"PALMWOOD\">камедную древесину</link>."
+
+STRINGS.CREATURES.SPECIES.DEWPALM.NAME
+"<link=\"DEWPALM\">Камедная пальма</link>"
+
+STRINGS.CREATURES.SPECIES.FILAMENTPLANT.DESC
+"Вербные кусты — <link=\"DECOR\">декоративные</link> водные <link=\"PLANTS\">растения</link>.\n"
+"\n"
+"Нежное прикосновение их соцветий успокаивает нервы проходящих мимо дубликантов."
+
+STRINGS.CREATURES.SPECIES.FILAMENTPLANT.DOMESTICATEDDESC
+"Это растение улучшает окружающий <link=\"DECOR\">декор</link>."
+
+STRINGS.CREATURES.SPECIES.FILAMENTPLANT.NAME
+"<link=\"FILAMENTPLANT\">Вербный куст</link>"
+
+STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.DESC
+"Гладкопанцирные хатчи любят закапываться в почву и выделяют <link=\"REFINEDMETAL\">чистый металл</link> при поедании <link=\"METAL\">металлической руды</link>."
+
+STRINGS.CREATURES.SPECIES.OXYCORAL.DESC
+"Вытяжные кораллы — водные организмы, использующие <link=\"LIGHT\">свет</link> для выработки <link=\"OXYGEN\">кислорода</link>.\n\n""
+
+STRINGS.CREATURES.SPECIES.OXYCORAL.DOMESTICATEDDESC
+"Это растение производит <link=\"OXYGEN\">кислород</link>."
+
+STRINGS.CREATURES.SPECIES.OXYCORAL.NAME
+"<link=\"OXYCORAL\">Вытяжной коралл</link>"
+
+STRINGS.CREATURES.SPECIES.PARROTFISH.BABY.DESC
+"Вёрткий малёк светоклюва.\n"
+"\n"
+"Со временем он повзрослеет и станет взрослым <link=\"PARROTFISH\">светоклювом</link>."
+
+STRINGS.CREATURES.SPECIES.PARROTFISH.BABY.NAME
+"<link=\"PARROTFISH\">Малёк светоклюва</link>"
+
+STRINGS.CREATURES.SPECIES.PARROTFISH.DESC
+"Светоклювы — миловидные водные существа, обитающие в тёплых водоёмах.\n"
+"\n"
+"Эти биолюминесцентные рыбы лакомятся <link=\"PLANKTONCORAL\">звёздными кораллами</link> и выделяют <link=\"LIME\">известь</link>."
+
+STRINGS.CREATURES.SPECIES.PARROTFISH.EGG_NAME
+"<link=\"PARROTFISH\">Яйцо светоклюва</link>"
+
+STRINGS.CREATURES.SPECIES.PARROTFISH.NAME
+"<link=\"PARROTFISH\">Светоклюв</link>"
+
+STRINGS.CREATURES.SPECIES.PLANKTONCORAL.DESC
+"Звёздные кораллы — водные организмы, поедающие <link=\"COQUINA\">ракушечник</link>.\n\n Накопленный ими <link=\"PHOSPHORITE\">фосфорит</link> могут поедать <link=\"PARROTFISH\">светоклювы</link> либо собирать дубликанты."
+
+STRINGS.CREATURES.SPECIES.PLANKTONCORAL.DOMESTICATEDDESC
+"Этот коралл производит <link=\"PHOSPHORITE\">фосфорит</link>."
+
+STRINGS.CREATURES.SPECIES.PLANKTONCORAL.LIQUID_CONSUMPTION
+"Фильтрация: {ElementTypes} {FlowRate}"
+
+STRINGS.CREATURES.SPECIES.PLANKTONCORAL.NAME
+"<link=\"PLANKTONCORAL\">Звёздный коралл</link>"
+
+STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC
+"На этом растении растут съедобные <link=\"PRICKLEFRUIT\">щетинистые ягоды</link>."
+
+STRINGS.CREATURES.SPECIES.SEAHORSE.BABY.DESC
+"Игривый малёк морского конька.\n\nСо временем он вырастет во взрослого <link=\"SEAHORSE\">морского конька</link>."
+
+STRINGS.CREATURES.SPECIES.SEAHORSE.BABY.NAME
+"<link=\"SEAHORSE\">Малёк морского конька</link>"
+
+STRINGS.CREATURES.SPECIES.SEAHORSE.DESC
+"Мореконы — водные зверушки, обитающие в водоёмах с жидкостью.\n\nОни питаются <link=\"PEARL\">жемчугом</link> и производят <link=\"FISHMILK\">оволен</link> на <link=\"UNDERWATERMILKINGSTATION\">Подводной станции доения</link>."
+
+STRINGS.CREATURES.SPECIES.SEAHORSE.EGG_NAME
+"<link=\"SEAHORSE\">Яйцо морского конька</link>"
+
+STRINGS.CREATURES.SPECIES.SEAHORSE.NAME
+"<link=\"SEAHORSE\">Морской конёк</link>"
+
+STRINGS.CREATURES.SPECIES.SEALETTUCE.DESC
+"Элодея произрастает в жидких средах, и может быть собрана ради свежих съедобных <link=\"LETTUCE\">листьев</link>."
+
+STRINGS.CREATURES.SPECIES.SEATREE.DESC
+"Башенная ламинария — водное растение, растущее в умеренных водоёмах.\n\nС неё можно собирать <link=\"NORI\">нори</link>."
+
+STRINGS.CREATURES.SPECIES.SEATREE.DOMESTICATEDDESC
+"Это растение производит <link=\"NORI\">нори</link>."
+
+STRINGS.CREATURES.SPECIES.SEATREE.NAME
+"<link=\"SEATREE\">Башенная ламинария</link>"
+
+STRINGS.CREATURES.SPECIES.SEATREEBRANCH.DESC
+"Эти стебли — отдельные побеги <link=\"SEATREE\">башенной ламинарии</link>.\n"
+"\n"
+"Они служат межвидовыми яслями для <link=\"SEATREEFAIRY\">ламинастиков</link>, и с них можно собирать <link=\"NORI\">нори</link>."
+
+STRINGS.CREATURES.SPECIES.SEATREEBRANCH.DOMESTICATEDDESC
+"Это растение производит <link=\"NORI\">нори</link>."
+
+STRINGS.CREATURES.SPECIES.SEATREEBRANCH.NAME
+"<link=\"SEATREE\">Стебель ламинарии</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.CLAM.DESC
+"<link=\"PLANTS\">Семя</link> <link=\"CLAM\">тискушки</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.CLAM.NAME
+"<link=\"CLAM\">Семя тискушки</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.DEWPALM.DESC
+"<link=\"PLANTS\">Семя</link> <link=\"DEWPALM\">камедной пальмы</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.DEWPALM.NAME
+"<link=\"DEWPALMSEED\">Семя пальмы</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.FILAMENTPLANT.DESC
+"<link=\"PLANTS\">Семя</link> растения <link=\"FILAMENTPLANT\">вербный куст</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.FILAMENTPLANT.NAME
+"<link=\"FILAMENTPLANTSEED\">Семя вербного куста</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.OXYCORAL.DESC
+"<link=\"PLANTS\">Семя</link> <link=\"OXYCORAL\">вытяжного коралла</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.OXYCORAL.NAME
+"<link=\"OXYCORAL\">Семя вытяжного коралла</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.PLANKTONCORAL.DESC
+"<link=\"PLANTS\">Семя</link> <link=\"PLANKTONCORAL\">звёздного коралла</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.PLANKTONCORAL.NAME
+"<link=\"PLANKTONCORAL\">Семя звёздного коралла</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.SEATREE.DESC
+"<link=\"PLANTS\">Семя</link> <link=\"SEATREE\">башенной ламинарии</link>.\n"
+"\n"
+"При раскопке <color=#C38802>повреждённых блоков</color> можно обнаружить семя башенной ламинарии."
+
+STRINGS.CREATURES.SPECIES.SEEDS.SEATREE.NAME
+"<link=\"SEATREE\">Семя башенной ламинарии</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.TUBEWORM.DESC
+"<link=\"PLANTS\">Семя</link> <link=\"TUBEWORM\">трублии</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.TUBEWORM.NAME
+"<link=\"TUBEWORM\">Семя трублии</link>"
+
+STRINGS.CREATURES.SPECIES.SEEDS.VINEMOTHER.DESC
+""
+"<link=\"PLANTS\">Семя</link> большого <link=\"VINEMOTHER\">пучка разростарника</link>.\n"
+"\n"
+"Найти такое семя можно, выкапывая повреждённые блоки."
+
+STRINGS.CREATURES.SPECIES.SEEDS.WATERCUPS.DESC
+"<link=\"PLANTS\">Семя</link> растения <link=\"WATERCUPS\">шепочашки</link>."
+
+STRINGS.CREATURES.SPECIES.SEEDS.WATERCUPS.NAME
+"<link=\"WATERCUPS\">Семя шепочашек</link>"
+
+STRINGS.CREATURES.SPECIES.SQUID.DESC
+"Мерцающие кальмары — хищные водные существа, которые питаются <link=\"TUBEWORM\">тублией</link> и выделяют <link=\"KATAIRITE\">абиссалит</link>.\n\nИх можно доить, получая <link=\"INK\">чернила кальмара</link>."
+
+STRINGS.CREATURES.SPECIES.SQUID.NAME
+"<link=\"SQUID\">Мерцающий кальмар</link>"
+
+STRINGS.CREATURES.SPECIES.TUBEWORM.DESC
+"Трублии — водные организмы, прорастающие в <link=\"TEMPERATURE\">горячей</link> жидкой среде.\n\nИх можно собирать ради <link=\"POLYPROPYLENE\">пластика</link>."
+
+STRINGS.CREATURES.SPECIES.TUBEWORM.DOMESTICATEDDESC
+"Этот организм производит <link=\"POLYPROPYLENE\">пластик</link>."
+
+STRINGS.CREATURES.SPECIES.TUBEWORM.NAME
+"<link=\"TUBEWORM\">Трублия</link>"
+
+STRINGS.CREATURES.SPECIES.WATERCUPS.DESC
+"Шепочашки — <link=\"DECOR\">декоративные</link> <link=\"PLANTS\">растения</link> успокаивающего синего оттенка.\n\nИх присутствие повышает <link=\"MORALE\">моральный дух</link> и заряжает оптимистичной энергией «чаша наполовину полна»."
+
+STRINGS.CREATURES.SPECIES.WATERCUPS.DOMESTICATEDDESC
+"Это растение улучшает окружающий <link=\"DECOR\">декор</link>."
+
+STRINGS.CREATURES.SPECIES.WATERCUPS.NAME
+"<link=\"WATERCUPS\">Шепочашки</link>"
+
+STRINGS.DUPLICANTS.ATTRIBUTES.BREATHMAX.NAME
+"Макс. запас дыхания"
+
+STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTDRANKINK.NAME
+"Напился <color=#C38802>чернилами кальмара</color>"
+
+STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTGOTMILK.NAME
+"Напился <color=#C38802>молокеном</color>"
+
+STRINGS.DUPLICANTS.ROLES.COOK.DESCRIPTION
+"Позволяет дубликантам готовить с использованием <link=\"GOURMETCOOKINGSTATION\">газовой плиты</link>, <link=\"SMOKER\">коптильни</link>, <link=\"DEEPFRYER\">фритюрницы</link>, <link=\"SUSHIBAR\">суши-бара</link> и <link=\"SPICEGRINDER\">мельницы для специй</link>."
+
+STRINGS.DUPLICANTS.ROLES.COOK.NAME
+"<link=\"COOKING2\">Улучшенная приправа</link>"
+
+STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.DESCRIPTION
+"Позволяет использовать <link=\"COOKINGSTATION\">электрогриль</link>."
+
+STRINGS.DUPLICANTS.ROLES.SWIMMER.NAME
+"<link=\"SWIMMER\">Базовое плавание</link>"
+
+STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP
+"Дубликант без <color=#C38802>запаса дыхания</color> умрёт немедленно.\n"
+"\n"
+"Дубликанты могут увеличить свой <style=\"KKeyword\">максимальный запас дыхания</style>, освоив навык <style=\"KKeyword\">базовое плавание</style>."
+
+STRINGS.DUPLICANTS.STATS.SEATREEROOTHEALTH.NAME
+"Здоровье корня"
+
+STRINGS.DUPLICANTS.STATS.SEATREEROOTHEALTH.TOOLTIP
+"Башенная ламинария не может расти, если у неё нет здорового корня для роста"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING1.DESC
+"Позволяет использовать <link=\"COOKINGSTATION\">электрогриль</link>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.DESC
+"Позволяет дубликантам готовить с использованием <link=\"GOURMETCOOKINGSTATION\">газовой плиты</link>, <link=\"SMOKER\">коптильни</link>, <link=\"DEEPFRYER\">фритюрницы</link>, <link=\"SUSHIBAR\">суши-бара</link> и <link=\"SPICEGRINDER\">мельницы для специй</link>."
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.NAME
+"Навык: <link=\"COOKING2\">Улучшенная приправа</link>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING.DESC
+"Позволяет дубликантам безопасно перемещаться в жидкой среде."
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING.NAME
+"Навык: <link=\"SWIMMER\">Базовое плавание</link>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING.SHORT_DESC
+"Начинает игру с <b>навыком</b> первого уровня"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING.SHORT_DESC_TOOLTIP
+"Этот дубликант получит <color=#C38802>навык</color> бесплатно, без траты очков навыков и повышения <color=#C38802>морального ожидания</color>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING2.NAME
+"Навык: <link=\"EXPERTSWIMMER\">Дайвмастер</link>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING2.SHORT_DESC
+"Начинает игру с <b>навыком</b> второго уровня"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING2.SHORT_DESC_TOOLTIP
+"Этот дубликант получит <color=#C38802>навык</color> бесплатно, без траты очков навыков и повышения <color=#C38802>морального ожидания</color>"
+
+STRINGS.ELEMENTS.BASALT.DESC
+"Базальт — это природная вулканическая порода, которая образуется при быстром охлаждении <link=\"MAGMA\">магмы</link>."
+
+STRINGS.ELEMENTS.BASALT.NAME
+"<link=\"BASALT\">Базальт</link>"
+
+STRINGS.ELEMENTS.CINNABAR.DESC
+""
+"(HgS) Киноварь, также известная как сульфид ртути, — электропроводный <link=\"METAL\">металл</link>, его можно обработать и получить <link=\"MERCURY\">ртуть</link>.\n"
+"\n"
+"Подходит для сооружения <link=\"POWER\">энергетических</link> систем."
+
+STRINGS.ELEMENTS.COQUINA.DESC
+"Ракушечник — это хрупкий <link=\"ELEMENTSSOLID\">твёрдый</link> минерал, состоящий из окаменевших остатков водных беспозвоночных.\n\nОн полезен в качестве <b>строительного материала</b>."
+
+STRINGS.ELEMENTS.COQUINA.NAME
+"<link=\"COQUINA\">Ракушечник</link>"
+
+STRINGS.ELEMENTS.CORALLIUM.DESC
+"Кораллий — это плотные кораллы, состоящие преимущественно из (CaCO<sub>3</sub>) <link=\"LIME\">извести</link>. Они полезны в качестве <b>строительного материала</b>."
+
+STRINGS.ELEMENTS.CORALLIUM.NAME
+"<link=\"CORALLIUM\">Кораллий</link>"
+
+STRINGS.ELEMENTS.CUPRITE.DESC
+""
+"(Cu<sub>2</sub>O) Медная руда — хороший проводник среди <link=\"METAL\">металлов</link>.\n"
+"\n"
+"Подходит для создания <link=\"POWER\">энергосистем</link>."
+
+STRINGS.ELEMENTS.ELECTRUM.DESC
+""
+"Электрум – проводящий <link=\"METAL\">металл</link>, сплав золота и серебра.\n"
+"\n"
+"Подходит для создания <link=\"POWER\">энергосистем</link>."
+
+STRINGS.ELEMENTS.FISHMILK.DESC
+"Оволен — это богатая белками <link=\"ELEMENTSLIQUID\">жидкость</link>, вырабатываемая водными существами.\n\nИз него можно производить <link=\"CAVIAR\">чёрную икру</link> и <link=\"MUCUS\">муцин</link>."
+
+STRINGS.ELEMENTS.FISHMILK.NAME
+"<link=\"FISHMILK\">Оволен</link>"
+
+STRINGS.ELEMENTS.FISHMILKICE.DESC
+"Замёрзший оволен — это <link=\"FISHMILK\">оволен</link>, застывший в <link=\"ELEMENTSSOLID\">твёрдом</link> состоянии."
+
+STRINGS.ELEMENTS.FISHMILKICE.NAME
+"<link=\"FISHMILKICE\">Замёрзший оволен</link>"
+
+STRINGS.ELEMENTS.FOOLSGOLD.DESC
+""
+"(FeS<sub>2</sub>) Пирит — проводящий <link=\"METAL\">металл</link>.\n"
+"\n"
+"Также известен как «золото дураков», подходит для создания <link=\"POWER\">энергосистем</link>."
+
+STRINGS.ELEMENTS.FROZENINK.DESC
+"Замёрзшие чернила — это <link=\"INK\">чернила кальмара</link>, охлаждённые до <link=\"ELEMENTSSOLID\">твёрдого</link> состояния."
+
+STRINGS.ELEMENTS.FROZENINK.NAME
+"<link=\"FROZENINK\">Замёрзшие чернила</link>"
+
+STRINGS.ELEMENTS.GALENA.DESC
+"(PbS) Галенит — это <link=\"METAL\">металлическая руда</link>, состоящая преимущественно из <link=\"LEAD\">свинца</link> с примесями <link=\"SULFUR\">серы</link>."
+
+STRINGS.ELEMENTS.GALENA.NAME
+"<link=\"GALENA\">Галенит</link>"
+
+STRINGS.ELEMENTS.GOLD.DESC
+"(Au) Золото — драгоценный <link=\"REFINEDMETAL\">металл</link> и хороший проводник.\n"
+"\n"
+"Подходит для создания <link=\"POWER\">энергосистем</link>."
+
+STRINGS.ELEMENTS.GOLDGAS.DESC
+"(Au) Пары золота — драгоценный <link=\"REFINEDMETAL\">металл</link> и хороший проводник, нагретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+
+STRINGS.ELEMENTS.INK.DESC
+"Чернила кальмара — это сильно пигментированная органическая <link=\"ELEMENTSLIQUID\">жидкость</link>, состоящая из муцина, меланина и <link=\"REFINEDCARBON\">очищенного углерода</link>. Она обладает полезными свойствами поглощения <link=\"RADIATION\">радиации</link>."
+
+STRINGS.ELEMENTS.INK.NAME
+"<link=\"INK\">Чернила кальмара</link>"
+
+STRINGS.ELEMENTS.IRON.DESC
+"(Fe) Железо — простой промышленный <link=\"REFINEDMETAL\">металл</link>."
+
+STRINGS.ELEMENTS.IRONGAS.DESC
+"(Fe) Пары железа — <link=\"ELEMENTSGAS\">газообразное</link> состояние железа, нагретого до высоких температур, хотя в обычном состоянии это простой промышленный <link=\"METAL\">металл</link>."
+
+STRINGS.ELEMENTS.IRONORE.DESC
+""
+"(Fe) Железная руда — мягкий <link=\"METAL\">металл</link>.\n"
+"\n"
+"Подходит для создания <link=\"POWER\">энергосистем</link>."
+
+STRINGS.ELEMENTS.LATEX.DESC
+"Латекс — это коллоидная дисперсия полимерных частиц природного происхождения в <link=\"ELEMENTSLIQUID\">жидкости</link>. Его можно использовать для производства <link=\"RUBBER\">резины</link>."
+
+STRINGS.ELEMENTS.LATEX.NAME
+"<link=\"LATEX\">Латекс</link>"
+
+STRINGS.ELEMENTS.MERCURYGAS.DESC
+"(Hg) Ртуть — ядовитый <link=\"REFINEDMETAL\">металл</link>, нагретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENCOPPER.DESC
+"(Cu) Расплав меди — хороший <link=\"METAL\">металлический</link> проводник, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENGOLD.DESC
+"(Au) Расплав золота — драгоценный <link=\"REFINEDMETAL\">металл</link> и хороший проводник, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENIRON.DESC
+"(Fe) Расплав железа — промышленный <link=\"METAL\">металл</link>, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENNICKEL.DESC
+"(Ni) Расплав никеля — это электропроводный <link=\"METAL\">металл</link>, разогретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENSTEEL.DESC
+"Расплав стали — опасно горячий <link=\"ELEMENTSLIQUID\">жидкий</link> <link=\"METAL\">сплав</link> железа и углерода."
+
+STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC
+"(W) Расплав вольфрама — это <link=\"REFINEDMETAL\">металл</link>, представляющий собой вольфрам в его <link=\"ELEMENTSLIQUID\">жидком</link> состоянии, достигаемом только при сверхвысоких температурах."
+
+STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.DESC
+"(WSe<sub>2</sub>) Диселенид вольфрама — неорганическое <link=\"METAL\">металлическое</link> соединение, нагретое до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENZINC.DESC
+"Расплав цинка — это <link=\"ZINC\">цинк</link>, нагретый до <link=\"ELEMENTSLIQUID\">жидкого</link> состояния."
+
+STRINGS.ELEMENTS.MOLTENZINC.NAME
+"<link=\"MOLTENZINC\">Расплав цинка</link>"
+
+STRINGS.ELEMENTS.MUCUS.DESC
+"Муцин — это очень вязкий <link=\"ELEMENTSLIQUID\">жидкий</link> гель, состоящий в основном из природных ферментов и полисахаридов.\n"
+"\n"
+"Он довольно скользкий."
+
+STRINGS.ELEMENTS.MUCUS.NAME
+"<link=\"MUCUS\">Муцин</link>"
+
+STRINGS.ELEMENTS.MURKYBRINE.DESC
+"Загрязнённый рассол — это мутный концентрированный раствор <link=\"SALT\">соли</link>, растворённой в <link=\"DIRTYWATER\">грязной воде</link>.\n"
+"\n"
+"Его можно использовать в процессах опреснения, отделяя пригодную для использования соль."
+
+STRINGS.ELEMENTS.MURKYBRINE.NAME
+"<link=\"MURKYBRINE\">Загрязнённый рассол</link>"
+
+STRINGS.ELEMENTS.MURKYBRINEICE.DESC
+"Загрязнённый морской лёд — это мутный концентрированный раствор <link=\"SALT\">соли</link>, растворённой в <link=\"DIRTYWATER\">грязной воде</link> и замороженной в <link=\"ELEMENTSSOLID\">твёрдом</link> состоянии."
+
+STRINGS.ELEMENTS.MURKYBRINEICE.NAME
+"<link=\"MURKYBRINEICE\">Загрязнённый морской лёд</link>"
+
+STRINGS.ELEMENTS.NICKELORE.DESC
+"(Ni) Никелевая руда — это электропроводный <link=\"METAL\">металл</link>.\n\nЕё можно переработать в <link=\"NICKEL\">никель</link>, она подходит для создания систем <link=\"POWER\">электроснабжения</link>."
+
+STRINGS.ELEMENTS.PALMWOOD.DESC
+"Камедную древесину можно переработать в <link=\"MILKPRESS\">механической ступке</link>, чтобы получить <link=\"LATEX\">латекс</link>, необходимый для производства <link=\"RUBBER\">резины</link>.\n"
+"\n"
+"Также её можно использовать как источник <link=\"HEAT\">тепла</link> и <link=\"POWER\">энергии</link> или в качестве <b>строительного материала</b>."
+
+STRINGS.ELEMENTS.PALMWOOD.NAME
+"<link=\"PALMWOOD\">Камедная древесина</link>"
+
+STRINGS.ELEMENTS.PEARL.DESC
+"Идеально гладкий самоцвет.\n"
+"\n"
+"Его могут поедать <link=\"SEAHORSESPECIES\">морские коньки</link>, или же он может использоваться как красивый <b>строительный материал</b> для повышения <color=#C38802>декора</color>."
+
+STRINGS.ELEMENTS.PEARL.NAME
+"<link=\"PEARL\">Жемчуг</link>"
+
+STRINGS.ELEMENTS.RUBBER.DESC
+"Резина — это вязкоупругое <link=\"ELEMENTSSOLID\">твёрдое тело</link>, изготовленное из вулканизированного <link=\"LATEX\">латекса</link>.\n"
+"\n"
+"Из неё можно изготавливать <link=\"BUILDINGGASKET\">прокладки</link>."
+
+STRINGS.ELEMENTS.RUBBER.NAME
+"<link=\"RUBBER\">Резина</link>"
+
+STRINGS.ELEMENTS.SILTSTONE.DESC
+"Алевролит — это меловая слоистая порода из спрессованных мелких частиц.\n"
+"\n"
+"Она используется как <b>строительный материал</b>."
+
+STRINGS.ELEMENTS.SILTSTONE.NAME
+"<link=\"SILTSTONE\">Алевролит</link>"
+
+STRINGS.ELEMENTS.SOLIDMERCURY.DESC
+"(Hg) Ртуть — редкий ядовитый <link=\"REFINEDMETAL\">металл</link> в <link=\"ELEMENTSSOLID\">твёрдом</link> состоянии."
+
+STRINGS.ELEMENTS.SOLIDMUCUS.DESC
+"Замёрзший муцин — это кусок <link=\"MUCUS\">гелеобразного муцина</link>, охлаждённого до <link=\"ELEMENTSSOLID\">твёрдого</link> состояния."
+
+STRINGS.ELEMENTS.SOLIDMUCUS.NAME
+"<link=\"SOLIDMUCUS\">Замёрзший муцин</link>"
+
+STRINGS.ELEMENTS.STEELGAS.DESC
+"Сталь — <link=\"METAL\">металлический</link> сплав железа и углерода, нагретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+
+STRINGS.ELEMENTS.TUNGSTEN.DESC
+""
+"(W) Вольфрам — чрезвычайно жёсткий кристаллический <link=\"REFINEDMETAL\">металл</link>.\n"
+"\n"
+"Подходит для создания <link=\"POWER\">энергосистем</link>."
+
+STRINGS.ELEMENTS.TUNGSTENDISELENIDE.DESC
+""
+"(WSe<sub>2</sub>) Диселенид вольфрама — неорганическое <link=\"REFINEDMETAL\">металлическое</link> соединение с кристаллической структурой.\n"
+"\n"
+"Подходит для создания <link=\"POWER\">энергосистем</link>."
+
+STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.DESC
+"(WSe<sub>2</sub>) Диселенид вольфрама — <link=\"REFINEDMETAL\">металл</link>, сильно нагретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+
+STRINGS.ELEMENTS.TUNGSTENGAS.DESC
+""
+"(W) Вольфрам — сильно нагретый кристаллический <link=\"REFINEDMETAL\">металл</link>.\n"
+"\n"
+"Этот элемент находится в <link=\"ELEMENTSGAS\">газообразном</link> состоянии."
+
+STRINGS.ELEMENTS.ZINC.DESC
+"(Zn) Цинк — это очень пластичный <link=\"REFINEDMETAL\">очищенный металл</link>."
+
+STRINGS.ELEMENTS.ZINC.NAME
+"<link=\"ZINC\">Zinc</link>"
+
+STRINGS.ELEMENTS.ZINCGAS.DESC
+"(Zn) Пары цинка — это <link=\"ZINC\">цинк</link>, нагретый до <link=\"ELEMENTSGAS\">газообразного</link> состояния."
+
+STRINGS.ELEMENTS.ZINCGAS.NAME
+"<link=\"ZINCGAS\">Пары цинка</link>"
+
+STRINGS.ELEMENTS.ZINCORE.DESC
+"(Zn) Цинковая руда — это ковкий необработанный <link=\"METALORE\">металл</link>.\n"
+"\n"
+"Подходит для строительства <link=\"POWER\">энергетических</link> систем."
+
+STRINGS.ELEMENTS.ZINCORE.NAME
+"<link=\"ZINCORE\">Цинковая руда</link>"
+
+STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.REPAIR_WORN_DESC
+"Восстановить рабочее состояние <link=\"OXYGENMASK\">кислородной маски</link>."
+
+STRINGS.ITEMS.FOOD.AQUATICFORAGEPLANT.DESC
+"Растение без семян с тягучей, камедистой текстурой.\n\nЕго нельзя пересадить.\n\nПри раскопке <color=#C38802>повреждённых блоков</color> можно обнаружить <link=\"AQUATICFORAGEPLANT\">язык мидии</link>."
+
+STRINGS.ITEMS.FOOD.AQUATICFORAGEPLANT.NAME
+"<link=\"AQUATICFORAGEPLANT\">Язык мидии</link>"
+
+STRINGS.ITEMS.FOOD.CAVIAR.DESC
+"Неоплодотворённые яйца водного животного.\n"
+"\n"
+"Её можно добавить к <link=\"FOOD\">еде</link> за <link=\"DININGTABLE\">обеденным столом</link>, чтобы повысить <link=\"MORALE\">моральный дух</link>.\n"
+"\n"
+"Дубликанты автоматически используют чёрную икру, садясь за <link=\"DININGTABLE\">обеденный стол</link> во время приёма пищи."
+
+STRINGS.ITEMS.FOOD.CAVIAR.NAME
+"<link=\"CAVIAR\">Чёрная икра</link>"
+
+STRINGS.ITEMS.FOOD.DEEPFRIEDFISH.RECIPEDESC
+"Изящно нарезанное <link=\"FISHMEAT\">филе паку</link>, обжаренное в <link=\"TALLOW\">сале</link>."
+
+STRINGS.ITEMS.FOOD.EDAMAME.DESC
+"Сырые <link=\"BEANPLANTSEED\">съедобные бобы</link>, присыпанные стеблями <link=\"SALTYSTICKSPLANT\">солёного соломочника</link>.\n\nПросто и сытно."
+
+STRINGS.ITEMS.FOOD.EDAMAME.NAME
+"<link=\"EDAMAME\">Эдамаме</link>"
+
+STRINGS.ITEMS.FOOD.EDAMAME.RECIPEDESC
+"Сырые <link=\"BEANPLANTSEED\">съедобные бобы</link> с <link=\"SALTYSTICKSPLANT\">солёной соломкой</link>."
+
+STRINGS.ITEMS.FOOD.FISHFOOD.DESC
+"Изысканная лепёшка из молотых семян и <link=\"WATER\">воды</link>, созданная на радость <link=\"PACU\">паку</link>."
+
+STRINGS.ITEMS.FOOD.FISHFOOD.NAME
+"<link=\"FISHFOOD\">Лакомство для паку</link>"
+
+STRINGS.ITEMS.FOOD.FISHFOOD.RECIPEDESC
+"Изысканная лепёшка из молотых семян, специально созданная для <color=#C38802>паку</color>."
+
+STRINGS.ITEMS.FOOD.FISHMEAT.DESC
+"Сырое филе очень мёртвого водного существа. Вкусно!"
+
+STRINGS.ITEMS.FOOD.FISHMEAT.NAME
+"<link=\"FISHMEAT\">Рыбное филе</link>"
+
+STRINGS.ITEMS.FOOD.MAKI.DESC
+"Сырое <link=\"FISHMEAT\">рыбное филе</link> в сочетании с <link=\"BASICPLANTBAR\">батончиком из мукоедов</link>, завёрнутое в <link=\"NORI\">нори</link>.\n\nСолёная хрустящая обёртка идеально уравновешивает сочный белок внутри."
+
+STRINGS.ITEMS.FOOD.MAKI.NAME
+"<link=\"MAKI\">Суши-ролл</link>"
+
+STRINGS.ITEMS.FOOD.MAKI.RECIPEDESC
+"Сырое <link=\"FISHMEAT\">рыбное филе</link> в сочетании с <link=\"BASICPLANTBAR\">батончиком из мукоедов</link> и <link=\"NORI\">нори</link>."
+
+STRINGS.ITEMS.FOOD.MUSSELTONGUE.DESC
+"Съедобный язык <link=\"MUSSELSPROUT\">мидийской капусты</link>.\n\nГорький и жёсткий, но всё лучше голодной смерти."
+
+STRINGS.ITEMS.FOOD.MUSSELTONGUE.NAME
+"<link=\"MUSSELTONGUE\">Язык мидии</link>"
+
+STRINGS.ITEMS.FOOD.MUSSELTONGUE.RECIPEDESC
+"Сырая мякоть <link=\"MUSSELSPROUT\">мидийской капусты</link>."
+
+STRINGS.ITEMS.FOOD.NIGIRI.DESC
+"Отбитые <link=\"SQUIDMEAT\">каламари</link> и <link=\"BASICPLANTBAR\">батончик из мукоедов</link>, завёрнутые в <link=\"NORI\">нори</link>.\n\nМастерское приготовление подчёркивает тонкую сладость мяса и его мягкую, нежно-тягучую текстуру."
+
+STRINGS.ITEMS.FOOD.NIGIRI.NAME
+"<link=\"NIGIRI\">Нигири</link>"
+
+STRINGS.ITEMS.FOOD.NIGIRI.RECIPEDESC
+"Отбитые <link=\"SQUIDMEAT\">каламари</link> с <link=\"BASICPLANTBAR\">батончиком из мукоедов</link> и <link=\"NORI\">нори</link>."
+
+STRINGS.ITEMS.FOOD.NORI.DESC
+"Пучок слегка солёной сушёной зелени с <link=\"SEATREE\">башенной ламинарии</link> или <link=\"SEAFAIRY\">ламинастика</link>.\n\nЧаще всего используется как ингредиент в более изысканных блюдах."
+
+STRINGS.ITEMS.FOOD.NORI.NAME
+"<link=\"NORI\">Нори</link>"
+
+STRINGS.ITEMS.FOOD.SALTYSTICKSFOOD.DESC
+"Чрезвычайно солёная закуска, собранная с <link=\"SALTYSTICKSPLANT\">солёного соломочника</link>.\n\nПоход к <link=\"WATERCOOLER\">кулеру</link> компенсирует <link=\"IDFOODEFFECTS\">жажду</link>, вызванную поеданием солёной соломки."
+
+STRINGS.ITEMS.FOOD.SALTYSTICKSFOOD.NAME
+"<link=\"SALTYSTICKSFOOD\">Солёная соломка</link>"
+
+STRINGS.ITEMS.FOOD.SQUIDMEAT.DESC
+"Сырое мясо очень мёртвого <link=\"SQUID\">мерцающего кальмара</link>.\n\nОно слегка скользкое."
+
+STRINGS.ITEMS.FOOD.SQUIDMEAT.NAME
+"<link=\"SQUIDMEAT\">Каламари</link>"
+
+STRINGS.ITEMS.FOOD.SQUIDMEAT.RECIPEDESC
+"Сырое мясо очень мёртвого <link=\"SQUID\">мерцающего кальмара</link>."
+
+STRINGS.ITEMS.FOOD.SUSHI.DESC
+""
+"Сырое <link=\"FISHMEAT\">рыбное филе</link>, завёрнутое в <link=\"LETTUCE\">листья элодеи</link>.\n"
+"\n"
+"Хотя солёный вкус листьев может первоначально подавить аромат, острый вкус поможет различить тонкую сладость филе под ними."
+
+STRINGS.ITEMS.FOOD.SUSHI.RECIPEDESC
+"Сырое <link=\"FISHMEAT\">рыбное филе</link>, завёрнутое в <link=\"LETTUCE\">листья элодеи</link>."
+
+STRINGS.ITEMS.FOOD.URCHINMEAT.DESC
+"Съедобная мякоть <link=\"URCHIN\">иглоколюки</link>.\n\nРедкий деликатес, для безопасного приготовления которого приходится уничтожать ценные внешние шипы.""
+""
+
+STRINGS.ITEMS.FOOD.URCHINMEAT.NAME
+"<link=\"URCHINMEAT\">Уни</link>"
+
+STRINGS.ITEMS.FOOD.URCHINMEAT.RECIPEDESC
+"Съедобная мякоть <link=\"URCHIN\">иглоколюки</link>, приготовленная в <link=\"SUSHIBAR\">суши-баре</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.PLANKTON_CORAL_PRODUCT.DESC
+"Кусок затвердевшего минерала.\n"
+"\n"
+"Его могут поедать <link=\"PARROTFISHSPECIES\">светоклювы</link>."
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.PLANKTON_CORAL_PRODUCT.NAME
+"<link=\"PHOSPHORITE\">Фосфорит</link>"
+
+STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
+""
+"Эврика! Мы открыли технологию: {0}.\n"
+"\n"
+"Новые технологии теперь доступны:\n"
+"  • {1}"
+
+STRINGS.SUBWORLDS.JUNGLE.DESC
+"Первоначальные исследования биома Джунгли открыли экосистему с уникальной флорой, но сосредоточенной вокруг <link=\"CHLORINE\">хлора</link> и <link=\"HYDROGEN\">водорода</link> в газообразном состоянии, токсичных для дубликантов."
+
+STRINGS.SUBWORLDS.METALLIC.UTILITY
+""
+"<link=\"GOLDAMALGAM\">Амальгама золота</link>,  <link=\"ALUMINUMORE\">алюминиевая</link> и <link=\"COBALTITE\">кобальтовая</link> руды расположены в биоме в виде крупных залежей. С помощью <link=\"METALREFINERY\">металлургического завода</link> из этих руд можно выплавить чистые металлы, которые пригодятся для продвинутых технологий.\n"
+"\n"
+"Хотя <link=\"CHLORINEGAS\">хлор</link> и <link=\"HYDROGEN\">водород</link> превалируют в этом биоме, встречаются и месторождения <link=\"OXYROCK\">оксилита</link>, которые помогут обеспечить дубликантов <link=\"OXYGEN\">кислородом</link>, когда будут откопаны.\n"
+"\n"
+"<link=\"DIRT\">Земля</link>, <link=\"CARBON\">уголь</link> и <link=\"IGNEOUSROCK\">магматический камень</link> распространены в этом биоме, что делает его очень полезным источником ресурсов для индустриализованной колонии."
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.COSMETIC_CONTENT_ACTIVE_TOOLTIP
+"Фильтрует скины по DLC с помощью выпадающего меню на экране «Все»."
+
+STRINGS.UI.FRONTEND.MOD_EVENTS.CANNOT_INSTALL
+"ОШИБКА УСТАНОВКИ МОДА"
+
+STRINGS.UI.FRONTEND.MOD_EVENTS.TOOLTIPS.CANNOT_INSTALL
+"Произошла ошибка при чтении/записи на диск"
+
+STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_AIRFILTER
+""
+"•<indent=20px><link=\"AIRFILTER\">Освежитель воздуха</link> теперь требует <b>5 Вт энергии</b>.</indent>\n"
+"•<indent=20px>Дубликанты будут получать эффект <b>Раздражение глаз</b> от таких газов, как водород и хлор.</indent>"
+
+STRINGS.UI.SPACEARTIFACTS.PLASMALAMP.ARTIFACT
+""
+"В нижней части лампы написано: «Собственность департамента атмосферных исследований».\n"
+"\n"
+"Однажды департамент атмосферных исследований Gravitas проводил эксперимент, проверяя способность к выживанию в среде инертных газов, таких же, какие находятся в этом устройстве."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4PREHISTORICMIXINGFIELD.DESC
+"Астероидное поле, содержащее <link=\"NICKELORE\">никелевую руду</link>, <link=\"PEAT\">торф</link>, <link=\"AMBER\">янтарь</link> и <link=\"SHALE\">сланец</link>.\n"
+"\n"
+"Для <link=\"EXOBASESDLC1\">добычи ресурсов в космосе</link> требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link> и грузовым модулем."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC4PREHISTORICOREFIELD.DESC
+"Добываемые остатки планеты, содержащие <link=\"NICKELORE\">никелевую руду</link>, <link=\"PEAT\">торф</link>, <link=\"AMBER\">янтарь</link> и <link=\"SHALE\">сланец</link>.\n"
+"\n"
+"Для <link=\"EXOBASESDLC1\">добычи ресурсов в космосе</link> требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link> и грузовым модулем."
+
+STRINGS.UI.UISIDESCREENS.LOREBEARERSIDESCREEN.TITLE
+"Архив лора"
+
+STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH3
+""
+"Во время исследования программ в этих обломках, неотразимый файл привлёк моё внимание.\n"
+"\n"
+"Новая запись в базе данных разблокирована."

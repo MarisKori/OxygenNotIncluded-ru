@@ -1,0 +1,107 @@
+STRINGS.BUILDINGS.PREFABS.GLASSCEILINGLIGHT.NAME
+"<link=\"GLASSCEILINGLIGHT\">Медузная люстра</link>"
+
+STRINGS.BUILDINGS.PREFABS.WATERCOOLER.OPTION_TOOLTIPS.INK
+"<link=\"INK\">Чернила кальмара</link>\nГустой тёмный эликсир"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.DESCRIPTION
+"Постройки, хранящие скоропортящуюся <link=\"FOOD\">еду</link> при <link=\"HEAT\">температуре</link>, не дающей ей испортиться."
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.ROOMSREQUIRING
+"    • <link=\"ROOMSFOOD\">Кухня</link>"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.KITCHENREFRIGERATOR.TITLE
+"Холодильник"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SUBMERGIBLE.DESCRIPTION
+"Постройки, которые остаются рабочими и не затопляются, даже будучи погружёнными в жидкость"
+
+STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SUBMERGIBLE.TITLE
+"<link=\"REQUIREMENTCLASSSUBMERGIBLE\">Герметичные устройства</link>"
+
+STRINGS.CREATURES.POOP.PLANT_POOP_STATION_WILD
+"Удобрено"
+
+STRINGS.CREATURES.SPECIES.GEYSER.SMALLREEFGEYSER.LIQUID_CONSUMPTION
+"Потребление: {ElementTypes} {FlowRate}"
+
+STRINGS.CREATURES.SPECIES.TUBEWORM.DESC
+"Трублии — водные организмы, прорастающие в <link=\"HEAT\">горячей</link> жидкой среде.\n\nИх можно собирать ради <link=\"POLYPROPYLENE\">пластика</link>."
+
+STRINGS.CREATURES.STATUSITEMS.DESICCATION.TOOLTIP
+"Это существо не может поддерживать достаточный уровень <style=\"KKeyword\">увлажнения</style>\n\nОно погибнет через {0}, если не окажется погружено в <style=\"KKeyword\">жидкость</style>"
+
+STRINGS.DUPLICANTS.ROLES.EXPERT_SWIMMER.NAME
+"<link=\"SWIMMING2\">Ныряльщик</link>"
+
+STRINGS.DUPLICANTS.ROLES.SWIMMER.NAME
+"<link=\"SWIMMING\">Базовое плавание</link>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING.NAME
+"Навык: <link=\"SWIMMING\">Базовое плавание</link>"
+
+STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_SWIMMING2.NAME
+"Навык: <link=\"SWIMMING2\">Ныряльщик</link>"
+
+STRINGS.ELEMENTS.INK.DESC
+"Чернила кальмара — это сильно пигментированная органическая <link=\"ELEMENTSLIQUID\">жидкость</link>, состоящая из <link=\"MUCUS\">муцина</link>, меланина и <link=\"REFINEDCARBON\">очищенного углерода</link>. Она обладает полезными свойствами поглощения <link=\"RADIATION\">радиации</link>."
+
+STRINGS.ELEMENTS.MUCUS.DESC
+"Муцин — это чрезвычайно вязкий <link=\"ELEMENTSLIQUID\">жидкий</link> гель, состоящий из природных ферментов и полисахаридов.\n"
+"\n"
+"Из-за необычно густой консистенции он может образовывать структуры, нетипичные для большинства жидкостей.""
+""
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.PLASTIC_GASKET.NAME
+"<link=\"PLASTICGASKET\">Пластиковая прокладка</link>"
+
+STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RUBBER_GASKET.NAME
+"<link=\"RUBBERGASKET\">Резиновая прокладка</link>"
+
+STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.CONFLICT_DESCRIPTION
+"<link=\"KITCHENREFRIGERATOR\">Холодильник</link>"
+
+STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.DESCRIPTION
+"Требуется один холодильник или мини-холодильник"
+
+STRINGS.ROOMS.CRITERIA.KITCHENREFRIGERATOR.NAME
+"<link=\"KITCHENREFRIGERATOR\">Холодильник</link>"
+
+STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.CONFLICT_DESCRIPTION
+"<link=\"REQUIREMENTCLASSSUBMERGIBLE\">Герметичные устройства</link>"
+
+STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.DESCRIPTION
+"Может работать, будучи погружённым в жидкость"
+
+STRINGS.ROOMS.CRITERIA.SUBMERGIBLE.NAME
+"<link=\"REQUIREMENTCLASSSUBMERGIBLE\">Герметичные устройства</link>"
+
+STRINGS.UI.CODEX.GEYSERS.DESC
+"Гейзеры и природные источники выделяют ресурсы с различными интервалами. Они обеспечивают стабильное поступление ресурсов или кинетической энергии, хотя, обычно, в небольших количествах.\n"
+"\n"
+"Отличия гейзеров заключаются в следующем:\n"
+"\n"
+"    • Выделяемый ресурс\n"
+"    • Температура ресурса\n"
+"    • Масса ресурса\n"
+"    • Период активности\n"
+"    • Период сна\n"
+"    • Содержание микробов в ресурсе"
+
+STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_PRESSURE
+"Давление газа: {0}"
+
+STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_ATMOSPHERE
+"Среда: {0}"
+
+STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_PRESSURE
+"Давление газа: {0} минимум"
+
+STRINGS.UI.ROLES_SCREEN.PERKS.REDUCE_SALTWATER_SWIMMER_EYE_IRRITATION.DESCRIPTION
+"Повышенная устойчивость к <style=\"KKeyword\">раздражению глаз</style>, вызываемому <style=\"KKeyword\">солёной водой</style>"
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC5AQUATICMIXINGFIELD.NAME
+"Поле цинковой руды"
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC5AQUATICOREFIELD.NAME
+"Поле цинковой руды"

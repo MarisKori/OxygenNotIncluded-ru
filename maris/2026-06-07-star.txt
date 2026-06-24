@@ -1,0 +1,164 @@
+STRINGS.BUILDINGS.PREFABS.MINNOW_IMPERATIVE_POI_A.UI_BUTTON_DISABLE
+"Отключить доставку"
+
+STRINGS.BUILDINGS.PREFABS.MINNOW_IMPERATIVE_POI_A.UI_BUTTON_DISABLE_TOOLTIP
+"Запретить дубликантам доставлять запрошенные предметы"
+
+STRINGS.BUILDINGS.PREFABS.MINNOW_IMPERATIVE_POI_A.UI_BUTTON_ENABLE
+"Включить доставку"
+
+STRINGS.BUILDINGS.PREFABS.MINNOW_IMPERATIVE_POI_A.UI_BUTTON_ENABLE_TOOLTIP
+"Разрешить дубликантам доставлять запрошенные предметы"
+
+STRINGS.BUILDINGS.PREFABS.MINNOW_IMPERATIVE_POI_A.UI_HEADER
+"Меню доставки"
+
+STRINGS.BUILDINGS.PREFABS.RUBBERTILE.DESC
+"Резиновая плитка спроектирована так, чтобы выдерживать повреждения от давления жидкости."
+
+STRINGS.BUILDINGS.PREFABS.RUBBERTILE.EFFECT
+"Используется для строительства стен и полов помещений.\n\nОбеспечивает нескользящую рабочую поверхность и эффективную <link=\"HEAT\">теплоизоляцию</link>."
+
+STRINGS.BUILDINGS.PREFABS.RUBBERTILE.NAME
+"<link=\"RUBBERTILE\">Резиновая плитка</link>"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_A_HIDDEN
+"Нужно больше исследований\n\nПросто продолжай плыть..."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_B_HIDDEN
+"Нужно больше исследований\n\nПросто продолжай плыть..."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C_HIDDEN
+"Нужно больше исследований\n\nПросто продолжай плыть..."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_A_DESCRIPTION
+"Успех! Дубликанты собрали {AMOUNT1} жемчуга, чтобы предложить нашей возможной будущей соратнице.\n\nТеперь у нас есть {AMOUNT2} новых прокладок, которые можно использовать по необходимости."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_B_DESCRIPTION
+"Успех! Мы приготовили {AMOUNT1} суши, чтобы поделиться с выжившим дубликантом в знак доброй воли.\n\nТеперь у нас есть {AMOUNT2} новых прокладок, которые можно использовать по необходимости."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_COMPLETE_POI_C_DESCRIPTION
+"Успех! Мы добыли {AMOUNT1} чёрной икры, чтобы предложить нашей плескучей соседке.\n\nТеперь у нас есть {AMOUNT2} новых прокладок, которые можно использовать по необходимости."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_A_DESCRIPTION
+"Дубликанты нашли выжившую в рифовом биоме. Её заворожили тискушки, и она предложила нам {AMOUNT1} прокладку и 2 семени вытяжного коралла в обмен на {AMOUNT2} жемчуга.\n\nЧтобы сдержать слово, нужно разрешить доставку."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_B_DESCRIPTION
+"Дубликанты нашли выжившую в лесном биоме ламинарий. Она, кажется, проголодалась.\n\nДубликанты предложили обменять {AMOUNT1} наших суши на {AMOUNT2} прокладку и 2 семени камедной пальмы, и она согласилась.\n\nЧтобы посылка дошла до неё, нужно разрешить доставку."
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_C_DESCRIPTION
+"Дубликанты нашли выжившую в биоме бездны. Она наблюдала за нашими механизмами, и особенно её заинтересовала чёрная икра.\n\nМы договорились обменять {AMOUNT1} чёрной икры на {AMOUNT2} прокладку.\n\nЧтобы выполнить сделку, нужно разрешить доставку."
+
+STRINGS.CREATURES.SPECIES.LIGHTBUG.DESC
+"Светлячки испускают мягкий <link=\"LIGHT\">свет</link>, когда <link=\"CREATURES::GUIDE::MOOD\">счастливы</link>, в надежде привлечь больше своего семейства для компании.\n\nВ их яйцах содержится немного <link=\"NATURALRESIN\">смолы</link>, которую можно собрать с помощью <link=\"EGGCRACKER\">раскольщика яиц</link>."
+
+STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.DESC
+"Лазурные светлячки испускают мягкий голубой <link=\"LIGHT\">свет</link>, когда <link=\"CREATURES::GUIDE::MOOD\">счастливы</link>, в надежде привлечь больше своего семейства для компании.\n\nВ их яйцах содержится немного <link=\"NATURALRESIN\">смолы</link>, которую можно собрать с помощью <link=\"EGGCRACKER\">раскольщика яиц</link>."
+
+STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.DESC
+"Лучезарные светлячки испускают сверхяркий <link=\"LIGHT\">свет</link>, когда <link=\"CREATURES::GUIDE::MOOD\">счастливы</link>, в надежде привлечь больше своего семейства для компании.\n\nВ их яйцах содержится немного <link=\"NATURALRESIN\">смолы</link>, которую можно собрать с помощью <link=\"EGGCRACKER\">раскольщика яиц</link>."
+
+STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.DESC
+"Солнечные светлячки испускают мягкий оранжевый <link=\"LIGHT\">свет</link>, когда <link=\"CREATURES::GUIDE::MOOD\">счастливы</link>, в надежде привлечь больше своего семейства для компании.\n\nВ их яйцах содержится немного <link=\"NATURALRESIN\">смолы</link>, которую можно собрать с помощью <link=\"EGGCRACKER\">раскольщика яиц</link>."
+
+STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.DESC
+"Коралловые светлячки испускают мягкий розовый <link=\"LIGHT\">свет</link>, когда <link=\"CREATURES::GUIDE::MOOD\">счастливы</link>, в надежде привлечь больше своего семейства для компании.\n\nВ их яйцах содержится немного <link=\"NATURALRESIN\">смолы</link>, которую можно собрать с помощью <link=\"EGGCRACKER\">раскольщика яиц</link>."
+
+STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.DESC
+"Королевские светлячки испускают мягкий фиолетовый <link=\"LIGHT\">свет</link>, когда <link=\"CREATURES::GUIDE::MOOD\">счастливы</link>, в надежде привлечь больше своего семейства для компании.\n\nВ их яйцах содержится немного <link=\"NATURALRESIN\">смолы</link>, которую можно собрать с помощью <link=\"EGGCRACKER\">раскольщика яиц</link>."
+
+STRINGS.CREATURES.SPECIES.PARROTFISH.DESC
+"Светоклювы — водные существа, которые лакомятся <link=\"PHOSPHORITE\">фосфоритом</link> и <link=\"PLANKTONCORAL\">звёздными кораллами</link> и выделяют <link=\"LIME\">известь</link>.\n\nКогда они <link=\"CREATURES::GUIDE::MOOD\">счастливы</link>, то производят <link=\"LIGHT\">свет</link>, а ещё любят потреблять <link=\"OXYGEN\">кислород</link>."
+
+STRINGS.CREATURES.SPECIES.SEATURTLE.DESC
+"Рудопахи — застенчивые водные существа, которые питаются <link=\"SEAFAIRYSPECIES\">ламинастиками</link> и выделяют <link=\"TOXICSAND\">загрязнённую землю</link>.\n\nИх можно стричь для получения <link=\"IRONORE\">железной руды</link>."
+
+STRINGS.CREATURES.STATS.HAPPINESS.TOOLTIP_LUX
+"Высокое <style=\"KKeyword\">счастье</style> повышает производительность существа и позволяет ему производить <style=\"KKeyword\">свет</style>\n\nЭто также косвенно улучшает скорость кладки <style=\"KKeyword\">яиц</style>"
+
+STRINGS.CREATURES.STATUSITEMS.PUNCH_CLAM_APPROACH.NAME
+"Направляется к тискушке"
+
+STRINGS.CREATURES.STATUSITEMS.PUNCH_CLAM_APPROACH.TOOLTIP
+"Это существо собирается исследовать закрытую <style=\"KKeyword\">тискушку</style>\n\nЧто же прячет это растение?"
+
+STRINGS.CREATURES.STATUSITEMS.PUNCH_CLAM_ATTACK.NAME
+"Атакует тискушку"
+
+STRINGS.CREATURES.STATUSITEMS.PUNCH_CLAM_ATTACK.TOOLTIP
+"Это существо атакует закрытую <style=\"KKeyword\">тискушку</style>\n\nОно не любит, когда что-то прячут"
+
+STRINGS.CREATURES.STATUSITEMS.UNDERWATERCRITTERCONDO.INTERACTING.TOOLTIP
+"Это животное отдыхает в подводном домике\n\nБудто небольшой отпуск!"
+
+STRINGS.CREATURES.STATUSITEMS.UNDERWATERCRITTERCONDO.MOVINGTO.NAME
+"Занимает подводный домик"
+
+STRINGS.CREATURES.STATUSITEMS.UNDERWATERCRITTERCONDO.MOVINGTO.TOOLTIP
+"Это существо направляется в незанятый <color=#C38802>подводный домик</color>"
+
+STRINGS.DUPLICANTS.MODIFIERS.NEARDEATHEXPERIENCE.NAME
+"Околосмертный опыт"
+
+STRINGS.DUPLICANTS.MODIFIERS.NEARDEATHEXPERIENCE.TOOLTIP
+"Этот дубликант недавно пришёл в себя после потери сознания\n\nЭто было крайне тревожно"
+
+STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP
+"Дубликант без <color=#C38802>запаса дыхания</color> потеряет сознание и умрёт, если его не спасти.\n\nДубликанты могут увеличить свой <style=\"KKeyword\">максимальный запас дыхания</style>, освоив навык <style=\"KKeyword\">базовое плавание</style>."
+
+STRINGS.EQUIPMENT.PREFABS.DRYSUIT.RECIPE_DESC_DLC3
+"Защищает носителя от эффектов <style=\"KKeyword\">мокрых ног</style> и <style=\"KKeyword\">промокания</style>.\n\nПозволяет бионическим дубликантам пересекать водоёмы глубиной до пояса без урона от <style=\"KKeyword\">воздействия жидкости</style>."
+
+STRINGS.EQUIPMENT.PREFABS.RUBBERBOOTS.EFFECT_DLC3
+"Защищает носителя от <style=\"KKeyword\">мокрых ног</style> и <style=\"KKeyword\">скользких</style> полов.\n\nПозволяет бионическим дубликантам пересекать небольшие лужи без урона от <style=\"KKeyword\">воздействия жидкости</style>."
+
+STRINGS.EQUIPMENT.PREFABS.RUBBERBOOTS.RECIPE_DESC_DLC3
+"Защищает носителя от <style=\"KKeyword\">мокрых ног</style> и <style=\"KKeyword\">скользких</style> полов.\n\nПозволяет бионическим дубликантам пересекать небольшие лужи без урона от <style=\"KKeyword\">воздействия жидкости</style>."
+
+STRINGS.MISC.STATUSITEMS.MINNOWPOIDEHYDRATEDSTATUS.NAME
+"Недостаточно жидкости"
+
+STRINGS.MISC.STATUSITEMS.MINNOWPOIDEHYDRATEDSTATUS.TOOLTIP
+"Когда-то эту область занимал водоём с <style=\"KKeyword\">жидкостью</style>, где обитал неизвестный выживший дубликант\n\nЕё обитатель вернётся, когда область будет достаточно затоплена"
+
+STRINGS.MISC.STATUSITEMS.MINNOWPOIDELIVERYPENDING.NAME
+"Ожидание доставки"
+
+STRINGS.MISC.STATUSITEMS.MINNOWPOIDELIVERYPENDING.TOOLTIP
+"Обитатель этого места терпеливо ожидает доставки"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.RUBBER_BOOTS.DESC
+"Позволяет изготавливать <style=\"KKeyword\">резиновые сапоги</style> на <link=\"CLOTHINGFABRICATOR\">ткацком станке</link>"
+
+STRINGS.ROOMS.TYPES.CREATUREPEN.TOOLTIP
+"Позволяет использовать наземные и подводные <color=#C38802>станции ухода</color>, <color=#C38802>домики для животных</color>, <color=#C38802>поилки</color>, <color=#C38802>станции стрижки</color> и <color=#C38802>станции доения</color>"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNDERWATERVENT_SHEARING
+"Этот источник производит {0}, что можно добывать с помощью <link=\"UNDERWATERVENTDRILL\">морского бура</link>"
+
+STRINGS.UI.BUILDINGEFFECTS.UNDERWATERVENT_SHEARING
+"Накопление <link=\"SULFUR\">серы</link>: {0}"
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_PURCHASE_LABEL
+"Уже доступно"
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_PURCHASE_TOOLTIP
+"<color=#ffff00ff><b>Щёлкните для просмотра этого DLC в магазине</b></color>"
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_WISHLIST_LABEL
+"В список желаемого"
+
+STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_WISHLIST_TOOLTIP
+"<color=#ffff00ff><b>Щёлкните для просмотра этого DLC в магазине</b></color>"
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC5AQUATICMIXINGFIELD.DESC
+"Пригодные для добычи останки планеты, содержащие <link=\"ZINCORE\">цинковую руду</link>, <link=\"SILTSTONE\">алевролит</link>, <link=\"COQUINA\">ракушечник</link>, <link=\"CORALLIUM\">кораллий</link> и <link=\"BASALT\">базальт</link>.\n\nДля <link=\"EXOBASESDLC1\">космической добычи</link> требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link> и грузовым модулем."
+
+STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.DLC5AQUATICOREFIELD.DESC
+"Пригодные для добычи останки планеты, содержащие <link=\"ZINCORE\">цинковую руду</link>, <link=\"SILTSTONE\">алевролит</link>, <link=\"COQUINA\">ракушечник</link>, <link=\"CORALLIUM\">кораллий</link> и <link=\"BASALT\">базальт</link>.\n\nДля <link=\"EXOBASESDLC1\">космической добычи</link> требуется ракета, оснащённая <link=\"NOSECONEHARVEST\">буровым обтекателем</link> и грузовым модулем."
+
+STRINGS.UI.SPACEDESTINATIONS.PLANETS.DLC5AQUATICSPACEDESCRIPTION.DESCRIPTION
+"Останки водного мира, состоящего преимущественно из пригодных для добычи кораллия, ракушечника и цинковой руды."
+
+STRINGS.UI.SPACEDESTINATIONS.PLANETS.DLC5AQUATICSPACEDESCRIPTION.NAME
+"Вымерший океан"

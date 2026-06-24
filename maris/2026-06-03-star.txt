@@ -1,0 +1,135 @@
+STRINGS.BLUEPRINTS.PERMIT_HQBASE_AQUATIC.DESC
+"Вид у него такой, будто он несколько лет ржавел на подводной научной базе."
+
+STRINGS.BLUEPRINTS.PERMIT_HQBASE_AQUATIC.NAME
+"<link=\"HEADQUARTERS\">Аквариусный биопринтер</link>"
+
+STRINGS.BUILDING.STATUSITEMS.COLONYLACKSDUPEWITHMULTISKILLPERK.TOOLTIP_DLC3
+"В колонии отсутствует дубликант, обладающий всеми этими навыками:\n"
+" {Skills} \n"
+"или {Boosters}\n"
+"\n"
+"Откройте <b>панель навыков</b> {Hotkey/ManageSkills}, чтобы обучить дубликанта навыкам или назначить ему усилители"
+
+STRINGS.BUILDINGS.PREFABS.ADVANCEDCRAFTINGTABLE.BIONIC_OVERCLOCK_RECIPE_DESC
+"Превращает {0} в {1}\n\n!! <b>ВНИМАНИЕ: РИСК ПОВРЕЖДЕНИЯ СИСТЕМЫ !!</b>"
+
+STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.LOGIC_INPUT.DESC
+"Включить/выключить"
+
+STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.LOGIC_INPUT.LOGIC_PORT_ACTIVE
+"<b><style=\"logic_on\">Зелёный сигнал</style></b>: разрешить выпуск рыбы"
+
+STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.LOGIC_INPUT.LOGIC_PORT_INACTIVE
+"<b><style=\"logic_off\">Красный сигнал</style></b>: запретить выпуск рыбы"
+
+STRINGS.CODEX.FISHFOOD.BODY.CONTAINER1
+"<smallcaps>На изображении: лакомство для паку</smallcaps>"
+
+STRINGS.CODEX.FISHFOOD.BODY.CONTAINER2
+"Изысканный брикет из молотых семян и <link=\"WATER\">воды</link>, созданный на радость <link=\"PACU\">паку</link>."
+
+STRINGS.CODEX.FISHFOOD.SUBTITLE
+"Корм для рыб"
+
+STRINGS.CODEX.FISHFOOD.TITLE
+"Лакомство для паку"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_A
+"Добыть и доставить жемчуг выжившему дубликанту в рифовом биоме"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_A_HIDDEN
+"Требование станет видимым после обнаружения"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_B
+"Приготовить и доставить суши выжившему дубликанту в лесу ламинарий"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_B_HIDDEN
+"Требование станет видимым после обнаружения"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C
+"Добыть и доставить чернила кальмара выжившему дубликанту в биоме бездны"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_DESCRIPTION_C_HIDDEN
+"Требование станет видимым после обнаружения"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_A_HIDDEN
+"Неизвестное требование"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_B
+"Доставить суши ({AMOUNT})"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_B_HIDDEN
+"Неизвестное требование"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.ACHIEVEMENTS.REQUIREMENT_NAME_C_HIDDEN
+"Неизвестное требование"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.NAME
+"В поисках Минноу"
+
+STRINGS.COLONY_ACHIEVEMENTS.FINDING_MINNOW.POPUPS.POPUP_START_POI_B_DESCRIPTION
+"Дубликанты нашли выжившую в лесном биоме ламинарий. Она, кажется, проголодалась. Дубликанты предложили обменять [AMOUNT1] наших суши на [AMOUNT2] прокладку, и она согласилась.\n\nЧтобы посылка дошла до неё, нужно разрешить доставку."
+
+STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.WINCONDITION_AQUATIC
+"В поисках Минноу"
+
+STRINGS.CREATURES.SPECIES.CLAM.DESC
+"Тискушки — водные двустворчатые моллюски, превращающие <link=\"SAND\">песок</link> в <link=\"PEARL\">жемчуг</link>.\n\nИз-за своего размера их можно сажать только в <link=\"WIDEFARMTILE\">широкую гидропонную ферму</link>."
+
+STRINGS.CREATURES.SPECIES.DEWPALM.DESC
+"С камедных пальм можно собирать <link=\"PALMWOOD\">камедную древесину</link>, которую можно переработать в <link=\"LATEX\">латекс</link> в <link=\"MILKPRESS\">механической ступке</link>.\n\nИз-за своего размера их можно сажать только в <link=\"WIDEFARMTILE\">широкую гидропонную ферму</link>."
+
+STRINGS.CREATURES.SPECIES.OXYCORAL.DESC
+"Вытяжные кораллы — водные организмы, использующие <link=\"LIGHT\">свет</link> для выработки <link=\"OXYGEN\">кислорода</link>.\n\nИз-за своего размера их можно сажать только в <link=\"WIDEFARMTILE\">широкую гидропонную ферму</link>."
+
+STRINGS.CREATURES.SPECIES.SQUID.DESC
+"Мерцающие кальмары — неагрессивные существа, если рядом нет их яиц.\n\nОни питаются <link=\"TUBEWORM\">трублией</link> и выделяют <link=\"KATAIRITE\">абиссалит</link>.\n\nИх можно доить, получая <link=\"INK\">чернила кальмара</link>."
+
+STRINGS.CREATURES.SPECIES.SQUID.INK_PUNCH
+"Чернильный выстрел"
+
+STRINGS.CREATURES.STATS.SCALEGROWTH.IRON
+"Рост руды"
+
+STRINGS.CREATURES.STATUSITEMS.BUBBLEGASPRODUCTION.NAME
+"    • Производит: {ELEMENT} {RATE}"
+
+STRINGS.CREATURES.STATUSITEMS.INKFULL.NAME
+"Готов к доению"
+
+STRINGS.CREATURES.STATUSITEMS.INKFULL.TOOLTIP
+"Это существо полно <style=\"KKeyword\">чернил кальмара</style> и готово к доению"
+
+STRINGS.CREATURES.STATUSITEMS.SPORTHUNT.POPFX
+"Прореживание"
+
+STRINGS.CREATURES.STATUSITEMS.SPORTHUNT_ACTIVE.NAME
+"Теснота: прореживание"
+
+STRINGS.CREATURES.STATUSITEMS.SPORTHUNT_ACTIVE.TOOLTIP
+"Это существо сокращает количество существ на своей территории.\n\nОно прореживает только существ других видов."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_MOD_SWIM.DESC
+"Отключает протоколы безопасности бионического дубликанта, позволяя ему плавать.\n\n<b>ВНИМАНИЕ:</b>\nИспользование создаёт нагрузку на бионические системы и не защищает от контакта с жидкостью."
+
+STRINGS.ITEMS.BIONIC_BOOSTERS.BOOSTER_MOD_SWIM.NAME
+"<link=\"BOOSTERMODSWIM\">Усилитель плавания</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.BOOSTER_MOD_SWIM.DESC
+"Позволяет изготавливать <style=\"KKeyword\">усилитель плавания</style> для бионических дубликантов на <link=\"ADVANCEDCRAFTINGTABLE\">паяльной станции</link>"
+
+STRINGS.RESEARCH.OTHER_TECH_ITEMS.BOOSTER_MOD_SWIM.NAME
+"<link=\"BOOSTERMODSWIM\">Усилитель плавания</link>"
+
+STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.UNDERWATER_DRILL_DIAMOND_CONSUMPTION
+"Для работы этой постройке нужен <style=\"KKeyword\">алмаз</style>, который расходуется со скоростью {Rate} во время использования"
+
+STRINGS.UI.BUILDINGEFFECTS.UNDERWATER_DRILL_DIAMOND_CONSUMPTION
+"<link=\"DIAMOND\">Алмаз</link>: {Rate}"
+
+STRINGS.UI.UISIDESCREENS.BIONIC_SIDE_SCREEN.BOOSTER_ASSIGNMENT.HEADER_ATTRIBUTES
+"<b>Модификаторы:</b>"
+
+STRINGS.UI.WELCOMEMESSAGEBODY_DLC5_AQUATIC
+"Этот астероид подвергся сильному затоплению. Сканирование показало следы прежней группы исследователей, но... уцелел лишь один из них.\n\nКрайне важно найти и завербовать выжившего в мою колонию. Его адаптации вполне могут стать ключом к покорению глубин этого затопленного мира."
